@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Thu, 24 Mar 2022 01:13:27 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>shared a link.
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Thu, 24 Mar 2022 02:59:06 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>shared a link.
 December 15, 2021 at 9:45</title><link>https://facebook.com/616369245163622/posts/2546568132143714</link><description>Triton Ho shared a link.
 December 15, 2021 at 9:45 AM ·
 &gt;根據《華盛頓郵報》報導指出，在華為官網流出多達百份等級為「機密」的 PowerPoint… More 檔案文件中，含有大量該公司與中國政府監控政策相關聯的檔案，尤其是針對新疆地區的管控，同時也參與了勞改與再教育營的相關建設，又進一步證明了中國政府對於新疆人民的迫害。而這些檔案中更有一份檔案提到「華為的產品就是智慧監獄平台的基礎。」
@@ -20,25 +20,10 @@ Commenting has bee
 https://facebook.com/616369245163622/posts/2546568132143714
 
 ['https://inside-assets1.inside.com.tw/2021/12/0905bb7b-6bae-4a0f-b251-25272dbd5a18.jpg?w=1200&amp;h=630&amp;fit=crop&amp;q=80']
-</description><author></author><pubDate>Wed, 15 Dec 2021 17:45:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2546568132143714</guid></item><item><title>hared a post.
-13 hrs ·
-推薦自動化監控網站運行服務 - G</title><link>https://facebook.com/616369245163622/posts/2626279487505911</link><description>Bo-Yi Wu shared a post.
-13 hrs ·
-推薦自動化監控網站運行服務 - Gatus
-什麼是 Gatus
-Gatus 提供一個輕量的監控服務健康網頁，讓開發者透過簡單的 HTTP, ICMP, TCP 等 Protocol 來監控服務狀況，並且根據網頁回應的… More Status Code 或 Response time 及 Body 內容來決定網站是否健康，如果發生異常，可以設定不同的 Alert 像是 Slack, Email, Teams, Discord 或 Telegram 等常用的即時軟體。可以參考此連結看看 Dashboard 實際狀況。
-為什麼選擇 Gatus
-官方其實已經寫的很清楚
-Why would I use Gatus when I can just use Prometheus, Alertmanager, Cloudwatch or even Splunk?
-第一點各位開發者可以想看看，如何監控整個服務的狀況，而不是等到客戶遇到問題，你才知道狀況的發生。而 Gatus 可以從客戶角度對每個功能進行配置檢查，團隊可以根據重要的服務或
-
-https://facebook.com/616369245163622/posts/2626279487505911
-
-['https://i.imgur.com/duUxnBC.jpg']
-</description><author></author><pubDate>Wed, 23 Mar 2022 11:22:36 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626279487505911</guid></item><item><title>shared a link.
-6 hrs ·
+</description><author></author><pubDate>Wed, 15 Dec 2021 17:45:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2546568132143714</guid></item><item><title>shared a link.
+8 hrs ·
 #徵才 #後端工程師 #DevOp</title><link>https://facebook.com/616369245163622/posts/2626494974151029</link><description>Leo Zhang shared a link.
-6 hrs ·
+8 hrs ·
 #徵才 #後端工程師 #DevOps工程師 #遠端工作 #百萬年薪
 大家好，我是 imBee 的 Leo，現在公司達到Pre-A輪的階段，正在擴編後端團隊，來應付上升的業務量以及迭代產品的legacy code。
 … More主要將會以 PHP + TypeScript + AWS 的方式來作為專案開發，以下是關於職缺跟公司的一些內容，歡迎投遞履歷，有任何問題也可以私訊我，感謝～
@@ -57,30 +42,11 @@ UI/UX Designer *
 https://facebook.com/616369245163622/posts/2626494974151029
 
 ['https://media.cakeresume.com/image/upload/s--3SVfqwSp--/c_fill,h_627,w_1200/v1609945362/do2nb8iokgmjrtejopbh.jpg']
-</description><author></author><pubDate>Wed, 23 Mar 2022 18:18:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626494974151029</guid></item><item><title>hared a photo.
-6 hrs ·
-招式的最高境界，是在對方出招之前就</title><link>https://facebook.com/616369245163622/posts/2626508410816352</link><description>Fin Chen shared a photo.
-6 hrs ·
-招式的最高境界，是在對方出招之前就先行化解
-回答問題的最高境界，就是在對方問問題之前就先丟給他常見問答集
-因此我們寫了一篇『團隊使用手冊』，除了讓大家能更清楚我們是誰我們在做什麼之外，也希望能找到志同道合的夥伴一起共事 ：）
-補上職缺及薪資範圍：
-資料科學工程師 60 - 100k
-產品開發工程師 60 - 100k
-網頁開發雜記
-17 hrs ·
-這陣子面試了不少人，其中不乏許多優秀的人才。但多數人在被問到『是否有什麼地方想了解的？職缺上有沒有不清楚的地方？』，答案都是簡短的『沒有』、『我覺得很清楚』。
-… More 身為徵才方，當下常常會有一種『難道我們就這麼沒吸引力，不值得更多討論』的失落。認真的與團隊針對人選提問過少的問題做了一番探究，可能性之一是人選也沒有足夠的資訊，自然沒辦法做出太有品質的提問。為此，我們決定把團隊的資訊寫的更完整，希望能透過這份手冊更了解我們。最希望工程師看的是，我們增加了一個『常見問題集』蒐集了一些我們比較常被問到、或是很值得跟人分享的資訊。
-團隊使用手冊在這： https://youra
-
-https://facebook.com/616369245163622/posts/2626508410816352
-
-None
-</description><author></author><pubDate>Wed, 23 Mar 2022 18:43:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626508410816352</guid></item><item><title>shared a link.
-10 hrs ·
+</description><author></author><pubDate>Wed, 23 Mar 2022 18:18:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626494974151029</guid></item><item><title>shared a link.
+12 hrs ·
 #徵才
 嗨，我們是 DEVCOR</title><link>https://facebook.com/616369245163622/posts/2626379630829230</link><description>Inndy Lin shared a link.
-10 hrs ·
+12 hrs ·
 #徵才
 嗨，我們是 DEVCORE，台灣紅隊演練領導品牌，我們正在招募紅隊武器開發工程師，希望能夠找到熟悉 Network Programming 的朋友加入，一起打造我們專屬的紅隊武器！我們目前開發主力使用 Golang,… More C, C-sharp, Python, Vue.js，預期你加入後會使用 Golang 一起開發與擴充現有工具，若有其他專長我們也非常歡迎。以下是職缺條件以及薪資福利：
 ⭐ 薪資福利
@@ -97,7 +63,41 @@ None
 https://facebook.com/616369245163622/posts/2626379630829230
 
 ['https://devco.re/assets/themes/devcore-v2/images/recruit-cover-mobile.jpg']
-</description><author></author><pubDate>Wed, 23 Mar 2022 14:41:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626379630829230</guid></item><item><title>ackend 台灣 (Backend Tw)
+</description><author></author><pubDate>Wed, 23 Mar 2022 14:41:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626379630829230</guid></item><item><title>hared a post.
+15 hrs ·
+推薦自動化監控網站運行服務 - G</title><link>https://facebook.com/616369245163622/posts/2626279487505911</link><description>Bo-Yi Wu shared a post.
+15 hrs ·
+推薦自動化監控網站運行服務 - Gatus
+什麼是 Gatus
+Gatus 提供一個輕量的監控服務健康網頁，讓開發者透過簡單的 HTTP, ICMP, TCP 等 Protocol 來監控服務狀況，並且根據網頁回應的… More Status Code 或 Response time 及 Body 內容來決定網站是否健康，如果發生異常，可以設定不同的 Alert 像是 Slack, Email, Teams, Discord 或 Telegram 等常用的即時軟體。可以參考此連結看看 Dashboard 實際狀況。
+為什麼選擇 Gatus
+官方其實已經寫的很清楚
+Why would I use Gatus when I can just use Prometheus, Alertmanager, Cloudwatch or even Splunk?
+第一點各位開發者可以想看看，如何監控整個服務的狀況，而不是等到客戶遇到問題，你才知道狀況的發生。而 Gatus 可以從客戶角度對每個功能進行配置檢查，團隊可以根據重要的服務或
+
+https://facebook.com/616369245163622/posts/2626279487505911
+
+['https://i.imgur.com/duUxnBC.jpg']
+</description><author></author><pubDate>Wed, 23 Mar 2022 11:22:36 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626279487505911</guid></item><item><title>hared a photo.
+8 hrs ·
+招式的最高境界，是在對方出招之前就</title><link>https://facebook.com/616369245163622/posts/2626508410816352</link><description>Fin Chen shared a photo.
+8 hrs ·
+招式的最高境界，是在對方出招之前就先行化解
+回答問題的最高境界，就是在對方問問題之前就先丟給他常見問答集
+因此我們寫了一篇『團隊使用手冊』，除了讓大家能更清楚我們是誰我們在做什麼之外，也希望能找到志同道合的夥伴一起共事 ：）
+補上職缺及薪資範圍：
+資料科學工程師 60 - 100k
+產品開發工程師 60 - 100k
+網頁開發雜記
+19 hrs ·
+這陣子面試了不少人，其中不乏許多優秀的人才。但多數人在被問到『是否有什麼地方想了解的？職缺上有沒有不清楚的地方？』，答案都是簡短的『沒有』、『我覺得很清楚』。
+… More 身為徵才方，當下常常會有一種『難道我們就這麼沒吸引力，不值得更多討論』的失落。認真的與團隊針對人選提問過少的問題做了一番探究，可能性之一是人選也沒有足夠的資訊，自然沒辦法做出太有品質的提問。為此，我們決定把團隊的資訊寫的更完整，希望能透過這份手冊更了解我們。最希望工程師看的是，我們增加了一個『常見問題集』蒐集了一些我們比較常被問到、或是很值得跟人分享的資訊。
+團隊使用手冊在這： https://youra
+
+https://facebook.com/616369245163622/posts/2626508410816352
+
+None
+</description><author></author><pubDate>Wed, 23 Mar 2022 18:43:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626508410816352</guid></item><item><title>ackend 台灣 (Backend Tw)
 Yesterday at 8:28</title><link>https://facebook.com/616369245163622/posts/2625646487569211</link><description>Alvis Yu‎Backend 台灣 (Backend Tw)
 Yesterday at 8:28 AM ·
 #全遠端 #台灣職缺 #破2百萬年薪 #EnglishJDs #2Mjob
@@ -381,7 +381,7 @@ March 15 at 4:49 PM ·
 
 https://facebook.com/616369245163622/posts/2620084708125389
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5094738763923290&amp;h=AT235OeSw4G4byQEmUPzoW22Sq87Ien2FbMmtPp-V1rmqLV5Cr3cGknAHrdCBfMBPQVw4Tzk5xG27u2QoPgvUYVRsUnM1LotT7gokXHxTwWtwskeeWUPEBFaXz2KT2QPzIABZ2sQweZz_Iiwbz7OT5K3SjT2aZ-Helw']
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5094738763923290&amp;h=AT2eA1Y5AgpkNBVMDbssoG3-jpAxADQjO0mANwyltlS5Y8NJcBMC7gYV5PchqtvUsLkCQ2wWQ6pBxJL73enNGQHI6mroY5rBxB7OUfslQTeZiyCET6r3_qtBTcQOZdClFdHG7FEuqe3GmE0IugajM3g_yaigsoSW4EQ']
 </description><author></author><pubDate>Tue, 15 Mar 2022 21:33:12 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2620084708125389</guid></item><item><title>ared a post.
 March 16 at 6:56 AM ·
 Ray T</title><link>https://facebook.com/616369245163622/posts/2620668284733698</link><description>SK Yang shared a post.
@@ -405,7 +405,7 @@ Loadi
 
 https://facebook.com/616369245163622/posts/2620668284733698
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5094738763923290&amp;h=AT2qSzrZIzA0YNoHjNLaXtYUO25NkAtmGAdJa4WvuD4C6DrNuHzijeW-rVRIe5u-hd95piHxo0YH_vBBc06GU-U-_9R5EcuXQtZ-FfFIxwzbsisZaa1asc2JtbAH8REbH79Ptd8eFisGj16KbjoAOQYmm13_EAKCG4I']
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5094738763923290&amp;h=AT3ziIzS9PLvR4PADmNT62TpycqMzf5dsRkKY_EC_AoEVhqy6NUCknHBVZ3QN34bxnPlMzR_Vyq1B7cgFhfU5s5DUoQ6gJ1Ho4bGn0gsHlFz-tZhOxHWoJLY_B8t9A2kwKMI_c4UFK3k8X4mZR15G1wTVz6Iuv9rZLU']
 </description><author></author><pubDate>Wed, 16 Mar 2022 14:56:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2620668284733698</guid></item><item><title>an‎Laravel 台灣
 January 8, 2021 at 6:36 AM</title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>Shengyou Fan‎Laravel 台灣
 January 8, 2021 at 6:36 AM ·
@@ -429,18 +429,18 @@ https://facebook.com/498481680220886/posts/3579398352129188
 
 ['https://docs.master.co/assets/images/syntax-cover.jpg']
 </description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title>hared a post.
-9 hrs ·
-把 CSS 直接寫在 class="</title><link>https://facebook.com/498481680220886/posts/4912002768868733</link><description>Aron Liu shared a post.
-9 hrs ·
+11 hrs ·
+把 CSS 直接寫在 class=</title><link>https://facebook.com/498481680220886/posts/4912002768868733</link><description>Aron Liu shared a post.
+11 hrs ·
 把 CSS 直接寫在 class="..." 真的有這麼糟嗎？還是有其他語法糖可以吃？
 DOCS.MASTER.CO
 Using familiar CSS syntax in class="..." - Master Styles
 We've designed a simple, systematic class syntax based on CSS, while also providing intuitive shorthands to speed up and shorten your code.
 Master
-10 hrs ·
+12 hrs ·
 任何你想得到的 CSS 都可以直接寫在 class="font:blue:hover@md ..."：
 shorthands, units, selectors, functions, colors,… More breakpoints, media queries, color schemes ...
-⭐️ 餵我一顆 Github 星星：https://github.com/master
+⭐️ 餵我一顆 Github 星星：https://github.com/maste
 
 https://facebook.com/498481680220886/posts/4912002768868733
 
@@ -469,10 +469,10 @@ Show more reactions
 Share
 Commenting has been turned off for this post.
 Prisom Technology LLP shared a post.
-12 hrs ·
+13 hrs ·
 https://www.facebook.com/prisomtechnology/posts/981934682715085
 Prisom Technology LLP
-13 hrs ·
+14 hrs ·
 ना पूछो जमाने को कया हमारी कहानी है हमारी पहचान तो सिर्फ ये है की हम सिर्फ हिंदुस्तानी है !
 #ShaheedDiwas #… MoreShahee
 
@@ -480,12 +480,12 @@ https://facebook.com/498481680220886/posts/4859324074136603
 
 None
 </description><author></author><pubDate>Thu, 03 Mar 2022 17:42:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4859324074136603</guid></item><item><title>hnology LLP shared a post.
-12 hrs ·
+13 hrs ·
 http</title><link>https://facebook.com/498481680220886/posts/4911785242223819</link><description>Prisom Technology LLP shared a post.
-12 hrs ·
+13 hrs ·
 https://www.facebook.com/prisomtechnology/posts/981934682715085
 Prisom Technology LLP
-13 hrs ·
+14 hrs ·
 ना पूछो जमाने को कया हमारी कहानी है हमारी पहचान तो सिर्फ ये है की हम सिर्फ हिंदुस्तानी है !
 #ShaheedDiwas #… MoreShaheedDiwas #ShaheedDiwasInIndia #ShaheedDiwas23March #ShaheedDiwas2022 #india #indianarmy #jaihind #indiannavy #army #bharat #hindustan #vandemataram #prisom #prisomtechnologyllp
 Like
@@ -548,7 +548,7 @@ March 10 at 12:27 PM ·
 
 https://facebook.com/498481680220886/posts/4878728852196125
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT1CGhYmtkyBL6Z_Skvt21Ue8US0PRO2pp2wWQHnV5h9puMFwTdKOwtAqq3clVHKCn-V-4l53WpJvua4N6vFvFVIagIIMW-pyp1XPLuZjP6gf2dtOctWXpsnVAyM07KKrinZVfzdPetKo93FVUr6TJrmPa4YraWO8ls', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT3m6w7qwA_ZnlNY_TzK9LNBvjP179gXDRe5ber_G8ENyNSreeyFRsvE3D-DurtLNqCJkGqxE0t7QqOaFCODPXvvO1y5uaDwfvq8WI2nVD9uzWc8T-hZlskMbJLsbM0D9WofNf6DXnR5xIcGDnQyE2YfRYNTOUPGXvw', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
 </description><author></author><pubDate>Thu, 10 Mar 2022 22:55:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4878728852196125</guid></item><item><title> shared a link.
 March 15 at 8:23 AM ·
 嗨大</title><link>https://facebook.com/498481680220886/posts/4891308100938200</link><description>Kitty Tsai shared a link.
@@ -562,7 +562,7 @@ Mlytics 是創立於2017 年的純軟體新創公司，旨在為所有使用者�
 
 https://facebook.com/498481680220886/posts/4891308100938200
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT2s-wxuYRZoeUymbuo5FzSEFNC2w_B_Sypp1oRUiOiCgWUc6xY7q1h4EmArgtPtu3FVYKAiqmt8iEU8cmJj7fQhfdIgJIpiPS0Z-48XdIj1S-Zz8-BhRoCb44TGXtyALve5NfGmN-g1SL1DeHiSE6d1rWxDeURfvU8', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT1GbBUpPQXIZ_OcBV4GC4aWGExoc8jDGT6NkHZwAruUm3TQmEnTxve-6_DBAgijfwIcE6vddjzdiUHw2E2E2eo2ATpFF4bxJfdiUV2Pxs55buHAzfAT3lrk2EOzk5wmfem-nu764s42TxdX7OWkr0ipQ4fIOXsI8DQ', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
 </description><author></author><pubDate>Tue, 15 Mar 2022 16:23:27 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4891308100938200</guid></item><item><title> a post.
 March 15 at 4:00 AM ·
 🌱 25sprou</title><link>https://facebook.com/498481680220886/posts/4890864837649193</link><description>高菱英 shared a post.
@@ -590,7 +590,7 @@ March 15 at 4:00 AM ·
 
 https://facebook.com/498481680220886/posts/4890864837649193
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT18PESQ2DN6saq4-Q7wbjiKrrAZHF9b1HDZFFIX-zKR4US29bmphzNGS9SSMLXPX4Rq5hdYFyMBGLB4fNap8w-mJivn12zux5StBiECfClv0jp4k5FaP5ZgzqGTEn4wM6efeTWgKWCq854Syf7SUhz5_Ov9iwOCxs8', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT1imijdREW8ptJgPMnNpWN3hknHr2799gF7DTQUFR6ZE8DKIJFLzf6vs0oLJJWulKXGH8zbxCpSmdgRiUdYJjskD5Vu0d4IX_4MXL6lvshnSI2Xf3VyOHxQPx2fZ-rsY8q9cmOTXqPBj_lH1Myna0rxsnAvW_xqqYg', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
 </description><author></author><pubDate>Tue, 15 Mar 2022 12:00:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4890864837649193</guid></item><item><title>ng shared a post.
 March 14 at 3:53 AM ·
 </title><link>https://facebook.com/498481680220886/posts/4888218711247139</link><description>Duncan Huang shared a post.
