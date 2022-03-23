@@ -1,23 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Thu, 24 Mar 2022 00:12:08 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>流出多達百份等級為「機密」的 PowerPoint 檔案文件</title><link>https://facebook.com/616369245163622/posts/2546568132143714</link><description>Triton Ho shared a link.
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Thu, 24 Mar 2022 01:04:01 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>shared a link.
+December 15, 2021 at 9:45</title><link>https://facebook.com/616369245163622/posts/2546568132143714</link><description>Triton Ho shared a link.
 December 15, 2021 at 9:45 AM ·
-&gt;根據《華盛頓郵報》報導指出，在華為官網流出多達百份等級為「機密」的 PowerPoint… More 檔案文件中，含有大量該公司與中國政府監控政策相關聯的檔案，尤其是針對新疆地區的管控，同時也參與了勞改與再教育營的相關建設，又進一步證明了中國政府對於新疆人民的迫害。而這些檔案中更有一份
+&gt;根據《華盛頓郵報》報導指出，在華為官網流出多達百份等級為「機密」的 PowerPoint… More 檔案文件中，含有大量該公司與中國政府監控政策相關聯的檔案，尤其是針對新疆地區的管控，同時也參與了勞改與再教育營的相關建設，又進一步證明了中國政府對於新疆人民的迫害。而這些檔案中更有一份檔案提到「華為的產品就是智慧監獄平台的基礎。」
+版主身份發言：
+基於反種族歧視，之後任何人在敝版發表支持華為公司的言論，一律踢掉不勉強。
+補充：
+這邊是「backend tw」版，不是什麼「backend china tw」版
+覺得自己去錯版的，請自行退版不勉強
+INSIDE.COM.TW
+《華盛頓郵報》打臉華為！機密文件顯示與中國政府密切合作多項監控計畫 - INSIDE
+這些檔案中更有一份檔案提到「華為的產品就是智慧監獄平台的基礎。」
+266 Likes8 comments10 Shares
+Like
+Show more reactions
+Share
+Commenting has bee
 
 https://facebook.com/616369245163622/posts/2546568132143714
 
 ['https://inside-assets1.inside.com.tw/2021/12/0905bb7b-6bae-4a0f-b251-25272dbd5a18.jpg?w=1200&amp;h=630&amp;fit=crop&amp;q=80']
-</description><author></author><pubDate>Wed, 15 Dec 2021 17:45:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2546568132143714</guid></item><item><title>nd Engineer - imBee Limited Jo</title><link>https://facebook.com/616369245163622/posts/2626494974151029</link><description>Leo Zhang shared a link.
-5 hrs ·
+</description><author></author><pubDate>Wed, 15 Dec 2021 17:45:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2546568132143714</guid></item><item><title>hared a post.
+13 hrs ·
+推薦自動化監控網站運行服務 - G</title><link>https://facebook.com/616369245163622/posts/2626279487505911</link><description>Bo-Yi Wu shared a post.
+13 hrs ·
+推薦自動化監控網站運行服務 - Gatus
+什麼是 Gatus
+Gatus 提供一個輕量的監控服務健康網頁，讓開發者透過簡單的 HTTP, ICMP, TCP 等 Protocol 來監控服務狀況，並且根據網頁回應的… More Status Code 或 Response time 及 Body 內容來決定網站是否健康，如果發生異常，可以設定不同的 Alert 像是 Slack, Email, Teams, Discord 或 Telegram 等常用的即時軟體。可以參考此連結看看 Dashboard 實際狀況。
+為什麼選擇 Gatus
+官方其實已經寫的很清楚
+Why would I use Gatus when I can just use Prometheus, Alertmanager, Cloudwatch or even Splunk?
+第一點各位開發者可以想看看，如何監控整個服務的狀況，而不是等到客戶遇到問題，你才知道狀況的發生。而 Gatus 可以從客戶角度對每個功能進行配置檢查，團隊可以根據重要的服務或
+
+https://facebook.com/616369245163622/posts/2626279487505911
+
+['https://i.imgur.com/duUxnBC.jpg']
+</description><author></author><pubDate>Wed, 23 Mar 2022 11:22:36 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626279487505911</guid></item><item><title>shared a link.
+6 hrs ·
+#徵才 #後端工程師 #DevOp</title><link>https://facebook.com/616369245163622/posts/2626494974151029</link><description>Leo Zhang shared a link.
+6 hrs ·
 #徵才 #後端工程師 #DevOps工程師 #遠端工作 #百萬年薪
 大家好，我是 imBee 的 Leo，現在公司達到Pre-A輪的階段，正在擴編後端團隊，來應付上升的業務量以及迭代產品的legacy code。
-… More主要將會以 PHP + TypeScript + AWS 的方式來作為專案開發，以下是關於職缺跟公司的一些內
+… More主要將會以 PHP + TypeScript + AWS 的方式來作為專案開發，以下是關於職缺跟公司的一些內容，歡迎投遞履歷，有任何問題也可以私訊我，感謝～
+💡 職缺名稱：Backend Developer
+imBee 是一間專門提供 IM 整合平台 ( WhatsApp, Line, Wechat ) 服務的香港軟體公司，目前擁有多家知名合作夥伴 ( 英國保誠, Prudential Financial ...等) ，目前將推出2.0版本的服務，因此需要尋覓更多 RD 加入。
+更多介紹 ➡ https://www.imbee.io
+【 團隊組成 】
+技術主管 * 2
+後端工程師 * 3
+DevOps * 1
+前端工程師 * 4
+APP工程師 * 1
+PM * 1
+UI/UX Designer * 
 
 https://facebook.com/616369245163622/posts/2626494974151029
 
 ['https://media.cakeresume.com/image/upload/s--3SVfqwSp--/c_fill,h_627,w_1200/v1609945362/do2nb8iokgmjrtejopbh.jpg']
-</description><author></author><pubDate>Wed, 23 Mar 2022 18:18:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626494974151029</guid></item><item><title>解
-回答問題的最高境界，就是在對方問問題之前就先丟給他常見問</title><link>https://facebook.com/616369245163622/posts/2626508410816352</link><description>Fin Chen shared a photo.
-5 hrs ·
+</description><author></author><pubDate>Wed, 23 Mar 2022 18:18:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626494974151029</guid></item><item><title>hared a photo.
+6 hrs ·
+招式的最高境界，是在對方出招之前就</title><link>https://facebook.com/616369245163622/posts/2626508410816352</link><description>Fin Chen shared a photo.
+6 hrs ·
 招式的最高境界，是在對方出招之前就先行化解
 回答問題的最高境界，就是在對方問問題之前就先丟給他常見問答集
 因此我們寫了一篇『團隊使用手冊』，除了讓大家能更清楚我們是誰我們在做什麼之外，也希望能找到志同道合的夥伴一起共事 ：）
@@ -25,64 +68,88 @@ https://facebook.com/616369245163622/posts/2626494974151029
 資料科學工程師 60 - 100k
 產品開發工程師 60 - 100k
 網頁開發雜記
-
+17 hrs ·
+這陣子面試了不少人，其中不乏許多優秀的人才。但多數人在被問到『是否有什麼地方想了解的？職缺上有沒有不清楚的地方？』，答案都是簡短的『沒有』、『我覺得很清楚』。
+… More 身為徵才方，當下常常會有一種『難道我們就這麼沒吸引力，不值得更多討論』的失落。認真的與團隊針對人選提問過少的問題做了一番探究，可能性之一是人選也沒有足夠的資訊，自然沒辦法做出太有品質的提問。為此，我們決定把團隊的資訊寫的更完整，希望能透過這份手冊更了解我們。最希望工程師看的是，我們增加了一個『常見問題集』蒐集了一些我們比較常被問到、或是很值得跟人分享的資訊。
+團隊使用手冊在這： https://youra
 
 https://facebook.com/616369245163622/posts/2626508410816352
 
 None
-</description><author></author><pubDate>Wed, 23 Mar 2022 18:43:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626508410816352</guid></item><item><title>紅隊演練領導品牌，我們正在招募紅隊武器開發工程師，希望能夠找</title><link>https://facebook.com/616369245163622/posts/2626379630829230</link><description>Inndy Lin shared a link.
-9 hrs ·
+</description><author></author><pubDate>Wed, 23 Mar 2022 18:43:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626508410816352</guid></item><item><title>shared a link.
+10 hrs ·
 #徵才
-嗨，我們是 DEVCORE，台灣紅隊演練領導品牌，我們正在招募紅隊武器開發工程師，希望能夠找到熟悉 Network Programming 的朋友加入，一起打造我們專屬的紅隊武器！我們目前開發主力使用 Golang,… More C, C-sharp, Python, Vue.js，預期你加入後會使用 Golang 一起開發
+嗨，我們是 DEVCOR</title><link>https://facebook.com/616369245163622/posts/2626379630829230</link><description>Inndy Lin shared a link.
+10 hrs ·
+#徵才
+嗨，我們是 DEVCORE，台灣紅隊演練領導品牌，我們正在招募紅隊武器開發工程師，希望能夠找到熟悉 Network Programming 的朋友加入，一起打造我們專屬的紅隊武器！我們目前開發主力使用 Golang,… More C, C-sharp, Python, Vue.js，預期你加入後會使用 Golang 一起開發與擴充現有工具，若有其他專長我們也非常歡迎。以下是職缺條件以及薪資福利：
+⭐ 薪資福利
+1. 新台幣 60k~100k * 14個月
+2. 配備 Aeron Chair 與電動升降桌
+3. 配備兩個 4k 螢幕（我自己選了 32 吋 DELL 大螢幕）
+4. 每個月一次的整復推拿（我覺得超級有用）
+5. 自選工作筆電（RAM 加好加滿就是舒服，你想用 DELL 行動工作站每天重訓也可以討論）
+6. 無限量飲料零食供應（每個月補貨還可以許願想要什麼飲料零食）
+7. 每週五公司請客一杯手搖飲
+8. 一年一度員工旅遊
+9. 現在投履歷第一位錄取的應徵者，我個人可以借你一把紅軸或黑軸的機械鍵盤在公司
 
 https://facebook.com/616369245163622/posts/2626379630829230
 
 ['https://devco.re/assets/themes/devcore-v2/images/recruit-cover-mobile.jpg']
-</description><author></author><pubDate>Wed, 23 Mar 2022 14:41:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626379630829230</guid></item><item><title>化監控網站運行服務 - Gatus
-不知道大家在部署網站後，</title><link>https://facebook.com/616369245163622/posts/2626279487505911</link><description>Bo-Yi Wu shared a post.
-12 hrs ·
-推薦自動化監控網站運行服務 - Gatus
-什麼是 Gatus
-Gatus 提供一個輕量的監控服務健康網頁，讓開發者透過簡單的 HTTP, ICMP, TCP 等 Protocol 來監控服務狀況，並且根據網頁回應的… More Status Code 或 Response time 及 Body 內容來決定網站是否健康，如果發生異
-
-https://facebook.com/616369245163622/posts/2626279487505911
-
-['https://i.imgur.com/duUxnBC.jpg']
-</description><author></author><pubDate>Wed, 23 Mar 2022 11:22:36 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626279487505911</guid></item><item><title>EnglishJDs #2Mjob
-港商 WeMine 目前</title><link>https://facebook.com/616369245163622/posts/2625646487569211</link><description>Alvis Yu‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Wed, 23 Mar 2022 14:41:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2626379630829230</guid></item><item><title>ackend 台灣 (Backend Tw)
+Yesterday at 8:28</title><link>https://facebook.com/616369245163622/posts/2625646487569211</link><description>Alvis Yu‎Backend 台灣 (Backend Tw)
 Yesterday at 8:28 AM ·
 #全遠端 #台灣職缺 #破2百萬年薪 #EnglishJDs #2Mjob
 港商 WeMine 目前誠徵以下職位：
 Web Developer (正職)
 55k – 80k TWD / 月薪 (26.4k TWD #… More推薦感謝金)
 https://bit.ly/3D36vKo
-
+Web Front-End Engineer
+70k – 120k TWD / 月薪 (33.6k TWD #推薦感謝金)
+https://bit.ly/3N7JcE7
+Lead Web Developer / Senior Web Developer
+70k – 180k TWD / 月薪 (#年薪破2百萬 &amp; 33.6k TWD #推薦感謝金)
+https://bit.ly/3Llsz6j
+特別說明：
+1. 如果您是 #外籍人士 ，還請注意這些工作機會並不提供 #工作簽證 。
+2. 這些工作機會為 #全遠端，你可在 #全台任地 工作。
+3. 詳細職缺敘述，請直接點擊上述連結查看👆
+4. 如
 
 https://facebook.com/616369245163622/posts/2625646487569211
 
 None
-</description><author></author><pubDate>Tue, 22 Mar 2022 16:28:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2625646487569211</guid></item><item><title>com/watch?v=Q_cI03VvHVs
-看完之後發現</title><link>https://facebook.com/616369245163622/posts/2624999454300581</link><description>Jun-Kai Chao shared a link.
+</description><author></author><pubDate>Tue, 22 Mar 2022 16:28:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2625646487569211</guid></item><item><title>ao shared a link.
+March 21 at 1:03 PM ·
+</title><link>https://facebook.com/616369245163622/posts/2624999454300581</link><description>Jun-Kai Chao shared a link.
 March 21 at 1:03 PM ·
 https://www.youtube.com/watch?v=Q_cI03VvHVs
 看完之後發現原來自己也有青年危機 所以想問問各位意見XD … More
-目前我在大學四年級實習一年後轉正的公司就職一年多，在某大公司的資安單位擔任RD，目前部門就一個前端一個後端(我)和幾位實習生，幾乎要一個人包
+目前我在大學四年級實習一年後轉正的公司就職一年多，在某大公司的資安單位擔任RD，目前部門就一個前端一個後端(我)和幾位實習生，幾乎要一個人包辦整個後端工作(程式架構規劃、資料庫、API、Test、資安Check、逆向工程，不過最近有實習生幫忙有好一點)；網路上各大社群(PPT、巴哈、FB) 從大學看到現在當然也知道目前工作量基本薪拿不到50k是不合理的，但就因為影片裡面所講述的部分原因，自己家裡基本上沒本錢所以出來一切吃自己，承擔不起辭職後找不到工作的風險、感覺跟其他人比起來又好像沒那麼糟而且工作上其實滿養生的(開發時程算長，所以除了極少數的隕石之外每天上下班時間都很彈性)，所以目前一直保持得過且過的想法。
+請問各位大大有什麼建議或經驗分享呢? 感謝!
+YOUTUBE.COM
+人生卡關？明明一起出社會，為什麼就我的人生最失敗？《 
 
 https://facebook.com/616369245163622/posts/2624999454300581
 
 ['https://i.ytimg.com/vi/Q_cI03VvHVs/maxresdefault.jpg']
-</description><author></author><pubDate>Mon, 21 Mar 2022 21:03:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2624999454300581</guid></item><item><title>Active solutions 的感想，不知大家有怎玩。
-</title><link>https://facebook.com/616369245163622/posts/2625535477580312</link><description>Ben Crox‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Mon, 21 Mar 2022 21:03:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2624999454300581</guid></item><item><title>ackend 台灣 (Backend Tw)
+Yesterday at 4:51</title><link>https://facebook.com/616369245163622/posts/2625535477580312</link><description>Ben Crox‎Backend 台灣 (Backend Tw)
 Yesterday at 4:51 AM ·
 問一下 PgSQL 相關 Active-Active solutions 的感想，不知大家有怎玩。
 我以往是貪簡單，用 Bucardo 去做，感覺像耍雜技，很易甩漏，deployment 也有點複雜。
-曾經有客要求要 AWS Aurora （假 Pg ) 再搭 Oracle Golden
+曾經有客要求要 AWS Aurora （假 Pg ) 再搭 Oracle GoldenGate ，看到 Oracle 都感到重口，並不想當作自己的功底。
+也曾有接手 SymmetricDS ，因為上一手無人跟，客人被 Log4j 漏洞嚇死，我單純去 inspect 加 update ，並沒有 project development / deployment 經驗，不知算不算好用。
+同樣知道，但沒有用來的，像是 Patroni 套餐，k8s + etcd + zookeeper + consul… More ，好像一次過要熟很多東西，沒有長期跟進，好像也會承擔頗重。
+又如上， Crunch Data PGO 套餐，感覺上就是有一堆 cloud side 的套件，越全能越多後門要關
 
 https://facebook.com/616369245163622/posts/2625535477580312
 
 None
-</description><author></author><pubDate>Tue, 22 Mar 2022 12:51:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2625535477580312</guid></item><item><title>問題
-我稍微看了一下似乎純後端是沒有辦法破百，一般是不是都是</title><link>https://facebook.com/616369245163622/posts/2623971751070018</link><description>高信‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Tue, 22 Mar 2022 12:51:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2625535477580312</guid></item><item><title> 台灣 (Backend Tw)
+March 20 at 6:17 AM ·
+請</title><link>https://facebook.com/616369245163622/posts/2623971751070018</link><description>高信‎Backend 台灣 (Backend Tw)
 March 20 at 6:17 AM ·
 請問大大關於網頁後端程式年收破百技能樹的問題
 我稍微看了一下似乎純後端是沒有辦法破百，一般是不是都是要兩種領域做結合
@@ -90,68 +157,119 @@ March 20 at 6:17 AM ·
 1.後端+前端
 2.後端+網管(aws, azure設定之類的)
 後端如果要年收破百需要具備那些技能比較有機會？
-88 Likes48 comments8 
+88 Likes48 comments8 Shares
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+Tai-Shun Huang‎Backend 台灣 (Backend Tw)
+March 17 at 8:00 AM ·
+【請問】南部的軟體業資訊業，是不是流行"給offer時不寫薪水？"
+最近二週在高雄應徵前端工程師，面試了8間，收到2個錄取Offer，但兩間的offer都沒有寫薪水多少！
+一間"亞家科技"… More，人資打電話口頭詢問我：你期望薪資寫47K，我們給你40K，可以嗎？我一口答應(這是我的面試策略)。然而寄來的
 
 https://facebook.com/616369245163622/posts/2623971751070018
 
 None
-</description><author></author><pubDate>Sun, 20 Mar 2022 14:17:27 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2623971751070018</guid></item><item><title>給offer時不寫薪水？"
-最近二週在高雄應徵前端工程師，面</title><link>https://facebook.com/616369245163622/posts/2621561074644419</link><description>Tai-Shun Huang‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Sun, 20 Mar 2022 14:17:27 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2623971751070018</guid></item><item><title>uang‎Backend 台灣 (Backend Tw)
+March 17 at</title><link>https://facebook.com/616369245163622/posts/2621561074644419</link><description>Tai-Shun Huang‎Backend 台灣 (Backend Tw)
 March 17 at 8:00 AM ·
 【請問】南部的軟體業資訊業，是不是流行"給offer時不寫薪水？"
 最近二週在高雄應徵前端工程師，面試了8間，收到2個錄取Offer，但兩間的offer都沒有寫薪水多少！
-一間"亞家科技"… More，人資打電話口頭詢問我：你期望薪資寫47K，我們給你40K，可以嗎？我一口答應
+一間"亞家科技"… More，人資打電話口頭詢問我：你期望薪資寫47K，我們給你40K，可以嗎？我一口答應(這是我的面試策略)。然而寄來的錄取信，連40K也沒寫。但有寫報到日。我回信詢問人資怎麼沒寫薪水後，對方不理會。
+一間"奇豐資訊"，經過了漫長的二次面試，二面時老闆口頭跟我說薪水依我上週寫的期望薪資。offer 寄來後，上面也沒寫薪水多少。 但有寫報到日。(我懶得再詢問 #請問為什麼合約上沒有寫薪水 ，因為我應該不是個案。) 我的期望薪資，我也不確定是寫45k or 35K or 55K。
+我工作經驗也有7-8家公司了，南北都有，一直以為在軟體業，offer上寫薪水是基本的吧。但在這個時期，我能夠收到不同的2家公司發出來的offer都不寫薪水，我應該不會是個案。
+雖然錄取任用流程是勞資雙方講好
 
 https://facebook.com/616369245163622/posts/2621561074644419
 
 None
-</description><author></author><pubDate>Thu, 17 Mar 2022 16:00:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2621561074644419</guid></item><item><title>計x後端)
-這是一個簡單但少見的交流聚會，主題為「前端」、「</title><link>https://facebook.com/616369245163622/posts/2624802424320284</link><description>Tai-Shun Huang shared a link.
+</description><author></author><pubDate>Thu, 17 Mar 2022 16:00:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2621561074644419</guid></item><item><title>uang shared a link.
+March 21 at 7:26 AM </title><link>https://facebook.com/616369245163622/posts/2624802424320284</link><description>Tai-Shun Huang shared a link.
 March 21 at 7:26 AM ·
 【聚會活動】高雄軟體人交流聚會(前端x設計x後端)
 這是一個簡單但少見的交流聚會，主題為「前端」、「後端」、「設計」，只要跟這三大主題有任何相關，或是有興趣的人就歡迎來。
-上半場採取 Open Mic… More 的方式大方徵求想上台分享技術或幹話的主題。不論你的主題是小眾或是大眾，都可以喔。下
+上半場採取 Open Mic… More 的方式大方徵求想上台分享技術或幹話的主題。不論你的主題是小眾或是大眾，都可以喔。下半場有交流機會。
+時間：2022/04/23(六) 13:30~16:30
+地點：高軟的A棟301會議室
+🤠報名講者填表單：https://forms.gle/8Ho6Pas1qQs77qvW7
+💡活動詳情：https://gonsakon-7655f2.kktix.cc/events/kssoftjobmeetup2022
+#高雄 #前端 #後端 #設計 #活動
+GONSAKON-7655F2.KKTIX.CC
+高雄軟體人交流聚會(前端x設計x後端)
+這是一個簡單但少見的交流聚會，主題為「前端」、「後端」、「設計」，只要跟這三大主題有任何相關，或是有興趣的人就歡迎來。
+23 Likes
+Li
 
 https://facebook.com/616369245163622/posts/2624802424320284
 
 ['https://t.kfs.io/assets/kktix-og-image-d905bcfb8e0f7debf8b0ac14e48255701310a8d54b62934339498d1c2a64f0a3.png']
-</description><author></author><pubDate>Mon, 21 Mar 2022 15:26:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2624802424320284</guid></item><item><title>
-Kronos Research
-Company profi</title><link>https://facebook.com/616369245163622/posts/2599413750192485</link><description>Roy Chung-Cheng Lou shared a link.
+</description><author></author><pubDate>Mon, 21 Mar 2022 15:26:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2624802424320284</guid></item><item><title>Cheng Lou shared a link.
+February 18 at </title><link>https://facebook.com/616369245163622/posts/2599413750192485</link><description>Roy Chung-Cheng Lou shared a link.
 February 18 at 2:14 PM ·
 [徵才］Kronos Research 誠徵 Python backend engineer, data engineer
 年薪：Sr 2.5M 起, Staff 4M 起
-Kronos Research… More 是一個專注於高頻交易的量化團隊，透過進階的量化交易研究與分析，
+Kronos Research… More 是一個專注於高頻交易的量化團隊，透過進階的量化交易研究與分析，為全球金融市場提供精準報價。結合深度學習、人工智慧、機器學習推出的高頻交易策略，讓麒點科技在資深華爾街人士 Mark Pimentel 與 Jack Tan 帶領之下，躍升成為全球前五大的頂尖加密貨幣交易團隊，創下每日平均 50 億美金的交易額的成績。
+
+
+此次招聘的 Python backend engineer 以及 data engineer 職缺屬於 data platform team。Kronos 每天處理來自全球十多個數據中心約 10TB 的資料。我們想邀請高手一起重新搭建資料系統，讓它可以更彈性的處理大量資料。除此之外團隊工作也包含 defi 以及 SRE 工作。團隊預計招募 
 
 https://facebook.com/616369245163622/posts/2599413750192485
 
 ['https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/573/300/original/kronos.png?1606718613']
-</description><author></author><pubDate>Fri, 18 Feb 2022 22:14:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2599413750192485</guid></item><item><title>題，還寫了範例 Code。
-不知道為什麼，感覺現在問問題的人</title><link>https://facebook.com/616369245163622/posts/2622462221220971</link><description>李汶道‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Fri, 18 Feb 2022 22:14:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2599413750192485</guid></item><item><title>d 台灣 (Backend Tw)
+March 18 at 10:14 AM ·</title><link>https://facebook.com/616369245163622/posts/2622462221220971</link><description>李汶道‎Backend 台灣 (Backend Tw)
 March 18 at 10:14 AM ·
 昨天在 Python 社團中回答了一些問題，還寫了範例 Code。
 不知道為什麼，感覺現在問問題的人真的是很……
 除了伸手就要 Code 跟範例，連問題都只是丟一張被截的只有一行的圖，Code 給的還不完整。
 然後一堆人給答案的都是一行兩行都是換框架。
-認真回答了，一堆都是伸手要現成方案，搞的連想
+認真回答了，一堆都是伸手要現成方案，搞的連想要有人一起討論讓自己成長的機會都沒有。
+是現在的人太不認真思考問題，還是說整個氛圍變成這樣。
+搞的我都不想再回答任何問題了。
+228 Likes42 comments4 Shares
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+鄭宇翔‎Backend 台灣 (Backend Tw)
+March 18 at 12:09 AM ·
+請益各位大神關於jar包版本升級的問題
+前陣子工作上遇到一個bug要解，最後查出了是官方的問題，而官方也在新版本中修復了這個問題，所以要升級依賴的jar包版本。
 
 https://facebook.com/616369245163622/posts/2622462221220971
 
 ['https://www.appcoda.com.tw/wp-content/uploads/2016/03/firebase-ios.jpg']
-</description><author></author><pubDate>Fri, 18 Mar 2022 18:14:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2622462221220971</guid></item><item><title>前陣子工作上遇到一個bug要解，最後查出了是官方的問題，而官</title><link>https://facebook.com/616369245163622/posts/2622111991255994</link><description>鄭宇翔‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Fri, 18 Mar 2022 18:14:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2622462221220971</guid></item><item><title>d 台灣 (Backend Tw)
+March 18 at 12:09 AM ·</title><link>https://facebook.com/616369245163622/posts/2622111991255994</link><description>鄭宇翔‎Backend 台灣 (Backend Tw)
 March 18 at 12:09 AM ·
 請益各位大神關於jar包版本升級的問題
 前陣子工作上遇到一個bug要解，最後查出了是官方的問題，而官方也在新版本中修復了這個問題，所以要升級依賴的jar包版本。
 關於上述情況如果工作上遇到要升級jar包版本的情況會選擇一口氣升級到最新的版本嗎?還是需要的那一版就好了
-我個人是只有升級到我需要的版本
+我個人是只有升級到我需要的版本，因為最新版要更動的程式更多，一般實務上來說哪一種做法比較好呢?
+6 Likes7 comments1 Share
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+Triton Ho‎Backend 台灣 (Backend Tw)
+March 17 at 2:16 PM ·
+版主小吐嘈：
+賣垃圾廣告的機器人嘛
+最近連偽鈔都在賣廣告了
+茶～～～
+另外小吐嘈：
+早前有一篇賣軍火的（還是賣玩具槍的？）
+商家看到了我們工程師的憤怒嗎？？？
+31 Likes2 comments
+Like
+Show 
 
 https://facebook.com/616369245163622/posts/2622111991255994
 
 ['https://www.appcoda.com.tw/wp-content/uploads/2016/03/firebase-ios.jpg']
-</description><author></author><pubDate>Fri, 18 Mar 2022 07:25:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2622111991255994</guid></item><item><title>連偽鈔都在賣廣告了
-茶～～～
-另外小吐嘈：
-早前有一篇賣軍火</title><link>https://facebook.com/616369245163622/posts/2621780794622447</link><description>Triton Ho‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Fri, 18 Mar 2022 07:25:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2622111991255994</guid></item><item><title>Backend 台灣 (Backend Tw)
+March 17 at 2:16</title><link>https://facebook.com/616369245163622/posts/2621780794622447</link><description>Triton Ho‎Backend 台灣 (Backend Tw)
 March 17 at 2:16 PM ·
 版主小吐嘈：
 賣垃圾廣告的機器人嘛
@@ -164,35 +282,52 @@ March 17 at 2:16 PM ·
 Like
 Show more reactions
 Share
-Commenting has
+Commenting has been turned off for this post.
+Veck Hsiao shared a link.
+March 18 at 4:45 PM ·
+我有個 iOS 要串接後端與資料庫互動，過去我都是先架設一個 backend server (e.g. Node.js express) 和 DB server (e.g. MySQL server)
+… More稍早想到以前有聽很多前輩都推薦使用 Firebase 來作為 mobile app 的資料庫，但從沒使用過，今天第一次接觸 Firebase，稍微看了一下官方文件和網路上的一些文章，不曉得我是否可以這樣理解：
+Firebase
 
 https://facebook.com/616369245163622/posts/2621780794622447
 
 ['https://www.appcoda.com.tw/wp-content/uploads/2016/03/firebase-ios.jpg']
-</description><author></author><pubDate>Thu, 17 Mar 2022 22:16:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2621780794622447</guid></item><item><title>ase 入門：用 Swift 創建一個簡單的社交 App
-在</title><link>https://facebook.com/616369245163622/posts/2622718634528663</link><description>Veck Hsiao shared a link.
+</description><author></author><pubDate>Thu, 17 Mar 2022 22:16:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2621780794622447</guid></item><item><title> shared a link.
+March 18 at 4:45 PM ·
+我有</title><link>https://facebook.com/616369245163622/posts/2622718634528663</link><description>Veck Hsiao shared a link.
 March 18 at 4:45 PM ·
 我有個 iOS 要串接後端與資料庫互動，過去我都是先架設一個 backend server (e.g. Node.js express) 和 DB server (e.g. MySQL server)
-… More稍早想到以前有聽很多前輩都推薦使用 Firebase 來作為 mobile app 的資料
+… More稍早想到以前有聽很多前輩都推薦使用 Firebase 來作為 mobile app 的資料庫，但從沒使用過，今天第一次接觸 Firebase，稍微看了一下官方文件和網路上的一些文章，不曉得我是否可以這樣理解：
+Firebase 有包裝前端用的(web or mobile app)的 SDK，可以直接在 web frontend 或 iOS/Android 的程式碼中以 ORM 方式與 firebase 互動，省去了建置 backend server
+不過這樣的話，business logic 就變成直接在 frontend 端寫了？
+所以 Firebase 只適合用來簡單處理 realtime data 的過濾和清洗，然後寫入資料庫，以及查找
+過於複雜的資料處理邏輯還是建議寫到資料
 
 https://facebook.com/616369245163622/posts/2622718634528663
 
 ['https://www.appcoda.com.tw/wp-content/uploads/2016/03/firebase-ios.jpg']
-</description><author></author><pubDate>Sat, 19 Mar 2022 00:45:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2622718634528663</guid></item><item><title>月薪 8 萬起] [年薪 200 萬] 聯發科技資深軟體工程</title><link>https://facebook.com/616369245163622/posts/2620581301409063</link><description>Bo-Yi Wu shared a link.
+</description><author></author><pubDate>Sat, 19 Mar 2022 00:45:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2622718634528663</guid></item><item><title>hared a link.
+March 16 at 4:01 AM ·
+## 工</title><link>https://facebook.com/616369245163622/posts/2620581301409063</link><description>Bo-Yi Wu shared a link.
 March 16 at 4:01 AM ·
 ## 工作地點
 新竹科學工業園區力行三路11號 (聯發科總部 D 棟)
 ## 團隊簡介
 聯發科技專注於使用 AI, BigData, Process Automation 技術提升公司各部門團隊生產力，及改善 IC Design… More Flow
 擁抱產品及數據思維，以數據驅動產品功能之開發決策
-以使用
+以使用者故事 (user story) 作為開發依據，採用敏捷式開發 (Agile development) 快速迭代產品
+重視團隊成員能力成長及團隊向心力，每月由不同成員定期做軟硬技術分享 (AI / BigData / Process Automation)，進而達成組織目標
+自動化測試部署確保軟體品質及提升工作效率減少時間浪費
+## 基本條件
+有 Go 語言或類似經驗，熟悉 gRPC 及 RESTful API
+有相關資料庫系統經驗，知道 SQL 及 NOSQL 資料儲存 (像是 Cassandra, MongoDB, PostgreSQL)
+有其他系統技術相關經驗，像是 Redis、Kafk
 
 https://facebook.com/616369245163622/posts/2620581301409063
 
 ['https://opengraph.githubassets.com/e4cf5c0af3312716f35a4323734a50fc2c3e5c15cba15e94e1115b3f516f2fa9/golangtw/jobs/issues/136']
-</description><author></author><pubDate>Wed, 16 Mar 2022 12:01:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2620581301409063</guid></item><item><title>arch 17 at 3:02 AM ·
-蔡宗城
-March</title><link>https://facebook.com/616369245163622/posts/2621561067977753</link><description>Tai-Shun Huang‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Wed, 16 Mar 2022 12:01:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2620581301409063</guid></item><item><title>uang‎Backend 台灣 (Backend Tw)
+March 17 at</title><link>https://facebook.com/616369245163622/posts/2621561067977753</link><description>Tai-Shun Huang‎Backend 台灣 (Backend Tw)
 March 17 at 8:00 AM ·
 6 Likes2 comments
 Like
@@ -202,68 +337,117 @@ Commenting has been turned off for this post.
 蔡宗城 shared a post.
 March 17 at 3:02 AM ·
 蔡宗城
+March 17 at 3:02 AM ·
+【#Dev】怎麼網頁改完還是錯的？！
+(疫情前) 常常在辦公室都會聽到那是 Cache 啦，你再重新整理一遍看看，你要 Disable Cache 啦，你先開無痕試試看啦！…… More 等各種要使用者先把暫存清理乾淨的聲音，不過對於那些真的在現實生活中的使用者來說，要他們具備怎麼自己清除暫存的知識與能力實在是太奢侈了，搞懂 HTTP Cache 的機制，讓使用者獲得正確的呈現結果才是最佳解，一個網站的維護者透過暫存功能最希望達成的兩個目標就是當使用者第二次來拜訪網站時
+👍 確保使用者可以獲得最新版本的檔案，假如有任何的檔案被修改時，他們要可以馬上
 
 https://facebook.com/616369245163622/posts/2621561067977753
 
 None
-</description><author></author><pubDate>Thu, 17 Mar 2022 16:00:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2621561067977753</guid></item><item><title> AM ·
-【#Dev】怎麼網頁改完還是錯的？！
-(疫情前)</title><link>https://facebook.com/616369245163622/posts/2621405154660011</link><description>蔡宗城 shared a post.
+</description><author></author><pubDate>Thu, 17 Mar 2022 16:00:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2621561067977753</guid></item><item><title> a post.
+March 17 at 3:02 AM ·
+蔡宗城
+March</title><link>https://facebook.com/616369245163622/posts/2621405154660011</link><description>蔡宗城 shared a post.
 March 17 at 3:02 AM ·
 蔡宗城
 March 17 at 3:02 AM ·
 【#Dev】怎麼網頁改完還是錯的？！
-(疫情前) 常常在辦公室都會聽到那是 Cache 啦，你再重新整理一遍看看，你要 Disable Cache 啦，你先開無痕試試看啦！…… More 等各種要使用者先把暫存清理乾淨的聲音，不過對於那些真的在現實生活中的使用者來說
+(疫情前) 常常在辦公室都會聽到那是 Cache 啦，你再重新整理一遍看看，你要 Disable Cache 啦，你先開無痕試試看啦！…… More 等各種要使用者先把暫存清理乾淨的聲音，不過對於那些真的在現實生活中的使用者來說，要他們具備怎麼自己清除暫存的知識與能力實在是太奢侈了，搞懂 HTTP Cache 的機制，讓使用者獲得正確的呈現結果才是最佳解，一個網站的維護者透過暫存功能最希望達成的兩個目標就是當使用者第二次來拜訪網站時
+👍 確保使用者可以獲得最新版本的檔案，假如有任何的檔案被修改時，他們要可以馬上獲得修改完的檔案
+👍 在達成上面目標的同時，盡可能從網路下載越少的東西越好
+如此一來可以節省頻寬與時間，提升使用者體驗，因此想要跟大家分享這篇自己關於 HTTP 暫存的心得筆記，探討在 Client 端如何透過 HTTP Cache Header 去達成上面的目標？而且要怎麼設定會比較好？
+▍詳細文章連結：ht
 
 https://facebook.com/616369245163622/posts/2621405154660011
 
 None
-</description><author></author><pubDate>Thu, 17 Mar 2022 11:02:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2621405154660011</guid></item><item><title>llstack 望前輩鞭策指教】
-「為什麼你想不開，要這樣轉</title><link>https://facebook.com/616369245163622/posts/2620084708125389</link><description>Lau Kuan Ting‎Backend 台灣 (Backend Tw)
+</description><author></author><pubDate>Thu, 17 Mar 2022 11:02:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2621405154660011</guid></item><item><title>ing‎Backend 台灣 (Backend Tw)
+March 15 at </title><link>https://facebook.com/616369245163622/posts/2620084708125389</link><description>Lau Kuan Ting‎Backend 台灣 (Backend Tw)
 March 15 at 4:49 PM ·
 【SQL工具人混血資料科學家 想轉職Fullstack 望前輩鞭策指教】
 「為什麼你想不開，要這樣轉換？」這故事有點長，總之原因大致如下
 1. data team非常吃重組織跟文化，擁有好data culture的公司如鳳毛麟角(我+周圍朋友經歷)
-2. 嚮往做出好產品(也懷有一
+2. 嚮往做出好產品(也懷有一點點創業夢)
+3. Web領域remote職位多很多
+關於fullstack可以看到ptt和本版許多先進「苦口婆心」了，但對我還是有莫名吸引力啊！（可能是目前在公司一條龍養成M屬性）
+目前能力
+1. 自學很基本很基本的HTML JS CSS (持續線上自學中)
+2. 資料科學和機器學習為主的Python（會一點flask）
+3. 工具人技能點滿的SQL數據query語法(當然裡後端還很遙遠)
+4. 基本的docker能力
+以全(後)端來說有基本Python跟SQL能力算是不錯的開始？(雖然python當backend真的很少)
+先前用flask做出一個ML的web app，還有串出linebo
 
 https://facebook.com/616369245163622/posts/2620084708125389
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5094738763923290&amp;h=AT3bG2FrgO47xNCbUOv02tKEl8THspPDttkUYL0bXJ_-67QZur1-lD-BFFYLVhCg_5j65V6HNSRHpNSXIFgEt9YNHzXsKmlSK9cJ6v5xpB0ajncNQrGkvgNaNFbeVR66jnwrPv4gLe6gaSC-Pl8i0gbmN2KQjEqYsXU']
-</description><author></author><pubDate>Tue, 15 Mar 2022 21:33:12 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2620084708125389</guid></item><item><title>ost to the group: 雷神講堂.
-March </title><link>https://facebook.com/616369245163622/posts/2620668284733698</link><description>SK Yang shared a post.
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5094738763923290&amp;h=AT1Ku_B6t3hXArgdKs32Zn7CRZIAZqAAZZzqrC19BXI51NYp1FFQqEOW-0fe9OW3axFv_SrfwWMCodDxFlF4CYR5nOHjI0J0ouIOcC4BEkrpeGOCYVt4M_UVRgdq3eLmf2IrZAImhgAcIodMJcOxyHmlJbv__aBsBOo']
+</description><author></author><pubDate>Tue, 15 Mar 2022 21:33:12 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2620084708125389</guid></item><item><title>ared a post.
+March 16 at 6:56 AM ·
+Ray T</title><link>https://facebook.com/616369245163622/posts/2620668284733698</link><description>SK Yang shared a post.
 March 16 at 6:56 AM ·
 Ray Tracy shared a post to the group: 雷神講堂.
 March 16 at 2:05 AM ·
 陰魂不散....
 ExploitWareLabs
 March 16 at 2:03 AM ·
-New Linux botnet exploits Log4J, uses DNS 
+New Linux botnet exploits Log4J, uses DNS tunneling for comms
+#B1txor20
+… Morehttps://www.bleepingcomputer.com/news/security/new-linux-botnet-exploits-log4j-uses-dns-tunneling-for-comms/
+15 Likes1 Share
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+See More Posts…
+View TimelineAdd to GroupInvite to Event
+Loadi
 
 https://facebook.com/616369245163622/posts/2620668284733698
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5094738763923290&amp;h=AT0iKm5g7WbNu6DdQ8Hn11b1V8PSHqd9IVuUXim69DLh7c25e_35bcqumvsX5bsJqNO5EDKFXMU2kxfx0JGGrefZR7pVk18WAnP8rn-xAJI6Y10PxsZKzj94TmDDMAzy4WoIKVR1Hdz8-KrXq9Zw7xLIPwdG7cc0MwA']
-</description><author></author><pubDate>Wed, 16 Mar 2022 14:56:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2620668284733698</guid></item><item><title>，加入社團前會由管理群人工審核加入資格，若您的帳號看起來太像</title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>Shengyou Fan‎Laravel 台灣
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5094738763923290&amp;h=AT2RJ9iFv-bYzontc3-y-4xPcC4q_hcCKfXlcZGyiuadvVxyTLtzJG5RTYkF3plVaL7BmjSaYBS3eq4IWVmmp2Mfv2aJbWA4sXOJENAPWY_jiZUIVU-gzsRSbtpB_Fn0sFK0tQtVrJwxhFRwMz7JdcdHZaE6Gw7fM64']
+</description><author></author><pubDate>Wed, 16 Mar 2022 14:56:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2620668284733698</guid></item><item><title>an‎Laravel 台灣
+January 8, 2021 at 6:36 AM</title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>Shengyou Fan‎Laravel 台灣
 January 8, 2021 at 6:36 AM ·
 【置頂版規】
 
 
 歡迎加入本社團參與討論，加入社團前會由管理群人工審核加入資格，若您的帳號看起來太像廣告機器人，有可能會被拒絕。
-歡迎發表跟 PHP 或 Laravel 有關 (包括但不限) 的技術文章，若非直接與 PHP/Laravel 相關，請至少說明為何會想要分享並最少要有個 Larav
+歡迎發表跟 PHP 或 Laravel 有關 (包括但不限) 的技術文章，若非直接與 PHP/Laravel 相關，請至少說明為何會想要分享並最少要有個 Laravel 的關鍵字。
+問問題請愛用 gist.github.com 貼 code，若問題已經協助解決，也請分享解決方式，讓更多人受惠。
+請勿張貼任何有可能危害智慧財產權的內容，非原創文章請標註來源。
+請尊重社團內的多樣性，請不要張貼有可能引發他人不適的言論、圖片。
+歡迎張貼職缺訊息，也沒有徵才文的限制。但張貼者請對自己的貼文負責，若社群有負面評價與管理群無關。求職者請自行驗證職缺訊息，若有疑慮請在社團上反應。
+
+
+若有違反以上版規之處，管理群有權立即做任何處理，不得異議。版規依管理群討論後修正實行，不另行公告，感謝大家的配合。
+83 Likes1 comment
+Like
+Show more re
 
 https://facebook.com/498481680220886/posts/3579398352129188
 
 ['https://docs.master.co/assets/images/syntax-cover.jpg']
-</description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title> familiar CSS syntax in class=</title><link>https://facebook.com/498481680220886/posts/4912002768868733</link><description>Aron Liu shared a post.
-8 hrs ·
+</description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title>hared a post.
+9 hrs ·
+把 CSS 直接寫在 class="</title><link>https://facebook.com/498481680220886/posts/4912002768868733</link><description>Aron Liu shared a post.
+9 hrs ·
 把 CSS 直接寫在 class="..." 真的有這麼糟嗎？還是有其他語法糖可以吃？
 DOCS.MASTER.CO
 Using familiar CSS syntax in class="..." - Master Styles
-We've designed a simple, systematic class syntax bas
+We've designed a simple, systematic class syntax based on CSS, while also providing intuitive shorthands to speed up and shorten your code.
+Master
+10 hrs ·
+任何你想得到的 CSS 都可以直接寫在 class="font:blue:hover@md ..."：
+shorthands, units, selectors, functions, colors,… More breakpoints, media queries, color schemes ...
+⭐️ 餵我一顆 Github 星星：https://github.com/master
 
 https://facebook.com/498481680220886/posts/4912002768868733
 
 ['https://docs.master.co/assets/images/syntax-cover.jpg']
-</description><author></author><pubDate>Wed, 23 Mar 2022 15:21:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4912002768868733</guid></item><item><title>常在本地開發時，如果手上有多專案，通常都會用什麼方式去管理專</title><link>https://facebook.com/498481680220886/posts/4859324074136603</link><description>廖奕昌‎Laravel 台灣
+</description><author></author><pubDate>Wed, 23 Mar 2022 15:21:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4912002768868733</guid></item><item><title>l 台灣
+March 3 at 9:42 AM ·
+請教各位先進關於Larado</title><link>https://facebook.com/498481680220886/posts/4859324074136603</link><description>廖奕昌‎Laravel 台灣
 March 3 at 9:42 AM ·
 請教各位先進關於Laradock問題
 通常在本地開發時，如果手上有多專案，通常都會用什麼方式去管理專案
@@ -283,89 +467,149 @@ Laradock
 Like
 Show more reactions
 Share
-Commen
+Commenting has been turned off for this post.
+Prisom Technology LLP shared a post.
+12 hrs ·
+https://www.facebook.com/prisomtechnology/posts/981934682715085
+Prisom Technology LLP
+12 hrs ·
+ना पूछो जमाने को कया हमारी कहानी है हमारी पहचान तो सिर्फ ये है की हम सिर्फ हिंदुस्तानी है !
+#ShaheedDiwas #… MoreShahee
 
 https://facebook.com/498481680220886/posts/4859324074136603
 
 None
-</description><author></author><pubDate>Thu, 03 Mar 2022 17:42:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4859324074136603</guid></item><item><title>.com/prisomtechnology/posts/98</title><link>https://facebook.com/498481680220886/posts/4911785242223819</link><description>Prisom Technology LLP shared a post.
-11 hrs ·
+</description><author></author><pubDate>Thu, 03 Mar 2022 17:42:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4859324074136603</guid></item><item><title>hnology LLP shared a post.
+12 hrs ·
+http</title><link>https://facebook.com/498481680220886/posts/4911785242223819</link><description>Prisom Technology LLP shared a post.
+12 hrs ·
 https://www.facebook.com/prisomtechnology/posts/981934682715085
 Prisom Technology LLP
 12 hrs ·
-ना पूछो जमाने को कया हमारी कहानी है हमारी पहचान तो सिर्फ ये
+ना पूछो जमाने को कया हमारी कहानी है हमारी पहचान तो सिर्फ ये है की हम सिर्फ हिंदुस्तानी है !
+#ShaheedDiwas #… MoreShaheedDiwas #ShaheedDiwasInIndia #ShaheedDiwas23March #ShaheedDiwas2022 #india #indianarmy #jaihind #indiannavy #army #bharat #hindustan #vandemataram #prisom #prisomtechnologyllp
+Like
+Show more reactions
+Share
+Commenting has been turned off for
 
 https://facebook.com/498481680220886/posts/4911785242223819
 
 None
-</description><author></author><pubDate>Wed, 23 Mar 2022 13:01:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4911785242223819</guid></item><item><title>API其一的方式登入後，可以強制登出其它已經登入過的裝置。該</title><link>https://facebook.com/498481680220886/posts/4909320659136944</link><description>Kuma Chen‎Laravel 台灣
+</description><author></author><pubDate>Wed, 23 Mar 2022 13:01:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4911785242223819</guid></item><item><title>Laravel 台灣
+Yesterday at 6:11 AM ·
+您好，想請教</title><link>https://facebook.com/498481680220886/posts/4909320659136944</link><description>Kuma Chen‎Laravel 台灣
 Yesterday at 6:11 AM ·
 您好，想請教各位前輩如果我希望從Web/API其一的方式登入後，可以強制登出其它已經登入過的裝置。該從哪裡下手?
 9 Likes10 comments1 Share
 Like
 Show more reactions
 Share
-Commenting has been turned off for this po
-
-https://facebook.com/498481680220886/posts/4909320659136944
-
-None
-</description><author></author><pubDate>Tue, 22 Mar 2022 14:11:03 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4909320659136944</guid></item><item><title>分享大會 🤣 假如辦一個鬼故事交流大會不知道有沒有搞頭？ 😁</title><link>https://facebook.com/498481680220886/posts/4892225397513137</link><description>Shengyou Fan shared a post.
+Commenting has been turned off for this post.
+Shengyou Fan shared a post.
 March 15 at 3:42 PM ·
 今天活動的會後討論變成 (開發) 鬼故事分享大會 🤣 假如辦一個鬼故事交流大會不知道有沒有搞頭？ 😁
 Shengyou Fan
 March 15 at 3:32 PM ·
 【實體活動的爽度】
-因為疫情的關係，實體活動都是開開關關的很看機運，好一陣子沒看到像今晚 PHP 也有 Day 這樣的聚會人數、
+因為疫情的關係，實體活動都是開開關關的很看機運，好一陣子沒看到像今晚 PHP 也有 Day 這樣的聚會人數、討論熱度。尤其是 Recca Chao 的反串主題讓關掉直播後的現場討論變成了 (開發)… More 鬼故事壯膽大會，聽著各種超奇耙的鬼故事經歷，以及大家在團隊裡見招拆招的創意解法，這才是實體
+
+https://facebook.com/498481680220886/posts/4909320659136944
+
+None
+</description><author></author><pubDate>Tue, 22 Mar 2022 14:11:03 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4909320659136944</guid></item><item><title>an shared a post.
+March 15 at 3:42 PM ·
+</title><link>https://facebook.com/498481680220886/posts/4892225397513137</link><description>Shengyou Fan shared a post.
+March 15 at 3:42 PM ·
+今天活動的會後討論變成 (開發) 鬼故事分享大會 🤣 假如辦一個鬼故事交流大會不知道有沒有搞頭？ 😁
+Shengyou Fan
+March 15 at 3:32 PM ·
+【實體活動的爽度】
+因為疫情的關係，實體活動都是開開關關的很看機運，好一陣子沒看到像今晚 PHP 也有 Day 這樣的聚會人數、討論熱度。尤其是 Recca Chao 的反串主題讓關掉直播後的現場討論變成了 (開發)… More 鬼故事壯膽大會，聽著各種超奇耙的鬼故事經歷，以及大家在團隊裡見招拆招的創意解法，這才是實體活動吸引人的地方吧！爽啦！
+在這邊要特別感謝 Robert Huang 的 Fontech 方客特 團隊 Livia Liao Sasaya Wu 協助張羅直播及現場報到工作， Chih Hsun Yang 的 起跑點身心平衡學院 Starting Point 贊助餐物及場地，當然還有辛苦的 Duncan Huang 從年後就籌備這場活動到今天。謝謝大家 🙏
+大家下個月見囉~
+#傳教士 的 #傳教日誌 🥑
 
 https://facebook.com/498481680220886/posts/4892225397513137
 
 None
-</description><author></author><pubDate>Tue, 15 Mar 2022 23:42:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4892225397513137</guid></item><item><title>aravel 寫爛 (誤)，再把 Laravel 寫好 (無</title><link>https://facebook.com/498481680220886/posts/4878728852196125</link><description>Shengyou Fan shared a post.
+</description><author></author><pubDate>Tue, 15 Mar 2022 23:42:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4892225397513137</guid></item><item><title>an shared a post.
+March 10 at 2:55 PM ·
+</title><link>https://facebook.com/498481680220886/posts/4878728852196125</link><description>Shengyou Fan shared a post.
 March 10 at 2:55 PM ·
 下週請 Recca 跟大家說先怎麼把 Laravel 寫爛 (誤)，再把 Laravel 寫好 (無誤) 👍🏻
 EVENTS.LARAVEL-DOJO.COM
 PHP也有Day #65 | Laravel Dojo 活動報名站
-講題介紹： 難維護的專案是怎樣寫出來的？談 Laravel 撰寫時的不良
+講題介紹： 難維護的專案是怎樣寫出來的？談 Laravel 撰寫時的不良習慣 平時工程師常常討論各種讓專案更好維護的技巧，不知道大家有沒有想過，怎樣才能做出一個難維護的專案呢？今天我們利用 Laravel 專案為基準，從變數命....
+Duncan Huang shared a link to the group: PHP 也有 Day.
+March 10 at 12:27 PM ·
+隨著參與的專案愈來愈多、參與的時間愈來愈久，程式碼品質的好壞往往就在維護的過程中原形畢露，當初逞快、搶時間、偷懶的影響就在這中間被放大，然後就可以考慮是不是要辭職了 (咦)。… More
+其實你大可不必，只要掌握正確的習慣，就能寫出好維護的程式碼。在 PHP 也有 Day #65， 
 
 https://facebook.com/498481680220886/posts/4878728852196125
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT3WQUI3YgEfhHHeAjtUbyWNnlHEZIGcYBpbQKe2OuZIucvOa_uw9Z0YEgcxojK05LwTX_rHPqTN3axxHUtdPqvXaRITo0xFxudeISjODfXrt0wQqEpiZ-p55QCLPVEsCEP2AFVqUy5mX9vaxA_Jp3hO69L-2qjyQbM', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Thu, 10 Mar 2022 22:55:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4878728852196125</guid></item><item><title>chnical Account Manager (Post-</title><link>https://facebook.com/498481680220886/posts/4891308100938200</link><description>Kitty Tsai shared a link.
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT1YLt7z8PQ6nOQlf6u86obdrVG2Ve8dWK7VPyl4GQflHDthe1jIsvUzNfvWeYJmEQTypz8N1KOYynKEhfOAVwAv7GgXgrvm-ycDh4JSsEBFB2l4cZ688njmKqpR0CRqntOHWpFLpvvSJFu3wBzNKCffvGADM5BFLoU', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
+</description><author></author><pubDate>Thu, 10 Mar 2022 22:55:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4878728852196125</guid></item><item><title> shared a link.
+March 15 at 8:23 AM ·
+嗨大</title><link>https://facebook.com/498481680220886/posts/4891308100938200</link><description>Kitty Tsai shared a link.
 March 15 at 8:23 AM ·
 嗨大家好 又來打擾了~ 我是Mlytics摩速科技的PeopleOps Kitty
 公司目前正在招募一些自由度高, 充滿發揮空間且工作內容超級有趣的職缺. 同時這裡我也簡單介紹一下我們公司的核心目標以及超棒的文化及福利.… More 如果目前沒有適合你的職缺, 也可以推薦給你身邊合適的朋友哦!
-公司網站
+公司網站: https://www.mlytics.com/zh-tw/
+Mlytics 是創立於2017 年的純軟體新創公司，旨在為所有使用者提供一個快速、安全的網站瀏覽體驗。我們將全球頂尖的 CDN 整合成一套通用系統，並利用 Smart Load Balancing 為所有 CDN 流量進行負載平衡處理，並確保網站與應用程式的安全。近年來Mlytics快速成長目前已經有60+的員工，在世界各地皆有經銷夥伴與客戶，與AWS及GCP Azure也有密切合作.
+以下是一部分介紹與成功案例：
+(Yahoo-2022) Mlytics identified as a Representative Vend
 
 https://facebook.com/498481680220886/posts/4891308100938200
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT1coAk_7Fpq7qrKATQB8heA4rGFGdmKhz89d0rbBLbG7jAFYHVAySETMbWtgzhF6uv09llXYVSvbrLlQe4nKEBJTyYyC9Mwitzys-t_6-fKbdsxBlnANlkVkuIZXogkRHtebaj4A0LZ88ZO6NfFjS5rSoZ9zXz5IOQ', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Tue, 15 Mar 2022 16:23:27 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4891308100938200</guid></item><item><title> 3:06 AM ·
-🌱 25sprout SurveyCa</title><link>https://facebook.com/498481680220886/posts/4890864837649193</link><description>高菱英 shared a post.
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT26HMNP0rAMhCtWQr8zxuHHUmGrd-Ma8sIKB5I8vgHvfXRCbUjkZYBdiWOTUV0omWns2BMymCYxa4zZmOsFGstfncFp_sFEyieMLvA2RVslZqSehBrT6S4OciL35wZwDiHpjA8PP-ii1GgVo6svo6LVg-9hE2yLvII', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
+</description><author></author><pubDate>Tue, 15 Mar 2022 16:23:27 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4891308100938200</guid></item><item><title> a post.
+March 15 at 4:00 AM ·
+🌱 25sprou</title><link>https://facebook.com/498481680220886/posts/4890864837649193</link><description>高菱英 shared a post.
 March 15 at 4:00 AM ·
 🌱 25sprout SurveyCake Back-End Developer 熱血招募中！
 
 ▍工作內容
 - 年度 SurveyCake Roadmap Brainstorming 參與未來走向，一起打造最棒的產品
-- 參與… More Scrum 團隊，與 PM / DevOps / Front-End / D
+- 參與… More Scrum 團隊，與 PM / DevOps / Front-End / Designer 一同工作開發功能
+- 開發簡潔、易懂、高維護性並且適合高流量的後端系統
+- 持續增加測試以及重構來改善程式品質
+- 協助編寫與維護技術開發相關文件
+- 持續對規劃、討論、開發、驗證的協作流程提出優化建議
+
+▍能力需求
+- 2 年以上 Laravel &amp; PHP 開發經驗
+- 具有任一資料庫使用經驗 MySQL / MariaDB
+- 具有 Unit Testing 與 Integration Testing 經驗
+- 熟悉 Git 基本操作
+- 使用 CI/CD 部署流程經驗
+- 具有程式與資料庫效能調校經驗
+
+▍什麼樣的你適合來 SurveyCake
+- 重視團隊合作且喜歡與
 
 https://facebook.com/498481680220886/posts/4890864837649193
 
-['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT14d8MAlle9LpnL0unla5Sf2VILUPr2tu-64zv5L1fms6oIQQbqnWpWhfXtw7MK88xbvDbQ4lYN0_qtNEOnwWnxKDdgEFBtHWynrQ0Hq2c5UawYEXdX684sQcyeU5s2MWpUiZeACzyHjPubtOjgPRAIs6KQ_O7JSZU', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Tue, 15 Mar 2022 12:00:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4890864837649193</guid></item><item><title>，大家趕緊報名阿~~~
-EVENTS.LARAVEL-DOJ</title><link>https://facebook.com/498481680220886/posts/4888218711247139</link><description>Duncan Huang shared a post.
+['https://lm.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2431057300364578&amp;h=AT2AjO7f0RY3ejfPSPBHIiGUy82EX7TPZos7cVJlHtRcSBf38OzQsIT-ch3jvXIGynpz6LzMIsTnWM7wLAW3We9GJzASmS1whhJeC8_X32kkd5B7fF19P9nGJMqwF3n81boTHT4uMXYmyg34VVPn3Jj_VZmYX-odSS0', 'https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
+</description><author></author><pubDate>Tue, 15 Mar 2022 12:00:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4890864837649193</guid></item><item><title>ng shared a post.
+March 14 at 3:53 AM ·
+</title><link>https://facebook.com/498481680220886/posts/4888218711247139</link><description>Duncan Huang shared a post.
 March 14 at 3:53 AM ·
 PHP也有Day #65 活動就在明晚了，大家趕緊報名阿~~~
 EVENTS.LARAVEL-DOJO.COM
 PHP也有Day #65 | Laravel Dojo 活動報名站
-講題介紹： 難維護的專案是怎樣寫出來的？談 Laravel 撰寫時的不良習慣 平時工程師常常討論各種讓專案更好維護的技巧
+講題介紹： 難維護的專案是怎樣寫出來的？談 Laravel 撰寫時的不良習慣 平時工程師常常討論各種讓專案更好維護的技巧，不知道大家有沒有想過，怎樣才能做出一個難維護的專案呢？今天我們利用 Laravel 專案為基準，從變數命....
+Duncan Huang shared a link to the group: PHP 也有 Day.
+March 10 at 12:27 PM ·
+隨著參與的專案愈來愈多、參與的時間愈來愈久，程式碼品質的好壞往往就在維護的過程中原形畢露，當初逞快、搶時間、偷懶的影響就在這中間被放大，然後就可以考慮是不是要辭職了 (咦)。… More
+其實你大可不必，只要掌握正確的習慣，就能寫出好維護的程式碼。在 PHP 也有 Day #65， Recca Chao 會用各種反例來讓大家具體感
 
 https://facebook.com/498481680220886/posts/4888218711247139
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Mon, 14 Mar 2022 11:53:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4888218711247139</guid></item><item><title> link.
-March 13 at 3:33 PM ·
-h</title><link>https://facebook.com/498481680220886/posts/4886199441449066</link><description>David Morales‎Laravel 台灣
+</description><author></author><pubDate>Mon, 14 Mar 2022 11:53:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4888218711247139</guid></item><item><title>les‎Laravel 台灣
+March 13 at 9:30 AM ·
+我有个</title><link>https://facebook.com/498481680220886/posts/4886199441449066</link><description>David Morales‎Laravel 台灣
 March 13 at 9:30 AM ·
 我有个疑问关于laravel mix.
 他的目的是合并压缩js css么？
@@ -373,41 +617,86 @@ laravel ui vue后 并且npm run watch后，我如果添加vue文件并且开始�
 如果有个群套路laravel相关就更好了
 2 comments
 Like
-Show more reaction
-
-https://facebook.com/498481680220886/posts/4886199441449066
-
-['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Sun, 13 Mar 2022 17:30:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4886199441449066</guid></item><item><title>s.com/2022/03/multiple-securit</title><link>https://facebook.com/498481680220886/posts/4886906268045050</link><description>Ho Hong Yip shared a link.
+Show more reactions
+Share
+Commenting has been turned off for this post.
+Ho Hong Yip shared a link.
 March 13 at 3:33 PM ·
 https://thehackernews.com/2022/03/multiple-security-flaws-discovered-in.html
 大家記得更新 composer
 THEHACKERNEWS.COM
-Multiple Security Flaws Discovered in Po
+Multiple Security Flaws Discovered in Popular Software Package Managers
+Multiple vulne
+
+https://facebook.com/498481680220886/posts/4886199441449066
+
+['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
+</description><author></author><pubDate>Sun, 13 Mar 2022 17:30:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4886199441449066</guid></item><item><title>p shared a link.
+March 13 at 3:33 PM ·
+h</title><link>https://facebook.com/498481680220886/posts/4886906268045050</link><description>Ho Hong Yip shared a link.
+March 13 at 3:33 PM ·
+https://thehackernews.com/2022/03/multiple-security-flaws-discovered-in.html
+大家記得更新 composer
+THEHACKERNEWS.COM
+Multiple Security Flaws Discovered in Popular Software Package Managers
+Multiple vulnerabilities, including command injection, have been discovered in several popular software package managers such as Composer, Bundler.
+3 Likes
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+莊品毅‎Laravel 台灣
+March 11 at 12:33 PM
 
 https://facebook.com/498481680220886/posts/4886906268045050
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Sun, 13 Mar 2022 23:33:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4886906268045050</guid></item><item><title>el 框架，有遇到幾個不太懂的問題，自己有先找資料，也自己測</title><link>https://facebook.com/498481680220886/posts/4881228068612870</link><description>莊品毅‎Laravel 台灣
+</description><author></author><pubDate>Sun, 13 Mar 2022 23:33:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4886906268045050</guid></item><item><title>l 台灣
+March 11 at 12:33 PM ·
+大家好，小弟這禮拜剛開始</title><link>https://facebook.com/498481680220886/posts/4881228068612870</link><description>莊品毅‎Laravel 台灣
 March 11 at 12:33 PM ·
 大家好，小弟這禮拜剛開始學使用Laravel 框架，有遇到幾個不太懂的問題，自己有先找資料，也自己測了很多遍也不太清楚，想要來社團詢問一下各位大神😂
-我目前寫了4 隻 RESTful API ，其中有3隻想要用內建登入驗證後才可以使用（Auth::check())，但不清楚要怎麼用postman 來模擬登入後驗證這個部分，
+我目前寫了4 隻 RESTful API ，其中有3隻想要用內建登入驗證後才可以使用（Auth::check())，但不清楚要怎麼用postman 來模擬登入後驗證這個部分，再麻煩各位大神可以指點方向。
+7 Likes5 comments
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+Shailesh M Ladumor shared a link.
+March 11 at 5:50 PM ·
+YOUTUBE.COM
+How to use Laravel Nexmo
+Package: https://github.com/Nexmo/nexmo-laravelOfficial Docs: https://developer.vonage.com/in thi
 
 https://facebook.com/498481680220886/posts/4881228068612870
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Fri, 11 Mar 2022 20:33:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4881228068612870</guid></item><item><title>se Laravel Nexmo
-Package: http</title><link>https://facebook.com/498481680220886/posts/4881922335210110</link><description>Shailesh M Ladumor shared a link.
+</description><author></author><pubDate>Fri, 11 Mar 2022 20:33:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4881228068612870</guid></item><item><title> Ladumor shared a link.
+March 11 at 5:50</title><link>https://facebook.com/498481680220886/posts/4881922335210110</link><description>Shailesh M Ladumor shared a link.
 March 11 at 5:50 PM ·
 YOUTUBE.COM
 How to use Laravel Nexmo
-Package: https://github.com/Nexmo/nexmo-laravelOfficial Docs: https://developer.vonage.com/in this tutorial
+Package: https://github.com/Nexmo/nexmo-laravelOfficial Docs: https://developer.vonage.com/in this tutorial, I show you How to use Laravel NexmoIntegrate S...
+2 Likes2 Shares
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+Joan Lin‎Laravel 台灣
+March 11 at 3:17 AM ·
+美商網路公司來台建立團隊Full Stack PHP Engineer*2
+#WFH #提供美國工作證
+🔔公司亮點
+1.如想去美國工作，公司可辦美國工作證
+2.WFH ，疫情明朗的話一周進公司1-2天
+3.組織年輕，扁平，彈性
 
 https://facebook.com/498481680220886/posts/4881922335210110
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Sat, 12 Mar 2022 01:50:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4881922335210110</guid></item><item><title>a post.
-March 10 at 12:29 PM ·</title><link>https://facebook.com/498481680220886/posts/4880075852061425</link><description>Joan Lin‎Laravel 台灣
+</description><author></author><pubDate>Sat, 12 Mar 2022 01:50:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4881922335210110</guid></item><item><title>aravel 台灣
+March 11 at 3:17 AM ·
+美商網路公司來台</title><link>https://facebook.com/498481680220886/posts/4880075852061425</link><description>Joan Lin‎Laravel 台灣
 March 11 at 3:17 AM ·
 美商網路公司來台建立團隊Full Stack PHP Engineer*2
 #WFH #提供美國工作證
@@ -416,36 +705,47 @@ March 11 at 3:17 AM ·
 2.WFH ，疫情明朗的話一周進公司1-2天
 3.組織年輕，扁平，彈性自由的工作氣氛
 Requirements
--Bachelors Degree or hig
+-Bachelors Degree or higher in computer science
+-Working knowledge of some or all: PHP, SQL, HTML, CSS, JavaScript
+-Fluent in English - comfortable discussing technical terms in English
+-Experience in real estate or real estate finance a plus
+-Data processing, Machine learning, or MVC frameworks also highly desirable
+💬有興趣了
 
 https://facebook.com/498481680220886/posts/4880075852061425
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Fri, 11 Mar 2022 10:38:26 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4880075852061425</guid></item><item><title>COM
-PHP也有Day #65 | Laravel Doj</title><link>https://facebook.com/498481680220886/posts/4878404758895201</link><description>Duncan Huang shared a post.
+</description><author></author><pubDate>Fri, 11 Mar 2022 10:38:26 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4880075852061425</guid></item><item><title>ng shared a post.
+March 10 at 12:29 PM ·</title><link>https://facebook.com/498481680220886/posts/4878404758895201</link><description>Duncan Huang shared a post.
 March 10 at 12:29 PM ·
 EVENTS.LARAVEL-DOJO.COM
 PHP也有Day #65 | Laravel Dojo 活動報名站
-講題介紹： 難維護的專案是怎樣寫出來的？談 Laravel 撰寫時的不良習慣 平時工程師常常討論各種讓專案更好維護的技巧，不知道大家有沒有想過，怎樣才能做出一個難維護的專案呢？今天我
+講題介紹： 難維護的專案是怎樣寫出來的？談 Laravel 撰寫時的不良習慣 平時工程師常常討論各種讓專案更好維護的技巧，不知道大家有沒有想過，怎樣才能做出一個難維護的專案呢？今天我們利用 Laravel 專案為基準，從變數命....
+Duncan Huang shared a link to the group: PHP 也有 Day.
+March 10 at 12:27 PM ·
+隨著參與的專案愈來愈多、參與的時間愈來愈久，程式碼品質的好壞往往就在維護的過程中原形畢露，當初逞快、搶時間、偷懶的影響就在這中間被放大，然後就可以考慮是不是要辭職了 (咦)。… More
+其實你大可不必，只要掌握正確的習慣，就能寫出好維護的程式碼。在 PHP 也有 Day #65， Recca Chao 會用各種反例來讓大家具體感覺一下那些難維護的專案是怎麼寫出來的？再來談如何把專案寫好！
+
 
 https://facebook.com/498481680220886/posts/4878404758895201
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Thu, 10 Mar 2022 20:29:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4878404758895201</guid></item><item><title>ck開發過的經驗嗎？
-目前碰到無法寄信的問題，
-試了mail</title><link>https://facebook.com/498481680220886/posts/4872613329474344</link><description>Yi Heng Lin‎Laravel 台灣
+</description><author></author><pubDate>Thu, 10 Mar 2022 20:29:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4878404758895201</guid></item><item><title>n‎Laravel 台灣
+March 8 at 8:51 AM ·
+請問有人有在</title><link>https://facebook.com/498481680220886/posts/4872613329474344</link><description>Yi Heng Lin‎Laravel 台灣
 March 8 at 8:51 AM ·
 請問有人有在M1 Mac上用laradock開發過的經驗嗎？
 目前碰到無法寄信的問題，
 試了mailhog跟maildev都無法收到，
 也沒有報錯，不知道是什麼原因。(Laravel7，PHP8)
 不過用官方最新的教學跑laravel sail的話可以成功寄到mailhog。
-感覺可能是laradock php
-
-https://facebook.com/498481680220886/posts/4872613329474344
-
-['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Tue, 08 Mar 2022 16:51:44 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4872613329474344</guid></item><item><title>關聯出來有些會有null, 但想把main 顯示null的資</title><link>https://facebook.com/498481680220886/posts/4872635772805433</link><description>Liu Zhen Han‎Laravel 台灣
+感覺可能是laradock php-fpm image的問題？
+5 Likes1 comment
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+Liu Zhen Han‎Laravel 台灣
 March 8 at 9:05 AM ·
 （已解決）請問一下目前遇到一個難題，資料關聯出來有些會有null, 但想把main 顯示null的資料都篩選掉，該如何處理。
 我現在下wherenotNull是沒有辦法抓到main
@@ -453,39 +753,88 @@ March 8 at 9:05 AM ·
 Like
 Show more reactions
 Share
-Commenti
+
+https://facebook.com/498481680220886/posts/4872613329474344
+
+['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
+</description><author></author><pubDate>Tue, 08 Mar 2022 16:51:44 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4872613329474344</guid></item><item><title>an‎Laravel 台灣
+March 8 at 9:05 AM ·
+（已解決）</title><link>https://facebook.com/498481680220886/posts/4872635772805433</link><description>Liu Zhen Han‎Laravel 台灣
+March 8 at 9:05 AM ·
+（已解決）請問一下目前遇到一個難題，資料關聯出來有些會有null, 但想把main 顯示null的資料都篩選掉，該如何處理。
+我現在下wherenotNull是沒有辦法抓到main
+7 Likes4 comments1 Share
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+林漢克‎Laravel 台灣
+March 7 at 2:04 PM ·
+請問有強制更新用戶cookie的方式嗎？
+有次我在server使用了 pho artisan optimize:clear 後，發現server會紀錄用戶端登入的cookie，如果不清cookie 是無法登入成功的，不管我使用attempt 或者Auth::login 都是在底層Exception 出來，使用無痕或者清除cookie,則成功登入。
+如果上面我誤解了，再煩請提點一下～
+感謝🙏
+3 Likes1 comment
+Like
+Show mo
 
 https://facebook.com/498481680220886/posts/4872635772805433
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5142372869116381&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php']
-</description><author></author><pubDate>Tue, 08 Mar 2022 17:05:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4872635772805433</guid></item><item><title>
-有次我在server使用了 pho artisan opt</title><link>https://facebook.com/498481680220886/posts/4870660736336270</link><description>林漢克‎Laravel 台灣
+</description><author></author><pubDate>Tue, 08 Mar 2022 17:05:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4872635772805433</guid></item><item><title>l 台灣
+March 7 at 2:04 PM ·
+請問有強制更新用戶cooki</title><link>https://facebook.com/498481680220886/posts/4870660736336270</link><description>林漢克‎Laravel 台灣
 March 7 at 2:04 PM ·
 請問有強制更新用戶cookie的方式嗎？
-有次我在server使用了 pho artisan optimize:clear 後，發現server會紀錄用戶端登入的cookie，如果不清cookie 是無法登入成功的，不管我使用attempt 或者Auth::login 都是在底層Exception 出來，使用無痕或者清除coo
+有次我在server使用了 pho artisan optimize:clear 後，發現server會紀錄用戶端登入的cookie，如果不清cookie 是無法登入成功的，不管我使用attempt 或者Auth::login 都是在底層Exception 出來，使用無痕或者清除cookie,則成功登入。
+如果上面我誤解了，再煩請提點一下～
+感謝🙏
+3 Likes1 comment
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+Gen Ashley shared a link.
+March 7 at 4:35 AM ·
+Don't forget to check out this year's Prizes 🥉🎉 and register for FREE - it's open to ALL! Join us in… More supporting Women in
 
 https://facebook.com/498481680220886/posts/4870660736336270
 
 ['https://static.wixstatic.com/media/1b14cf_f5ce62d9091b4d8692957238e6ded223%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1b14cf_f5ce62d9091b4d8692957238e6ded223%7Emv2.png']
-</description><author></author><pubDate>Mon, 07 Mar 2022 22:04:53 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4870660736336270</guid></item><item><title>(K)NOW Day
-TECH(K)NOW Day is a</title><link>https://facebook.com/498481680220886/posts/4869631806439163</link><description>Gen Ashley shared a link.
+</description><author></author><pubDate>Mon, 07 Mar 2022 22:04:53 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4870660736336270</guid></item><item><title> shared a link.
 March 7 at 4:35 AM ·
-Don't forget to check out this year's Prizes 🥉🎉 and register for FREE - it's open to ALL! Join us in… More supporting Women in Tech this Tuesday, March 8
+Don</title><link>https://facebook.com/498481680220886/posts/4869631806439163</link><description>Gen Ashley shared a link.
+March 7 at 4:35 AM ·
+Don't forget to check out this year's Prizes 🥉🎉 and register for FREE - it's open to ALL! Join us in… More supporting Women in Tech this Tuesday, March 8, 2022 during International Women's Day. Details and registration are at https://techknowday.com. See you on Tuesday!
+TECHKNOWDAY.COM
+TECH(K)NOW Day
+TECH(K)NOW Day is a twice-yearly Women in Tech conference, which started back in 2017.  It’s held in March (around International Women’s Day) and Octob
 
 https://facebook.com/498481680220886/posts/4869631806439163
 
 ['https://static.wixstatic.com/media/1b14cf_f5ce62d9091b4d8692957238e6ded223%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1b14cf_f5ce62d9091b4d8692957238e6ded223%7Emv2.png']
-</description><author></author><pubDate>Mon, 07 Mar 2022 12:35:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4869631806439163</guid></item><item><title>
-功能很強，但整合的時候比較麻煩
-
-BLOG.ZEROPLE</title><link>https://facebook.com/498481680220886/posts/4861698393899171</link><description>Zeroplex Huang shared a link.
+</description><author></author><pubDate>Mon, 07 Mar 2022 12:35:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4869631806439163</guid></item><item><title>uang shared a link.
+March 4 at 6:14 AM ·</title><link>https://facebook.com/498481680220886/posts/4861698393899171</link><description>Zeroplex Huang shared a link.
 March 4 at 6:14 AM ·
 不曉得有沒有人在玩 AspectMock
 功能很強，但整合的時候比較麻煩
 
 BLOG.ZEROPLEX.TW
 整合 Laravel / Lumen 和 AspectMock 的設定
-Laravel 和 Lumen 都有自己整理好的一套 unit test framework，因此若要加入 A...
+Laravel 和 Lumen 都有自己整理好的一套 unit test framework，因此若要加入 A...More “整合 Laravel / Lumen 和 AspectMock 的設定” »
+5 Likes
+Like
+Show more reactions
+Share
+Commenting has been turned off for this post.
+See More Posts…
+View TimelineAdd to GroupInvite to Event
+Loading...
+Try Again
+Cancel
+Loading...
+Loading...
+MPageLoadClientMetrics.logFirstPaint(true);requireLazy(["HasteS
 
 https://facebook.com/498481680220886/posts/4861698393899171
 
