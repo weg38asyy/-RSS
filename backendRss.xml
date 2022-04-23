@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Fri, 22 Apr 2022 19:30:20 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Sat, 23 Apr 2022 19:30:27 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
 我們版主群只是screen capture這個刪文。
 然後fb也把我們版</title><link>https://facebook.com/616369245163622/posts/2649618751838651</link><description>pture這個刪文。
 然後fb也把我們版務文章砍掉。
@@ -8,8 +8,9 @@
 April 20 at 1:42 PM
 50 · Like · 1 Comment · Full Story
 Newest Activity
-Nio Kao shared a link.
-#Hiring #Java #Backend #Cyberse
+Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
+版主身份發言：
+新鮮的進版題出來了
 
 https://facebook.com/616369245163622/posts/2649618751838651
 
@@ -17,160 +18,139 @@ https://facebook.com/616369245163622/posts/2649618751838651
 </description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>
 請回答1000000內，能同時
 被３和７整除，但不能被１１整除
-的最大整數，請</title><link>https://facebook.com/616369245163622/posts/2651148588352334</link><description>７整除，但不能被１１整除
-的最大整數，請附上你的解法.
-（還是提一句：禁止給答案，違者
-直接刪留言）
-3 hrs
-83 · Like · 20 Comments · Full Story
-Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
-版主身分發言：
-886~
-另外，這是公開群組，單純rea
-donly不用進版的
-April 19 
-
-https://facebook.com/616369245163622/posts/2651148588352334
-
-[]
-</description><author></author><pubDate>Fri, 22 Apr 2022 19:03:16 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2651148588352334</guid></item><item><title>
-請回答1000000內，能同時
-被３和７整除，但不能被１１整除
 的最大整數，請</title><link>https://facebook.com/616369245163622/posts/2651059478361245</link><description>７整除，但不能被１１整除
 的最大整數，請附上你的解法.
 （還是提一句：禁止給答案，違者
 直接刪留言）
-3 hrs
-83 · Like · 20 Comments · Full Story
-Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
-版主身分發言：
-886~
-另外，這是公開群組，單純rea
-donly不用進版的
-April 19 
+Yesterday at 8:07 AM
+153 · Like · 24 Comments · Full Story
+Kaichu Liu &gt; ‎Backend 台灣 (Backend Tw)
+想問大家一個關於秒殺系統的問題
+.
+當使用者在網頁上送出訂單後,
 
 https://facebook.com/616369245163622/posts/2651059478361245
 
 []
-</description><author></author><pubDate>Fri, 22 Apr 2022 16:07:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2651059478361245</guid></item><item><title>單純rea
-donly不用進版的
-April 19 at 9:41 AM
-134</title><link>https://facebook.com/616369245163622/posts/2648706228596570</link><description>il 19 at 9:41 AM
-134 · Like · 4 Comments · Full Story
-Kaichu Liu &gt; ‎Backend 台灣 (Backend Tw)
-想問大家一個關於秒殺系統的問題
-.
-當使用者在網頁上送出訂單後,在
-後端為了decouple所以我
-們使用message queue來保存從前端送來的r
-equest.
-當wo
-
-https://facebook.com/616369245163622/posts/2648706228596570
-
-[]
-</description><author></author><pubDate>Tue, 19 Apr 2022 17:41:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2648706228596570</guid></item><item><title>的人要注意
-一下這個ECDSA的vulne
-rability，記得更新JR
-E
-</title><link>https://facebook.com/616369245163622/posts/2650947701705756</link><description>e
-rability，記得更新JR
-E
-Datadog提供的POC https://
-github.com/
-DataDog/
-security-labs-po
-cs/tree/main/
-proof-of-concept
--exploits/
-jwt-null-signatu
-re-vulnerable-a
-pp
-CVE-2022-21449: Psych
+</description><author></author><pubDate>Fri, 22 Apr 2022 16:07:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2651059478361245</guid></item><item><title>聲，與其要
+應徵者寫程式，要他們看程式更能
+找到合適的人。
+How to Fre</title><link>https://facebook.com/616369245163622/posts/2650947701705756</link><description>能
+找到合適的人。
+How to Freaking Find Great Developers By Having Them Read Code
+freakingrectangle.wordpress.com
+April 18 at 7:52 AM
+315 · Like · 15 Comments · Full Story
+Nio Kao shared a 
 
 https://facebook.com/616369245163622/posts/2650947701705756
 
 []
-</description><author></author><pubDate>Fri, 22 Apr 2022 12:16:17 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2650947701705756</guid></item><item><title>POC https://
-github.com/
-DataDog/
-securi</title><link>https://facebook.com/616369245163622/posts/2651012628365930</link><description>com/
-DataDog/
-security-labs-po
-cs/tree/main/
-proof-of-concept
--exploits/
-jwt-null-signatu
-re-vulnerable-a
-pp
-CVE-2022-21449: Psychic Signatures in Java
-neilmadden.blog
-5 hrs
-16 · L
+</description><author></author><pubDate>Fri, 22 Apr 2022 12:16:17 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2650947701705756</guid></item><item><title>6~
+另外，這是公開群組，單純rea
+donly不用進版的
+April 19 a</title><link>https://facebook.com/616369245163622/posts/2647851222015404</link><description>only不用進版的
+April 19 at 9:41 AM
+140 · Like · 4 Comments · Full Story
+Triton Ho shared a link.
+https://
+kheresy.wordpres
+s.com/2010/05/
+24/
+hr-%e5%92%8c%e7%
+a8%8b%e5%bc%8f%
+e8%a8%ad%e
 
-https://facebook.com/616369245163622/posts/2651012628365930
+https://facebook.com/616369245163622/posts/2647851222015404
 
 []
-</description><author></author><pubDate>Fri, 22 Apr 2022 14:25:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2651012628365930</guid></item><item><title> ，感覺有空可以玩玩看
+</description><author></author><pubDate>Mon, 18 Apr 2022 15:52:03 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2647851222015404</guid></item><item><title>單純rea
+donly不用進版的
+April 19 at 9:41 AM
+140</title><link>https://facebook.com/616369245163622/posts/2651148588352334</link><description>il 19 at 9:41 AM
+140 · Like · 4 Comments · Full Story
+Triton Ho shared a link.
+https://
+kheresy.wordpres
+s.com/2010/05/
+24/
+hr-%e5%92%8c%e7%
+a8%8b%e5%bc%8f%
+e8%a8%ad%e8%a8%
+88%e5%b
 
-Nushell
-nushell.sh
-Yesterda</title><link>https://facebook.com/616369245163622/posts/2649115375222322</link><description>
-nushell.sh
-Yesterday at 7:16 AM
-73 · Like · 4 Comments · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-27664
-Photos
-667
-Events
-1
-Files
-13
-View TimelineAdd to GroupInvite
+https://facebook.com/616369245163622/posts/2651148588352334
+
+[]
+</description><author></author><pubDate>Fri, 22 Apr 2022 19:03:16 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2651148588352334</guid></item><item><title>單純rea
+donly不用進版的
+April 19 at 9:41 AM
+140</title><link>https://facebook.com/616369245163622/posts/2648706228596570</link><description>il 19 at 9:41 AM
+140 · Like · 4 Comments · Full Story
+Triton Ho shared a link.
+https://
+kheresy.wordpres
+s.com/2010/05/
+24/
+hr-%e5%92%8c%e7%
+a8%8b%e5%bc%8f%
+e8%a8%ad%e8%a8%
+88%e5%b
+
+https://facebook.com/616369245163622/posts/2648706228596570
+
+[]
+</description><author></author><pubDate>Tue, 19 Apr 2022 17:41:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2648706228596570</guid></item><item><title>事情，Wi
+n10在更新後掃描不到無線網卡
+，重啟沒用，試了很多錯誤排除搞
+了一</title><link>https://facebook.com/616369245163622/posts/2649115375222322</link><description>卡
+，重啟沒用，試了很多錯誤排除搞
+了一個小時也一樣。後來生氣就關
+機，過一段時間開機結果莫名其妙
+就好了。
+好奇重啟跟關機再開對於介面卡偵
+測的差別，希望版上有大大知道願
+意分享，感謝。
+雖然感覺好像沒啥用，但附上版本
+Win10: 21H1 19043.1645
+無線網卡: Intel AX200
+註: 跟後端好像沒有到很有關，如有違
+版規，再請刪除
+A
 
 https://facebook.com/616369245163622/posts/2649115375222322
 
 []
-</description><author></author><pubDate>Wed, 20 Apr 2022 05:35:09 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649115375222322</guid></item><item><title> ，感覺有空可以玩玩看
+</description><author></author><pubDate>Wed, 20 Apr 2022 05:35:09 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649115375222322</guid></item><item><title>事情，Wi
+n10在更新後掃描不到無線網卡
+，重啟沒用，試了很多錯誤排除搞
+了一</title><link>https://facebook.com/616369245163622/posts/2643566685777191</link><description>卡
+，重啟沒用，試了很多錯誤排除搞
+了一個小時也一樣。後來生氣就關
+機，過一段時間開機結果莫名其妙
+就好了。
+好奇重啟跟關機再開對於介面卡偵
+測的差別，希望版上有大大知道願
+意分享，感謝。
+雖然感覺好像沒啥用，但附上版本
+Win10: 21H1 19043.1645
+無線網卡: Intel AX200
+註: 跟後端好像沒有到很有關，如有違
+版規，再請刪除
+A
 
-Nushell
-nushell.sh
-Yesterda</title><link>https://facebook.com/616369245163622/posts/2650219915111868</link><description>
-nushell.sh
-Yesterday at 7:16 AM
-73 · Like · 4 Comments · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-27664
-Photos
-667
-Events
-1
-Files
-13
-View TimelineAdd to GroupInvite
-
-https://facebook.com/616369245163622/posts/2650219915111868
+https://facebook.com/616369245163622/posts/2643566685777191
 
 []
-</description><author></author><pubDate>Thu, 21 Apr 2022 15:16:10 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2650219915111868</guid></item><item><title> is what we all have in common."
+</description><author></author><pubDate>Wed, 13 Apr 2022 09:10:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2643566685777191</guid></item><item><title> is what we all have in common."
 #earthd</title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description> in common."
 #earthday #earth #nature #earthdayeveryda
 y #happyearthday #prisomtechology #prisomtechnolog
 yllp
-6 hrs
+Yesterday at 5:20 AM
 Like · Full Story
 John Liu shared a post.
-嗨囉各位喜愛 Laravel 的朋友，
-既
+嗨囉各位喜愛
 
 https://facebook.com/498481680220886/posts/3579398352129188
 
@@ -180,11 +160,10 @@ https://facebook.com/498481680220886/posts/3579398352129188
 #earthday #earth #nature #earthdayeveryda
 y #happyearthday #prisomtechology #prisomtechnolog
 yllp
-6 hrs
+Yesterday at 5:20 AM
 Like · Full Story
 John Liu shared a post.
-嗨囉各位喜愛 Laravel 的朋友，
-既
+嗨囉各位喜愛
 
 https://facebook.com/498481680220886/posts/4989146044487738
 
@@ -196,13 +175,11 @@ https://facebook.com/498481680220886/posts/4989146044487738
 希望這篇文章會是你的好幫手。
 Laravel 9 — 快速止痛指南
 medium.com
-21 hrs
-26 · Like · Full Story
+April 21 at 1:56 PM
+28 · Like · Full Story
 Prisom Technology LLP shared a post.
 https://
-www.facebook.com
-/
-prisom
+www.facebook
 
 https://facebook.com/498481680220886/posts/4987450631323946
 
@@ -210,9 +187,9 @@ https://facebook.com/498481680220886/posts/4987450631323946
 </description><author></author><pubDate>Thu, 21 Apr 2022 21:56:26 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4987450631323946</guid></item><item><title> a very Happy Administrative Professiona</title><link>https://facebook.com/498481680220886/posts/4986613851407624</link><description>strative Professionals Day…. I wish that you grow each day and write new success stories in times to come.
 #administrativea
 ...
-Yesterday at 5:59 AM
+April 21 at 5:59 AM
 Like · Full Story
-Yu-Hsuan Hung
+Yu-Hsuan Hung 
 
 https://facebook.com/498481680220886/posts/4986613851407624
 
