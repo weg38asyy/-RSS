@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Mon, 09 May 2022 19:30:22 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Tue, 10 May 2022 19:30:22 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
 我們版主群只是screen capture這個刪文。
 然後fb也把我們版</title><link>https://facebook.com/616369245163622/posts/2649618751838651</link><description>pture這個刪文。
 然後fb也把我們版務文章砍掉。
@@ -9,12 +9,31 @@ April 20 at 1:42 PM
 51 · Like · 2 Comments · Full Story
 Newest Activity
 Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
-&gt;「阿 我們是香港齁，做的都是大
+有人問我為何強烈不鼓勵使用像r
+
 
 https://facebook.com/616369245163622/posts/2649618751838651
 
 []
-</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>的：
+</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>基建於redi
+s的，然後redis本身沒法做
+到high persistenc</title><link>https://facebook.com/616369245163622/posts/2603524943114699</link><description>沒法做
+到high persistence
+（斷電後redis會有data
+loss的）
+（Kafka /
+rabbitmq都有mirrori
+ng / quorum機制保護）
+２
+sidekiq是使用redis
+的list/
+sorted set data structure，然後一個data structure只會存放於單
+台的redie上，那很容易造成
+
+https://facebook.com/616369245163622/posts/2603524943114699
+
+[]
+</description><author></author><pubDate>Wed, 23 Feb 2022 22:07:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2603524943114699</guid></item><item><title>的：
 HKTVMall, 9gag, gogovan, hypebeast
 (c</title><link>https://facebook.com/616369245163622/posts/2662404253893434</link><description>ogovan, hypebeast
 (crypto.com是新加坡
@@ -111,33 +130,20 @@ January 5 at 8:56 AM
 https://facebook.com/616369245163622/posts/2563764560424071
 
 []
-</description><author></author><pubDate>Wed, 05 Jan 2022 16:56:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2563764560424071</guid></item><item><title>雖然還不清
-楚要解釋到什麼程度才算解釋）
-Google, Meta, and o</title><link>https://facebook.com/616369245163622/posts/2660551050745421</link><description>
-Google, Meta, and others will have to explain their algorithms under new EU legislation
-theverge.com
-April 25 at 9:00 AM
-30 · Like · 3 Comments · Full Story
-See More Posts
-Group M
+</description><author></author><pubDate>Wed, 05 Jan 2022 16:56:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2563764560424071</guid></item><item><title>分得分高達 8.8 分（滿分為 10 分_），危險程度評級為「高」（
+high）</title><link>https://facebook.com/616369245163622/posts/2660551050745421</link><description>_），危險程度評級為「高」（
+high）等級。這個 CVE-2021-24354 漏洞發現後，研究人員將漏洞提報
+給原廠 TP-Link；該漏洞業已在今
+（2022）年 1 月時修復，更新版本名為「Arc
+her C7(US)_V5_21121
+...
+More
+TP-Link AC1750 路由器存有遠端執行任意程式碼漏洞，建議立即更新-TWCERT/CC
 
 https://facebook.com/616369245163622/posts/2660551050745421
 
 []
-</description><author></author><pubDate>Tue, 03 May 2022 17:37:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2660551050745421</guid></item><item><title>雖然還不清
-楚要解釋到什麼程度才算解釋）
-Google, Meta, and o</title><link>https://facebook.com/616369245163622/posts/2653695154764344</link><description>
-Google, Meta, and others will have to explain their algorithms under new EU legislation
-theverge.com
-April 25 at 9:00 AM
-30 · Like · 3 Comments · Full Story
-See More Posts
-Group M
-
-https://facebook.com/616369245163622/posts/2653695154764344
-
-[]
-</description><author></author><pubDate>Mon, 25 Apr 2022 17:00:12 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2653695154764344</guid></item><item><title>資訊
+</description><author></author><pubDate>Tue, 03 May 2022 17:37:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2660551050745421</guid></item><item><title>資訊
 目前缺兩名PHP程式設計人員(
 一名碩士缺、一名學士缺)，
 工作內容為校務</title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>名碩士缺、一名學士缺)，
@@ -185,7 +191,7 @@ https://facebook.com/498481680220886/posts/5027765150625827
 國立虎尾科技大學 - 國立虎尾科技大學電算中心系統設計組技術員徵聘啟事 延長公告至111年5月13日止
 nfu.edu.tw
 May 6 at 1:18 AM
-26 · Like · 1 Comment · Full Story
+28 · Like · 1 Comment · Full Story
 輕井澤 &gt; ‎Laravel 台灣
 請問各位先進大大
 我們的網站裝了capanel之
@@ -275,9 +281,9 @@ Group Menu
 About
 Info
 Members
-10603
+10601
 Photos
-1936
+1935
 E
 
 https://facebook.com/498481680220886/posts/5010679419001067
