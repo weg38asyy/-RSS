@@ -1,292 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Tue, 10 May 2022 19:30:22 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Fri, 17 Jun 2022 04:23:20 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
 我們版主群只是screen capture這個刪文。
 然後fb也把我們版</title><link>https://facebook.com/616369245163622/posts/2649618751838651</link><description>pture這個刪文。
 然後fb也把我們版務文章砍掉。
 －－－－－－－－－－－－－－－
 －－－－－－－－...
 April 20 at 1:42 PM
-51 · Like · 2 Comments · Full Story
+52 · Like · 2 Comments · Full Story
 Newest Activity
-Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
-有人問我為何強烈不鼓勵使用像r
-
+廖紹龍 shared a link.
+請問有人遇過 Ubuntu 20.04 的 Xorg 一直寫入記錄檔
 
 https://facebook.com/616369245163622/posts/2649618751838651
 
 []
-</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>基建於redi
-s的，然後redis本身沒法做
-到high persistenc</title><link>https://facebook.com/616369245163622/posts/2603524943114699</link><description>沒法做
-到high persistence
-（斷電後redis會有data
-loss的）
-（Kafka /
-rabbitmq都有mirrori
-ng / quorum機制保護）
-２
-sidekiq是使用redis
-的list/
-sorted set data structure，然後一個data structure只會存放於單
-台的redie上，那很容易造成
+</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>發佈了，但是有四個 bug 沒有修正。這裡給出全部修正方案
+。
+至於我為什麼沒跟</title><link>https://facebook.com/616369245163622/posts/2699248810208978</link><description>裡給出全部修正方案
+。
+至於我為什麼沒跟他們推 PR，請看該 Gist 正文開頭的說明。
+針對 macOS 版小麥注音 2.3 的四個 BUG 修正＋一處單元測試補全。
+gist.github.com
+9 hrs
+22 · Like · Full Story
+Alvis Yu shared a link.
+**Calling for applications
 
-https://facebook.com/616369245163622/posts/2603524943114699
+https://facebook.com/616369245163622/posts/2699248810208978
 
 []
-</description><author></author><pubDate>Wed, 23 Feb 2022 22:07:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2603524943114699</guid></item><item><title>的：
-HKTVMall, 9gag, gogovan, hypebeast
-(c</title><link>https://facebook.com/616369245163622/posts/2662404253893434</link><description>ogovan, hypebeast
-(crypto.com是新加坡
-商)
-(江湖傳說hypebeast可
-能把HQ搬離香港)
-(goodnote現在大約大半
-人員在英國)
-然後台灣這邊：
-pchome, kkbox, 17media, yahoo(tw)
----------------
----------------
----------------
-----
+</description><author></author><pubDate>Thu, 16 Jun 2022 14:29:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2699248810208978</guid></item><item><title>for applications**
+As our iconic #SpeedI</title><link>https://facebook.com/616369245163622/posts/2699386916861834</link><description>s our iconic #SpeedInterview deadline (6/17) is just around the corner, don't miss your last chance to secure an interview with...
+Speed Interview Summer 2022｜Meet.jobs Event
+event
 
-https://facebook.com/616369245163622/posts/2662404253893434
+https://facebook.com/616369245163622/posts/2699386916861834
 
 []
-</description><author></author><pubDate>Thu, 05 May 2022 17:47:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2662404253893434</guid></item><item><title>一平台小編發的廣告文
-限每個月一篇
-違者多出來的會被刪掉
-多次違規者會被踢掉
-M</title><link>https://facebook.com/616369245163622/posts/2662382013895658</link><description>多出來的會被刪掉
-多次違規者會被踢掉
-May 5 at 9:25 AM
-52 · Like · Full Story
-Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
-版主身份發言：
-新鮮的進版題出來了：
-請回答1000000內，能同時
-被３和７整除，但不能被１１整除
-的最大整數，請附上你的解法.
-（還是提一句：禁止給答案，違者
-直接
+</description><author></author><pubDate>Thu, 16 Jun 2022 18:41:48 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2699386916861834</guid></item><item><title>nic #SpeedInterview deadline (6/17) is j</title><link>https://facebook.com/616369245163622/posts/2699132953553897</link><description>deadline (6/17) is just around the corner, don't miss your last chance to secure an interview with...
+Speed Interview Summer 2022｜Meet.jobs Event
+event.meet.jobs
+17 hrs
+1 · Like · 
 
-https://facebook.com/616369245163622/posts/2662382013895658
+https://facebook.com/616369245163622/posts/2699132953553897
 
 []
-</description><author></author><pubDate>Thu, 05 May 2022 17:08:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2662382013895658</guid></item><item><title>告文
-限每個月一篇
-違者多出來的會被刪掉
-多次違規者會被踢掉
-May 5 at </title><link>https://facebook.com/616369245163622/posts/2662391273894732</link><description>
-多次違規者會被踢掉
-May 5 at 9:25 AM
-52 · Like · Full Story
-Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
-版主身份發言：
-新鮮的進版題出來了：
-請回答1000000內，能同時
-被３和７整除，但不能被１１整除
-的最大整數，請附上你的解法.
-（還是提一句：禁止給答案，違者
-直接刪留言）
-Apr
+</description><author></author><pubDate>Thu, 16 Jun 2022 10:49:25 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2699132953553897</guid></item><item><title>載大量re
+quest的server
+大約是200個request concur</title><link>https://facebook.com/616369245163622/posts/2695546697245856</link><description>約是200個request concurrency
+語言目前是用node
+考慮到node是single thread不確定是不是需要透
+過nginx來增加伺服器的承載
+量
+每次request都需要跟類似
+的資料進行比對 但比對完之後舊的就會刪除 因此我想說把資料丟進去redi
+s讓他能夠更快速讀取
+之前都是接觸少量request
+的專案 第一次嘗試高乘載的s
 
-https://facebook.com/616369245163622/posts/2662391273894732
+https://facebook.com/616369245163622/posts/2695546697245856
 
 []
-</description><author></author><pubDate>Thu, 05 May 2022 17:25:16 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2662391273894732</guid></item><item><title>
-請回答1000000內，能同時
-被３和７整除，但不能被１１整除
-的最大整數，請</title><link>https://facebook.com/616369245163622/posts/2651059478361245</link><description>７整除，但不能被１１整除
-的最大整數，請附上你的解法.
-（還是提一句：禁止給答案，違者
-直接刪留言）
-April 22 at 8:07 AM
-186 · Like · 27 Comments · Full Story
-Cateyes Lin shared a link.
-[更新]
-目前 iOS 依舊徵求中。
-後端暫時已招募到額滿，感謝厚愛
-～
-======
-
-
-https://facebook.com/616369245163622/posts/2651059478361245
-
-[]
-</description><author></author><pubDate>Fri, 22 Apr 2022 16:07:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2651059478361245</guid></item><item><title>同事自己找，我相信要找工
-程師，派出工程師來找人是最有說
-服力的。
-想先初步了解</title><link>https://facebook.com/616369245163622/posts/2563764560424071</link><description>師來找人是最有說
-服力的。
-想先初步了解我們或有任何批評指
-教，歡迎在這裡回應或寄信至 developers@pklo
-tcorp.com
-...
-Autopass Inc is now hiring, Apply now!
-autopass.teamdoor.io
-January 5 at 8:56 AM
-111 · Like · 1 Comment · 
-
-https://facebook.com/616369245163622/posts/2563764560424071
-
-[]
-</description><author></author><pubDate>Wed, 05 Jan 2022 16:56:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2563764560424071</guid></item><item><title>分得分高達 8.8 分（滿分為 10 分_），危險程度評級為「高」（
-high）</title><link>https://facebook.com/616369245163622/posts/2660551050745421</link><description>_），危險程度評級為「高」（
-high）等級。這個 CVE-2021-24354 漏洞發現後，研究人員將漏洞提報
-給原廠 TP-Link；該漏洞業已在今
-（2022）年 1 月時修復，更新版本名為「Arc
-her C7(US)_V5_21121
+</description><author></author><pubDate>Sun, 12 Jun 2022 02:49:10 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2695546697245856</guid></item><item><title>a Inc. Backend Developer #徵人
+工作地點：台北內湖，不</title><link>https://facebook.com/616369245163622/posts/2698725083594684</link><description>oper #徵人
+工作地點：台北內湖，不過基本上
+在家工作，同事分散在台灣、美國
+、歐洲所以線上會議跟slack
+是主要溝通媒介，會議以英語為主
+薪資範圍：100 ~ 140 萬（Depending on Experience, 高手可談)
 ...
 More
-TP-Link AC1750 路由器存有遠端執行任意程式碼漏洞，建議立即更新-TWCERT/CC
+[徵才][遠端/部分遠端(台北)] Gemini Data 誠徵後端工程師 · Issue #51 
 
-https://facebook.com/616369245163622/posts/2660551050745421
+https://facebook.com/616369245163622/posts/2698725083594684
 
 []
-</description><author></author><pubDate>Tue, 03 May 2022 17:37:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2660551050745421</guid></item><item><title>資訊
-目前缺兩名PHP程式設計人員(
-一名碩士缺、一名學士缺)，
-工作內容為校務</title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>名碩士缺、一名學士缺)，
-工作內容為校務行政資料庫程式開
-發及維護，
-除國定假日、週休二日休假外，寒
-暑假另有若干彈性休假日數。
-每年依學校薪資表調薪。
-歡迎有意求職的人前來嘗試 (彰雲嘉地區尤佳)
-詳細資訊請參閱 https://bit.ly/
-37nYRiA
-如有興趣者了解更多者，可私訊我
-。
-國立虎尾科技大學 - 國立虎尾科技大學電算中心系統設計組技術
+</description><author></author><pubDate>Wed, 15 Jun 2022 23:04:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2698725083594684</guid></item><item><title>a Inc. Backend Developer #徵人
+工作地點：台北內湖，不</title><link>https://facebook.com/616369245163622/posts/2698526986947827</link><description>oper #徵人
+工作地點：台北內湖，不過基本上
+在家工作，同事分散在台灣、美國
+、歐洲所以線上會議跟slack
+是主要溝通媒介，會議以英語為主
+薪資範圍：100 ~ 140 萬（Depending on Experience, 高手可談)
+...
+More
+[徵才][遠端/部分遠端(台北)] Gemini Data 誠徵後端工程師 · Issue #51 
+
+https://facebook.com/616369245163622/posts/2698526986947827
+
+[]
+</description><author></author><pubDate>Wed, 15 Jun 2022 18:01:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2698526986947827</guid></item><item><title>a Inc. Backend Developer #徵人
+工作地點：台北內湖，不</title><link>https://facebook.com/616369245163622/posts/2698367383630454</link><description>oper #徵人
+工作地點：台北內湖，不過基本上
+在家工作，同事分散在台灣、美國
+、歐洲所以線上會議跟slack
+是主要溝通媒介，會議以英語為主
+薪資範圍：100 ~ 140 萬（Depending on Experience, 高手可談)
+...
+More
+[徵才][遠端/部分遠端(台北)] Gemini Data 誠徵後端工程師 · Issue #51 
+
+https://facebook.com/616369245163622/posts/2698367383630454
+
+[]
+</description><author></author><pubDate>Wed, 15 Jun 2022 12:43:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2698367383630454</guid></item><item><title> #PHP 容器苦手朋友的 `dwchiang/
+nginx-php-fpm` </title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>ang/
+nginx-php-fpm` 專案，就收到有人開 GitHub Issue 分享說有將這個專案為基底放上 Amazon #ECS 而且是量產環境 。喔耶，好開心，有繼續維護的動
+力了 &lt;3...
+Yesterday at 2:23 PM
+94 · Like · 4 Comments · Full Story
+Ben Liang shared a l
 
 https://facebook.com/498481680220886/posts/3579398352129188
 
 []
-</description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title>資訊
-目前缺兩名PHP程式設計人員(
-一名碩士缺、一名學士缺)，
-工作內容為校務</title><link>https://facebook.com/498481680220886/posts/5027765150625827</link><description>名碩士缺、一名學士缺)，
-工作內容為校務行政資料庫程式開
-發及維護，
-除國定假日、週休二日休假外，寒
-暑假另有若干彈性休假日數。
-每年依學校薪資表調薪。
-歡迎有意求職的人前來嘗試 (彰雲嘉地區尤佳)
-詳細資訊請參閱 https://bit.ly/
-37nYRiA
-如有興趣者了解更多者，可私訊我
-。
-國立虎尾科技大學 - 國立虎尾科技大學電算中心系統設計組技術
+</description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title> #PHP 容器苦手朋友的 `dwchiang/
+nginx-php-fpm` </title><link>https://facebook.com/498481680220886/posts/5141344809267860</link><description>ang/
+nginx-php-fpm` 專案，就收到有人開 GitHub Issue 分享說有將這個專案為基底放上 Amazon #ECS 而且是量產環境 。喔耶，好開心，有繼續維護的動
+力了 &lt;3...
+Yesterday at 2:23 PM
+94 · Like · 4 Comments · Full Story
+Ben Liang shared a l
 
-https://facebook.com/498481680220886/posts/5027765150625827
+https://facebook.com/498481680220886/posts/5141344809267860
 
 []
-</description><author></author><pubDate>Sat, 07 May 2022 00:28:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5027765150625827</guid></item><item><title>tps://bit.ly/
-37nYRiA
-如有興趣者了解更多者，可私訊我
-。
-</title><link>https://facebook.com/498481680220886/posts/5025926520809690</link><description>A
-如有興趣者了解更多者，可私訊我
-。
-國立虎尾科技大學 - 國立虎尾科技大學電算中心系統設計組技術員徵聘啟事 延長公告至111年5月13日止
-nfu.edu.tw
-May 6 at 1:18 AM
-28 · Like · 1 Comment · Full Story
-輕井澤 &gt; ‎Laravel 台灣
-請問各位先進大大
-我們的網站裝了capanel之
-後位
+</description><author></author><pubDate>Wed, 15 Jun 2022 22:23:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5141344809267860</guid></item><item><title>l Stack Developer
+使用 Laravel 和 React 作為基</title><link>https://facebook.com/498481680220886/posts/5131824203553254</link><description> Laravel 和 React 作為基礎框架，編寫高質量和可靠
+的程式。
+敏捷開發是我們的工作方式，我們
+注重溝通和效率。
+快速定位問題並修復問題。
+有責任心
+...
+EasyMonster - Easy Your Freight Process
+easymonster.solutions
+Yesterday at 10:24 AM
+2 · Like · 
 
-https://facebook.com/498481680220886/posts/5025926520809690
+https://facebook.com/498481680220886/posts/5131824203553254
 
 []
-</description><author></author><pubDate>Fri, 06 May 2022 09:18:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5025926520809690</guid></item><item><title> 後端工程師依舊熱烈招募中！
-🌳Back-End Application Dev</title><link>https://facebook.com/498481680220886/posts/5023912061011136</link><description>-End Application Developer
-新芽持續擴大招募，今年因應去年
-案子成長，我們有個新編制，預計
-招募 1 位產品應用工程師。
-這個職位主要負責維護現有專案，
-故障排除以及開發 SurveyCake 串接功能，在這個位置即將面對兩
-種工作：
--...
-May 5 at 9:08 AM
-4 · Like · Full Story
-陳則閔 &gt;
+</description><author></author><pubDate>Sun, 12 Jun 2022 10:05:57 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5131824203553254</guid></item><item><title>N2022 徵（蒸）稿（糕）出籠啦
+🥢 出籠時間：06/06 06:00 PM
+</title><link>https://facebook.com/498481680220886/posts/5118949874840687</link><description>出籠時間：06/06 06:00 PM
+🥡...
+Mobile Open Platform Conference
+Education
+June 7 at 11:21 AM
+2 · Like · Full Story
+東耳陳 &gt; ‎Laravel 台灣
+1986 年的 laravel, 不知我有沒有看錯…
+不過這時間似乎是從內容頁來的
+June 7 at 10
 
-https://facebook.com/498481680220886/posts/5023912061011136
+https://facebook.com/498481680220886/posts/5118949874840687
 
 []
-</description><author></author><pubDate>Thu, 05 May 2022 15:56:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5023912061011136</guid></item><item><title>Application Developer
-新芽持續擴大招募，今年因應去年
-案子</title><link>https://facebook.com/498481680220886/posts/5024044987664510</link><description>r
-新芽持續擴大招募，今年因應去年
-案子成長，我們有個新編制，預計
-招募 1 位產品應用工程師。
-這個職位主要負責維護現有專案，
-故障排除以及開發 SurveyCake 串接功能，在這個位置即將面對兩
-種工作：
--...
-May 5 at 9:08 AM
-4 · Like · Full Story
+</description><author></author><pubDate>Tue, 07 Jun 2022 19:21:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5118949874840687</guid></item><item><title>容頁來的
+June 7 at 10:22 AM
+4 · Like · 1 Com</title><link>https://facebook.com/498481680220886/posts/5118837794851895</link><description> AM
+4 · Like · 1 Comment · Full Story
 陳則閔 &gt; ‎Laravel 台灣
-&lt;已解決~&gt;想請教各位前
+Laravel 9 CORS問題
+想請教大家 我使用laravel 寫api
+然後讓在localhost 的前端vue去接
+平常正常接資料 只要沒超過30秒 就不會跳 CORS 的錯誤
+php 的 最大執行時間也設定超過30秒了
+我知道有加入que
 
-https://facebook.com/498481680220886/posts/5024044987664510
-
-[]
-</description><author></author><pubDate>Thu, 05 May 2022 17:08:41 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5024044987664510</guid></item><item><title>址在同一時
-間請求 暫時不考慮限制問題
-目前想法是這樣 如圖所示 但問題應該出在</title><link>https://facebook.com/498481680220886/posts/5023512904384385</link><description>目前想法是這樣 如圖所示 但問題應該出在 該如何單純把這方法放進去arr
-ay裡而不執行
-再麻煩大家解惑了
-May 5 at 4:09 AM
-3 · Like · 3 Comments · Full Story
-吳承諺 shared a link.
-laravel: 9.9.0
-https://
-laravel.com/
-docs/9.x/
-validati
-
-https://facebook.com/498481680220886/posts/5023512904384385
+https://facebook.com/498481680220886/posts/5118837794851895
 
 []
-</description><author></author><pubDate>Thu, 05 May 2022 12:09:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5023512904384385</guid></item><item><title>aravel.com/
-docs/9.x/
-validation#repop
-u</title><link>https://facebook.com/498481680220886/posts/4999047556830920</link><description>/
-validation#repop
-ulating-forms
-各位好，看文件的說明 old 應該是用在 validator 驗證失敗後觸發後回前個頁面時可
-以自動填入之前填的項目，不知道
-哪個部分沒設定到所以內容沒成功
-出現，附上...
-Laravel - The PHP Framework For Web Artisans
-laravel.com
-Ap
+</description><author></author><pubDate>Tue, 07 Jun 2022 18:22:45 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5118837794851895</guid></item><item><title>aravel 寫api
+然後讓在localhost 的前端vue去接
+平常正常接</title><link>https://facebook.com/498481680220886/posts/5113591528709855</link><description>lhost 的前端vue去接
+平常正常接資料 只要沒超過30秒 就不會跳 CORS 的錯誤
+php 的 最大執行時間也設定超過30秒了
+我知道有加入queue之類的 但是想先用單純的方法 先慢慢等 看資料有沒有跳出來
+...
+June 5 at 12:34 PM
+2 · Like · 4 Comments · Full Story
+Ray Tsou shar
 
-https://facebook.com/498481680220886/posts/4999047556830920
+https://facebook.com/498481680220886/posts/5113591528709855
 
 []
-</description><author></author><pubDate>Tue, 26 Apr 2022 08:25:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4999047556830920</guid></item><item><title>Embed 包在 Laravel 中抓取數據 https://
-youtu.be</title><link>https://facebook.com/498481680220886/posts/5010679419001067</link><description>數據 https://
-youtu.be/
-4YCLRpKY1cs
-How to use Embed in Laravel
-youtube.com
-April 30 at 9:03 AM
-3 · Like · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-10601
-Photos
-1935
-E
+</description><author></author><pubDate>Sun, 05 Jun 2022 20:34:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5113591528709855</guid></item><item><title>行的問題
+假設view('home')
+home:
+```
+@extends('</title><link>https://facebook.com/498481680220886/posts/4946359918766351</link><description>home:
+```
+@extends('layou
+ts')
+空行
+@section('heade
+rcode')
+@endsection
+空行
+@section('conte
+nt')
+@endsection
+```...
+More
+June 2 at 4:03 AM
+2 · Like · 2 Comments · Full Story
+See More 
 
-https://facebook.com/498481680220886/posts/5010679419001067
+https://facebook.com/498481680220886/posts/4946359918766351
 
 []
-</description><author></author><pubDate>Sat, 30 Apr 2022 17:03:10 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5010679419001067</guid></item></channel></rss>
+</description><author></author><pubDate>Tue, 05 Apr 2022 19:57:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/4946359918766351</guid></item><item><title>行的問題
+假設view('home')
+home:
+```
+@extends('</title><link>https://facebook.com/498481680220886/posts/5104175342984807</link><description>home:
+```
+@extends('layou
+ts')
+空行
+@section('heade
+rcode')
+@endsection
+空行
+@section('conte
+nt')
+@endsection
+```...
+More
+June 2 at 4:03 AM
+2 · Like · 2 Comments · Full Story
+See More 
+
+https://facebook.com/498481680220886/posts/5104175342984807
+
+[]
+</description><author></author><pubDate>Thu, 02 Jun 2022 12:03:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5104175342984807</guid></item></channel></rss>
