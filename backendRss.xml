@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Wed, 29 Jun 2022 02:22:46 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Wed, 29 Jun 2022 20:58:07 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
 我們版主群只是screen capture這個刪文。
 然後fb也把我們版</title><link>https://facebook.com/616369245163622/posts/2649618751838651</link><description>pture這個刪文。
 然後fb也把我們版務文章砍掉。
@@ -8,41 +8,65 @@
 April 20 at 1:42 PM
 52 · Like · 2 Comments · Full Story
 Newest Activity
-Shiki Suen &gt; ‎Backend 台灣 (Backend Tw)
-是不是現在做程式方面的產品主管
+Chang Shun shared a link.
+資安如何逆向工程?
+A.
+如果要學網頁資安是: htm
 
 https://facebook.com/616369245163622/posts/2649618751838651
 
 []
-</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>不知道所以
-才問的。）
-13 hrs
-47 · Like · 21 Commen</title><link>https://facebook.com/616369245163622/posts/2709575425842983</link><description>7 · Like · 21 Comments · Full Story
+</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>安是: html + css + JavaScript + Node.js
++ </title><link>https://facebook.com/616369245163622/posts/2710589099074949</link><description>aScript + Node.js
++ mysql，先從這五個基本的先
+學?
+有推薦網頁資安的書或線上課程?
+...
+green (@greentheonly) / Twitter
+twitter.com
+9 hrs
+6 · Like · 9 Comments · Full Story
 吳宇萱 shared a link.
-想請教關於 amp-login 在後端實作的安全性問題
-amp-login 中，在 login_endpoint 的部分提到：amp runtime 會附上 return_url，作為登入
-流程結束後重新導向的位置（來源
-https://
-amp.d
+想請教關於 amp-login 在
 
-https://facebook.com/616369245163622/posts/2709575425842983
+https://facebook.com/616369245163622/posts/2710589099074949
 
 []
-</description><author></author><pubDate>Tue, 28 Jun 2022 12:39:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2709575425842983</guid></item><item><title>也只好pass了（已經下b
+</description><author></author><pubDate>Wed, 29 Jun 2022 11:22:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2710589099074949</guid></item><item><title>的產品主管
+的人們都不需要懂太多技術？還是
+說不需要是資工學歷出身？
+（這篇不是</title><link>https://facebook.com/616369245163622/posts/2709657192501473</link><description>是
+說不需要是資工學歷出身？
+（這篇不是酸文，是真不知道所以
+才問的。）
+Yesterday at 4:39 AM
+54 · Like · 22 Comments · Full Story
+Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
+版主身份發言：
+我們也只好pass了（已經下b
 lock）
 June 23 at 4:21 PM
-4</title><link>https://facebook.com/616369245163622/posts/2709657192501473</link><description>June 23 at 4:21 PM
-49 · Like · 10 Comments · Full Story
-Martin Chang &gt; ‎Backend 台灣 (Backend Tw)
-請教一下各位都是怎麼紀錄 multithread/
-concurrent環境下避免 data race的機制的？
-我自己寫的玩具裡面到處都是註解
-。說明那些地方因為架構
 
 https://facebook.com/616369245163622/posts/2709657192501473
 
 []
-</description><author></author><pubDate>Tue, 28 Jun 2022 15:10:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2709657192501473</guid></item><item><title>（已經下b
+</description><author></author><pubDate>Tue, 28 Jun 2022 15:10:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2709657192501473</guid></item><item><title>不知道所以
+才問的。）
+Yesterday at 4:39 AM
+54 · Li</title><link>https://facebook.com/616369245163622/posts/2709575425842983</link><description>y at 4:39 AM
+54 · Like · 22 Comments · Full Story
+Triton Ho &gt; ‎Backend 台灣 (Backend Tw)
+版主身份發言：
+我們也只好pass了（已經下b
+lock）
+June 23 at 4:21 PM
+49 · Like · 10 Comments · Full Story
+Martin 
+
+https://facebook.com/616369245163622/posts/2709575425842983
+
+[]
+</description><author></author><pubDate>Tue, 28 Jun 2022 12:39:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2709575425842983</guid></item><item><title>（已經下b
 lock）
 June 23 at 4:21 PM
 49 · Like</title><link>https://facebook.com/616369245163622/posts/2705613539572505</link><description>at 4:21 PM
@@ -81,10 +105,17 @@ https://facebook.com/616369245163622/posts/2695836147216911
 marco79423.net
 June 14 at 2:03 PM
 24 · Like · 1 Comment · Full Story
-SK Yang shared a post.
-HKEPC &gt; ‎雷神講堂
-QNAP NAS被發現存在三年之久的關鍵
-PHP 漏洞（CVE-2019-
+See More Posts
+Group Menu
+About
+Info
+Members
+27792
+Photos
+686
+Events
+1
+Fil
 
 https://facebook.com/616369245163622/posts/2707495549384304
 
@@ -94,22 +125,24 @@ marco79423.net</title><link>https://facebook.com/616369245163622/posts/269785966
 marco79423.net
 June 14 at 2:03 PM
 24 · Like · 1 Comment · Full Story
-SK Yang shared a post.
-HKEPC &gt; ‎雷神講堂
-QNAP NAS被發現存在三年之久的關鍵
-PHP 漏洞（CVE-2019-110
-43），黑客有機會透過此漏洞遠
-程執行代碼，QNAP 
+See More Posts
+Group Menu
+About
+Info
+Members
+27792
+Photos
+686
+Events
+1
+Files
+13
+View TimelineAdd to Group
 
 https://facebook.com/616369245163622/posts/2697859660347893
 
 []
-</description><author></author><pubDate>Tue, 14 Jun 2022 22:03:14 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2697859660347893</guid></item><item><title></title><link>https://facebook.com/616369245163622/posts/2706053316195194</link><description>
-
-https://facebook.com/616369245163622/posts/2706053316195194
-
-[]
-</description><author></author><pubDate>Fri, 24 Jun 2022 13:40:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2706053316195194</guid></item><item><title> #PHP 容器苦手朋友的 `dwchiang/
+</description><author></author><pubDate>Tue, 14 Jun 2022 22:03:14 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2697859660347893</guid></item><item><title> #PHP 容器苦手朋友的 `dwchiang/
 nginx-php-fpm` </title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>ang/
 nginx-php-fpm` 專案，就收到有人開 GitHub Issue 分享說有將這個專案為基底放上 Amazon #ECS 而且是量產環境 。喔耶，好開心，有繼續維護的動
 力了 &lt;3...
@@ -196,18 +229,35 @@ Mobile Open Platform Conference
 Education
 June 7 at 11:21 AM
 2 · Like · Full Story
+東耳陳 &gt; ‎Laravel 台灣
+1986 年的 laravel, 不知我有沒有看錯…
+不過這時間似乎是從內容頁來的
+June 7 at 10
+
+https://facebook.com/498481680220886/posts/5118949874840687
+
+[]
+</description><author></author><pubDate>Tue, 07 Jun 2022 19:21:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5118949874840687</guid></item><item><title>容頁來的
+June 7 at 10:22 AM
+4 · Like · 1 Com</title><link>https://facebook.com/498481680220886/posts/5118837794851895</link><description> AM
+4 · Like · 1 Comment · Full Story
 See More Posts
 Group Menu
 About
 Info
 Members
-10660
+10662
 Photos
 1913
 Events
-Fi
+Files
+15
+View TimelineAdd to GroupInvite to Event
+English (US)
++
+Meta © 
 
-https://facebook.com/498481680220886/posts/5118949874840687
+https://facebook.com/498481680220886/posts/5118837794851895
 
 []
-</description><author></author><pubDate>Tue, 07 Jun 2022 19:21:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5118949874840687</guid></item></channel></rss>
+</description><author></author><pubDate>Tue, 07 Jun 2022 18:22:45 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5118837794851895</guid></item></channel></rss>
