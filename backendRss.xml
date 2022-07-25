@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Mon, 25 Jul 2022 00:53:20 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Tue, 26 Jul 2022 02:01:30 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
 我們版主群只是screen capture這個刪文。
 然後fb也把我們版</title><link>https://facebook.com/616369245163622/posts/2649618751838651</link><description>pture這個刪文。
 然後fb也把我們版務文章砍掉。
@@ -8,23 +8,79 @@
 April 20 at 1:42 PM
 52 · Like · 2 Comments · Full Story
 Newest Activity
-菜花男 &gt; ‎Backend 台灣 (Backend Tw)
-提供給各位工程師大大參考
-可惜了一位台灣人才
+Shiki Suen &gt; ‎Backend 台灣 (Backend Tw)
+macOS 是可以用 NumP
 
 https://facebook.com/616369245163622/posts/2649618751838651
 
 []
-</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>kstra
+</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>temd 管理 service ，順手整理了一下
+需要在單一台 Linux se</title><link>https://facebook.com/616369245163622/posts/2732745643525961</link><description>理了一下
+需要在單一台 Linux server 上做開機、重啟、定時等功能時可
+以參考
+另外也想知道有沒有其他 process management 需要注意的地方？
+
+使用 systemd 進行程序管理
+jcyh0120.github.io
+2 hrs
+3 · Like · · Full Story
+Yoching Lin &gt; ‎Backend 台灣 (
+
+https://facebook.com/616369245163622/posts/2732745643525961
+
+[]
+</description><author></author><pubDate>Mon, 25 Jul 2022 21:02:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2732745643525961</guid></item><item><title>ing 】2022 Cooby 實習計畫開跑囉！
+🔥 Cooby 創立實習計畫，</title><link>https://facebook.com/616369245163622/posts/2732839190183273</link><description>開跑囉！
+🔥 Cooby 創立實習計畫，希望能在台灣找尋
+更多對新創有興趣的學生加入。
+🔥 我們聚焦台灣人才，產品市場放眼
+全世界。
+🔥 期待找到對於未知挑戰充滿幹勁與
+熱情、願意跟我們一起打造MVP
+產品的你！
+———————————————
+—————————
+【公司名稱】Cooby 酷比數位科技
+【工作職缺】
+- 後端工程師實習
+【工作條件】
+- 熟悉
+
+https://facebook.com/616369245163622/posts/2732839190183273
+
+[]
+</description><author></author><pubDate>Mon, 25 Jul 2022 23:30:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2732839190183273</guid></item><item><title>實習計畫，希望能在台灣找尋
+更多對新創有興趣的學生加入。
+🔥 我們聚焦台灣人才，</title><link>https://facebook.com/616369245163622/posts/2732506200216572</link><description>興趣的學生加入。
+🔥 我們聚焦台灣人才，產品市場放眼
+全世界。
+🔥 期待找到對於未知挑戰充滿幹勁與
+熱情、願意跟我們一起打造MVP
+產品的你！
+———————————————
+—————————
+【公司名稱】Cooby 酷比數位科技
+【工作職缺】
+- 後端工程師實習
+【工作條件】
+- 熟悉至少一種程式語言
+- 了解資料庫基礎知識...
+11 hrs
+13 ·
+
+https://facebook.com/616369245163622/posts/2732506200216572
+
+[]
+</description><author></author><pubDate>Mon, 25 Jul 2022 14:20:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2732506200216572</guid></item><item><title>kstra
 找尋最短路徑】
 Backend TW 的大家好，Dijkstra 主</title><link>https://facebook.com/616369245163622/posts/2726230450844147</link><description>d TW 的大家好，Dijkstra 主要透過「#貪婪法」的演算法策略，在一個 Graph 中找出一張「起點」到「所有點」
 的 #最短距離路徑圖。此次，我們將透過圖解動畫，輕
 鬆理解 Dijkstra 演算法核心概念，並透過一個完整
 的例子，走過整個演算法過程！
 #...
-18 hrs
-35 · Like · Full Story
-謝奇軒 shared a 
+July 23 at 10:03 PM
+55 · Like · Full Story
+
 
 https://facebook.com/616369245163622/posts/2726230450844147
 
@@ -34,149 +90,86 @@ https://facebook.com/616369245163622/posts/2726230450844147
 鬆理解 Dijkstra 演算法核心概念，並透過一個完整
 的例子，走過整個演算法過程！
 #...
-18 hrs
-35 · Like · Full Story
+July 23 at 10:03 PM
+55 · Like · Full Story
 謝奇軒 shared a link.
-(填問卷抽AirPods Pro)
-
+(填問卷抽
 
 https://facebook.com/616369245163622/posts/2731467610320431
 
 []
-</description><author></author><pubDate>Sun, 24 Jul 2022 06:03:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2731467610320431</guid></item><item><title>司介紹 📂 #徵才
-跨國新創的雲端人資系統，201
-9完成A輪投資，現在已經穩定</title><link>https://facebook.com/616369245163622/posts/2730102490456943</link><description>統，201
-9完成A輪投資，現在已經穩定獲
-利
-在新加玻、吉隆坡、台北、首爾都
-有辦公室，員工來自10+個國家
-彈性工時、每月10天WFH、可
-...
-Jecho 科技業轉職平台
-前陣子創投都在警告說新創寒冬要
-來了，結果不只Google招募
-趨緩，連apple也暫緩人才招
-募了！
-如果你會擔心新創公司的穩定度，
-現在就是觀察新創體質健不健全的
-最好時機，尤
+</description><author></author><pubDate>Sun, 24 Jul 2022 06:03:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2731467610320431</guid></item><item><title></title><link>https://facebook.com/616369245163622/posts/2730102490456943</link><description>
 
 https://facebook.com/616369245163622/posts/2730102490456943
 
 []
-</description><author></author><pubDate>Fri, 22 Jul 2022 12:54:09 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2730102490456943</guid></item><item><title>司介紹 📂 #徵才
-跨國新創的雲端人資系統，201
-9完成A輪投資，現在已經穩定</title><link>https://facebook.com/616369245163622/posts/2729783497155509</link><description>統，201
-9完成A輪投資，現在已經穩定獲
-利
-在新加玻、吉隆坡、台北、首爾都
-有辦公室，員工來自10+個國家
-彈性工時、每月10天WFH、可
-...
-Jecho 科技業轉職平台
-前陣子創投都在警告說新創寒冬要
-來了，結果不只Google招募
-趨緩，連apple也暫緩人才招
-募了！
-如果你會擔心新創公司的穩定度，
-現在就是觀察新創體質健不健全的
-最好時機，尤
+</description><author></author><pubDate>Fri, 22 Jul 2022 12:54:09 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2730102490456943</guid></item><item><title></title><link>https://facebook.com/616369245163622/posts/2729783497155509</link><description>
 
 https://facebook.com/616369245163622/posts/2729783497155509
 
 []
-</description><author></author><pubDate>Fri, 22 Jul 2022 02:22:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2729783497155509</guid></item><item><title>司介紹 📂 #徵才
-跨國新創的雲端人資系統，201
-9完成A輪投資，現在已經穩定</title><link>https://facebook.com/616369245163622/posts/2729442660522926</link><description>統，201
-9完成A輪投資，現在已經穩定獲
-利
-在新加玻、吉隆坡、台北、首爾都
-有辦公室，員工來自10+個國家
-彈性工時、每月10天WFH、可
-...
-Jecho 科技業轉職平台
-前陣子創投都在警告說新創寒冬要
-來了，結果不只Google招募
-趨緩，連apple也暫緩人才招
-募了！
-如果你會擔心新創公司的穩定度，
-現在就是觀察新創體質健不健全的
-最好時機，尤
+</description><author></author><pubDate>Fri, 22 Jul 2022 02:22:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2729783497155509</guid></item><item><title>的小工具，
+也是自己專案內常使用的。
+你也有 migrations 資料夾肥大的</title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>也有 migrations 資料夾肥大的困擾嗎? 隨著專案進行遷移檔越來越多，也
+包含了一些臨時需求對資料庫的修
+修補補，該套件提供開發者與運維
+人員一個管理工具，能讓你將一些
+補丁遷移檔獨立出來，優化測試與
+部署流程。
 
-https://facebook.com/616369245163622/posts/2729442660522926
-
-[]
-</description><author></author><pubDate>Thu, 21 Jul 2022 17:44:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2729442660522926</guid></item><item><title>因為在某個
-案子中，需要快速做出不要太長又
-還算可讀的檔名之用，因此才把這
-兩個</title><link>https://facebook.com/616369245163622/posts/2729232477210611</link><description>又
-還算可讀的檔名之用，因此才把這
-兩個東西併在一起用的。
-xxHash https://
-github.com/
-Cyan4973/xxHash
-Base32 ...
-Base32 - Wikipedia
-en.wikipedia.org
-July 21 at 2:54 AM
-39 · Like · 1 Comment · Full Story
-Rober
-
-https://facebook.com/616369245163622/posts/2729232477210611
-
-[]
-</description><author></author><pubDate>Thu, 21 Jul 2022 10:54:10 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2729232477210611</guid></item><item><title>料中心的冷
-卻系統都操壞了
-Google, Oracle datacenters</title><link>https://facebook.com/616369245163622/posts/2729045600562632</link><description>, Oracle datacenters melt down in extreme European heatwave
-pcgamer.com
-July 20 at 9:51 PM
-45 · Like · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-28218
-Photos
-772
-Even
-
-https://facebook.com/616369245163622/posts/2729045600562632
-
-[]
-</description><author></author><pubDate>Thu, 21 Jul 2022 05:51:36 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2729045600562632</guid></item><item><title>e group would like this
-Develop with Ind</title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>his
-Develop with Indunil added a new photo to the album: Life Hacks.
-Everyone gets the same 24 hours, difference is how you spend it. Be smart
-Source : https://
-www.reddit.com/
-r/c
+GitHub - A2Workspace/laravel-database-patcher: 一個基於專案的資料庫補丁管理工具
+gith
 
 https://facebook.com/498481680220886/posts/3579398352129188
 
 []
-</description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title>e group would like this
-Develop with Ind</title><link>https://facebook.com/498481680220886/posts/5246728552062818</link><description>his
+</description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title>的小工具，
+也是自己專案內常使用的。
+你也有 migrations 資料夾肥大的</title><link>https://facebook.com/498481680220886/posts/5246728552062818</link><description>也有 migrations 資料夾肥大的困擾嗎? 隨著專案進行遷移檔越來越多，也
+包含了一些臨時需求對資料庫的修
+修補補，該套件提供開發者與運維
+人員一個管理工具，能讓你將一些
+補丁遷移檔獨立出來，優化測試與
+部署流程。
+
+GitHub - A2Workspace/laravel-database-patcher: 一個基於專案的資料庫補丁管理工具
+gith
+
+https://facebook.com/498481680220886/posts/5246728552062818
+
+[]
+</description><author></author><pubDate>Sat, 23 Jul 2022 13:51:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5246728552062818</guid></item><item><title>e group would like this
+Develop with Ind</title><link>https://facebook.com/498481680220886/posts/5251898471545826</link><description>his
 Develop with Indunil added a new photo to the album: Life Hacks.
 Everyone gets the same 24 hours, difference is how you spend it. Be smart
 Source : https://
 www.reddit.com/
 r/c
 
-https://facebook.com/498481680220886/posts/5246728552062818
+https://facebook.com/498481680220886/posts/5251898471545826
 
 []
-</description><author></author><pubDate>Sat, 23 Jul 2022 13:51:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5246728552062818</guid></item><item><title>ets the same 24 hours, difference is how</title><link>https://facebook.com/498481680220886/posts/5249372158465124</link><description>s, difference is how you spend it. Be smart
+</description><author></author><pubDate>Mon, 25 Jul 2022 14:27:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5251898471545826</guid></item><item><title>e group would like this
+Develop with Ind</title><link>https://facebook.com/498481680220886/posts/5251284118273928</link><description>his
+Develop with Indunil added a new photo to the album: Life Hacks.
+Everyone gets the same 24 hours, difference is how you spend it. Be smart
+Source : https://
+www.reddit.com/
+r/c
+
+https://facebook.com/498481680220886/posts/5251284118273928
+
+[]
+</description><author></author><pubDate>Mon, 25 Jul 2022 07:41:59 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5251284118273928</guid></item><item><title>ets the same 24 hours, difference is how</title><link>https://facebook.com/498481680220886/posts/5249372158465124</link><description>s, difference is how you spend it. Be smart
 Source : https://
 www.reddit.com/
 r/coolguides/
 comments/e1t86q/
 25_websites_to_u
 ...
-10 hrs
+Yesterday at 6:03 AM
 Like · Full Story
-高菱英 shared a link.
-🌱25spr
+高菱英 shared 
 
 https://facebook.com/498481680220886/posts/5249372158465124
 
@@ -213,125 +206,105 @@ MPP並建立多個Laravel
 https://facebook.com/498481680220886/posts/5238378236231183
 
 []
-</description><author></author><pubDate>Wed, 20 Jul 2022 11:17:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5238378236231183</guid></item><item><title> not an accident. Like slavery and apart</title><link>https://facebook.com/498481680220886/posts/5235624979839842</link><description>ke slavery and apartheid, it is man-made and can be removed by the actions of human beings.
-#nelsonmandela #southafrica #mandela #...
-July 18 at 6:29 AM
-Like · Full Story
-Jetfuel T
+</description><author></author><pubDate>Wed, 20 Jul 2022 11:17:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5238378236231183</guid></item><item><title>ndows平台架設XA
+MPP並建立多個Laravel
+專案上線
+遇到各專案搶登</title><link>https://facebook.com/498481680220886/posts/5235624979839842</link><description>Laravel
+專案上線
+遇到各專案搶登入的問題
+舉例：我先登入A專案
+若我再登入B專案
+則A專案會被登出
+請問有什麼解決方式嗎?謝謝
+---------------
+---------------
+----
+已找出問題並解決，感謝各位支援
+!!
+APP_NAME中若有中文字，
+則SESSION的前綴會被過濾
+掉，導致專案互沖
+July 19 at 3:41
 
 https://facebook.com/498481680220886/posts/5235624979839842
 
 []
-</description><author></author><pubDate>Tue, 19 Jul 2022 11:29:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5235624979839842</guid></item><item><title>台中市的「傑
-富資訊科技」，
-※ 在職滿1年的同仁，年薪最高領到
-15個月薪資 </title><link>https://facebook.com/498481680220886/posts/5233173043418369</link><description>1年的同仁，年薪最高領到
-15個月薪資 ※
-👉優渥的條件，招攬優秀的你
-📍活潑熱情的走這➡️ joyce@jetfuel.c
-om.tw
-📍有CakeResume➡️https://
-reurl.cc/yQWb3q
-📍有104的走這➡️https://goo.gl/
-...
-July 18 at 6:23 AM
-Like · Full Story
-See M
-
-https://facebook.com/498481680220886/posts/5233173043418369
-
-[]
-</description><author></author><pubDate>Mon, 18 Jul 2022 14:29:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5233173043418369</guid></item><item><title>台中市的「傑
-富資訊科技」，
-※ 在職滿1年的同仁，年薪最高領到
-15個月薪資 </title><link>https://facebook.com/498481680220886/posts/5233162530086087</link><description>1年的同仁，年薪最高領到
-15個月薪資 ※
-👉優渥的條件，招攬優秀的你
-📍活潑熱情的走這➡️ joyce@jetfuel.c
-om.tw
-📍有CakeResume➡️https://
-reurl.cc/yQWb3q
-📍有104的走這➡️https://goo.gl/
-...
-More
-July 18 at 6:23 AM
-Like · Full Story
-
-
-https://facebook.com/498481680220886/posts/5233162530086087
-
-[]
-</description><author></author><pubDate>Mon, 18 Jul 2022 14:23:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5233162530086087</guid></item><item><title>veloper needed.
-May 22 at 12:03 PM
-66 · </title><link>https://facebook.com/297656798404654/posts/541949100642088</link><description>22 at 12:03 PM
-66 · Like · 89 Comments · Full Story
-Fransiskus Chung &gt; ‎Laravel Developers
-Is there laravel engineer from philippines here?
+</description><author></author><pubDate>Tue, 19 Jul 2022 11:29:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5235624979839842</guid></item><item><title>aravel engineer from philippines here?
+M</title><link>https://facebook.com/297656798404654/posts/541949100642088</link><description> philippines here?
 May 15 at 2:50 PM
-Like · 6 Comments · Fu
+Like · 6 Comments · Full Story
+Gyanendu Jigyasa &gt; ‎Laravel Developers
+Multi Vendor Ecommerce with
+(i) User Application
+(ii) Seller application
+
 
 https://facebook.com/297656798404654/posts/541949100642088
 
 []
-</description><author></author><pubDate>Mon, 23 May 2022 16:05:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541949100642088</guid></item><item><title>veloper needed.
+</description><author></author><pubDate>Mon, 23 May 2022 16:05:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541949100642088</guid></item><item><title>aravel engineer from philippines here?
+M</title><link>https://facebook.com/297656798404654/posts/536824524487879</link><description> philippines here?
+May 15 at 2:50 PM
+Like · 6 Comments · Full Story
+Gyanendu Jigyasa &gt; ‎Laravel Developers
+Multi Vendor Ecommerce with
+(i) User Application
+(ii) Seller application
+
+
+https://facebook.com/297656798404654/posts/536824524487879
+
+[]
+</description><author></author><pubDate>Sun, 15 May 2022 19:10:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/536824524487879</guid></item><item><title>or Ecommerce with
+(i) User Application
+(</title><link>https://facebook.com/297656798404654/posts/536936261143372</link><description>) User Application
+(ii) Seller application
+(iii) Delivery Boy Application
+Available in lowest cost,
+offer:
+(i)Complete setup with user website and admin panel, user application, se
+
+https://facebook.com/297656798404654/posts/536936261143372
+
+[]
+</description><author></author><pubDate>Sun, 15 May 2022 22:50:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/536936261143372</guid></item><item><title>veloper needed.
 May 22 at 12:03 PM
 66 · </title><link>https://facebook.com/297656798404654/posts/541277250709273</link><description>22 at 12:03 PM
 66 · Like · 89 Comments · Full Story
-Fransiskus Chung &gt; ‎Laravel Developers
-Is there laravel engineer from philippines here?
-May 15 at 2:50 PM
-Like · 6 Comments · Fu
+Afzal Hossain Khan &gt; ‎Laravel Developers
+I need PHP developer for my website. I need fix smtp error and website redesign.
+May 22
 
 https://facebook.com/297656798404654/posts/541277250709273
 
 []
-</description><author></author><pubDate>Sun, 22 May 2022 15:00:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541277250709273</guid></item><item><title>aravel engineer from philippines here?
-M</title><link>https://facebook.com/297656798404654/posts/541409007362764</link><description> philippines here?
-May 15 at 2:50 PM
-Like · 6 Comments · Full Story
-Afzal Hossain Khan &gt; ‎Laravel Developers
-I need PHP developer for my website. I need fix smtp error and website 
-
-https://facebook.com/297656798404654/posts/541409007362764
-
-[]
-</description><author></author><pubDate>Sun, 22 May 2022 20:03:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541409007362764</guid></item><item><title> developer for my website. I need fix sm</title><link>https://facebook.com/297656798404654/posts/536936261143372</link><description>bsite. I need fix smtp error and website redesign.
+</description><author></author><pubDate>Sun, 22 May 2022 15:00:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541277250709273</guid></item><item><title> developer for my website. I need fix sm</title><link>https://facebook.com/297656798404654/posts/541409007362764</link><description>bsite. I need fix smtp error and website redesign.
 May 22 at 2:28 PM
 68 · Like · 65 Comments · Full Story
 Laravel Developers shared a link.
 Create Select Options from Enums, Larave
 
-https://facebook.com/297656798404654/posts/536936261143372
+https://facebook.com/297656798404654/posts/541409007362764
 
 []
-</description><author></author><pubDate>Sun, 15 May 2022 22:50:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/536936261143372</guid></item><item><title>ravel expert for bug fixer
-May 15 at 11:</title><link>https://facebook.com/297656798404654/posts/541489520688046</link><description> fixer
-May 15 at 11:10 AM
-50 · Like · 58 Comments · Full Story
-Abdelrahman Ramadan &gt; ‎Laravel Developers
-E-Commerce application that have two dashboards for user and admin
-In our s
+</description><author></author><pubDate>Sun, 22 May 2022 20:03:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541409007362764</guid></item><item><title> application that have two dashboards fo</title><link>https://facebook.com/297656798404654/posts/541489520688046</link><description>ve two dashboards for user and admin
+In our system you can show categories of product ,show all products, show all offers , search...
+April 29 at 1:40 AM
+44 · Like · 28 Comments · 
 
 https://facebook.com/297656798404654/posts/541489520688046
 
 []
 </description><author></author><pubDate>Sun, 22 May 2022 22:28:33 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541489520688046</guid></item><item><title> application that have two dashboards fo</title><link>https://facebook.com/297656798404654/posts/579000150270316</link><description>ve two dashboards for user and admin
 In our system you can show categories of product ,show all products, show all offers , search...
+More
 April 29 at 1:40 AM
-44 · Like · 28 Comments · 
+44 · Like · 28 Commen
 
 https://facebook.com/297656798404654/posts/579000150270316
 
 []
-</description><author></author><pubDate>Mon, 18 Jul 2022 10:58:25 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/579000150270316</guid></item><item><title> application that have two dashboards fo</title><link>https://facebook.com/297656798404654/posts/536824524487879</link><description>ve two dashboards for user and admin
-In our system you can show categories of product ,show all products, show all offers , search...
-April 29 at 1:40 AM
-44 · Like · 28 Comments · 
-
-https://facebook.com/297656798404654/posts/536824524487879
-
-[]
-</description><author></author><pubDate>Sun, 15 May 2022 19:10:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/536824524487879</guid></item><item><title> application that have two dashboards fo</title><link>https://facebook.com/297656798404654/posts/525972602239738</link><description>ve two dashboards for user and admin
+</description><author></author><pubDate>Mon, 18 Jul 2022 10:58:25 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/579000150270316</guid></item><item><title> application that have two dashboards fo</title><link>https://facebook.com/297656798404654/posts/525972602239738</link><description>ve two dashboards for user and admin
 In our system you can show categories of product ,show all products, show all offers , search...
 More
 April 29 at 1:40 AM
@@ -340,56 +313,50 @@ April 29 at 1:40 AM
 https://facebook.com/297656798404654/posts/525972602239738
 
 []
-</description><author></author><pubDate>Fri, 29 Apr 2022 09:40:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/525972602239738</guid></item><item><title>nds….
-Can you plz tell me what’s the pro</title><link>https://facebook.com/1636760336639685/posts/2253481484967564</link><description>ll me what’s the problem here in my code?😢😢
-July 22 at 3:41 PM
-1 · Like · 5 Comments · Full Story
-Bouameur Wàdié &gt; ‎PHP Laravel Framework Developers
-How to fix this error this (1 P
+</description><author></author><pubDate>Fri, 29 Apr 2022 09:40:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/525972602239738</guid></item><item><title>P para saber si un número es par o impar</title><link>https://facebook.com/1636760336639685/posts/2253481484967564</link><description>úmero es par o impar, en este se utiliza el condicionante "if''.
+July 22 at 3:45 PM
+2 · Like · 3 Comments · Full Story
+Gaetano Giordano &gt; ‎PHP Laravel Framework Developers
+Hello, I
 
 https://facebook.com/1636760336639685/posts/2253481484967564
 
 []
-</description><author></author><pubDate>Tue, 25 Jun 2019 19:32:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/2253481484967564</guid></item><item><title>nds….
-Can you plz tell me what’s the pro</title><link>https://facebook.com/1636760336639685/posts/3132545563727814</link><description>ll me what’s the problem here in my code?😢😢
-July 22 at 3:41 PM
-1 · Like · 5 Comments · Full Story
-Bouameur Wàdié &gt; ‎PHP Laravel Framework Developers
-How to fix this error this (1 P
-
-https://facebook.com/1636760336639685/posts/3132545563727814
-
-[]
-</description><author></author><pubDate>Sat, 23 Jul 2022 05:28:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3132545563727814</guid></item><item><title> this error this (1 Produit * 6 it Grid)</title><link>https://facebook.com/1636760336639685/posts/3131719777143726</link><description>Produit * 6 it Grid)?
-Probleme Foreach Or Grid(css / Bostrapp) :)
-July 22 at 4:30 PM
-Like · 3 Comments · Full Story
-Abraham Navarro shared a post.
-Tecsolt
-Función PHP para saber si
+</description><author></author><pubDate>Tue, 25 Jun 2019 19:32:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/2253481484967564</guid></item><item><title>P para saber si un número es par o impar</title><link>https://facebook.com/1636760336639685/posts/3131719777143726</link><description>úmero es par o impar, en este se utiliza el condicionante "if''.
+July 22 at 3:45 PM
+2 · Like · 3 Comments · Full Story
+Gaetano Giordano &gt; ‎PHP Laravel Framework Developers
+Hello, I
 
 https://facebook.com/1636760336639685/posts/3131719777143726
 
 []
-</description><author></author><pubDate>Fri, 22 Jul 2022 01:18:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3131719777143726</guid></item><item><title>P para saber si un número es par o impar</title><link>https://facebook.com/1636760336639685/posts/3132373940411643</link><description>úmero es par o impar, en este se utiliza el condicionante "if''.
-July 22 at 3:45 PM
-1 · Like · 2 Comments · Full Story
-Bouameur Wàdié &gt; ‎PHP Laravel Framework Developers
-July 22 at
-
-https://facebook.com/1636760336639685/posts/3132373940411643
-
-[]
-</description><author></author><pubDate>Fri, 22 Jul 2022 23:45:17 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3132373940411643</guid></item><item><title>P para saber si un número es par o impar</title><link>https://facebook.com/1636760336639685/posts/3130995373882833</link><description>úmero es par o impar, en este se utiliza el condicionante "if''.
-July 22 at 3:45 PM
-1 · Like · 2 Comments · Full Story
-Bouameur Wàdié &gt; ‎PHP Laravel Framework Developers
-July 22 at
+</description><author></author><pubDate>Fri, 22 Jul 2022 01:18:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3131719777143726</guid></item><item><title>ave a multi language laravel site and on</title><link>https://facebook.com/1636760336639685/posts/3130995373882833</link><description> laravel site and on SERP results i can see all links per each language, but meta title and meta desription are showing only in english laguage. Any suggestion to show also content
 
 https://facebook.com/1636760336639685/posts/3130995373882833
 
 []
-</description><author></author><pubDate>Thu, 21 Jul 2022 01:06:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3130995373882833</guid></item><item><title></title><link>https://facebook.com/1636760336639685/posts/3132373933744977</link><description>
+</description><author></author><pubDate>Thu, 21 Jul 2022 01:06:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3130995373882833</guid></item><item><title> this error this (1 Produit * 6 it Grid)</title><link>https://facebook.com/1636760336639685/posts/3132545563727814</link><description>Produit * 6 it Grid)?
+Probleme Foreach Or Grid(css / Bostrapp) :)
+July 22 at 4:30 PM
+Like · 3 Comments · Full Story
+Bouameur Wàdié &gt; ‎PHP Laravel Framework Developers
+July 22 at 3:
+
+https://facebook.com/1636760336639685/posts/3132545563727814
+
+[]
+</description><author></author><pubDate>Sat, 23 Jul 2022 05:28:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3132545563727814</guid></item><item><title> this error this (1 Produit * 6 it Grid)</title><link>https://facebook.com/1636760336639685/posts/3132373940411643</link><description>Produit * 6 it Grid)?
+Probleme Foreach Or Grid(css / Bostrapp) :)
+July 22 at 4:30 PM
+Like · 3 Comments · Full Story
+Bouameur Wàdié &gt; ‎PHP Laravel Framework Developers
+July 22 at 3:
+
+https://facebook.com/1636760336639685/posts/3132373940411643
+
+[]
+</description><author></author><pubDate>Fri, 22 Jul 2022 23:45:17 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3132373940411643</guid></item><item><title></title><link>https://facebook.com/1636760336639685/posts/3132373933744977</link><description>
 
 https://facebook.com/1636760336639685/posts/3132373933744977
 
@@ -418,167 +385,216 @@ programmer-club.com.tw
 September 16, 2013 at 3:17 AM
 790 · Like · 50 Comments · Full Story
 Newest Activity
-Mark Xi
+Tony Ch
 
 https://facebook.com/1403852566495675/posts/1416740855206846
 
 []
-</description><author></author><pubDate>Mon, 16 Sep 2013 11:17:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/1416740855206846</guid></item><item><title>問題(希望
-也可以問)
-問題是我不想訪客連線到內網的電
-腦和SERVER
-謝謝各</title><link>https://facebook.com/1403852566495675/posts/3223077634573150</link><description>連線到內網的電
-腦和SERVER
-謝謝各大大...
-18 hrs
-38 · Like · 10 Comments · Full Story
-Brian Lee &gt; ‎Taiwan 程式語言讀書會 [JAVA,C,C++,C#,
+</description><author></author><pubDate>Mon, 16 Sep 2013 11:17:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/1416740855206846</guid></item><item><title>年了，我還
+在問自己這個問題，因為我還沒找
+到理想的答案。也想問版上的前輩
+後輩</title><link>https://facebook.com/1403852566495675/posts/3226489647565282</link><description>找
+到理想的答案。也想問版上的前輩
+後輩們，你們的答案是什麼？
+我學了C# ，工作上用來開發維護人機介面軟
+體，
+我也學了asp net，未來轉職可能朝寫網頁發
+展，
+順便學了js html css，好像也可以嘗試前端設計
+的工作。但說到底，這是為了工作
+而做的事情，或者說就是為了養家
+糊口而寫程式。
+可是看了網路文章分享提到，真正
+在這條路上可以走得長久成
+
+https://facebook.com/1403852566495675/posts/3226489647565282
+
+[]
+</description><author></author><pubDate>Mon, 25 Jul 2022 23:43:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3226489647565282</guid></item><item><title> Window Forms App
+1.這兩項是否可合併成一個Fo
+rms Ap</title><link>https://facebook.com/1403852566495675/posts/3226172367597010</link><description>這兩項是否可合併成一個Fo
+rms App?該如何做？
+2.主控台的程式是否可轉成Fo
+rms App?
+10 hrs
+5 · Like · 5 Comments · Full Story
+鄭宇兩 &gt; ‎Taiwan 程式語言讀書會 [JAVA,C,C++,C#,
 VB...等不拘]
-大家好，今天想問大家一個問題，
-我今天在練習 java thread的時候想練習用 synchronized l
+不好意思，小弟最近想從0開始學
+習java語言，想請問一下各位
+有沒有推薦
 
-https://facebook.com/1403852566495675/posts/3223077634573150
+https://facebook.com/1403852566495675/posts/3226172367597010
 
 []
-</description><author></author><pubDate>Thu, 21 Jul 2022 07:39:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3223077634573150</guid></item><item><title>問題(希望
-也可以問)
-問題是我不想訪客連線到內網的電
-腦和SERVER
-謝謝各</title><link>https://facebook.com/1403852566495675/posts/3221821181365462</link><description>連線到內網的電
-腦和SERVER
-謝謝各大大...
-18 hrs
-38 · Like · 10 Comments · Full Story
-Brian Lee &gt; ‎Taiwan 程式語言讀書會 [JAVA,C,C++,C#,
+</description><author></author><pubDate>Mon, 25 Jul 2022 15:35:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3226172367597010</guid></item><item><title>式底想學習
+程式應該先從什麼開始下手比較容
+易，也不會覺得無聊
+July 21 </title><link>https://facebook.com/1403852566495675/posts/3225015957712651</link><description>容
+易，也不會覺得無聊
+July 21 at 12:54 PM
+47 · Like · 64 Comments · Full Story
+Hong YI &gt; ‎Taiwan 程式語言讀書會 [JAVA,C,C++,C#,
 VB...等不拘]
-大家好，今天想問大家一個問題，
-我今天在練習 java thread的時候想練習用 synchronized l
+售CentOS Linux 書
+近全新
+$300
+58 mins
+Like · Full Story
+Kenny Ka
 
-https://facebook.com/1403852566495675/posts/3221821181365462
+https://facebook.com/1403852566495675/posts/3225015957712651
 
 []
-</description><author></author><pubDate>Tue, 19 Jul 2022 17:31:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3221821181365462</guid></item><item><title>問題(希望
-也可以問)
-問題是我不想訪客連線到內網的電
-腦和SERVER
-謝謝各</title><link>https://facebook.com/1403852566495675/posts/3225331201014460</link><description>連線到內網的電
-腦和SERVER
-謝謝各大大...
-18 hrs
-38 · Like · 10 Comments · Full Story
-Brian Lee &gt; ‎Taiwan 程式語言讀書會 [JAVA,C,C++,C#,
+</description><author></author><pubDate>Sat, 23 Jul 2022 23:17:09 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3225015957712651</guid></item><item><title>nux 書
+近全新
+$300
+58 mins
+Like · Full Story</title><link>https://facebook.com/1403852566495675/posts/3223444394536474</link><description>ns
+Like · Full Story
+Kenny Kang &gt; ‎Taiwan 程式語言讀書會 [JAVA,C,C++,C#,
 VB...等不拘]
-大家好，今天想問大家一個問題，
-我今天在練習 java thread的時候想練習用 synchronized l
+全新 Jetson Nano 書籍一本
+售價 $395元
+運費另計，已建立好7-11賣貨
+便訂單(書籍+運費)，意者私訊
+我，我再提供賣貨便連結，可直接
+去那邊下單購買
+謝謝大家~~
+1 hr
+Like · 
 
-https://facebook.com/1403852566495675/posts/3225331201014460
-
-[]
-</description><author></author><pubDate>Sun, 24 Jul 2022 10:05:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3225331201014460</guid></item><item><title>一個問題，
-我今天在練習 java thread的時候想練習用 synchron</title><link>https://facebook.com/1403852566495675/posts/3225223354358578</link><description>read的時候想練習用 synchronized lock住共享資源，解決同步存
-取的問題，但是我下面的程式碼一
-直測試不過，所以想問問是不是我
-的觀念有問題，我這邊的想法是 MyThread2 實作了 Runnable介面的方法，當
-thread跑的時候，每個th
-...
-2 hrs
-5 · Like · 2 Comments · Full Story
-尚
-
-https://facebook.com/1403852566495675/posts/3225223354358578
+https://facebook.com/1403852566495675/posts/3223444394536474
 
 []
-</description><author></author><pubDate>Sun, 24 Jul 2022 05:59:41 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3225223354358578</guid></item><item><title>a'後，第
-一個if的條件不符合卻還是印出
-「此字元是數字」? （已解決）
-3 </title><link>https://facebook.com/1403852566495675/posts/3225704497643797</link><description>出
-「此字元是數字」? （已解決）
-3 hrs
-8 · Like · 5 Comments · Full Story
+</description><author></author><pubDate>Thu, 21 Jul 2022 20:54:53 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3223444394536474</guid></item><item><title>Nano 書籍一本
+售價 $395元
+運費另計，已建立好7-11賣貨
+便訂單(書</title><link>https://facebook.com/1403852566495675/posts/3226535810893999</link><description>費另計，已建立好7-11賣貨
+便訂單(書籍+運費)，意者私訊
+我，我再提供賣貨便連結，可直接
+去那邊下單購買
+謝謝大家~~
+1 hr
+Like · Full Story
+Tsai Yan Xing &gt; ‎Taiwan 程式語言讀書會 [JAVA,C,C++,C#,
+VB...等不拘]
+不好意思打擾了，因為最近緊急突
+然要繳交作業，作業內容是阿達馬
+乘積運算。
+
+https://facebook.com/1403852566495675/posts/3226535810893999
+
+[]
+</description><author></author><pubDate>Tue, 26 Jul 2022 01:02:57 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3226535810893999</guid></item><item><title>-11賣貨
+便訂單(書籍+運費)，意者私訊
+我，我再提供賣貨便連結，可直接
+去那</title><link>https://facebook.com/1403852566495675/posts/3226510034229910</link><description>訊
+我，我再提供賣貨便連結，可直接
+去那邊下單購買
+謝謝大家~~
+1 hr
+Like · Full Story
+Tsai Yan Xing &gt; ‎Taiwan 程式語言讀書會 [JAVA,C,C++,C#,
+VB...等不拘]
+不好意思打擾了，因為最近緊急突
+然要繳交作業，作業內容是阿達馬
+乘積運算。請問一下 小的哪邊回圈寫錯，無法正確跑出
+應有的數值。謝謝
+
+https://facebook.com/1403852566495675/posts/3226510034229910
+
+[]
+</description><author></author><pubDate>Tue, 26 Jul 2022 00:19:49 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3226510034229910</guid></item><item><title>最近緊急突
+然要繳交作業，作業內容是阿達馬
+乘積運算。請問一下 小的哪邊回圈寫錯</title><link>https://facebook.com/1403852566495675/posts/3226500364230877</link><description>馬
+乘積運算。請問一下 小的哪邊回圈寫錯，無法正確跑出
+應有的數值。謝謝!!!!!!!
+(應該出現
+[0.0.4
+7.0.0
+2.2.2])
+1 hr
+Like · 1 Comment · Full Story
 See More Posts
 Group Menu
 About
 Info
 Members
-68227
+68363
 Photos
-14351
+14359
 Events
-Files
-165
-View TimelineAdd to GroupInvite to Event
+Fil
 
-https://facebook.com/1403852566495675/posts/3225704497643797
+https://facebook.com/1403852566495675/posts/3226500364230877
 
 []
-</description><author></author><pubDate>Sun, 24 Jul 2022 22:45:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3225704497643797</guid></item><item><title>a'後，第
-一個if的條件不符合卻還是印出
-「此字元是數字」? （已解決）
-3 </title><link>https://facebook.com/1403852566495675/posts/3223327967881450</link><description>出
-「此字元是數字」? （已解決）
-3 hrs
-8 · Like · 5 Comments · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-68227
-Photos
-14351
-Events
-Files
-165
-View TimelineAdd to GroupInvite to Event
-
-https://facebook.com/1403852566495675/posts/3223327967881450
-
-[]
-</description><author></author><pubDate>Thu, 21 Jul 2022 17:05:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3223327967881450</guid></item><item><title>a'後，第
-一個if的條件不符合卻還是印出
-「此字元是數字」? （已解決）
-3 </title><link>https://facebook.com/1403852566495675/posts/3225650100982570</link><description>出
-「此字元是數字」? （已解決）
-3 hrs
-8 · Like · 5 Comments · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-68227
-Photos
-14351
-Events
-Files
-165
-View TimelineAdd to GroupInvite to Event
-
-https://facebook.com/1403852566495675/posts/3225650100982570
-
-[]
-</description><author></author><pubDate>Sun, 24 Jul 2022 21:10:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3225650100982570</guid></item><item><title>utter 各大公司需要App開發找我洽談
-LineID iamjuking
-7</title><link>https://facebook.com/1686432621633958/posts/2208771952733353</link><description>談
-LineID iamjuking
-7 hrs
-2 · Like · Full Story
-李昶 &gt; ‎【外包網】程式外包Softwa
-re Outsourcing、軟體外
-包、Mobile APP、PC Software、Web
-(Sold)App接案-Flutter
-NT$100,000
-236
-個人工作室 專精Flutter 各大公司需要App開發找
+</description><author></author><pubDate>Tue, 26 Jul 2022 00:03:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3226500364230877</guid></item><item><title>學服務
+價格會由期限、作業難度、需求量
+而訂
+請先詢問
+‼️注意事項‼️
+詢問請</title><link>https://facebook.com/1686432621633958/posts/2208771952733353</link><description>而訂
+請先詢問
+‼️注意事項‼️
+詢問請將以下資料提供給我們：
+1.程式功能，以及需要用到的資
+料、網址
+2.期限
+3.程式開發環境及使用的語言
+我們的優勢：✨✨✨
+專業的團隊👩🏻‍💻🧑🏻‍💻...
+May 4 at 11:47 AM
+11 · Like · 8 Comments · Full Story
+Tu Steven shared a link.
+#
 
 https://facebook.com/1686432621633958/posts/2208771952733353
 
 []
-</description><author></author><pubDate>Wed, 02 Jan 2019 22:04:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/2208771952733353</guid></item><item><title>utter 各大公司需要App開發找我洽談
+</description><author></author><pubDate>Wed, 02 Jan 2019 22:04:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/2208771952733353</guid></item><item><title>問請將以下資料提供給我們：
+1.程式功能，以及需要用到的資
+料、網址
+2.期限
+</title><link>https://facebook.com/1686432621633958/posts/3144686755808530</link><description>，以及需要用到的資
+料、網址
+2.期限
+3.程式開發環境及使用的語言
+我們的優勢：✨✨✨
+專業的團隊👩🏻‍💻🧑🏻‍💻...
+May 4 at 11:47 AM
+11 · Like · 8 Comments · Full Story
+Tu Steven shared a link.
+#我要發案
+客製化 LineBot 機器人開發
+條件如下:
+後端使用C# 程式
+
+https://facebook.com/1686432621633958/posts/3144686755808530
+
+[]
+</description><author></author><pubDate>Wed, 04 May 2022 19:47:45 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3144686755808530</guid></item><item><title>用函式庫 : https://
+github.com/
+pierre3/
+Lin</title><link>https://facebook.com/1686432621633958/posts/3186225481654657</link><description>ub.com/
+pierre3/
+LineMessagingApi 串接
+(Option)Service
+s可以使用microsoft botframework 上Azure者優
+1....
+GitHub - pierre3/LineMessagingApi: LINE Messaging API for .Net
+github.com
+June 27 at
+
+https://facebook.com/1686432621633958/posts/3186225481654657
+
+[]
+</description><author></author><pubDate>Mon, 27 Jun 2022 11:57:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3186225481654657</guid></item><item><title>utter 各大公司需要App開發找我洽談
 LineID iamjuking
-7</title><link>https://facebook.com/1686432621633958/posts/3207489659528239</link><description>談
+Y</title><link>https://facebook.com/1686432621633958/posts/3207489659528239</link><description>談
 LineID iamjuking
-7 hrs
+Yesterday at 9:26 AM
 Like · Full Story
 黃祐祐 &gt; ‎【外包網】程式外包Softwa
 re Outsourcing、軟體外
@@ -588,8 +604,7 @@ FREE
 981
 #我要接案
 主要接案項目是LineSelf
-Bot
-可以處理官方帳號無法處理的
+Bo
 
 https://facebook.com/1686432621633958/posts/3207489659528239
 
@@ -606,13 +621,12 @@ Bot
 好友備份
 歡迎各位有需求都可以聯繫我
 LINEID:2hateam
-7 hrs
+Yesterday at 9:05 AM
 1 · Like · Full Story
 Javis Huang shared a link.
 #我要接案
 大家好～我們是專職接案的資訊公
-司，創辦人在業界具多年開發經驗
-後，決定
+司，創辦人
 
 https://facebook.com/1686432621633958/posts/3207489349528270
 
@@ -629,13 +643,12 @@ Bot
 好友備份
 歡迎各位有需求都可以聯繫我
 LINEID:2hateam
-7 hrs
+Yesterday at 9:05 AM
 1 · Like · Full Story
 Javis Huang shared a link.
 #我要接案
 大家好～我們是專職接案的資訊公
-司，創辦人在業界具多年開發經驗
-後，決定出來闖闖，期
+司，創辦人在業界具多年
 
 https://facebook.com/1686432621633958/posts/3207479672862571
 
@@ -647,12 +660,19 @@ Ma</title><link>https://facebook.com/1686432621633958/posts/3207307592879779</li
 請來信洽談
 May 19 at 1:46 AM
 4 · Like · 3 Comments · Full Story
-Litter Tien &gt; ‎【外包網】程式外包Softwa
-re Outsourcing、軟體外
-包、Mobile APP、PC Software、Web
-(Sold)@jave
-NT$999,999
-Kaohsiu
+See More Posts
+Group Menu
+About
+Info
+Members
+6967
+Photos
+341
+Events
+10
+Files
+2
+View TimelineAdd to GroupInvit
 
 https://facebook.com/1686432621633958/posts/3207307592879779
 
@@ -664,63 +684,62 @@ Ma</title><link>https://facebook.com/1686432621633958/posts/3156014734675732</li
 請來信洽談
 May 19 at 1:46 AM
 4 · Like · 3 Comments · Full Story
-Litter Tien &gt; ‎【外包網】程式外包Softwa
-re Outsourcing、軟體外
-包、Mobile APP、PC Software、Web
-(Sold)@jave
-NT$999,999
-Kaohsiu
+See More Posts
+Group Menu
+About
+Info
+Members
+6967
+Photos
+341
+Events
+10
+Files
+2
+View TimelineAdd to GroupInvit
 
 https://facebook.com/1686432621633958/posts/3156014734675732
 
 []
-</description><author></author><pubDate>Thu, 19 May 2022 09:46:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3156014734675732</guid></item><item><title>#長期合作
-職務需求
-Qualifications
-1. 前端 React.JS</title><link>https://facebook.com/1686432621633958/posts/3150694268541112</link><description>tions
-1. 前端 React.JS（含 React native）或 Vue.JS 開發經驗。
-2. HTML, CSS/SCSS, Javascript, AJAX 開發經驗。
-3. 串接 REST APIs / Socket 相關經驗。
-4. 細心的程式碼撰寫習慣。
-5. 具備軟體開發知識包含資料結構，
-並重視程式可維護性及擴充性。...
-May 
-
-https://facebook.com/1686432621633958/posts/3150694268541112
-
-[]
-</description><author></author><pubDate>Thu, 12 May 2022 13:29:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3150694268541112</guid></item><item><title>fications
-1. 前端 React.JS（含 React native）</title><link>https://facebook.com/1686432621633958/posts/3148313225445883</link><description>t.JS（含 React native）或 Vue.JS 開發經驗。
-2. HTML, CSS/SCSS, Javascript, AJAX 開發經驗。
-3. 串接 REST APIs / Socket 相關經驗。
-4. 細心的程式碼撰寫習慣。
-5. 具備軟體開發知識包含資料結構，
-並重視程式可維護性及擴充性。...
-May 9 at 4:05 AM
-2 ·
-
-https://facebook.com/1686432621633958/posts/3148313225445883
-
-[]
-</description><author></author><pubDate>Mon, 09 May 2022 12:05:45 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3148313225445883</guid></item><item><title>gtort
-ran的最高進階應用，仍以上舉
-uplft的例子作闡述說明！
-111</title><link>https://facebook.com/1182255762153380/posts/1505270633185223</link><description>舉
-uplft的例子作闡述說明！
-111.07.21:gtortran的最高進階應用，仍以上舉uplft的例子作闡述說明！
-youtube.com
-July 22 at 4:18 PM
+</description><author></author><pubDate>Thu, 19 May 2022 09:46:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3156014734675732</guid></item><item><title>定啦，還在觀
+望的小夥伴請把握機會，火速報名
+！！！🥰🥰🥰
+📢報名連結：http</title><link>https://facebook.com/1182255762153380/posts/1505270633185223</link><description>報名
+！！！🥰🥰🥰
+📢報名連結：https://
+forms.gle/
+QabeJkQBs5tkB9oL
+A
+CyberSecurity Summer Camp 2022 資訊安全暑訓營－程式安全😍
+暑假當然是在家，來場線上資訊安
+全暑訓營吧😎
+📣...
+14 hrs
 Like · Full Story
 陳文生 shared a link.
-111.07.20:gtort
-ran的進階應用，仍以上舉up
-lft的例子作闡述說明！
-111.0
+111.07.2
 
 https://facebook.com/1182255762153380/posts/1505270633185223
 
 []
-</description><author></author><pubDate>Tue, 02 Nov 2021 23:21:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1505270633185223</guid></item><item><title>gtort
+</description><author></author><pubDate>Tue, 02 Nov 2021 23:21:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1505270633185223</guid></item><item><title>ity Summer Camp 2022 資訊安全暑訓營－程式安全😍
+暑假當然是</title><link>https://facebook.com/1182255762153380/posts/1686095195102765</link><description> 資訊安全暑訓營－程式安全😍
+暑假當然是在家，來場線上資訊安
+全暑訓營吧😎
+📣...
+14 hrs
+Like · Full Story
+陳文生 shared a link.
+111.07.21:gtort
+ran的最高進階應用，仍以上舉
+uplft的例子作闡述說明！
+111.07.21:gtortran的最高進階應用，仍以上舉uplft的例子作闡述說明！
+y
+
+https://facebook.com/1182255762153380/posts/1686095195102765
+
+[]
+</description><author></author><pubDate>Mon, 25 Jul 2022 11:28:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1686095195102765</guid></item><item><title>gtort
 ran的進階應用，仍以上舉up
 lft的例子作闡述說明！
 111.0</title><link>https://facebook.com/1182255762153380/posts/1684464858599132</link><description>p
@@ -782,79 +801,27 @@ ming Book Club
 https://facebook.com/1182255762153380/posts/1682432948802323
 
 []
-</description><author></author><pubDate>Tue, 19 Jul 2022 23:26:49 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1682432948802323</guid></item><item><title>gfort
-ran結合c語言運用在自動繪圖
-，以基樁為例！
-111.07.15:</title><link>https://facebook.com/1182255762153380/posts/1681490658896552</link><description>圖
-，以基樁為例！
-111.07.15:gfortran結合c語言運用在自動繪圖，以基樁為例！
+</description><author></author><pubDate>Tue, 19 Jul 2022 23:26:49 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1682432948802323</guid></item><item><title>用gfor
+tran寫轉換座標的小程式。重
+點在於從編輯到可執行的完整過程
+！
+</title><link>https://facebook.com/1182255762153380/posts/1681490658896552</link><description>重
+點在於從編輯到可執行的完整過程
+！
+111.07.18:用gfotran寫轉換座標的小程式。重點在於從編輯到可執行的完整過程！
 youtube.com
-July 15 at 3:07 PM
-3 · Like · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-7506
-Photos
-379
-Events
-Files
-1
-Vie
+July 18 at 9:50 AM
+1 · Like · 1 Comment · Full Story
+何昊恩 &gt; ‎程式語言讀書會｜Program
+ming Book Club
+各位好，小弟最近有個專
 
 https://facebook.com/1182255762153380/posts/1681490658896552
 
 []
-</description><author></author><pubDate>Mon, 18 Jul 2022 17:50:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1681490658896552</guid></item><item><title>gfort
-ran結合c語言運用在自動繪圖
-，以基樁為例！
-111.07.15:</title><link>https://facebook.com/1182255762153380/posts/1680245382354413</link><description>圖
-，以基樁為例！
-111.07.15:gfortran結合c語言運用在自動繪圖，以基樁為例！
-youtube.com
-July 15 at 3:07 PM
-3 · Like · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-7506
-Photos
-379
-Events
-Files
-1
-Vie
+</description><author></author><pubDate>Mon, 18 Jul 2022 17:50:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1681490658896552</guid></item><item><title></title><link>https://facebook.com/1182255762153380/posts/1680245382354413</link><description>
 
 https://facebook.com/1182255762153380/posts/1680245382354413
 
 []
-</description><author></author><pubDate>Sat, 16 Jul 2022 23:20:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1680245382354413</guid></item><item><title>gfort
-ran結合c語言運用在自動繪圖
-，以基樁為例！
-111.07.15:</title><link>https://facebook.com/1182255762153380/posts/1679415965770688</link><description>圖
-，以基樁為例！
-111.07.15:gfortran結合c語言運用在自動繪圖，以基樁為例！
-youtube.com
-July 15 at 3:07 PM
-3 · Like · Full Story
-See More Posts
-Group Menu
-About
-Info
-Members
-7506
-Photos
-379
-Events
-Files
-1
-Vie
-
-https://facebook.com/1182255762153380/posts/1679415965770688
-
-[]
-</description><author></author><pubDate>Fri, 15 Jul 2022 23:07:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1679415965770688</guid></item></channel></rss>
+</description><author></author><pubDate>Sat, 16 Jul 2022 23:20:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1680245382354413</guid></item></channel></rss>
