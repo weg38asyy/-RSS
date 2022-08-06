@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Fri, 05 Aug 2022 00:39:15 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Sat, 06 Aug 2022 17:17:55 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>刪文。
 我們版主群只是screen capture這個刪文。
 
 然後fb也把我們</title><link>https://facebook.com/616369245163622/posts/2649618751838651</link><description>pture這個刪文。
@@ -12,7 +12,43 @@
 https://facebook.com/616369245163622/posts/2649618751838651
 
 []
-</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>的成長，功
+</description><author></author><pubDate>Wed, 20 Apr 2022 21:42:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2649618751838651</guid></item><item><title>nar storage
+時間：八月六日，星期六，台北時
+間17:00 - 18:</title><link>https://facebook.com/616369245163622/posts/2739174159549776</link><description>星期六，台北時
+間17:00 - 18:00
+費用：免費
+形式：線上，當天16:50會開
+放google meetup link，先進先搶位子
+
+https://facebook.com/616369245163622/posts/2739174159549776
+
+[]
+</description><author></author><pubDate>Wed, 03 Aug 2022 00:17:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2739174159549776</guid></item><item><title>nar storage mini-talk 17:00會正式開始</title><link>https://facebook.com/616369245163622/posts/2742122745921584</link><description>k 17:00會正式開始
+
+https://facebook.com/616369245163622/posts/2742122745921584
+
+[]
+</description><author></author><pubDate>Sat, 06 Aug 2022 16:50:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2742122745921584</guid></item><item><title>單次 query index 都有吃到跑很快
+但是線上 throughput 上</title><link>https://facebook.com/616369245163622/posts/2741924652608060</link><description>很快
+但是線上 throughput 上去就會開始出現秒級的查詢，且
+會導致 mysql 機器 cpu 上昇
+要如何觀測可能是因為單表大小達
+到瓶頸呢
+
+https://facebook.com/616369245163622/posts/2741924652608060
+
+[]
+</description><author></author><pubDate>Sat, 06 Aug 2022 10:17:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2741924652608060</guid></item><item><title>dio Code 好用的設定
+
+https://
+www.veryenjoy.t</title><link>https://facebook.com/616369245163622/posts/2741618329305359</link><description>s://
+www.veryenjoy.tw
+/article/56
+
+https://facebook.com/616369245163622/posts/2741618329305359
+
+[]
+</description><author></author><pubDate>Sat, 06 Aug 2022 00:32:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2741618329305359</guid></item><item><title>的成長，功
 能及商業需求不斷增加的同時，你
 手上的專案是否也有一段時間沒有
 做版</title><link>https://facebook.com/616369245163622/posts/2740503679416824</link><description>你
@@ -51,41 +87,17 @@ https://facebook.com/616369245163622/posts/2740431149424077
 https://facebook.com/616369245163622/posts/2739949472805578
 
 []
-</description><author></author><pubDate>Thu, 04 Aug 2022 00:49:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2739949472805578</guid></item><item><title>後expl
-orer 完全沒顯示任何檔案和資料夾，查
-setting後也沒exc</title><link>https://facebook.com/616369245163622/posts/2739336712866854</link><description>和資料夾，查
-setting後也沒exclu
-de任何東西。
-
-不知道要怎解決，重新安裝好幾次
-了。已經連續好幾天無法使用vs
-code，也查不到解決的方式。
-
-https://facebook.com/616369245163622/posts/2739336712866854
-
-[]
-</description><author></author><pubDate>Wed, 03 Aug 2022 05:41:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2739336712866854</guid></item><item><title>nar storage
-時間：八月六日，星期六，台北時
-間17:00 - 18:</title><link>https://facebook.com/616369245163622/posts/2739174159549776</link><description>星期六，台北時
-間17:00 - 18:00
-費用：免費
-形式：線上，當天16:50會開
-放google meetup link，先進先搶位子
-
-https://facebook.com/616369245163622/posts/2739174159549776
-
-[]
-</description><author></author><pubDate>Wed, 03 Aug 2022 00:17:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2739174159549776</guid></item><item><title>asy tree traversal 的整理</title><link>https://facebook.com/616369245163622/posts/2739148226219036</link><description>整理
-
-https://facebook.com/616369245163622/posts/2739148226219036
-
-[]
-</description><author></author><pubDate>Tue, 02 Aug 2022 23:38:27 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2739148226219036</guid></item><item><title></title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>
+</description><author></author><pubDate>Thu, 04 Aug 2022 00:49:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2739949472805578</guid></item><item><title></title><link>https://facebook.com/498481680220886/posts/3579398352129188</link><description>
 
 https://facebook.com/498481680220886/posts/3579398352129188
 
 []
-</description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title></title><link>https://facebook.com/498481680220886/posts/5278869845515355</link><description>
+</description><author></author><pubDate>Fri, 08 Jan 2021 14:36:18 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/3579398352129188</guid></item><item><title></title><link>https://facebook.com/498481680220886/posts/5281782131890793</link><description>
+
+https://facebook.com/498481680220886/posts/5281782131890793
+
+[]
+</description><author></author><pubDate>Fri, 05 Aug 2022 19:42:15 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5281782131890793</guid></item><item><title></title><link>https://facebook.com/498481680220886/posts/5278869845515355</link><description>
 
 https://facebook.com/498481680220886/posts/5278869845515355
 
@@ -133,27 +145,17 @@ ookie? 網站目前沒使用到Session
 https://facebook.com/498481680220886/posts/5275141735888166
 
 []
-</description><author></author><pubDate>Wed, 03 Aug 2022 10:47:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5275141735888166</guid></item><item><title>avel 開發blog
-要怎麼排序每固定顯示三篇文章後
-顯示一篇廣告的文章，
-廣</title><link>https://facebook.com/498481680220886/posts/5270781339657539</link><description>顯示三篇文章後
-顯示一篇廣告的文章，
-廣告文章跟一般文章格式一樣也在
-同樣資料表
-但分類不一樣
-感謝大家
-Ex
-文章1...
-
-https://facebook.com/498481680220886/posts/5270781339657539
-
-[]
-</description><author></author><pubDate>Mon, 01 Aug 2022 20:57:17 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5270781339657539</guid></item><item><title></title><link>https://facebook.com/297656798404654/posts/541949100642088</link><description>
+</description><author></author><pubDate>Wed, 03 Aug 2022 10:47:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/498481680220886/posts/5275141735888166</guid></item><item><title></title><link>https://facebook.com/297656798404654/posts/541949100642088</link><description>
 
 https://facebook.com/297656798404654/posts/541949100642088
 
 []
-</description><author></author><pubDate>Mon, 23 May 2022 16:05:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541949100642088</guid></item><item><title>a Premium Admin Template?
+</description><author></author><pubDate>Mon, 23 May 2022 16:05:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541949100642088</guid></item><item><title>ravel expert for bug fixer</title><link>https://facebook.com/297656798404654/posts/536824524487879</link><description> fixer
+
+https://facebook.com/297656798404654/posts/536824524487879
+
+[]
+</description><author></author><pubDate>Sun, 15 May 2022 19:10:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/536824524487879</guid></item><item><title>a Premium Admin Template?
 Preview : http</title><link>https://facebook.com/297656798404654/posts/523542102482788</link><description>late?
 Preview : https://
 themesbrand.com/
@@ -176,12 +178,7 @@ Responsible for creating and im</title><link>https://facebook.com/29765679840465
 https://facebook.com/297656798404654/posts/541564980680500
 
 []
-</description><author></author><pubDate>Mon, 23 May 2022 00:48:12 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541564980680500</guid></item><item><title>ravel expert for bug fixer</title><link>https://facebook.com/297656798404654/posts/536824524487879</link><description> fixer
-
-https://facebook.com/297656798404654/posts/536824524487879
-
-[]
-</description><author></author><pubDate>Sun, 15 May 2022 19:10:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/536824524487879</guid></item><item><title> developer for my website. I need fix sm</title><link>https://facebook.com/297656798404654/posts/541489520688046</link><description>bsite. I need fix smtp error and website redesign.
+</description><author></author><pubDate>Mon, 23 May 2022 00:48:12 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541564980680500</guid></item><item><title> developer for my website. I need fix sm</title><link>https://facebook.com/297656798404654/posts/541489520688046</link><description>bsite. I need fix smtp error and website redesign.
 
 https://facebook.com/297656798404654/posts/541489520688046
 
@@ -201,7 +198,21 @@ https://facebook.com/297656798404654/posts/500362421467423
 https://facebook.com/1636760336639685/posts/2253481484967564
 
 []
-</description><author></author><pubDate>Tue, 25 Jun 2019 19:32:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/2253481484967564</guid></item><item><title>pert #laraveldevelope
+</description><author></author><pubDate>Tue, 25 Jun 2019 19:32:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/2253481484967564</guid></item><item><title>ate request syntax is
+php artisan make:r</title><link>https://facebook.com/1636760336639685/posts/3140062229642814</link><description>s
+php artisan make:request updateRequest
+Do you guys agree with this method?
+#...
+
+Form Request Validation with update method.
+
+Create update request syntax is
+php artisan make:req
+
+https://facebook.com/1636760336639685/posts/3140062229642814
+
+[]
+</description><author></author><pubDate>Wed, 03 Aug 2022 00:31:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3140062229642814</guid></item><item><title>pert #laraveldevelope
 r #laravelPHP
 
 Wha</title><link>https://facebook.com/1636760336639685/posts/3137256523256718</link><description>e
@@ -218,21 +229,7 @@ r
 https://facebook.com/1636760336639685/posts/3137256523256718
 
 []
-</description><author></author><pubDate>Sat, 30 Jul 2022 00:18:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3137256523256718</guid></item><item><title>ate request syntax is
-php artisan make:r</title><link>https://facebook.com/1636760336639685/posts/3140062229642814</link><description>s
-php artisan make:request updateRequest
-Do you guys agree with this method?
-#...
-
-Form Request Validation with update method.
-
-Create update request syntax is
-php artisan make:req
-
-https://facebook.com/1636760336639685/posts/3140062229642814
-
-[]
-</description><author></author><pubDate>Wed, 03 Aug 2022 00:31:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3140062229642814</guid></item><item><title>dy have a tutorial on setting up AWS SQS</title><link>https://facebook.com/1636760336639685/posts/3140251609623876</link><description>n setting up AWS SQS for sending API post/get requests. Ive looked everywhere and can not find anything, on YT or google.
+</description><author></author><pubDate>Sat, 30 Jul 2022 00:18:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3137256523256718</guid></item><item><title>dy have a tutorial on setting up AWS SQS</title><link>https://facebook.com/1636760336639685/posts/3140251609623876</link><description>n setting up AWS SQS for sending API post/get requests. Ive looked everywhere and can not find anything, on YT or google.
 
 https://facebook.com/1636760336639685/posts/3140251609623876
 
@@ -278,74 +275,74 @@ www.programmer-c...
 https://facebook.com/1403852566495675/posts/1416740855206846
 
 []
-</description><author></author><pubDate>Mon, 16 Sep 2013 11:17:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/1416740855206846</guid></item><item><title>&amp;韌體開發
-工程師，比較常使用VHDL 還是 Verilog ? (以上都是主觀</title><link>https://facebook.com/1403852566495675/posts/3233680060179574</link><description>還是 Verilog ? (以上都是主觀的理解) ~
+</description><author></author><pubDate>Mon, 16 Sep 2013 11:17:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/1416740855206846</guid></item><item><title></title><link>https://facebook.com/1403852566495675/posts/3234843690063211</link><description>
 
-https://facebook.com/1403852566495675/posts/3233680060179574
-
-[]
-</description><author></author><pubDate>Fri, 05 Aug 2022 00:29:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3233680060179574</guid></item><item><title>題：
-有個網路攝影機有提供控制攝影機
-功能的Api路徑供呼叫，但因為
-它的後台需</title><link>https://facebook.com/1403852566495675/posts/3232993463581567</link><description>能的Api路徑供呼叫，但因為
-它的後台需先使用攝影機的帳號密
-碼登入，請問該怎麼寫這樣的程式
-？技術上需傳送兩次請求，第一次
-丟POST，用request.
-Credentials = new NetworkCredenti
-al先登進去，再丟get呼叫該
-...
-
-https://facebook.com/1403852566495675/posts/3232993463581567
+https://facebook.com/1403852566495675/posts/3234843690063211
 
 []
-</description><author></author><pubDate>Thu, 04 Aug 2022 01:41:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3232993463581567</guid></item><item><title>h都是全域變數，但為什
-麼第二次x列印出的還是0？</title><link>https://facebook.com/1403852566495675/posts/3229388270608753</link><description>的還是0？
+</description><author></author><pubDate>Sat, 06 Aug 2022 16:31:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3234843690063211</guid></item><item><title>矩陣大小是N*M
+那麼下面照片這樣寫是甚麼意思?
+?</title><link>https://facebook.com/1403852566495675/posts/3234857690061811</link><description>麼意思?
+?
 
-https://facebook.com/1403852566495675/posts/3229388270608753
-
-[]
-</description><author></author><pubDate>Fri, 29 Jul 2022 22:03:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3229388270608753</guid></item><item><title>eplit.com/join/
-ozixsgnavk-yuhun
-ghuang6</title><link>https://facebook.com/1403852566495675/posts/3232721183608795</link><description>sgnavk-yuhun
-ghuang625
-請問要如何去除x= 前的空格 謝謝能幫忙的人
-
-https://facebook.com/1403852566495675/posts/3232721183608795
+https://facebook.com/1403852566495675/posts/3234857690061811
 
 []
-</description><author></author><pubDate>Wed, 03 Aug 2022 17:38:15 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3232721183608795</guid></item><item><title>教一下各位前輩 我最近在寫c的時候看到regi
-ster這個東西（像是regi
-</title><link>https://facebook.com/1403852566495675/posts/3233584266855820</link><description>egi
-ster這個東西（像是regi
-ster int那一種）請問一下變數用暫
-存器存取除了會比較快之外（暫存
-器存取速度比記憶體快很多）還有
-其他用途嗎 或者是有其他的缺點之類的嗎
+</description><author></author><pubDate>Sat, 06 Aug 2022 17:01:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3234857690061811</guid></item><item><title>FPGA #IC #vivado #fpga可程式化邏輯設計實習
+我在讀這本書的</title><link>https://facebook.com/1403852566495675/posts/3234439310103649</link><description>ga可程式化邏輯設計實習
+我在讀這本書的ch4的除頻器，
+老師要求設計 baud rate 為 9600，19200， 115200等除頻器
+不知道baud rate要怎麼從程式碼去設定 也不知道該怎麼調整 想請教baud rate的程式碼該如何調整?
 
-https://facebook.com/1403852566495675/posts/3233584266855820
+https://facebook.com/1403852566495675/posts/3234439310103649
 
 []
-</description><author></author><pubDate>Thu, 04 Aug 2022 21:53:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3233584266855820</guid></item><item><title>乎是lin
-ux跟macos的資料，win
-dows的資料找不太到</title><link>https://facebook.com/1403852566495675/posts/3233578403523073</link><description>n
-dows的資料找不太到
+</description><author></author><pubDate>Sat, 06 Aug 2022 01:39:40 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3234439310103649</guid></item><item><title>問題在哪(系統不讓
+運行)
+改了幾次也只是一直輸出1.0(
+目標找p/
+a最接近</title><link>https://facebook.com/1403852566495675/posts/3234293030118277</link><description>是一直輸出1.0(
+目標找p/
+a最接近0.618的值,a,p在
+1~20)
 
-https://facebook.com/1403852566495675/posts/3233578403523073
-
-[]
-</description><author></author><pubDate>Thu, 04 Aug 2022 21:43:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3233578403523073</guid></item><item><title>個N*M的
-乘法表(N、M由使用者輸入)，
-但不管我N輸入多少，縱向最多只
-能輸</title><link>https://facebook.com/1403852566495675/posts/3233591036855143</link><description>，
-但不管我N輸入多少，縱向最多只
-能輸出4行，想請問我哪裡寫錯？
-（已解決問題）
-
-https://facebook.com/1403852566495675/posts/3233591036855143
+https://facebook.com/1403852566495675/posts/3234293030118277
 
 []
-</description><author></author><pubDate>Thu, 04 Aug 2022 22:01:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3233591036855143</guid></item><item><title>以發文接案
+</description><author></author><pubDate>Fri, 05 Aug 2022 21:25:55 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3234293030118277</guid></item><item><title>近在練習題目是輸入一個字
+串用函數傳回字串長度 想請教一下再函數定義傳回值是s
+</title><link>https://facebook.com/1403852566495675/posts/3234730413407872</link><description>串長度 想請教一下再函數定義傳回值是s
+tr那return給main函
+數應該也要str為甚麼是要回傳
+i?
+
+https://facebook.com/1403852566495675/posts/3234730413407872
+
+[]
+</description><author></author><pubDate>Sat, 06 Aug 2022 12:27:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3234730413407872</guid></item><item><title>vivado #FPGA #8bits的前瞻加法器 #fpga可程式化邏輯設計實</title><link>https://facebook.com/1403852566495675/posts/3234159230131657</link><description>前瞻加法器 #fpga可程式化邏輯設計實習
+我在這本書的第3-11頁把四位
+元前瞻進位加法器，改成八位元前
+瞻進位加法器，發現模擬不出來，
+想問怎麼除錯？
+程式碼旁邊紅色圈圈和下面的紅色
+波浪線的意思是什麼？
+我對前瞻加法器的原理有點不太懂
+，是不是先弄懂原理再打程式碼是
+不是比較好@@
+
+https://facebook.com/1403852566495675/posts/3234159230131657
+
+[]
+</description><author></author><pubDate>Fri, 05 Aug 2022 17:24:41 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3234159230131657</guid></item><item><title>C#爬蟲，目前碰到
+一個網站api post的參數是這種格式，想請
+問這種格式是</title><link>https://facebook.com/1403852566495675/posts/3232148663666047</link><description>st的參數是這種格式，想請
+問這種格式是什麼呢？是否可以提
+供搜尋的關鍵字，謝謝大家
+
+https://facebook.com/1403852566495675/posts/3232148663666047
+
+[]
+</description><author></author><pubDate>Tue, 02 Aug 2022 20:54:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3232148663666047</guid></item><item><title>以發文接案
 或發案，
 任何PC軟體程式設計或手機AP
 P軟體程式設計以及網頁We</title><link>https://facebook.com/1686432621633958/posts/2208771952733353</link><description>計或手機AP
@@ -356,7 +353,21 @@ P軟體程式設計以及網頁Web設
 https://facebook.com/1686432621633958/posts/2208771952733353
 
 []
-</description><author></author><pubDate>Wed, 02 Jan 2019 22:04:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/2208771952733353</guid></item><item><title>案 #網站架設
+</description><author></author><pubDate>Wed, 02 Jan 2019 22:04:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/2208771952733353</guid></item><item><title>多年IT程
+式開發經驗，早期又有幾年美術設
+計工作經驗，因此對視覺介面和程
+式品</title><link>https://facebook.com/1686432621633958/posts/3216118418665363</link><description>設
+計工作經驗，因此對視覺介面和程
+式品質兩者都非常講究，思維的廣
+度導致決策過程非常不像工程師，
+比較像是一個產品經理下去做完所
+有基層研發的工作，其艱辛常常人
+所能理解。...
+
+https://facebook.com/1686432621633958/posts/3216118418665363
+
+[]
+</description><author></author><pubDate>Fri, 05 Aug 2022 17:03:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3216118418665363</guid></item><item><title>案 #網站架設
 個人接案，網站架設、後端套版、
 主機租用，從事相關行業五年以上
 </title><link>https://facebook.com/1686432621633958/posts/3066009273676279</link><description>套版、
@@ -443,16 +454,7 @@ https://facebook.com/1686432621633958/posts/3150694268541112
 https://facebook.com/1686432621633958/posts/3198201837123688
 
 []
-</description><author></author><pubDate>Tue, 12 Jul 2022 21:16:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3198201837123688</guid></item><item><title>串接
-
-功能：網頁程式PHP接 GOOGLE APP計算步數功能
-聯絡方式：私訊</title><link>https://facebook.com/1686432621633958/posts/3214237992186739</link><description>LE APP計算步數功能
-聯絡方式：私訊
-
-https://facebook.com/1686432621633958/posts/3214237992186739
-
-[]
-</description><author></author><pubDate>Wed, 03 Aug 2022 02:39:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3214237992186739</guid></item><item><title>員提到無法
+</description><author></author><pubDate>Tue, 12 Jul 2022 21:16:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3198201837123688</guid></item><item><title>員提到無法
 發表文章的問題，所以這邊直接把
 自動管理社團的設定貼出來給大家
 參考</title><link>https://facebook.com/1182255762153380/posts/1505270633185223</link><description>把
@@ -474,9 +476,7 @@ https://facebook.com/1182255762153380/posts/1505270633185223
 轉型，您，跟上了嗎❓
 當數位轉型目的是想要營收成長，
 那麼要做的事情便不只是資料 e 化、網路協作而已，最重要的一步
-就是「上雲☁️」，使用雲端工具能夠大大提升團
-隊生產力，累積龐大的資料後透過
-管理平台與分析工具，數據化和
+就是「上雲☁️...
 
 https://facebook.com/1182255762153380/posts/1692618284450456
 
