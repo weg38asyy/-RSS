@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Sat, 24 Sep 2022 20:14:29 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>個版每天數十個廣告機器人試圖進版發垃圾文
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Thu, 29 Sep 2022 02:47:46 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>個版每天數十個廣告機器人試圖進版發垃圾文
 
 所以如果你是正常人類，千萬不要在進版</title><link>https://facebook.com/616369245163622/posts/2638844239582769</link><description>
 
@@ -13,7 +13,82 @@
 https://facebook.com/616369245163622/posts/2638844239582769
 
 []
-</description><author></author><pubDate>Thu, 07 Apr 2022 17:43:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2638844239582769</guid></item><item><title>arch #ElasticStack
+</description><author></author><pubDate>Thu, 07 Apr 2022 17:43:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2638844239582769</guid></item><item><title>chnews.tw/2022/09/28/github-adds-to-its-</title><link>https://facebook.com/616369245163622/posts/2788726844594507</link><description>/github-adds-to-its-frozen-arctic-code-vault
+
+我的RESTful淺談簡報還有第一版的RDBMS教材也被放進去了～
+
+TECHNEWS.TW
+GitHub 全站程式碼 21TB 資料入庫北極
+
+https://facebook.com/616369245163622/posts/2788726844594507
+
+[]
+</description><author></author><pubDate>Wed, 28 Sep 2022 21:37:36 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2788726844594507</guid></item><item><title>高併發」，覺得原生PHP不行（他說的，不是我說的）
+
+所以想轉去Go，或是去學p</title><link>https://facebook.com/616369245163622/posts/2744866048980587</link><description>是我說的）
+
+所以想轉去Go，或是去學php with swoole
+
+－－－－－－－－－－－－－－－－－－－－－－－－
+身為開教Concurrency課程的講師，我寫一下感想吧。
+（謎之聲：你到底打算那個世紀才開課……）
+
+每年總會吹一些buzzword的。
+明明是數據分析就叫什麼「BigData」，System Admin就改叫「DevOps」
+
+Con
+
+https://facebook.com/616369245163622/posts/2744866048980587
+
+[]
+</description><author></author><pubDate>Wed, 10 Aug 2022 01:14:55 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2744866048980587</guid></item><item><title>令
+
+VERYENJOY.TW
+Django 常用指令 - Enjoy 軟體</title><link>https://facebook.com/616369245163622/posts/2788627074604484</link><description>go 常用指令 - Enjoy 軟體
+
+https://facebook.com/616369245163622/posts/2788627074604484
+
+[]
+</description><author></author><pubDate>Wed, 28 Sep 2022 19:32:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2788627074604484</guid></item><item><title>ps://github.com/125c/H11
+拉下來以後執行建置 出現下面的</title><link>https://facebook.com/616369245163622/posts/2786422681491590</link><description>/H11
+拉下來以後執行建置 出現下面的錯誤畫面
+如果直接執行首頁會出現上面那個錯誤
+不求直接給解答 但求餵狗關鍵字&lt;(_ _)&gt;
+
+https://facebook.com/616369245163622/posts/2786422681491590
+
+['https://m.facebook.com/photo/view_full_size/?fbid=10225980573974715&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=10225980574214721&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Mon, 26 Sep 2022 18:31:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2786422681491590</guid></item><item><title> AWS Aurora PostgreSQL，開了 Write / Read i</title><link>https://facebook.com/616369245163622/posts/2787098951423963</link><description>QL，開了 Write / Read instance 各一台，並設定 fail-over。
+用了三個月，期間有發生一次 cannot execute UPDATE in a read-only transaction 的奇怪錯誤。Google了半天還是不清楚原因。當時的解法是直接在 AWS RDS Maintenance 頁籤，手動執行 System up
+
+https://facebook.com/616369245163622/posts/2787098951423963
+
+[]
+</description><author></author><pubDate>Tue, 27 Sep 2022 11:01:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2787098951423963</guid></item><item><title>Linux 核心
+
+ZDNET.COM
+Linus Torvalds: Rust</title><link>https://facebook.com/616369245163622/posts/2787041001429758</link><description>Linus Torvalds: Rust will go into Linux 6.1
+
+https://facebook.com/616369245163622/posts/2787041001429758
+
+[]
+</description><author></author><pubDate>Tue, 27 Sep 2022 09:14:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2787041001429758</guid></item><item><title>，開發者越來越難以了解自己的服務如何依賴或影響其他服務，尤其是在部署之後，服務中</title><link>https://facebook.com/616369245163622/posts/2785814288219096</link><description>或影響其他服務，尤其是在部署之後，服務中斷時如何快速和準確地找到問題點成為了一個難解的議題。
+近期在研究 OpenTelemetry，它提供了一個統一且可插拔的架構，幫助開發者更容易除錯與暸解自己的系統，附上官方程式碼連結與部落格筆記，希望能幫助到有遇到一樣問題的人，如果有任何問題請隨意留言討論，感謝感謝。
+
+官方程式碼連結: 更多https://githu
+
+https://facebook.com/616369245163622/posts/2785814288219096
+
+[]
+</description><author></author><pubDate>Mon, 26 Sep 2022 02:35:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2785814288219096</guid></item><item><title> 鐵人賽，不過是寫故事，而不是寫技術類的文章，對於描寫故事方面，如果有更好的表現</title><link>https://facebook.com/616369245163622/posts/2779923772141481</link><description>文章，對於描寫故事方面，如果有更好的表現方式，再麻煩跟我說一下，希望把故事寫得更動一點。
+
+ITHELP.ITHOME.COM.TW
+IT 鬼故事 :: 2022 iThome 鐵人賽
+
+https://facebook.com/616369245163622/posts/2779923772141481
+
+[]
+</description><author></author><pubDate>Mon, 19 Sep 2022 22:51:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2779923772141481</guid></item><item><title>arch #ElasticStack
 嗨～各位週末愉快！
 喬叔即將在十月開設 E</title><link>https://facebook.com/616369245163622/posts/2784292361704622</link><description>～各位週末愉快！
 喬叔即將在十月開設 Elasticsearch 基礎實務班 &amp; Elasticsearch 進階運維班，兩門課一起報名可打九折優惠。原價 $32900，兩門一起報名總價是 $29610！
@@ -107,15 +182,7 @@ https://facebook.com/616369245163622/posts/2780633815403810
 https://facebook.com/616369245163622/posts/2770095063124352
 
 []
-</description><author></author><pubDate>Thu, 08 Sep 2022 17:58:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2770095063124352</guid></item><item><title> 鐵人賽，不過是寫故事，而不是寫技術類的文章，對於描寫故事方面，如果有更好的表現</title><link>https://facebook.com/616369245163622/posts/2779923772141481</link><description>文章，對於描寫故事方面，如果有更好的表現方式，再麻煩跟我說一下，希望把故事寫得更動一點。
-
-ITHELP.ITHOME.COM.TW
-IT 鬼故事 :: 2022 iThome 鐵人賽
-
-https://facebook.com/616369245163622/posts/2779923772141481
-
-[]
-</description><author></author><pubDate>Mon, 19 Sep 2022 22:51:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2779923772141481</guid></item><item><title>對HP 筆電換下舊硬碟，剛剛接上外接插USB 到原本的筆電想複製資料，硬碟不會被</title><link>https://facebook.com/616369245163622/posts/2779490642184794</link><description>SB 到原本的筆電想複製資料，硬碟不會被自動配置磁碟代號，也讀不了內容。目前判斷是HP 有預設對硬碟加硬碟鎖之類，可能是TPM。
+</description><author></author><pubDate>Thu, 08 Sep 2022 17:58:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2770095063124352</guid></item><item><title>對HP 筆電換下舊硬碟，剛剛接上外接插USB 到原本的筆電想複製資料，硬碟不會被</title><link>https://facebook.com/616369245163622/posts/2779490642184794</link><description>SB 到原本的筆電想複製資料，硬碟不會被自動配置磁碟代號，也讀不了內容。目前判斷是HP 有預設對硬碟加硬碟鎖之類，可能是TPM。
 
 現在打算再拆開外殼把這顆硬碟接回去並取消硬碟鎖，想請問有人知道怎樣取消掉這鎖，讓我之後可以正常的用外接線來讀取這硬碟？
 
@@ -132,79 +199,50 @@ https://facebook.com/616369245163622/posts/2779345015532690
 https://facebook.com/616369245163622/posts/2778776482256210
 
 []
-</description><author></author><pubDate>Sun, 18 Sep 2022 16:25:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2778776482256210</guid></item><item><title>軟體錄製教學影片呢？
-記得之前好像看過某間美國新創有做到
-- 自動上逐字稿
-- </title><link>https://facebook.com/616369245163622/posts/2777295299070995</link><description>間美國新創有做到
-- 自動上逐字稿
-- 輸出逐字稿文章 + AI 影片截圖
-
-主要是做技術的分享，每次用打字的輸出都很慢，尤其有些技術更新版本又很快，又更懶得寫文章，最後變得每次訓練新人都要手把手mentor 制帶，有點浪費時間
-
-https://facebook.com/616369245163622/posts/2777295299070995
-
-[]
-</description><author></author><pubDate>Sat, 17 Sep 2022 00:51:32 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2777295299070995</guid></item><item><title>
-[待議] 新增進階私隱模式 · Issue #134 · vChewing/v</title><link>https://facebook.com/616369245163622/posts/2774293869371138</link><description>ue #134 · vChewing/vChewing-macOS
-
-https://facebook.com/616369245163622/posts/2774293869371138
-
-[]
-</description><author></author><pubDate>Tue, 13 Sep 2022 12:49:17 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2774293869371138</guid></item><item><title>thub.com/trpc/trpc/
-
-GITHUB.COM
-GitHub -</title><link>https://facebook.com/616369245163622/posts/2773569069443618</link><description>
-GITHUB.COM
-GitHub - trpc/trpc: 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-
-https://facebook.com/616369245163622/posts/2773569069443618
-
-[]
-</description><author></author><pubDate>Mon, 12 Sep 2022 18:20:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2773569069443618</guid></item><item><title>n Asia 2022 徵稿快結束了！到 9/14 這禮拜三喔！歡迎各路高手踴躍</title><link>https://facebook.com/616369245163622/posts/2773376596129532</link><description> 9/14 這禮拜三喔！歡迎各路高手踴躍投稿！
-
-也歡迎有興趣的同好踴躍參加～
-活動將在 11/26～27 於韓國首爾進行
-
-2022.UBUCON.ASIA
-Call for proposals | UbuCon Asia 2022
-
-https://facebook.com/616369245163622/posts/2773376596129532
-
-[]
-</description><author></author><pubDate>Mon, 12 Sep 2022 12:01:40 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2773376596129532</guid></item><item><title>於NAS上部署 gitlab的問題
-不知道有什麼地方沒有設定正確
-剛剛已經成功啟</title><link>https://facebook.com/616369245163622/posts/2775354915931700</link><description>道有什麼地方沒有設定正確
-剛剛已經成功啟動到 到登入介面
-登入之後忽然又變回去502跟500輪流跑
-高機率crash了
-
-https://facebook.com/616369245163622/posts/2775354915931700
-
-[]
-</description><author></author><pubDate>Wed, 14 Sep 2022 20:23:57 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2775354915931700</guid></item><item><title>這部分的知識，之前一直把transaction和lock混為一談。好險之前的產品</title><link>https://facebook.com/616369245163622/posts/2775284825938709</link><description>ion和lock混為一談。好險之前的產品沒有什麼需求用到transaction的問題。
-如果我的理解有誤，再麻煩告知謝謝大家。
-
-CODING.FNSNE.COM
-資料庫的同步
-
-https://facebook.com/616369245163622/posts/2775284825938709
-
-[]
-</description><author></author><pubDate>Wed, 14 Sep 2022 18:29:10 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2775284825938709</guid></item><item><title>ONGODB.COM
-MongoDB Partners With Codecad</title><link>https://facebook.com/616369245163622/posts/2775248712608987</link><description>artners With Codecademy on New “Learn MongoDB” Course | MongoDB Blog
-
-Topper Chi 在 MongoDB User Group TW 中分享了 1 條連結。
-9月14日上午9:23 ·
-
-https://facebook.com/616369245163622/posts/2775248712608987
-
-[]
-</description><author></author><pubDate>Wed, 14 Sep 2022 17:24:44 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2775248712608987</guid></item><item><title>a Social Network for Developers to discu</title><link>https://facebook.com/297656798404654/posts/541949100642088</link><description> Developers to discuss topics about bugs and issues, write and share knowledge and connect with millions of developers worldwide. You can learn/ post your videos/ articles/ hiring/
+</description><author></author><pubDate>Sun, 18 Sep 2022 16:25:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2778776482256210</guid></item><item><title>a Social Network for Developers to discu</title><link>https://facebook.com/297656798404654/posts/541949100642088</link><description> Developers to discuss topics about bugs and issues, write and share knowledge and connect with millions of developers worldwide. You can learn/ post your videos/ articles/ hiring/
 
 https://facebook.com/297656798404654/posts/541949100642088
 
-['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/283526534_2532737880195128_4978775550655351536_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=5bac3a&amp;_nc_ohc=IXY9eDipsV8AX-pRJnO&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT_mVgfyvD49UT69SFEcZ08SgMM7SDt3BR1-xeWygBrdiA&amp;oe=63346A89']
-</description><author></author><pubDate>Mon, 23 May 2022 16:05:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541949100642088</guid></item><item><title>Essentials | Laravel 9 Full Tutorial For</title><link>https://facebook.com/297656798404654/posts/620967479406916</link><description> 9 Full Tutorial For Beginners
+['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/283526534_2532737880195128_4978775550655351536_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=5bac3a&amp;_nc_ohc=JcOWxgG-pFoAX-3v2TO&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT_kHiGxGqU3Pkv0C7L_j1o3xl2AFKMF-YRm2hA5Qmzydg&amp;oe=633A5949']
+</description><author></author><pubDate>Mon, 23 May 2022 16:05:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541949100642088</guid></item><item><title>ut le monde,
+Je suis étudiante en inform</title><link>https://facebook.com/297656798404654/posts/490768219093510</link><description> étudiante en informatique et je dois réaliser un projet de programmation web en laravel, j’ai des difficultés à comprendre certaines notions, est-ce que quelqu’un pourrait m’aider
+
+https://facebook.com/297656798404654/posts/490768219093510
+
+[]
+</description><author></author><pubDate>Fri, 04 Mar 2022 01:50:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/490768219093510</guid></item><item><title>B Testing &amp; Feature Flag Package | ABRou</title><link>https://facebook.com/297656798404654/posts/618389699664694</link><description>Flag Package | ABRouter Laravel A/B Tests
+
+#laravel #php #testing #programming #developer #morioh #softwaredeveloper #computerscience
+
+MORIOH.COM
+Laravel A/B Testing &amp; Feature Flag
+
+https://facebook.com/297656798404654/posts/618389699664694
+
+[]
+</description><author></author><pubDate>Fri, 16 Sep 2022 23:50:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/618389699664694</guid></item><item><title>ts to Correlate User Code with SQL Queri</title><link>https://facebook.com/297656798404654/posts/620242579479406</link><description> Code with SQL Queries in Laravel
+
+#laravel #php #programming #developer #morioh #softwaredeveloper #computerscience
+
+MORIOH.COM
+Add Comments to Correlate User Code with SQL Querie
+
+https://facebook.com/297656798404654/posts/620242579479406
+
+[]
+</description><author></author><pubDate>Mon, 19 Sep 2022 16:52:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/620242579479406</guid></item><item><title> ORM Caching Package for Laravel
+
+#php #</title><link>https://facebook.com/297656798404654/posts/620754392761558</link><description> for Laravel
+
+#php #laravel #programming #developer #morioh #softwaredeveloper #computerscience
+
+MORIOH.COM
+LaraCache: ORM Caching Package for Laravel
+
+https://facebook.com/297656798404654/posts/620754392761558
+
+[]
+</description><author></author><pubDate>Tue, 20 Sep 2022 08:53:05 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/620754392761558</guid></item><item><title>Essentials | Laravel 9 Full Tutorial For</title><link>https://facebook.com/297656798404654/posts/620967479406916</link><description> 9 Full Tutorial For Beginners
 
 #laravel #php #laravel9 #programming #developer #morioh #softwaredeveloper #computerscience
 
@@ -221,7 +259,12 @@ Laravel, PHP, JS, HTML, CSS - PLZ DM
 https://facebook.com/297656798404654/posts/514452953391703
 
 []
-</description><author></author><pubDate>Mon, 11 Apr 2022 02:48:59 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/514452953391703</guid></item><item><title>on of ISO standards as PHP Enums
+</description><author></author><pubDate>Mon, 11 Apr 2022 02:48:59 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/514452953391703</guid></item><item><title> feature-rich, dynamic website or web ap</title><link>https://facebook.com/297656798404654/posts/481772603326405</link><description>ic website or web app using a web programming language like PHP takes time. Numerous PHP frameworks exist to promote agile development and application performance. This allows… 更多 
+
+https://facebook.com/297656798404654/posts/481772603326405
+
+['https://m.facebook.com/photo/view_full_size/?fbid=2219333281550099&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_i0QBDGLYykmv7HMOBs0r92S0b_AMcVje0tbS-XyQ-OmPx0o5cKUk1_7fFrKXJQ05yBA67MJ9bq-wxdBJk0H7-kvIjaJQ-Me0ArUr5SK_K4oRf2_u4sghAGBm-yBTqU1sjPzXnUcLhEVKj-W9pt9IW7WYXo4gp9eMuICblrL_kc9YaThl0oeSUHSoj2gMBuHM_R8JsfxiREv4r2lv3CPPlGp3QxdFffwnfeNEoTHpa-cRlnx2zBKBP-1Yi_2x09shkPZ_yfdmk8xZtflCxW4MbQOFiV9YVZD_BYV0wichGS1Rfle9FHU3d1j91_H9USfkRY-maVJSQXf_FpDbmc6P3fFyamBxTS4zSyKgASpWIlcD8fzEKVVzHigYLOnooshj0zoCpnoGw6N54XhgGqZwqMPOyQl9lXe5nJGU05D6gaQqjINfsNUg0TQECKE8VRHWf7Y24kspqD8TBeJTKz7Tr09m8j6jK1D-S73J1VsOyoLiGqnBy5DUFl0tD2AM-9YhoLxe63DqjUV8s9m_IkvnUHQ9v9JJ5rObkuJz1xik-aj2xnS3pmYKZxx5YjlfT3ROlnK0TzLj8WeddM2H6FYywTFOKrGfPE9ZteyR81K9kMUVaYiSyC90SqIsHAvfiNnEk_ehzKYgmZj7R7znB2pRaJKkFnEDCYk40Wch3JPeIp_UcPFtWyAx8QOr12vdmSHm2ZmcllP9niIMJ7k6LqhZYYajkucBVCQlNvd_Kj7oISpiH-UUrBpJ_ILrIP8m3naSRXj3QP5rovoCCd0ZsK9jG7FfTQ9ReuYycVE5H9xGwXF4sbP5wFg_y0cu7dE2ebyEvg6tvxB4lR7rQV9P3gyW1hSypTQl7Ca-CcEaN9LcmC4WrStnqhHJGRz_2PwbU9C31B8XB9tY_g7NIeyWsvToxaPk8pWjSdkNKp7FyhKRTPy-Ac5iKXRerEHpkRjyDdipcX3CachJxJ95xszFocqGM4z2L09Par9srlaXSq59JR3nZNWnSLjp5ts-kp7tngSI7GTMO-fBoRDEoozmpNG02JX7lFzuLzlIGgniKlgbOvCjHulbJ8SAU6B4MnMem7gXquluveOCkhi7SzPLljm36WNhHz2_SCA&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Thu, 17 Feb 2022 21:00:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/481772603326405</guid></item><item><title>on of ISO standards as PHP Enums
 
 #larav</title><link>https://facebook.com/297656798404654/posts/618629936307337</link><description>as PHP Enums
 
@@ -233,19 +276,7 @@ A Collection of ISO standards as PHP Enums
 https://facebook.com/297656798404654/posts/618629936307337
 
 []
-</description><author></author><pubDate>Sat, 17 Sep 2022 08:51:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/618629936307337</guid></item><item><title> ORM Caching Package for Laravel
-
-#php #</title><link>https://facebook.com/297656798404654/posts/620754392761558</link><description> for Laravel
-
-#php #laravel #programming #developer #morioh #softwaredeveloper #computerscience
-
-MORIOH.COM
-LaraCache: ORM Caching Package for Laravel
-
-https://facebook.com/297656798404654/posts/620754392761558
-
-[]
-</description><author></author><pubDate>Tue, 20 Sep 2022 08:53:05 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/620754392761558</guid></item><item><title>for Onboarding Users in Laravel Apps
+</description><author></author><pubDate>Sat, 17 Sep 2022 08:51:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/618629936307337</guid></item><item><title>for Onboarding Users in Laravel Apps
 
 #l</title><link>https://facebook.com/297656798404654/posts/620479266122404</link><description> in Laravel Apps
 
@@ -257,17 +288,7 @@ A Package for Onboarding Users in Laravel Apps
 https://facebook.com/297656798404654/posts/620479266122404
 
 []
-</description><author></author><pubDate>Mon, 19 Sep 2022 23:52:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/620479266122404</guid></item><item><title>ts to Correlate User Code with SQL Queri</title><link>https://facebook.com/297656798404654/posts/620242579479406</link><description> Code with SQL Queries in Laravel
-
-#laravel #php #programming #developer #morioh #softwaredeveloper #computerscience
-
-MORIOH.COM
-Add Comments to Correlate User Code with SQL Querie
-
-https://facebook.com/297656798404654/posts/620242579479406
-
-[]
-</description><author></author><pubDate>Mon, 19 Sep 2022 16:52:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/620242579479406</guid></item><item><title>Supercharged Pipelines for Laravel
+</description><author></author><pubDate>Mon, 19 Sep 2022 23:52:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/620479266122404</guid></item><item><title>Supercharged Pipelines for Laravel
 
 #lar</title><link>https://facebook.com/297656798404654/posts/620030329500631</link><description>es for Laravel
 
@@ -309,17 +330,7 @@ Create Select Options from Enums, Laravel Models and more
 https://facebook.com/297656798404654/posts/618848089618855
 
 []
-</description><author></author><pubDate>Sat, 17 Sep 2022 16:51:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/618848089618855</guid></item><item><title>B Testing &amp; Feature Flag Package | ABRou</title><link>https://facebook.com/297656798404654/posts/618389699664694</link><description>Flag Package | ABRouter Laravel A/B Tests
-
-#laravel #php #testing #programming #developer #morioh #softwaredeveloper #computerscience
-
-MORIOH.COM
-Laravel A/B Testing &amp; Feature Flag
-
-https://facebook.com/297656798404654/posts/618389699664694
-
-[]
-</description><author></author><pubDate>Fri, 16 Sep 2022 23:50:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/618389699664694</guid></item><item><title>afts: A Simple Draft and Revision System</title><link>https://facebook.com/297656798404654/posts/618107826359548</link><description> and Revision System for Laravel
+</description><author></author><pubDate>Sat, 17 Sep 2022 16:51:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/618848089618855</guid></item><item><title>afts: A Simple Draft and Revision System</title><link>https://facebook.com/297656798404654/posts/618107826359548</link><description> and Revision System for Laravel
 
 #laravel #programming #developer #morioh #softwaredeveloper #computerscience
 
@@ -339,12 +350,7 @@ How to Insert Data in MySQL Database with Laravel 9
 https://facebook.com/297656798404654/posts/617901109713553
 
 []
-</description><author></author><pubDate>Fri, 16 Sep 2022 08:50:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/617901109713553</guid></item><item><title> feature-rich, dynamic website or web ap</title><link>https://facebook.com/297656798404654/posts/481772603326405</link><description>ic website or web app using a web programming language like PHP takes time. Numerous PHP frameworks exist to promote agile development and application performance. This allows… 更多 
-
-https://facebook.com/297656798404654/posts/481772603326405
-
-['https://m.facebook.com/photo/view_full_size/?fbid=2219333281550099&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553148756903820422%3Amf_story_key.481772603326405%3Atop_level_post_id.481772603326405%3Atl_objid.481772603326405%3Acontent_owner_id_new.100004203460426%3Apage_id.297656798404654%3Asrc.22%3Aphoto_id.2219333281550099%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX_W3HbgOm7nTYpD%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%22297656798404654%22%3A%7B%22page_id%22%3A297656798404654%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100004203460426%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1645102842%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B481772603326405%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100004203460426%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 17 Feb 2022 21:00:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/481772603326405</guid></item><item><title> in Laravel with the Restify Package
+</description><author></author><pubDate>Fri, 16 Sep 2022 08:50:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/617901109713553</guid></item><item><title> in Laravel with the Restify Package
 
 #l</title><link>https://facebook.com/297656798404654/posts/617672686403062</link><description> Restify Package
 
@@ -396,37 +402,66 @@ Livewire Form Build
 https://facebook.com/297656798404654/posts/614215490082115
 
 []
-</description><author></author><pubDate>Sat, 10 Sep 2022 16:38:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/614215490082115</guid></item><item><title>ate A Blog with Laravel Livewire &amp; Tailw</title><link>https://facebook.com/297656798404654/posts/614029226767408</link><description>vel Livewire &amp; Tailwindcss
-
-#laravel #tailwindcss #livewire #programming #developer #morioh #softwaredeveloper #computerscience
-
-MORIOH.COM
-How to Create A Blog with Laravel Livewi
-
-https://facebook.com/297656798404654/posts/614029226767408
-
-[]
-</description><author></author><pubDate>Sat, 10 Sep 2022 09:37:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/614029226767408</guid></item><item><title>T.COM
+</description><author></author><pubDate>Sat, 10 Sep 2022 16:38:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/614215490082115</guid></item><item><title>T.COM
 Slugify Online - Simple and easy t</title><link>https://facebook.com/1636760336639685/posts/2253481484967564</link><description> - Simple and easy to use URL slug generator | Product Hunt
 
 https://facebook.com/1636760336639685/posts/2253481484967564
 
 []
-</description><author></author><pubDate>Tue, 25 Jun 2019 19:32:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/2253481484967564</guid></item><item><title>b applications along with source codes(c</title><link>https://facebook.com/1636760336639685/posts/3035840026731702</link><description> with source codes(complete bundle Google Drive)
-Source code with Database Available.
-List of web applications:
-1. Single vendor Digital Marketplace(PHP)
-2. Human Resource Manageme
-
-https://facebook.com/1636760336639685/posts/3035840026731702
-
-['https://m.facebook.com/photo/view_full_size/?fbid=944151176245322&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553147657542089100%3Amf_story_key.3035840026731702%3Atop_level_post_id.3035840026731702%3Atl_objid.3035840026731702%3Acontent_owner_id_new.100019513452627%3Apage_id.1636760336639685%3Asrc.22%3Aphoto_id.944151176245322%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX-\\-\\4xHH3iE2QXub%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221636760336639685%22%3A%7B%22page_id%22%3A1636760336639685%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100019513452627%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1647284135%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3035840026731702%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100019513452627%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Tue, 15 Mar 2022 02:55:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3035840026731702</guid></item><item><title>yone. I have a problem to transfer sql q</title><link>https://facebook.com/1636760336639685/posts/3178164772499226</link><description>em to transfer sql query to laravel code. The code in the database returns an ok result, while in Laravel it returns an empty string. A returns only because of a where condition in
+</description><author></author><pubDate>Tue, 25 Jun 2019 19:32:11 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/2253481484967564</guid></item><item><title>yone. I have a problem to transfer sql q</title><link>https://facebook.com/1636760336639685/posts/3178164772499226</link><description>em to transfer sql query to laravel code. The code in the database returns an ok result, while in Laravel it returns an empty string. A returns only because of a where condition in
 
 https://facebook.com/1636760336639685/posts/3178164772499226
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5613838091988154&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5613838101988153&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 22 Sep 2022 23:06:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3178164772499226</guid></item><item><title>tall system laravel ?</title><link>https://facebook.com/1636760336639685/posts/3162066880775682</link><description>?
+</description><author></author><pubDate>Thu, 22 Sep 2022 23:06:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3178164772499226</guid></item><item><title>e Have A Modeling Directory Build In PHP</title><link>https://facebook.com/1636760336639685/posts/3175469342768769</link><description>rectory Build In PHP?
+
+https://facebook.com/1636760336639685/posts/3175469342768769
+
+[]
+</description><author></author><pubDate>Mon, 19 Sep 2022 14:59:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3175469342768769</guid></item><item><title>oped a social media website using Larave</title><link>https://facebook.com/1636760336639685/posts/3182561308726239</link><description>website using Laravel... I'm in the process of working on an accompanying Native app. using React...what I'm not clear on is how do I integrate the the 2? For example a user's memb
+
+https://facebook.com/1636760336639685/posts/3182561308726239
+
+[]
+</description><author></author><pubDate>Tue, 27 Sep 2022 22:27:53 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3182561308726239</guid></item><item><title>l what is different between this method?</title><link>https://facebook.com/1636760336639685/posts/3137256523256718</link><description>between this method?
+And which one is the best practice?
+
+#laravelexpert #laraveldeveloper #laravelPHP
+
+Laravel Tips
+7月29日下午4:14 ·
+
+What is different between these two method?
+
+#la
+
+https://facebook.com/1636760336639685/posts/3137256523256718
+
+['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/295691452_103961142414519_3462455944484236697_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8024bb&amp;_nc_ohc=zcEWrteDcncAX_0Gc0K&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT8b2Xq1z_eH6BnYyjUROgL9K1NN3xY2x6k6gtjKqOX20w&amp;oe=6338EA44']
+</description><author></author><pubDate>Sat, 30 Jul 2022 00:18:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3137256523256718</guid></item><item><title> guide me how to show a progress bar whe</title><link>https://facebook.com/1636760336639685/posts/3142635649385472</link><description>w a progress bar when importing excel to database?
+
+https://facebook.com/1636760336639685/posts/3142635649385472
+
+[]
+</description><author></author><pubDate>Sat, 06 Aug 2022 14:50:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3142635649385472</guid></item><item><title>p me.
+Phpmailer used.everything is ok bu</title><link>https://facebook.com/1636760336639685/posts/3149799622002408</link><description>.everything is ok but email not send.
+
+https://facebook.com/1636760336639685/posts/3149799622002408
+
+['https://m.facebook.com/photo/view_full_size/?fbid=1264794637600991&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9FvFBqSwOHB1ew9blCCdaCBLzIVzzdtpPHeWVhtEDWhKi0UbTLMIuTJgOYMdc1YZZXce7mncSiivburExooMrQ9YREsZ35s5Sg2V1vu7oBEBFD1wEUQDV6QyTXcWhYYOPGiaKyDpLFZobcz8gjuPERy1IlPxTpO_4e7THBoD_B8KOHBwOaWdBACxJiK9jikWitUzRR8uCHJMHcAH6graSTQDApB9uhqo-pI-g_-\\-\\4PyqNqqdHBVZzO0M0CPdIl13QIXemzNXeVkF5RU15KfQsb-cAFnZ7wS44UTaGVNZ5nolJK8hc0Gui8naCSEAeQwQRk0CRRDYSiAAZs4g7xwnxw5o_BZ-QSL38U3yASPigvHdBME2a9pxdzTgXhiq04hVWQ_ZS6SCEolU5NrPcA7Ped1aAQw_8nEAWTM42Ys3YAKhCieTmU7xfarwxNvMKrrlbvGj8pEOFEMV0T_RcggTxRBb9z5ggnNnjCa1zzf3Thb2xPAUkeS8-neLcEotVrk9PdQpZe29eSLe-sDG_tBmx5Sp0OvMSNRz7AhU4vwzj9tmgWqwpfPRmoMvHNkVsMnv0ry9d17LX3Y5efh-qScH-udO3m4gQKeODfX2uaVoE9Ig2QvgdyRjU1Z7QBNBorNv3IAHTT5weZm1yN17n_lt08Ac6qxOhLo8QnYX-_Q1Ddv0Z7ebHmFSST_w954BtVLe7a-5BoJRLS4BOo9_R9fDzTV6H9gXxJBLuM6xbrk2kO1H55U91QurnJOxeNGJ32057sgCTatcZO1x13KSLB47-8SHqIkDm_rcwGA2KnE9F66SEhb2lMA1KUuZ6l8WDsFQnt-Gt4E1yn1u1_j89bhYPFSQwNgv1WgawFbVoIjRSOXwKCx1Rxm5XUKElCxsykcZKJsBxTYy6WbZrfGzEhWMR8KtEQWIWNL1Rn3k8iQ2UspgxdGMsHnfwgrp3Y7DhHDInVdJUP0hMkHdpwgGEpcyCb5DYWI77CebYdtfpSNGf_QpGfXtNPRUa_qQvwCzfzNQKt3htxhSnmbsVfaxgVubFCR2ZXk7p2aVF-\\-\\UCCywnVcJhyfaFpp7lMdIH0W9SqRGboIVqsB35_atS19cWTNaiwAFbmuRns-DgyHcBKdSA&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Tue, 16 Aug 2022 12:54:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3149799622002408</guid></item><item><title>w to laravel. using "include" can we ins</title><link>https://facebook.com/1636760336639685/posts/3150522145263489</link><description>"include" can we insert any bootsrap template to laravel ?
+
+https://facebook.com/1636760336639685/posts/3150522145263489
+
+[]
+</description><author></author><pubDate>Wed, 17 Aug 2022 14:51:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3150522145263489</guid></item><item><title>yone, I have a question. I am going to c</title><link>https://facebook.com/1636760336639685/posts/3162162484099455</link><description>ion. I am going to create a Dashboar LMS for my courses. This will be created from scratch without a template.
+
+Could I duplicate this work to create a second and third online scho
+
+https://facebook.com/1636760336639685/posts/3162162484099455
+
+[]
+</description><author></author><pubDate>Fri, 02 Sep 2022 10:51:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3162162484099455</guid></item><item><title>tall system laravel ?</title><link>https://facebook.com/1636760336639685/posts/3162066880775682</link><description>?
 
 https://facebook.com/1636760336639685/posts/3162066880775682
 
@@ -448,13 +483,13 @@ Can you plz tell me what’s the pro</title><link>https://facebook.com/163676033
 
 https://facebook.com/1636760336639685/posts/3131719777143726
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1188973341882151&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553147657498206262%3Amf_story_key.3131719777143726%3Atop_level_post_id.3131719777143726%3Atl_objid.3131719777143726%3Acontent_owner_id_new.100023084886366%3Apage_id.1636760336639685%3Asrc.22%3Aphoto_id.1188973341882151%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8FfnlgEeM-vznD%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221636760336639685%22%3A%7B%22page_id%22%3A1636760336639685%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100023084886366%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1658423911%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3131719777143726%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100023084886366%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=1188973341882151&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_FI3duOzM34bXkwo2i2yo2vs9E3d_wX1hdlQCCJqHL2JnewwZzXUYRpKxXwuVmWnv8dZCE-y-k0RPx4UcKkRxBEIRVhwMvoT0ed6q7MpF3s-_1PzjaRB9rBE23cQ6gGaCl0194-sO05t_7XX7Qbo3UCMH9O0dJj39nVJg9F9oiqzFXXAPIX67fi1lN1UbsPJZYvEdZePjvimcQGc3ZS9dL-MebwxiKUJ91XpuaiKQeOtRykUhKPF3EJAStucijdt5f_JCkKKoQq_Od8CqBsMd2LSyKl-ExDVY9_1FAZi0DtjgWPBCDARUWrWbtrvL6ouZFeEexf5Y-Fth1zj1kX4DW8lEUOyxXlhfamFrS_j2WsJngI50doLnm-In_-edHV5nVAT9-lahYR77ErfuyBx4W8Ajz5RVLnwgoePSOV2LZPtRZYaaLp-HZYCLSkmdzGAlSXwZ4QygDnA3X9q1-\\-\\1pDuprMF8RIy9mpbYRJTyuiRxbljRCyEoao3tIm6bG20Wu5wFliZR9qXWTaBiKcKuQxQd_3zVd9VhEPKf9WgKFS4ojQifcY802e3e5qkgLpfFSnLalUWC0xi_pS4WPOp98PdPL_6DlGZvvXYdIr2FTgomlG3MA1gvb32x-yG4W01De7yKjO6WjWDQhh-2sjptiYmYzIat0H-chc3LxkmwqQ2hAr5xIUzSnqp5pzXCDlJIoreeW9qW2btUVZN4dD4kbF1kz6Q2tV9baiGG1cnEG6q0iHc7HhpLCxTTThja4YjN9yoWi9qsRMDKNW39cltnO2KG_jWCe5Wcj306DHcG6IV6N0jCimae5EfkD59G2gIIerzd_4uJaGRv5uXH0MKmVDNYeMOW_pcHG2F4GrL2XAGwfHFoPvGFCvgwQcuF2Xx3k37GjBKy4x6H6Tfn3WtZ9yrNKuo9ZQ6xKJP_5WrBNJwPMqR6VSG0dnQcUtJXC-drv_6r_jLZGS9NW2iubQuApf3dfnFPNU6xPzeIDWkkhgxYq07HaCsXZDBsz8WLOi-DxCSgsVUXb-WnpFVp4AklGYQJY1TMCqiKVj78bl1aosB5DYqJ0ZgkgERNou5hAGGWssWVfPTtp4DwOf7s-AOOr7xe8BGs89RlpGlUa5Wrs&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Fri, 22 Jul 2022 01:18:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3131719777143726</guid></item><item><title>g to use default login and register form</title><link>https://facebook.com/1636760336639685/posts/3118095421839495</link><description>in and register form of laravel but css doesnot work. What may be the cause.
 #helppost
 
 https://facebook.com/1636760336639685/posts/3118095421839495
 
-['https://m.facebook.com/photo/view_full_size/?fbid=3921054154785757&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553147657518461207%3Amf_story_key.3118095421839495%3Atop_level_post_id.3118095421839495%3Atl_objid.3118095421839495%3Acontent_owner_id_new.100006436335027%3Apage_id.1636760336639685%3Asrc.22%3Aphoto_id.3921054154785757%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8RIolcO1O_W1Ka%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221636760336639685%22%3A%7B%22page_id%22%3A1636760336639685%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100006436335027%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1656843937%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3118095421839495%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100006436335027%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=3921054154785757&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-dXul7HzDT9_wEvm82lQwZQZGTqz1ETfcqJuCHNRml-8wB7merAwuWIDi2AP3hA-r0DU7pFU4-S49JohS4t65ZeuJU2bH5vvQA7dya77KYYl5E3JHbAxhIPHy3ZZ_uT44gMrcBpvyGhy629FYBmIK9mtUe0VSL90hrrL2bRAUJ-MZETTOXuDJe38lgiEsUEoOkcbW0Z4Ed0HQItVIwsKOfipQ8tILkd0uN48z4HKHgHN7eC9NJJ9HuyDBt1vOulXNyaS7gOxJlv1jfxc2bLffYVpV0bvQ4BKlkhCQKTA_ZnjC4bkFB8jZ6dg5OmvuNkN2Eab4-U2JHVVdmEpkbGNO54nLJfP_c7IE_iDGR5eIKTFsXyltZdssNTmZ3LJAou68Xn1NJWUz-eY9iK1OathyWLN3CeE8Q4bt6TIF6hQiOa9V7PBF9sS1wwGI_N3FieLTX5PVcrUkJfx6U_9-jn0-sw2LKTu4L3mddRSaYYf8cVA9MqjzVvXpCBZENufARmGxywFHRM9OnfXAeH1k_U3i3-jB6fEPc9LB2kTkCHHYtB114L3gasUBKL32m9xDPIKUygiRfDexIMFZUrQY-bgAtOm4tWTT-y7x763w9kq7_4AHKWF3hbWrm40SWe5Wj4UrIQgbSQKktVudDlU9Dh-2u_f1KXvtN2tHaLPNW86PYhYAzrb676rIfSQ_-yeDSYMx-EAMRTJR5oFhtyWjZt1zCj7g0TTmYL2WXzipsAdD3F4XnWcUy5UZWAC1Ue2vnHysR-vo0o8gGW2iFUeXZsLJJ9IuHX294mtydqDH0rdDXwf7hNR3OxMVmUszIDLnjI5j62XlWXSkKv0z0OLGUJmwxMU0DgP_jZKNBFf2CiLrtc5iLpCj6d11ttzxzMJSaVDlFVBF-eBBY32oXcHm9P9K02AmXAF70sJwhEvGf74HPDYwBCT3H4PiHBaOc3vAi2piH1sO6-Zl3HySKf4kJq07Tllr_Y_R2y2sWyhm3Ks8ILM9Lwlwo2J2ELkuk3Ljy8gcp_CEsLqztl_faTYv6kypnLEP9qNmD5JYkPiHoJhCRbkDtJvJ0wvRfZgKIVrs75WPoKAtI_ovFB_O8HDK-EqZJq7ViJZL1umdu72KSDB4&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Sun, 03 Jul 2022 18:25:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3118095421839495</guid></item><item><title> all files inside bucket on S3 ?
 
 i want</title><link>https://facebook.com/1636760336639685/posts/3166901443625559</link><description>cket on S3 ?
@@ -472,14 +507,7 @@ https://facebook.com/1636760336639685/posts/3166901443625559
 https://facebook.com/1636760336639685/posts/3167375563578147
 
 []
-</description><author></author><pubDate>Fri, 09 Sep 2022 10:13:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3167375563578147</guid></item><item><title>yone, I have a question. I am going to c</title><link>https://facebook.com/1636760336639685/posts/3162162484099455</link><description>ion. I am going to create a Dashboar LMS for my courses. This will be created from scratch without a template.
-
-Could I duplicate this work to create a second and third online scho
-
-https://facebook.com/1636760336639685/posts/3162162484099455
-
-[]
-</description><author></author><pubDate>Fri, 02 Sep 2022 10:51:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3162162484099455</guid></item><item><title>direct to another page without page relo</title><link>https://facebook.com/1636760336639685/posts/3111548775827493</link><description>ge without page reloading using ajax.
+</description><author></author><pubDate>Fri, 09 Sep 2022 10:13:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3167375563578147</guid></item><item><title>direct to another page without page relo</title><link>https://facebook.com/1636760336639685/posts/3111548775827493</link><description>ge without page reloading using ajax.
 
 https://facebook.com/1636760336639685/posts/3111548775827493
 
@@ -490,7 +518,7 @@ looks like missing some commands
 
 https://facebook.com/1636760336639685/posts/3128979840751053
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1407100993105637&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553147657623877954%3Amf_story_key.3128979840751053%3Atop_level_post_id.3128979840751053%3Atl_objid.3128979840751053%3Acontent_owner_id_new.100014172490467%3Apage_id.1636760336639685%3Asrc.22%3Aphoto_id.1407100993105637%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX-pGOcwPHr6ogZ-%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221636760336639685%22%3A%7B%22page_id%22%3A1636760336639685%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100014172490467%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1658096662%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3128979840751053%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100014172490467%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=1407100993105637&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_0fQI1XdPTvYetoskGjghAlFuwURxKm8EZ7THSuaiYjypsxUk5Gw85EWugvmcjZQYXjmqhHrDQrxsDDFft05G7h4SwXERPzBLIwtFQ2hkJClVCJkl1HQDosd7-tr-wYH1Tg5a7X48PVtIPpKFDY3WumXyAwK3yBfV3RENfxw3U4Gpb3PwGXLlfartHnYKavOxA15Sis8_IPHo5J8g3jec-lpCBzGmOAmGsGPvOncugmnNO1piyAK6ApWW21uYyJN7R9XetPZGteIN2-0mMWViMRAlcMc8U5zEHd7nU3USHgB4QNnd_lSKx3SOZA914DfxOiVuCxOXYwSOJCHBEXGYDjWYgbbrfUDq83NE5GzVKhiqSpDiJlfDqjQG86ZCeztu0BYgDlQXZNqLC-Cj79dL0csUfNa5Yo_gQe4YEHyFKzg-GVFlJUW6-Kvl_JMPLdlshT5HyD27cwXaLn0QXxaz2-zGrh5xlUbzRbO8RwVZg20ZrxRi8StbQUeHxr1l6TVqOd1MDVIiadWsATWY_YhXoX9Rc__JGQHbv6GOgv5NTuLcgjEKY_-Xj5IcrAGN04Awhr-3Vtt2M7J5d_JJYU7ZVcrgo5FPOMNWO5Vk2v9qqJea_RGD2c-XurNpQmo9WeMLEQh-NSu4m88O0JDyiLCCeksl5Fs8Ls7WZ4b0nMNY-gJDyRFxM6L7x5mWVqEEsGBLuykNVXb1CwbCtKllsnRjdrcKbx0P3yurZdkh_n0JIkZ1x-M9Gahu92FC-z41-bXlbiZ-LTcL5b4IpecjGH_q-2myL17f40YPDU1HWXSSoxAOiFLEwk_yCFps1_YwDExBK2Bqtd9cEhCGs4b-jgWKljV8Er1jmLWmQcxniHVcfpWzyFcFR0ybRa6QwHRSBFGJ_fNpBiOgD4nkiBYV7SaAmaC1CDpDbXIU3nBYf6EVqhaoDmJ-EYusrX43Y2bLpPGqY0gBk0kAsde3fsUFRYUkAqk36QjHATVpUl_Ikf9P28mkfZgPKY2LgDrg5oy8D9knqDka_vZsqTk04AJUckcC6p83dtYp2oNaMSRFtAKSiYYzphdzftxnTFs-hAZi-JKEZ3UE0SVoULKk6XM-i3PJeFsT3ffpbRTgV__FjRbA&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 18 Jul 2022 06:24:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3128979840751053</guid></item><item><title>ybody, hope y'all doing great,
 today i w</title><link>https://facebook.com/1636760336639685/posts/3131598070489230</link><description>ing great,
 today i will share with you the path that i has been following to build this project ( restaurant reservation ) in 7 days
@@ -501,17 +529,11 @@ after finding the idea and get inspired from…
 https://facebook.com/1636760336639685/posts/3131598070489230
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=5009257772518700&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5009257785852032&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5009257779185366&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5009257912518686&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5009257922518685&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5009257919185352&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5009258035852007&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5009258059185338&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 21 Jul 2022 21:43:03 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3131598070489230</guid></item><item><title>p me.
-Phpmailer used.everything is ok bu</title><link>https://facebook.com/1636760336639685/posts/3149799622002408</link><description>.everything is ok but email not send.
-
-https://facebook.com/1636760336639685/posts/3149799622002408
-
-['https://m.facebook.com/photo/view_full_size/?fbid=1264794637600991&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553147657426808015%3Amf_story_key.3149799622002408%3Atop_level_post_id.3149799622002408%3Atl_objid.3149799622002408%3Acontent_owner_id_new.100022113991885%3Apage_id.1636760336639685%3Asrc.22%3Aphoto_id.1264794637600991%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX93mvGsZ0GQuSlc%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221636760336639685%22%3A%7B%22page_id%22%3A1636760336639685%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100022113991885%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1660625677%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3149799622002408%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100022113991885%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Tue, 16 Aug 2022 12:54:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3149799622002408</guid></item><item><title>nt to ask regarding DB performance. Say </title><link>https://facebook.com/1636760336639685/posts/3144825742499796</link><description>DB performance. Say I have around 1M record in a table, but phpmyadmin kept giving out error 500 for simplest query (select *). Anyone knows if phpmyadmin have limit on number of更多
+</description><author></author><pubDate>Thu, 21 Jul 2022 21:43:03 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3131598070489230</guid></item><item><title>nt to ask regarding DB performance. Say </title><link>https://facebook.com/1636760336639685/posts/3144825742499796</link><description>DB performance. Say I have around 1M record in a table, but phpmyadmin kept giving out error 500 for simplest query (select *). Anyone knows if phpmyadmin have limit on number of更多
 
 https://facebook.com/1636760336639685/posts/3144825742499796
 
-['https://m.facebook.com/photo/view_full_size/?fbid=6098426456850654&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553147657596416252%3Amf_story_key.3144825742499796%3Atop_level_post_id.3144825742499796%3Atl_objid.3144825742499796%3Acontent_owner_id_new.100000500811031%3Apage_id.1636760336639685%3Asrc.22%3Aphoto_id.6098426456850654%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX9Jevc4RZ1XJ3nH%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221636760336639685%22%3A%7B%22page_id%22%3A1636760336639685%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100000500811031%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1660030106%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3144825742499796%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100000500811031%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=6098426456850654&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY97ehOkwfniXwo__2S7YITezSZk34SI9wNs2SXx7WrDPzzTrsRzfsKv93T6L6de7j3S7JTM9ZCdC8fxGWT5b77LwBsugB2Z4nZNynJ1bKCBZCf1ih4ucF6uT5Bw99VuwfNMIJjTUD2vuudOVLFkWTLgdiH9FLN73tHIXS1KUEoC7FE1s314t_-J6ekgOJ1subNg3e8OjzFPf_JmEwEppp6jVtlmPFgwqHC5eJp0QPtRON34JuRhI1u7GXtr7XRruuv7VOo79-4Bv7MiB3uuTe5eaCYZWK8iTUciM8Z53zy2z10rsuCsRf0Ix_IOEd2jaEUyIRNldr4yzBO0bYOSOq_ZKZsgUPEDbA3EnS5ore6ika7X_ZHHAWHnXYFKCySv4IGcKc7L0W0_fOAyGQ7Mw898zrqkXuYawVp2ixkJpTaogJ3w71ycWiA6tNTSKUI6rdtCJv5SPZITxH_Z0RVqECZDmHaau6yKW-zNkSyWGRY6PpBuULUvmy66-C4tJFge4K8ZAKUgYhtEcOa6-FR4FeiqdK7u5CPjlWBEbRKOeQcLge16MDg7zScLrnJBeTJMyr5nE61hQo6ivZ3z1bRFxZ5CeLum3ItqXP5oKmiMrgonxNg0nxHBhA3TqvHtjStB48iJuVfUdlw6RNkmgIpuPuCCWc_RogUzMpkOT5zlKf3QuVTKEt2u7MwBSy-no6rH_dwyshJYzuFx6zg4fnWcI7883hypa_t_mbk-EAPNWohJOR7CmeCrIrNn1D7TQohvFGCgkzQOSdgw9keobg0Pj39-zZC49EXDAJbZPl5L3333lFjJK30SxHu-ZB_Ek90IvU9cKfwNeDxo63AcGRoXJamXs-y2GqDqln7V-_HQtMx1RGqYjo4ZPzFtR1awuPNqOBsJmQ8OFNlRGd2ckZgiUxF6trFnAdQajcU4rnLu-HzYWj6r08nLgAXqu6bu5fs0zmhd-LHx3UMCzPmoDbom_26Zz7t4PAr1D7fbdvj_oZ05lNmXHoU5eeYXIgcjR851y5QAAAI3zuEKGMqb7JFnxqWfFmr7pU89qub3UK0I-ieGLTcPzPDzPu-_f1PTXbvhvUWJ7EbFA9701s-WN3FwDfNMG24zDSKPsZPenXdMK60&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Tue, 09 Aug 2022 15:28:26 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3144825742499796</guid></item><item><title>nt::when()
 no more if-else’s
 
@@ -523,52 +545,8 @@ Do you think it is a better way than if-else?
 
 https://facebook.com/1636760336639685/posts/3142662232716147
 
-['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/297984757_109783871832246_3960401042673703369_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=8024bb&amp;_nc_ohc=vXZDvaw6-uIAX9pkgFA&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT9da8N7AQa4v6Y7Fml_WFbsiQS5Ze7L_JbajFW_Sq3-QQ&amp;oe=63334DEE']
-</description><author></author><pubDate>Sat, 06 Aug 2022 15:49:12 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3142662232716147</guid></item><item><title>l what is different between this method?</title><link>https://facebook.com/1636760336639685/posts/3137256523256718</link><description>between this method?
-And which one is the best practice?
-
-#laravelexpert #laraveldeveloper #laravelPHP
-
-Laravel Tips
-7月29日下午4:14 ·
-
-What is different between these two method?
-
-#la
-
-https://facebook.com/1636760336639685/posts/3137256523256718
-
-['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/295691452_103961142414519_3462455944484236697_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8024bb&amp;_nc_ohc=V58zrBK14LoAX_Eht0C&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT_xJy1gHd-rEn44p0l34fV8EGbHtR6jlRvJToR1K5-Rsw&amp;oe=6332FB84']
-</description><author></author><pubDate>Sat, 30 Jul 2022 00:18:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3137256523256718</guid></item><item><title>st Validation with update method.
-
-Creat</title><link>https://facebook.com/1636760336639685/posts/3140062229642814</link><description>pdate method.
-
-Create update request syntax is
-php artisan make:request updateRequest
-Do you guys agree with this method?
-#laravelnew #laravelTips #laraveldevelopment #laravelPHP #
-
-https://facebook.com/1636760336639685/posts/3140062229642814
-
-['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/296188389_106772048800095_6551390252025246451_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8024bb&amp;_nc_ohc=pEQ9_TDvbIkAX-ezD5j&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT81j_8Y-FSiL0o-Q-Wi47jRvuqdSaKWSX2aggOLLzZEag&amp;oe=63346CBA']
-</description><author></author><pubDate>Wed, 03 Aug 2022 00:31:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3140062229642814</guid></item><item><title>rk for a professional php website develo</title><link>https://facebook.com/1636760336639685/posts/3060526324263072</link><description>l php website developer.
-Requirements
-2 years above in core Php
-MySQL, MSSQL, Codignitor, bootstrap
-Experience in working on vultr server
-
-I need you to install a php website scrip
-
-https://facebook.com/1636760336639685/posts/3060526324263072
-
-[]
-</description><author></author><pubDate>Mon, 18 Apr 2022 15:47:04 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3060526324263072</guid></item><item><title>yone! I need help in Laravel v8 cronjob </title><link>https://facebook.com/1636760336639685/posts/3130916970557340</link><description> Laravel v8 cronjob on Hostinger shared service. If I put the following command into the bash file then script.php works.
-php /home/uidnumber/domains/domain_name/public_html/larave
-
-https://facebook.com/1636760336639685/posts/3130916970557340
-
-[]
-</description><author></author><pubDate>Wed, 20 Jul 2022 22:48:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3130916970557340</guid></item><item><title>才文請依照2018/1 投票結果，違者經檢舉，刪：
+['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/297984757_109783871832246_3960401042673703369_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=8024bb&amp;_nc_ohc=tC7TmzSPM50AX_eFLeR&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT8wGmkXXo4PupljO7MWGScjAQpialr7JIvo2ZlCOhpTUg&amp;oe=63393CAE']
+</description><author></author><pubDate>Sat, 06 Aug 2022 15:49:12 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3142662232716147</guid></item><item><title>才文請依照2018/1 投票結果，違者經檢舉，刪：
 【留下“徵才”文,薪資，待遇</title><link>https://facebook.com/1403852566495675/posts/1416740855206846</link><description>檢舉，刪：
 【留下“徵才”文,薪資，待遇，工作內容透明化(須具備之技術)，並附註公司或行號名稱】
 
@@ -583,145 +561,150 @@ http://www.j
 https://facebook.com/1403852566495675/posts/1416740855206846
 
 []
-</description><author></author><pubDate>Mon, 16 Sep 2013 11:17:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/1416740855206846</guid></item><item><title>候 改了 /etc/passwd 裡面的 root 設定
+</description><author></author><pubDate>Mon, 16 Sep 2013 11:17:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/1416740855206846</guid></item><item><title>ocket 的問題。我的程式是一個爬蟲，一直踩到socket 數量上限
+
+但是透</title><link>https://facebook.com/1403852566495675/posts/3276095115938068</link><description>一直踩到socket 數量上限
+
+但是透過lsof看，都看不到連線對象是誰。請問這是什麼問題？
+
+https://facebook.com/1403852566495675/posts/3276095115938068
+
+['https://m.facebook.com/photo/view_full_size/?fbid=5685047061545966&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8gSzM9uviTXeS3S4CVoDBjo8dQXFRsFCDqfoeJVSeUsBVI_0OK0CgRsqk1bLKD-fmxLh7i2roarcj_76wrgz3VLCMxxirXKrrQQADTsQc7qR3wdtmfQJpVmhjB5nvk_QAD4CznJbrQJqB4EVK3wyp_xYhfKTRSMkNBJBU7mmsVA0huKysGgRBoZHh4zzlmS-V2NhQyFzH81t5EIkOHhiOsRyzHq-ExyPcavBLNm5IpxdBBVDjYoKFxRBd4DBl2kc2qzTuF_6pAypq7xg6dHfopQuFQjEaJu-6J720e_bavV_0-DyrmvBzLON5pEpzxErDK7-J4gAEuAFvW7hh7MsVMoDnm-C4qnLaCd-7nm214a83Nbui5d9Nle2Bq-snizwBGsaQUnwG4I9rfv9Vq6ZTTkZDqiurp7GBQpmjAx6-7leOocEEuyXOWSgLHWJSgbxb-WKTwxzfp2HTFBitX0pDywyF-UcQkc15nRw-jukDEyz_YaIFOtiLdykoaKKyPtMmTSwgNfuHuoLcRcalaBfAzLaB0r9I9JPfYUsY6UYTx7pCVtM3iKNdH967B_M_zocE-8UmQUGLjcRryNm6TcKMZmWdnSvw2ekWVYIgQvR1BPVJTafx1K1LeGTSkqVjGfnkmeyU1vqEJwugdZRgIVA6fZXziD7bLY4nz5jTiU29DK5h8oJs_TGlMtah0K4EBKSQ3tH1wF5Wcm4F-CCbfSKsqAVMHBwJiMsnPVqOS0A80XEaD31piyx926tTaB6bExKTqqqSxNluhaOGk8B28YZlC5tKDX3GTR-Z49_4zgXn6JWo8wB-u7quereDXnm_dhEZjOBg9gYCnVRHTxqbMEXztYsa950IrYNeM1cHdA8kaC6zOmPjqdKTFXsHQEsoqlWdJgieV_ETFqO_DAyWxro8WJU8NtStjnauSEKpB4Pq0tjKdzrIij2Bh0MNchaa0vwsx_zGJSFXUB5P7XtpVHO8B75IsLSmk9tta5hCcYStPK-wxbhIUFnWFcOVYh3DtTnfgOCqHvPZ-tYvHYoViAeQjH9H3852YE_yYby_EBubzJb0gSyIvWwHqgxVw6Sm9J0aNjAijhgkfXjMjPPaaaQzFVNj7CUKEkqLYT6aAdNw&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Wed, 28 Sep 2022 18:14:48 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3276095115938068</guid></item><item><title>網頁的人
+有些問題想要請教
+如果可以請在下面留言我會聯絡您
+非常感謝🙏</title><link>https://facebook.com/1403852566495675/posts/3276413102572936</link><description>下面留言我會聯絡您
+非常感謝🙏
+
+https://facebook.com/1403852566495675/posts/3276413102572936
+
+[]
+</description><author></author><pubDate>Thu, 29 Sep 2022 01:29:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3276413102572936</guid></item><item><title>自學者
+用的是Mac os 我想請問一下為什麼我一直跑不出來我所要列印的東西 右</title><link>https://facebook.com/1403852566495675/posts/3276328505914729</link><description>為什麼我一直跑不出來我所要列印的東西 右下角那一行字是什麼意思 抱歉打擾各位
+
+https://facebook.com/1403852566495675/posts/3276328505914729
+
+['https://m.facebook.com/photo/view_full_size/?fbid=3438706879684697&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-74KVVSRBfzAaNdDSButLusU8ql7dTDQPbZObUtY9I3RVWwFrJ93rzgGvMMbTDjUzecB5w_1wEd693GWpM4Cv4ROxaeoYBlzy09qJzMfFOvclkMgW_spc0ly37gVohWoqij0IJjAwV4zYEb5OEJyPYoWJLJzveRn7PqDOzMGx6yTsjWWqvp4VQbvMpVQvBOXvIQXTeURuZ5ubG51IkqTzpKGNo2UOdU8NWEbjymiJchcAYyKV1ManoOnH8Y1Q7h0aAijVApB6ulDDTnmxIkYQyyJcRflsZi2YUc72WvAkiOl8u_-7CNPDVOV7HTrEE4OVr0pewXKL8Auln2oXQuH0-X3VD3gfnF6chjCu2jNKZ-dzmRBlnjlnWov21lgogVhaXg5Norzp3lwSIkw6qN144tMojwHgngcchAy5wB4DdgH8_1z9KML_myf0Lri5b1uTQvkl5zzbbQXvIElWx5Vuz2-0NGCBGKHQySgs4JA_bMUGNMj8YrfBRRE99ad7LOkRH9q1qClyjf2YNPsOpGQYhcMSw6R3i6IO81hNqGS8tqYQbvX_5mKRheIRzn6_jZKClulflC_HrBQi04ppmwWN5EzlivGV7YFxX29-iOniI_fVQd1BfgYypM237WUoOwtxT2CEiqUDqUL8SBZ8mZxKJcDNobHxZqAp0kiHaEMH0BrNVamssIBvbO9BsFGnskDvJ9b5U_7KAmex5R29x13myq2MD1dowy4MFXvyhYzJe63uaVjZqjPHIo3_l8Xj0jNOBDmMjerMapNydfgPruzctQfBv-BBCu2xUaBcb4Mh8FrHG1CA9qgnQFAwLcQCwXAjz6KaBz3w4rXztLz3TqLFwl7xrLwI_sGx8j8mdBIxcItRk0QdfPuifjyJjxKv2y0mKo88GJgYhAW0EZOufgxKxChWc4DqIkGpUatPujyfev_mILSD2seDGkBNuwr48fgfXQc8c6N2Dp0z2-ayZt2ap0pwZUyyuwO7yA8zCIF7_3S9LPXBRMRJDyjqZr8LvxD3VHmL8lioLu_VXIAxWPh5ICTeXZZc60nCgoGVZAdcZhsQjA1dC8tuQjoDbFSm0gJVKJNePJJ96fLiRFG_F-0iNpwgW59kaIWszdNpqe98&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Wed, 28 Sep 2022 23:21:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3276328505914729</guid></item><item><title>片的功能
+是否有免費的
+
+#ComboTree</title><link>https://facebook.com/1403852566495675/posts/3276064992607747</link><description>ree
+
+https://facebook.com/1403852566495675/posts/3276064992607747
+
+['https://m.facebook.com/photo/view_full_size/?fbid=5816104051743690&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5816113305076098&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Wed, 28 Sep 2022 17:28:51 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3276064992607747</guid></item><item><title>課程線上學員招生】
+SCIST 有免費、免費、免費提供所有人我們所有的課程資源喔</title><link>https://facebook.com/1403852566495675/posts/3276332629247650</link><description>免費、免費提供所有人我們所有的課程資源喔！！
+我們的宗旨是坊間補習班的資源我們都有，但我們的助教人數和許多課程措施是無法做到的(ﾟ∀。)
+線上學員不需固定到課，沒有束縛，更可享有除了結訓證書以外的所有資源，包括課程通知、課程直播、練習題單、每月練習賽、講師助教協助等，若線上參與表現優異的話，也有機會成為正式學員哦，預計各位最後的成果可以到 APCS 觀念 4
+
+https://facebook.com/1403852566495675/posts/3276332629247650
+
+['https://m.facebook.com/photo/view_full_size/?fbid=1548942688869623&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9Q5F4lWyI6nH7RlnFx34bFq6b61_JSvlXLoZSN_PMpm4wCeQpPjL4VTkqoT7EijzZQxuGHjyDfcTS336hbx7YiW2LwHcf-F1vf-tu473ZxE4WmAjdmwrV5knT98Fu29XIH567_HU0A2qqtMfVgdDinpb1mThrxd6nre1__nitqYnaTU-ChX3vzo8wUt0NG67VGPQEG6zxCeYo5gETXSPE2sygDbHfB6tN4vByw7SbRWciRvf01XxnSPq_n9mkJJIx1seKhtJ4fIFsUzEHdfngiYTe56Jhzc733yW9A2dM8BYZPErLqZ9W7Y68UBavbD7kRDnQRzmCe-q4aX03FdndXX9sqoqjEOGdqkmMtZOOtgc8JlDepry_UDCNyBAo6Z9_y5MZN_liyNBFOtXPCjIKVb5RI6Fn3VVO3H6O2Z-iVSVBXv08I57NAfGBdta534RKGc0iwiMpWAWBXoUyE1U7SREWlrPq1LcTAP_wWvfH6sUg7omxv9WTY-4TAL4aMBx0nXpfqa2YFdRywnOosBu4WTSh_EcZFrYk2yU6TsDn95ydre_Vt8Dgu54g-ihRF-15aVWo4qU4xar3kXEiZ8vknmhFBWkIS8aV-PK4ziuslQXDgHoXtQBDF2kDZPYJNBwKwPUc5pyg0HimnRRCdmkn-XTrByxMbnDKDD8_Ap9plDsg9-J95bNsccpy2btD4K6nT0DIg28V1LXo1M-ekVq-4MdllftXdPZr9vFZID38_2r5xb6g4tIskkZ_bx98e0u2KRVygD8wryuz-1T0vFMv7zOlFp_IDcS6KcKQfTeeKmhdv45XToSBKSA_FSE6cUz6-2f6JXXwGQsNk2k_cS45ycayLkkPGSZHmSJUgc0Oj781yGV2OJ3MS4z3ldlQr4Kyg-iVCQFC-\\-\\Gh73gnImvtYTjYDuip7B2TUCT0rEi3dgDNX__Lpsy3mhdE-x7jHLfsBSk9rqgH0NmcOIi9CQVBR0AyfedgVK0KshRDz4XI48RGy0W4b8ZeAkQ2upbtmLwO31SiOSZt6g1PeXSWHjlmP_NCOwOg4EmpCRp2ImW3LmYOQgnhT53Gm2IC-5nBUufFJ29JQUrKzUnCMStx0b29AT1CNrLNkhe6vWA7urYI&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Wed, 28 Sep 2022 23:28:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3276332629247650</guid></item><item><title>候 改了 /etc/passwd 裡面的 root 設定
 現在看來 root 的</title><link>https://facebook.com/1403852566495675/posts/3272423879638525</link><description> root 設定
 現在看來 root 的 user id 被改成1234 。sudo 被降級成一般指令，現在 sudo 的指令沒有root的權限。這個檔也改不回來。這樣還有救嗎？
 附註：這是在 WSL 環境，但是用系統管理員也不能改 /etc/passwd，如果有適合的方法還請告知我
+================================
+解: 更
 
 https://facebook.com/1403852566495675/posts/3272423879638525
 
-['https://m.facebook.com/photo/view_full_size/?fbid=2375102742639217&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553145114790481692%3Amf_story_key.3272423879638525%3Atop_level_post_id.3272423879638525%3Atl_objid.3272423879638525%3Acontent_owner_id_new.100004185428686%3Apage_id.1403852566495675%3Asrc.22%3Aphoto_id.2375102742639217%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8g3dLG3kUB6-SR%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221403852566495675%22%3A%7B%22page_id%22%3A1403852566495675%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100004185428686%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1663995272%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3272423879638525%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100004185428686%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 24 Sep 2022 12:54:32 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272423879638525</guid></item><item><title>T使用 Form Authentication驗證
-webconfig設定
-&lt;a</title><link>https://facebook.com/1403852566495675/posts/3270590546488525</link><description>ion驗證
-webconfig設定
-&lt;authentication mode="Forms" &gt;
-&lt;forms loginUrl="WebForm/FormLogin.aspx" &gt;&lt;/forms&gt;&lt;/authentication&gt;
-&lt;authorization&gt;
-&lt;deny users="*"/&gt;
-&lt;/authorization&gt;
-butoon觸發後aja
+['https://m.facebook.com/photo/view_full_size/?fbid=2375102742639217&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY85n3I1hZQ4kNy2D5GaPW1n19Mi2bXN96UcVH3-NLlbs5IwuJzRMNIa0p7m2xKLrTds0BBKAvKSgmpcL5XXSqEpCilt_nmX8N2qUX1g5kyY9-yNby2CZAhC75MfgyjNB9tdlovnn6uyQS4kya40F4qkL4N3peAt5hKE0OEgvJeovdAJeAspgp6q3y61BsrS9U-5n0DywcD16zQF5ihgQjvvTTb6HoQPpnvE-ouHNN78Zmd_jxnp0ddIo5iUKczzmTw6sQQ1RmRjFKMR8izwI5-x-tSeFEFXiwiHZddf47lVZloUqoC1UQj57D7Z3QDFfr0NwatKy7Cz6SY_PQ91v1ovrCJ-Et0LjAvK4jfd3EeGRRauVH9v1uxprg1rPPZ4t_W45ErdPBsPL4zo5jD4gLqh5Dpw4VncSRhGfYXUx6qgq4sepc6TbGZnxs-jKFblRywT45vhlfKDU1nk25rbhitko1dZKSqJ6l1f0kzx63LA4g-0-nrJ7pPuTRcX1fkZs5yKCLaetgxwreuO3_y-yOixZhMUudC__r4-aCgyWrJ_wdYVRBjNW1OihyqmTEZYvtpzIDTXNHDg4vL2sLqPpZua1bCG14lylsGn2R3DGSjP1zTh8e_HBp9_dZtL0CyvZSiCfCyCfShito6Xe7OOc7QAx1_2YdpHlhERjNibChGoNKguWk4P6TQhT45IxxV1p7TTyu9AlWaK8aUyK3CxE5VJSOiU8sGq09S1dFIEITFeOuFYKQMB_iMSHlwEfaS23o8lHfG6if-A_yNKFdNiF7oXwjH9hLYNXLzgx3f2RJNOm5LPDS5fKkkl2q2Ry_3j2_byfh4P3fjtts_IDIYdZb2K23iPFlFAHRhrEuQRQHV1YkJvSj6tamNI9OPHZ_Nah2L60O8VaohRO1cM2wo9T7gLh9B9LWDfsVtBDVCet6wepAEoXUe0_yRdGyaY3OYWGj1JgWW5gqDdMxKs8I82BcddU2fRvmloqQUfDSWxhZyyEfwGeatP0EQZnEf1f4V8kQHAGfi1EanyMDHqXOHUnb6Yqzm9VmVJ6L4EFgEv9etqJKdJXTl-Oa0xKn-ssgreq9OyZ5m6kej6I7_r3CLnVfRbQj2KEyYpuSw7TAlzBdQ&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Sat, 24 Sep 2022 12:54:32 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272423879638525</guid></item><item><title>開始學習C語言. 目前使用Dev- C++ 5.11編譯器進行練習.
+目前遇到一</title><link>https://facebook.com/1403852566495675/posts/3276262352588011</link><description>+ 5.11編譯器進行練習.
+目前遇到一個有關字元讀取的問題想請教各位前輩. 我想要寫一個字串陣列用於儲存姓名, 並於每存一筆即讀取一個字元判斷是否繼續輸入下一筆. 程式碼如下:
+#include &lt;stdio.h&gt;
+#include &lt;string.h&gt;
+#include &lt;ctype.h&gt;
+#include &lt;stdint.h&gt;
 
-https://facebook.com/1403852566495675/posts/3270590546488525
+int更多 main(
 
-['https://m.facebook.com/photo/view_full_size/?fbid=5105528989552592&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5105529039552587&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 22 Sep 2022 08:55:14 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3270590546488525</guid></item><item><title>FPGA #vivado #Xilinx #乘法器
-為什麼wire [7:0]_</title><link>https://facebook.com/1403852566495675/posts/3272673662946880</link><description> #乘法器
-為什麼wire [7:0]_s[3:0]; 這串程式碼有兩個陣列？前面的[7:0]和後面的[3:0]分別是什麼意思?
-還有XDC檔的指令意思是什麼該怎麼理解比較好?感謝~
-程式碼在相片留言
+https://facebook.com/1403852566495675/posts/3276262352588011
 
-https://facebook.com/1403852566495675/posts/3272673662946880
+['https://m.facebook.com/photo/view_full_size/?fbid=4934065070027433&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=4934065313360742&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=4934065680027372&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=4934065760027364&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Wed, 28 Sep 2022 21:49:59 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3276262352588011</guid></item><item><title>方法，既然是int，我上網查過 :
+return 0 是指程式「正常結束」
+re</title><link>https://facebook.com/1403852566495675/posts/3275976275949952</link><description>turn 0 是指程式「正常結束」
+return 1 是指程式「異常結束」
+那我就很好奇，什麼時候「一定要用『一』」？
+或者，用了「其他值」會如何？
+於是我就自己試，結果如下「都會印出『Hello World』，那跟回傳『什麼值』有何不同呢？」，
+請教大家，謝謝。
 
-['https://m.facebook.com/photo/view_full_size/?fbid=903773410582719&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903773523916041&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903773753916018&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903773863916007&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 24 Sep 2022 19:37:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272673662946880</guid></item><item><title></title><link>https://facebook.com/1403852566495675/posts/3272673656280214</link><description>
+https://facebook.com/1403852566495675/posts/3275976275949952
 
-https://facebook.com/1403852566495675/posts/3272673656280214
+['https://m.facebook.com/photo/view_full_size/?fbid=156318113750117&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=156318147083447&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Wed, 28 Sep 2022 15:45:40 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3275976275949952</guid></item><item><title>python寫出等速圓周，第21行我想用rotate模擬出變動的F向量，這樣寫哪</title><link>https://facebook.com/1403852566495675/posts/3276274895920090</link><description>rotate模擬出變動的F向量，這樣寫哪裡出錯了 謝謝
 
-['https://m.facebook.com/photo/view_full_size/?fbid=903773863916007&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553145114903993847%3Amf_story_key.3272673656280214%3Atop_level_post_id.3272673656280214%3Atl_objid.3272673656280214%3Acontent_owner_id_new.100028502042098%3Apage_id.1403852566495675%3Asrc.22%3Aphoto_id.903773863916007%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8mhEJDxIkKMSoc%3Asty.372%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221403852566495675%22%3A%7B%22page_id%22%3A1403852566495675%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100028502042098%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1664019443%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3272673656280214%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100028502042098%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 24 Sep 2022 19:37:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272673656280214</guid></item><item><title></title><link>https://facebook.com/1403852566495675/posts/3272673659613547</link><description>
+https://facebook.com/1403852566495675/posts/3276274895920090
 
-https://facebook.com/1403852566495675/posts/3272673659613547
+['https://m.facebook.com/photo/view_full_size/?fbid=1083460605637105&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9zopVVni7II3WHxnnJ3pM-qe7JBBr4OOg-FFuoqJhtNMizUGmezISFeducJ85HkoydA6P0GkCbAKnLqcSOsRThQ9AI3bQ87J4v_NLbDMiq0VxshlJ1b5DdMnXef2hpbxrn1clNLkPBG6Mknysw1BtkAVyoAE93HE1Dwaq_cxbx6Fpal0d5xoc2MlUUYUyegf8rfBQ_beFfpJbGMDfhQoaHsCbDyqs9D0XdKOBv8xoxHkwRFimFfzs5a11274q6n7CzFAqSzTUiotdd-L1zm-MToprnsJONSvfLF8dsG2cDBEbDp3uvXCxd6tPs33OOqugeZMzD9APC7neq27tVtBPP1NtTiVcLVCfcVwo5oJMnPyg0wfUVMkNd_t6lDnVC7exs3VS2aMcXszdTVWZfGZp6XWKeowymxL7qMTzn6LtrrWyY2HhKSVTUDNp9ATnK4SWqtCY4s_Ioa2O6M9DNKclYwtH0eokiOjGWBThypBr7SOl79Nr6IhIH60A6KiJ6W8wlPSxVjEwC0YQckaLopRu9qWWpA2YbopVcENH5MjXPRRW_J7UAWhUv5n_JsuU57KU7M2TyBADT0KPy8Cn76TnBAE073ZdJ0ZnX5qzV5XWwVlypVQ15Dxz1PckGFeoxvKIvCMhh3ItsQIsFrwlAHxUiLi3OJd84jt7lHRAfuPyb7EAnD7QryawPEpapFPa3HMcX14vHEPyq2eJ80EZfT_lXe4bWU86P4gq5WS6Kblfd3eGjsNZ3MbQpQMzsXlygHA9PsBbFrarHD9WWRhxxdBW2RC4BhmsIc7cKEa2eT8mZz8FDVX3SZK42XMk0A8xuEYwz4LSQNB5rsfpl1AYp78pVSZti4mg1-mYmUdIZDTNBKaZajNRakhlbrykxkP_Y1po2yT1pAUl4m5QaJdnU-TIRSI_JjNBVCOH4reqw9s3yDV0WCTGRq5U7XQufuNoVcng8DGG_NsCG3Px7x_OTiBULJEYgyRifOa80w6fVQMaMuZcDzhS0brRka9MtYDK55omZoMqun56z30lfetvIZ9ZHowxAWhYgEtBiqErEmfMFF9vegy5847Y7gqx8Yohd1PoRea5zqpL-xBtEYO2hJPoOgRTpzjQs7I3THS-O0Bc&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Wed, 28 Sep 2022 22:06:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3276274895920090</guid></item><item><title>期因課程需求才接觸C#的新人，冒昧請教一問題。
+這次作業為設計出一計算機，而我設</title><link>https://facebook.com/1403852566495675/posts/3275344769346436</link><description>問題。
+這次作業為設計出一計算機，而我設計裡幾個能計算三角函數的按鍵(如圖所示)。當輸入角度為非讓函數值為零時所顯示的數值都正確，然而當輸入像cos(90度)時所顯示的數值便會像圖片所呈現的(對於sin(0)也是遇到相同問題)，想請問這該如何解決?
 
-['https://m.facebook.com/photo/view_full_size/?fbid=903773523916041&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553145114946134315%3Amf_story_key.3272673659613547%3Atop_level_post_id.3272673659613547%3Atl_objid.3272673659613547%3Acontent_owner_id_new.100028502042098%3Apage_id.1403852566495675%3Asrc.22%3Aphoto_id.903773523916041%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8Lz12XlobechAQ%3Asty.372%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221403852566495675%22%3A%7B%22page_id%22%3A1403852566495675%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100028502042098%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1664019443%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3272673659613547%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100028502042098%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 24 Sep 2022 19:37:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272673659613547</guid></item><item><title></title><link>https://facebook.com/1403852566495675/posts/3272673649613548</link><description>
+https://facebook.com/1403852566495675/posts/3275344769346436
 
-https://facebook.com/1403852566495675/posts/3272673649613548
+['https://m.facebook.com/photo/view_full_size/?fbid=1307249273405691&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=1307249256739026&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Tue, 27 Sep 2022 22:47:48 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3275344769346436</guid></item><item><title>
+Struct a
+{
+Int b;
+Int *c;
+Int d;
+}
+假如我使</title><link>https://facebook.com/1403852566495675/posts/3275972752616971</link><description>nt *c;
+Int d;
+}
+假如我使用(請忽略宣告部分)
+a.c[1]=1;
+a.d=2;
 
-['https://m.facebook.com/photo/view_full_size/?fbid=903773410582719&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553145114916241386%3Amf_story_key.3272673649613548%3Atop_level_post_id.3272673649613548%3Atl_objid.3272673649613548%3Acontent_owner_id_new.100028502042098%3Apage_id.1403852566495675%3Asrc.22%3Aphoto_id.903773410582719%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX_e9clzFHzUEJ6T%3Asty.372%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221403852566495675%22%3A%7B%22page_id%22%3A1403852566495675%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100028502042098%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1664019443%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3272673649613548%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100028502042098%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 24 Sep 2022 19:37:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272673649613548</guid></item><item><title> Script技術操作全書，甜甜價出售$680
-＃有講解各大Java Scrip</title><link>https://facebook.com/1403852566495675/posts/3272652719615641</link><description>680
-＃有講解各大Java Script對象程序設計，命令式編程，以及函數式編程，可解決各大Java Script常見問題。
-＃初學者老手都可使用，圖片分析，簡單易懂，
-＃有興趣的大大可隨時聯絡我?感恩
+此時的記憶體是怎麼排列呢？
 
-https://facebook.com/1403852566495675/posts/3272652719615641
-
-['https://m.facebook.com/photo/view_full_size/?fbid=458616199624359&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=458616182957694&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 24 Sep 2022 19:00:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272652719615641</guid></item><item><title>thon爬蟲在2022年要使用哪些套件2017年的時候，我使用beaufiful</title><link>https://facebook.com/1403852566495675/posts/3271895359691377</link><description>017年的時候，我使用beaufifuloup, re, requests，後來不使用之前，好像某些套件要更換了，想問現在通常使用哪些常見的組合?
-
-https://facebook.com/1403852566495675/posts/3271895359691377
-
-[]
-</description><author></author><pubDate>Fri, 23 Sep 2022 22:13:09 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3271895359691377</guid></item><item><title>將兩個時間相減</title><link>https://facebook.com/1403852566495675/posts/3271825569698356</link><description>
-
-https://facebook.com/1403852566495675/posts/3271825569698356
-
-['https://m.facebook.com/photo/view_full_size/?fbid=1641845056217318&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=1641845126217311&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Fri, 23 Sep 2022 20:32:57 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3271825569698356</guid></item><item><title>thon IDE做有關Pygame模組的遊戲程式嗎？</title><link>https://facebook.com/1403852566495675/posts/3269411563273090</link><description>遊戲程式嗎？
-
-https://facebook.com/1403852566495675/posts/3269411563273090
+https://facebook.com/1403852566495675/posts/3275972752616971
 
 []
-</description><author></author><pubDate>Tue, 20 Sep 2022 21:06:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3269411563273090</guid></item><item><title>
-深入淺出 C# 4/e 第七章 心得分享
-https://veryenjoy.</title><link>https://facebook.com/1403852566495675/posts/3272583952955851</link><description>享
-https://veryenjoy.tw/article/70
+</description><author></author><pubDate>Wed, 28 Sep 2022 15:38:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3275972752616971</guid></item><item><title>令
+https://veryenjoy.tw/article/68</title><link>https://facebook.com/1403852566495675/posts/3276163459264567</link><description>tw/article/68
 
-https://facebook.com/1403852566495675/posts/3272583952955851
+https://facebook.com/1403852566495675/posts/3276163459264567
 
 []
-</description><author></author><pubDate>Sat, 24 Sep 2022 17:13:15 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272583952955851</guid></item><item><title>?
-godot預設是橫向的
-我想做一個直立的遊戲
-但不知道去哪裡改
-如果有會go</title><link>https://facebook.com/1403852566495675/posts/3272527872961459</link><description>立的遊戲
-但不知道去哪裡改
-如果有會godot的人我之後可能還有問題問你
+</description><author></author><pubDate>Wed, 28 Sep 2022 19:30:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3276163459264567</guid></item><item><title>今天總共過了幾天嗎？</title><link>https://facebook.com/1403852566495675/posts/3275203682693878</link><description>
 
-https://facebook.com/1403852566495675/posts/3272527872961459
+https://facebook.com/1403852566495675/posts/3275203682693878
 
 []
-</description><author></author><pubDate>Sat, 24 Sep 2022 15:34:01 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272527872961459</guid></item><item><title>加密的嗎 私我 價格可談</title><link>https://facebook.com/1403852566495675/posts/3272486049632308</link><description>
+</description><author></author><pubDate>Tue, 27 Sep 2022 19:26:53 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3275203682693878</guid></item><item><title>有人會嗎？</title><link>https://facebook.com/1403852566495675/posts/3270241686523411</link><description>
 
-https://facebook.com/1403852566495675/posts/3272486049632308
-
-[]
-</description><author></author><pubDate>Sat, 24 Sep 2022 14:16:55 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272486049632308</guid></item><item><title>roid app 现在常见吗?
-因为我search不到太多关于这方面的tutor</title><link>https://facebook.com/1403852566495675/posts/3271971796350400</link><description>earch不到太多关于这方面的tutorial
-
-大多数都用Xamarin吗？
-
-你们会比较推荐Java还是C#呢？原因是什么？
-
-(对我来说就是Java开发的教学网上会比较多)
-
-https://facebook.com/1403852566495675/posts/3271971796350400
+https://facebook.com/1403852566495675/posts/3270241686523411
 
 []
-</description><author></author><pubDate>Sat, 24 Sep 2022 00:08:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3271971796350400</guid></item><item><title>ilog #Xilinx #vivado #除55除頻器
-請問我的constra</title><link>https://facebook.com/1403852566495675/posts/3272504439630469</link><description> #除55除頻器
-請問我的constraints(腳位)該怎麼修改才不會出錯，想問該怎麼除錯？
-改XDC檔案嗎?該如何改?
+</description><author></author><pubDate>Wed, 21 Sep 2022 21:51:59 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3270241686523411</guid></item><item><title>關於Java jdk檔安裝和環境變更所遇到的問題：
+因第一次使用終端機操作，所以</title><link>https://facebook.com/1403852566495675/posts/3275141599366753</link><description>到的問題：
+因第一次使用終端機操作，所以老師在教學時我是幾乎無法第一時間全部聽懂，也不知道那些指令是什麼意思，都是老師操作完，隔天我才用錄影檔一個步驟一個步驟跟著做。
 
-https://facebook.com/1403852566495675/posts/3272504439630469
+更多 我是使用MacM1系統，老師要我們更改環境，我是下載jdk-17版本解壓縮檔，前置解壓縮等作業都有順利完成了，然後快轉，步驟進入到jdk-17.jdk檔案內的Home檔案，老師要我們打
 
-['https://m.facebook.com/photo/view_full_size/?fbid=903604290599631&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903604447266282&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903604540599606&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903606267266100&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903606337266093&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903606513932742&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903606600599400&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=903607090599351&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 24 Sep 2022 14:50:32 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3272504439630469</guid></item><item><title>住台中的，能夠現場教學
-要用LINE官方帳號
-有興趣的可以私訊我
-會給點酬勞</title><link>https://facebook.com/1403852566495675/posts/3264847893729457</link><description>帳號
-有興趣的可以私訊我
-會給點酬勞
+https://facebook.com/1403852566495675/posts/3275141599366753
 
-https://facebook.com/1403852566495675/posts/3264847893729457
+['https://m.facebook.com/photo/view_full_size/?fbid=3326443734311945&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3326443700978615&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3326443777645274&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Tue, 27 Sep 2022 17:11:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3275141599366753</guid></item><item><title>像畫面上用一個table後在邊框上設置一個按鈕,按了可以換到右邊那一頁
+我應該要</title><link>https://facebook.com/1403852566495675/posts/3275900335957546</link><description>個按鈕,按了可以換到右邊那一頁
+我應該要如何做?我是用html css bootstrap寫的 謝謝大家
 
-[]
-</description><author></author><pubDate>Thu, 15 Sep 2022 08:23:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3264847893729457</guid></item><item><title>小小的背單字輔助網頁，請多多指教，謝謝。
-主頁面：https://josh930</title><link>https://facebook.com/1403852566495675/posts/3260714047476175</link><description>
-主頁面：https://josh930908.github.io/7000voc/idx.html
-使用說明書：https://josh930908.github.io/7000voc/intr.html
+https://facebook.com/1403852566495675/posts/3275900335957546
 
-https://facebook.com/1403852566495675/posts/3260714047476175
+['https://m.facebook.com/photo/view_full_size/?fbid=1070440800510365&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_MsQ_KAGBR4HrTW1F1hYOh4Gj21X1pwebdDLLvPVzv3jSdXo-sM5iEwITUegd2ghGqWASdTI1-pW1-6LPaCqeKi3KsWaNv7bt5_TmctlhbB8gixGukCUbdir8I9prMGdDbGVuT9Lxp8kmeMI1tlAg6HWfT1vMbL03_riAD0HbZihWYg7qPPVqeaDgw86Iep7Um6_owsPamqITiHjDOwuJD2i4LrlExQpgefu4p7dOqlugJTlS87Ojil35gjr1ls6wdL9n0nZilT74HKLtQQVm2RX-5ziPOYgyJJbyNvvWQKVp1jK7EKEO7dY57GNbQ2FR8dWx2ekdlq6EUCPXnQCoKSRWxCpfTUfrVaFysZ9C_6KPdgQplUuhMBPucHfowwyo-SLxbt0hAjzyGwcpnQdki7Mzdc0hYgIeipoxpEa4hcDx1Y1UN5ggGR3U2ax3NfjMFx0172byVNgE9S5zGIb3TaluGo2FmB0jIk5MWAHmpgplkphTqZKB8jEWvBWmB1rDTlpLHUBTRVrLsyuSAL9UzK81QrRqzL04ikTnYt38dW-LiKJ4idWQzFzJUXiGRPn_KPxjt5FJvdM4lhWxnSdZ_r76O-UGQtMfCtYYmWYKlnEnvM1oX57NIiW1ans9WsrcxzAX-P0RIncH5BW3pClDhsecR8N7q7kNGWMqCVK8xAviZmCJyZ7Afj-JTG6WJyK4VVw8uod9kS8vPK7hCKRSRe24WraEiBKQ4H0BTyQDyiHFFk8qWGguwj1bCumxkyDpzS7PA8r8VWRyMty3Ao8tRGYF_c-6tqX2Y0RP6bUOCjjS8QPYnO2gAxnYpdT-VJKDlZeZd1PIAbb6_vdSjCryqQjkntZ0eEvoZr-oNODQuhiRshctlxiMSkGhofYKh2V28_biJF3gTrUBwsyrR_ZnC191-Q3ISYQ4Fyv9eWjvJOqpq4Dh8xxIbjYk27OC93RteuCZTfxxg6LuguNJh1GKU5oFmdkDObO9KQAE-fBvtSEBEpdWdZXISDmCr1v8J0wptaJMBTM-AGysIWRmxLIMxMY5xi8Z7LIOChkRC3MICxvf_G53wGETk9jvL8VGc-e1DD5KLH4mJAHCrytGxoiTn3rYFF6dxjUznLuJh5fI&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Wed, 28 Sep 2022 13:20:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3275900335957546</guid></item><item><title>vascript如何取session呢?或是有什麼方式能取目前我儲存的特定ses</title><link>https://facebook.com/1403852566495675/posts/3275442602669986</link><description>或是有什麼方式能取目前我儲存的特定session?
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1279471839546905&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=1279471819546907&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=1279471872880235&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=1279471899546899&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Fri, 09 Sep 2022 22:21:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3260714047476175</guid></item><item><title>初學者學習基礎理論知識等的資訊：
-我因部分個人原因自認知識水平只有國一程度，如要</title><link>https://facebook.com/1403852566495675/posts/3271151663099080</link><description>分個人原因自認知識水平只有國一程度，如要學習到可以聽得懂大學課程例如：演算法等可以轉職成為成工程師程度，我需要學習哪些科目？
-
-https://facebook.com/1403852566495675/posts/3271151663099080
+https://facebook.com/1403852566495675/posts/3275442602669986
 
 []
-</description><author></author><pubDate>Fri, 23 Sep 2022 00:50:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3271151663099080</guid></item><item><title>要從哪裡開始學的
+</description><author></author><pubDate>Wed, 28 Sep 2022 00:55:46 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3275442602669986</guid></item><item><title>要從哪裡開始學的
 我現在才開始學習程式
 真的是完全不懂
 有點困難</title><link>https://facebook.com/1403852566495675/posts/3270677243146522</link><description>真的是完全不懂
@@ -730,41 +713,213 @@ https://facebook.com/1403852566495675/posts/3271151663099080
 https://facebook.com/1403852566495675/posts/3270677243146522
 
 []
-</description><author></author><pubDate>Thu, 22 Sep 2022 11:12:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3270677243146522</guid></item><item><title>雙重指標解這題，概念是奇偶不管，用雙重指標強制串1 3 5、2 4 6，最後再兩</title><link>https://facebook.com/1403852566495675/posts/3271782963035950</link><description>標強制串1 3 5、2 4 6，最後再兩個接起來，但卻在把135跟246兩組嘗試接起來時出事？
+</description><author></author><pubDate>Thu, 22 Sep 2022 11:12:47 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3270677243146522</guid></item><item><title>我是個新手，我用以下試算表及app script執行google表單隨機考題系統</title><link>https://facebook.com/1403852566495675/posts/3275772152637031</link><description>ript執行google表單隨機考題系統，然後加入了
+form.setDestination(FormApp.DestinationType.SPREADSHEET, '我的試算表ID');
+但是試算表每個回復都會新增一個sheet，沒有在同個sheet並且獲得的回覆只有題目沒有答題人的答案及分數，需要怎麼修改呢，麻煩大家解答了，非常感謝。
+https://
 
-https://facebook.com/1403852566495675/posts/3271782963035950
+https://facebook.com/1403852566495675/posts/3275772152637031
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1415701205618749&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553145114886029752%3Amf_story_key.3271782963035950%3Atop_level_post_id.3271782963035950%3Atl_objid.3271782963035950%3Acontent_owner_id_new.100015366483123%3Apage_id.1403852566495675%3Asrc.22%3Aphoto_id.1415701205618749%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8IurpTuHbefrer%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221403852566495675%22%3A%7B%22page_id%22%3A1403852566495675%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100015366483123%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1663932516%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3271782963035950%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100015366483123%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Fri, 23 Sep 2022 19:28:36 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3271782963035950</guid></item><item><title>以發文接案或發案，
+[]
+</description><author></author><pubDate>Wed, 28 Sep 2022 10:06:33 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3275772152637031</guid></item><item><title>docker 有點不知道他是什麼 網路爬文好像是什麼平台 有人有相關的教學?</title><link>https://facebook.com/1403852566495675/posts/3273522609528652</link><description>文好像是什麼平台 有人有相關的教學?
+
+https://facebook.com/1403852566495675/posts/3273522609528652
+
+[]
+</description><author></author><pubDate>Sun, 25 Sep 2022 18:20:41 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3273522609528652</guid></item><item><title>以發文接案或發案，
 任何PC軟體程式設計或手機APP軟體程式設計以及網頁Web設</title><link>https://facebook.com/1686432621633958/posts/2208771952733353</link><description>或手機APP軟體程式設計以及網頁Web設計的需求，都可以在社團中發文~
 任何廣告請勿po文!!
 
 https://facebook.com/1686432621633958/posts/2208771952733353
 
 []
-</description><author></author><pubDate>Wed, 02 Jan 2019 22:04:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/2208771952733353</guid></item><item><title>ROSOFT.COM
+</description><author></author><pubDate>Wed, 02 Jan 2019 22:04:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/2208771952733353</guid></item><item><title>員邀請至『【外包網】程式外包Software Outsourcing』群組。即日</title><link>https://facebook.com/1686432621633958/posts/3258279534449251</link><description>re Outsourcing』群組。即日起至10/05加入即可領取社團成員專屬福利 ❤️請查看下方活動說明❤️
+
+https://facebook.com/1686432621633958/posts/3258279534449251
+
+[]
+</description><author></author><pubDate>Wed, 28 Sep 2022 19:24:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3258279534449251</guid></item><item><title>明：
+安卓系統平板螢幕 需要可播放基礎照片jpg/ png 及影片mp4檔案程式</title><link>https://facebook.com/1686432621633958/posts/3257999287810609</link><description>片jpg/ png 及影片mp4檔案程式 ,介面為開機後啟動此app就記憶最後一次播放到的檔案畫面自動出現開始全螢幕單張循環播放，左右滑動可上下一張照片檔案或影片切換，要有可刪除檔案按鈕，由上至下滑動顯示面板 調整 螢幕亮度/音量/離開app，基本需求如上,如果有現成可應用類似播放程式可建議參考配合 謝謝！
+
+需求時間：近一個月內即可
+
+預算金額：私訊報價
+
+
+https://facebook.com/1686432621633958/posts/3257999287810609
+
+[]
+</description><author></author><pubDate>Wed, 28 Sep 2022 11:35:25 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3257999287810609</guid></item><item><title>pp外包
+產品是方平板螢幕，需搭簡易播放軟體出貨。
+
+需求說明：
+可播放基礎照片</title><link>https://facebook.com/1686432621633958/posts/3257984287812109</link><description>軟體出貨。
+
+需求說明：
+可播放基礎照片jpg/ png 及影片mp4檔案格式 ,介面為開機後啟動此app就記憶最後一次播放到的檔案畫面自動出現開始單張全螢幕輪播，左右滑動切換可上下一張照片檔案或影片，設計可刪除檔案按鈕，由上至下滑動可顯示控制項目螢幕亮度/音量/離開app，基本需求如上如果有現成可授權之應用播放程式可提供參考配合 謝謝！
+
+需求時間：近一個
+
+https://facebook.com/1686432621633958/posts/3257984287812109
+
+[]
+</description><author></author><pubDate>Wed, 28 Sep 2022 11:09:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3257984287812109</guid></item><item><title>p GF徵各類程式工程師，前端及前後端工程師，產品經理及iOS職位等
+
+可長期遠</title><link>https://facebook.com/1686432621633958/posts/3257424094534795</link><description>程師，產品經理及iOS職位等
+
+可長期遠程辦公，名額有限
+
+【聯繫方式】
+
+人事部Telegram：@fc18866
+
+人事部LINE ID：lina663
+
+週休二日+台灣、菲律賓假期等
+
+【急徵職位】
+
+前端工程師
+薪資範圍：每月110K-130K新台幣+獎金
+
+PHP工程師
+薪資範圍：每月110K-130K新台幣+獎金
+
+前後端全端工程師
+薪資範圍：每
+
+https://facebook.com/1686432621633958/posts/3257424094534795
+
+[]
+</description><author></author><pubDate>Tue, 27 Sep 2022 20:35:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3257424094534795</guid></item><item><title>合作)
+
+需求: 網頁表單串接salesforce和google sheet
+
+</title><link>https://facebook.com/1686432621633958/posts/3235494603394411</link><description>force和google sheet
+
+現況合作方式:
+(1) 目前表單是用salesforces內部web to case的功能生成一個基本串接好SF的HTML檔案，但經過自行測試後，每一次的測試結果都分別只傳到google sheet或SF，無法兩邊都串接成功，看可否協助修改程式檔案。(我們可以先提供檔案，再進行評估)
+(2)可以提供舊官網頁面的php檔
+
+https://facebook.com/1686432621633958/posts/3235494603394411
+
+[]
+</description><author></author><pubDate>Wed, 31 Aug 2022 17:27:25 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3235494603394411</guid></item><item><title>代,網路購物已經不可逆。
+客戶訂製可以提升你的商品價值，你希望用更多樣的全面展示</title><link>https://facebook.com/1686432621633958/posts/3225647871045751</link><description>升你的商品價值，你希望用更多樣的全面展示來吸引客戶嗎？
+
+參考樣式
+家具
+https://sumax3d.com/portfolio/ar/3dar-furniture-product-33083/
+
+想要為商品訂製屬於你們的動態商品嗎??
+快跟我聯繫 LINE ID @sumax3d
+
+SUMAX3D.COM
+線上互動家具商品 - sumax設計繪圖應用網
+
+https://facebook.com/1686432621633958/posts/3225647871045751
+
+[]
+</description><author></author><pubDate>Thu, 18 Aug 2022 18:37:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3225647871045751</guid></item><item><title>開發工程師 職務內容】月薪80,000起↑↑↑
+◎使用Telegram(即時通訊</title><link>https://facebook.com/1686432621633958/posts/3239353099675228</link><description>↑↑↑
+◎使用Telegram(即時通訊軟體)的開源code ，沿用該代碼寫法 擴充功能
+(如telegram X或telegram plus 類型的App)
+
+◎熟悉Android App、JAVA開發、設計及程式撰寫。
+
+◎規劃軟體架構，按需求完成介面，並控管軟體設計進度。
+
+◎進行軟體之測試與修改，持續優化使用者介面。
+
+◎協助專業工程師所提出相關應用
+
+https://facebook.com/1686432621633958/posts/3239353099675228
+
+['https://m.facebook.com/photo/view_full_size/?fbid=160687853279738&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8mGlD50K7eSERWDlAfe9LzUuproh0gW6cyUZNnCacdWvVSb6k6AqFqpd9C6k3-7jL6Eqd0mhZDwtdLFuBeLuP_gH-pHtWdaWNsy9V32rBlYONdO_IFDGf8jkEmSNUN0Cdp4j0omWbEoVytsa-0hoxmeaMtmBR8ih8fsvitDgxmDxKbJkThLpaPPpWLipW63hFChcHdVpxZ2TLt192hgMEhLM33oeW_EM2p3x5xS1eK_QmSGiSK5DTd1XewfxWPpGeXgiyXlASxXexYpAAZRWtWOINS_1vN88lSmiH5K6xBGZdf40Rhj6NR5e835-1V9jb-tV6FVe2mhjmWw1TmlavCrlgCRCG0mMYAJNftbNHKTKXlvltcEj50huxbZdCUQoCp6_w-G7ejUg0QUe4URrVzigjFFJhdY9log2iqCI7Oa0xnMn3_jMAAt47i9O5PpcoA_M5TIhoBU0vTiQDTmZajGS8YlgP7G-q8pLXqmNnLNkW0jXJzA2RHHG-5z-nn65pGAmY5k4WPZVzvEo5HIpHWv63XwWhiV9TZmJf94ZiyDEkqupnGdiA7H39E-4RF144Qb0gfyfMlwXVCzAmD2nd67Atki42JoTzQO2Ys209tJ9dsPRqkFhY2Ud-k40AWS99AYlZpBcpnK5b42QlGG907V4OMC1Y2Cbpxfydfo7UIbk3Cb1bSx_9T09FW78rzRH9hA2LruUwzYKxTW8XRh29N8Ij2cNPwDdCA7wGv2IHn1vqh_QXpGGhNlt0sc4NL46xMdzj04Jx6OKpXvSx2lJB2Ff0apYJ_l7ptwMaHQQepJrlVBXMNi5toxOduS9_2UM5637pUDnfuKRPIGwdff53D3f5WYeMAce1CgunsDMbI7R9QWRylxkWHr9VsDn6eKaVqn_TA7D5TirgMWMeU6hrAfhNKS8kmvbiz5Rfp3FFYhUMuvuF-h2TWEumIcxWg4K0EOqTmhyI9c1d8By9C_JxEcAC7SDMz6c-_ejPHVXbiGjTnDecajbew0_I9jYzMR82XNmW9BKGzXXYqnqq7zx34HVI_T7ija5KHlgj1lRhfYorLU68kACkwhbU5J9rF4-XM4OEy7BprQGe3VcpUftEtK-baM16IfdmNZOVwEHBDdvuYqbDFgtVsCr7dDiyv58aNH8673HKj9OpNkMvt1UawbfcFmPY_2HP4bxqxNL3l8fc9wty_-pAVw5pADE9seYZAmDLel7qxEtql-90QE4Wuw5tidplGssYKvP4dFwAodh4EFxTDlj-MqogpveMShfNfUls_Ymin2KEgsnvtLKNM9OclZZU7Eu_3a5DJ_0yeSz10TpicyBE-yBxbxki16qFRXDA_DgEFwMihAQOwn48VZAbhlMRBegcqTASOb28IMeXj0K5efquV7TU5K4Hi5adGeMgm0WrHtFL-vwJLzKEPwzCwwLXGiTlLHRM0oWK8qbgG7U2tXCR3DGUZ2i5HT7hJqsmAoMRUiAfnNrXXgVk44NVXH1UY-DRtcD0FqHlA-\\-\\J05zV5TGQrUQ2HTmSK6zKfm96qGu8uxJOEUPytLVisLSf7Jxt_c16VIKsxnyiobXM6zsz4zyfUC21mBswYyvhEdVUQnA8jv3Jq0fZV26FMCqMTgPPsmYdrXjaHcdowzOMQTaGlIzrpSDUH1pNC0sZVaXOQvcBPDscnzGGOXsu9nyVETEQR2A4KO1ij3oxdZIrN40R-dQamaYBgJfVirulwP0oAOnrLmqRgBRNLxh5mh0c0FAJLrx158xenjtwIHHf4_pgpc1BBGNw0ytlM2Q46V-sFsg25AO4lP2uryjYdMmjLdPkiSFN7zttjjnmiyVqJXqAUIVcIVDa6ATbS3MVXDGuEvgBHLhUOvFiqZFNtwz9Z-11LS3M8tla-GiDbN719lRmufheN5ByfG2lEiEgd-_KWv0_i51BxzIM5sKb5_bz5nAVdiKgdryyz_xQxzHhoPaBgEZzCZUnN-T9kqDpuNu6vx4i1jhjB9WapFQ6yLvaIXpG57Glu82ikQDXL-kBd_8u6ZClE4j3KyV1DYGQGhVcA-rydH-CgdrsvNg0AkfG-TsYsuUcroZirmelfiVqn3pHpl6_45NyDvWFxTha814agZ3RbcS5bXk61Z_rAKRO4ys4qjBle9KA9GeaPtfc7d3OmFTaQz0aWhjQifWWCzJgaXsfe8OfZzCj_xriTG35UuOzr9Wrjpf1Oyn1wW2GtKhHhnsajVABcRjqp7REuXYrjsCgu8b0MFgGZoStRIrOgFiseXXhs-9hTT00jzWWF1ITo94-lRmCejiDoMN4M9zIMvdVuL1rxrkihBIaPSC4N2vMG2Km8TIcolu27fHuiYk_4VPNOeQeaSNZd2lewORFRpVdUBA6V6NVOqziTAgZsQyNa8WQ2fxZIaf-Dtegvhs-M-PkI7-pDWJZh2YwiUe1HbI45RRXhRz5oi2pqZ0oq4LRdyn-4uBk29DS3TplTacaeLL4LBEo6-qOiKXNNKaovILd-hrzFKIkpaEO9UJG7EjlH270QC6QciX9M88hDY6lgYO7n3Ni82fsVN80EIUojGsdtbLdw8Cg4LQwVelC-1cHDzhSAUoGRG4Yiypz5WJudeHGXY1R5AVD8yciqEAaYxNW2EPW9_5iaJHhe2HsJ6sga8f9ctcvc0pjdPjbZUYczs_juCMgozfj96WfPW-vFaJzcr2cGW1vXzWnzJ3Poqq2901YJv_3STsWyAFC3m7EjgKHZw7fxXuOkqgx-wNIy8tf-knR872NrUtqxqVFtF1HtazIRLVFdPusgy59nPkzdAOig1_FiR6_Mr41pUdQJHIdx_QzoWYffpUXqVYx1BIzM2DZPuii79DrJAwtbNVuXw4_lb47mxrhWZDWZJyqXZiELLv7YZQ0GVW8bsKa5y611PmLOONo8-FsoPEEI-SJrtDHsjCBEHqq6RQHL4Qu7Y4C2INLVcflTXkiPzlHCe3v2ZGfFgCK87AgUQibiLoEMlDShXVNuFcLSwIRJkzB_dKJLane2NcH1eIwQCHRraKY5VRKFxRWl8qI0vmADbeL5yoDZmaJdqhahh_XixXjNkdRTiBVZYtTJ_Bdg4zm726JqQJE9_0IpNmfh2NTDv_ifehSa3LY_5LjDCXf7ASNwb5ikoq5C6aBFph3bYsMb1VfxjcxFC9o4YbLPnKbNPvAqWOf7xC3Z_oFSduQ3VnpBQJcGhqruIurpd9O5vvvtrrfKfqw3kBUKFP7np6KqBIO98lgfS0WxbRV153FMjUtzXFDhA4veJWuMHCz7_SfdiOH4ZGAD2tN-wH3oCZ6KdMBV3UA-pqjnPQEtjy_P1arYqb3gNvJIv93O5TOsSUIFckxmkvDo-I9f27Aegq9K_mw1m2VJMT4wgFPfQklIElUh3KC6SOn-fn7T9XBlgKzZibcLU0nbU8vsBw1L2gjNIDsZiSTp4TS7SqiPVhEtmzxKNHs2bP4QpabKJrhn_1D3Wf5vqVWjmrNc_aeMYpHBMOeSodQS2a63GxTNne2ynamIhEQfhPnLoWYbifwES0jxB_N0vVrtQd5j3Vium8RXEHqf-sSlqQKtJRu2Ush8UPTU775fv46W8mZfkdHLa1N48QM1umAzqPbCKqMuEByNc2mhoIVZA537JP-dleVxHOXCVN5fGC0IUV2Qqn75Yz4uDrX9pjAYW81iyY0GzW2H3g8l_JZsGSACzpcGG-6cYXL8h30gWHK7E7jY34emhNCqCA6hGFpOOHRnEvcfUCin5iae7YElnRxv9Jplv0lmoTzaO5Fltyr-gVybisN2BckLTgWgzXPela0wvjjxmUMLVpTR1GqCpJdJpOx946DADScTwbBFVp5anriyy1FxGegWQ4iLsFB64y96-M4nF21X1H5jvRzFdxYvljg3DlarkWu0Z-o_4GhdnXQDBOfTr118uSHWeCHL4Nb3Eg8R922ELbiwEzpa29MZxT3QS0cpxCedcrDX1LgV1GokE0GdSwzvvIvx6c387rkjd67WiSrpJcmTQ3UCAl83m_SjmWE45lda59ZWIcDSn7DzdKR4TjAZkJOkFHbXQYCkoXI&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Mon, 05 Sep 2022 15:37:48 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3239353099675228</guid></item><item><title>解決）
+程式底子不好遇到問題來求救
+需求：將 TOP 與 BOTTOM 分別被單</title><link>https://facebook.com/1686432621633958/posts/3254173201526551</link><description>：將 TOP 與 BOTTOM 分別被單選的項目合併為一個 ID 來做 DIV Show/Hide 的動作。例：選T2與B3，就顯示 #t2b3 這個 DIV（請用 jQuery 編寫）
+請願意幫忙的高手報價，感謝！
+
+#jQuery
+
+https://facebook.com/1686432621633958/posts/3254173201526551
+
+['https://m.facebook.com/photo/view_full_size/?fbid=10221759292715596&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_IWiKcHaS1Hl6S5otJ0TXbhwMi-8i1hiqv82b7va_Z8IaVwKBCgBaNEXXWUnScMmqxZYC6Uwr3qohRssHOn-C3lJV2iet8T9faoFBFCXv4BdUqKZfxlrxa-sGe0IS6k1puAMhyQ9DjEr7mBpVgDy_AoAAXG1oyhjK-3h9XMHOmswJVOn-6kLWAsfbGDNLWkFK3j6zJcXZQaFDxMOFenPUZ21inC5pzsSjt9IAECmn_TAGBwAvXws-W0nMZAVK4870YJvme9w54IbSf-5EACu_T5iODcMwT9HsZmHk_VcQ2GFhXIEM-iPxrA_IeX_2QKerv3EY6Wq_L6P33H5hNMidSkVAO0NJbYpcvsZZtWgAIsOJ40HKkfjaV-S-fAcg5fWT6bHJPT7n_44DA5z_Rz62aUPvbgVfQ7pyTB6068U6H7bCkVjxAQSgD9ugQjGw0DEYf36ZykUaW6EEwET3H3kOF2TTDc_q8rdX_S92c6SqSSxUI0Zs24c44dE6PhQUvP-x8rfGvnoB8FzDup2RbFspjWnaZSV86ah0x4NsO7gSqRZ83W2jiuN8h1p7SV9zmRDaECaCOBuo8dgnlb3NCAXq-WKk3c7KiP9ZSWkWiUXP6lPZ5fBO4-FZN4qLSvwAUuc0LLA9GzN7lqfeEnWneg_WAohbWv3hC1AWReaCIHMCWojMDzzVD4oGdBWIzpU6dhffVHHypDvXK_1AkJ3h6NxWGWCUDS8F168381k00KQr0Fi7kEW17gasl44Wmtr9I34YYHkGjeBA-TKHWu_1qNqo87Q_E6CznITL7VQppc4bpmX-Xo2sMy2NsZimVC0NWVVg_dPKLRBpOhXQs7c8Ic3IgfMO02Cs2sREn8GhvqcArbFi_69db8CTwdoeKmWcUqElxkHDTD4M6T0PGPDTk9yFsNd8NelMqvQOZQ1reGGkrB43-IvONFFJRm67AYcmmp6ZHQz8nsMRRIVkhnFw5WkYHQ6VjmGNRZACh7YSYUzGDxGDo57Wf3QgLne6PlzOSjE-KnORpLs_pvNOsth-rQbM6mn8OIWyperqAFERyEdGmhqU1tAVHUkpQxoqff0rDTvjkt1C4AL45kqigUuSxpztq&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Sat, 24 Sep 2022 02:05:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3254173201526551</guid></item><item><title>遠端前端軟體工程師】
+在家中工作可以減少車程及提高效率，彈性工作時數讓生活更加便</title><link>https://facebook.com/1686432621633958/posts/3256308194646385</link><description>車程及提高效率，彈性工作時數讓生活更加便利，誠徵前端軟體工程師，內容皆可詳談，願意不斷學習、有責任感及認真負責的你/妳，可以成為我們的一分子！
+【工作內容】
+1.熟悉Agnualr、rxjs、Typescript、scss、html作業環境安裝設定及管理。
+2.依照接案性質及系統進行開發、管理及維護。
+【工作制度/性質】
+工作時間：彈性日工作時數八小時不包含
+
+https://facebook.com/1686432621633958/posts/3256308194646385
+
+[]
+</description><author></author><pubDate>Mon, 26 Sep 2022 12:06:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3256308194646385</guid></item><item><title>收日本地區款項
+最好是日幣收款</title><link>https://facebook.com/1686432621633958/posts/3256599421283929</link><description>
+
+https://facebook.com/1686432621633958/posts/3256599421283929
+
+[]
+</description><author></author><pubDate>Mon, 26 Sep 2022 19:46:01 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3256599421283929</guid></item><item><title></title><link>https://facebook.com/1686432621633958/posts/3256416751302196</link><description>
+
+https://facebook.com/1686432621633958/posts/3256416751302196
+
+[]
+</description><author></author><pubDate>Mon, 26 Sep 2022 14:36:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3256416751302196</guid></item><item><title>Cryptovoxels元宇宙基礎技術學習
+在台北松菸園區(近國父紀念館)
+歡迎</title><link>https://facebook.com/1686432621633958/posts/3256352111308660</link><description>習
+在台北松菸園區(近國父紀念館)
+歡迎推薦給想要進入3D元宇宙建置的朋友參加!
+指導｜經濟部 主辦｜經濟部工業局 執行｜台灣設計研究院
+https://www.accupass.com/event/2209070628471958494673?fbclid=IwAR1kmlDMMvtgSnybE3AW5eFUop43rqkTAR9DK96jIJ41c7K5
+
+https://facebook.com/1686432621633958/posts/3256352111308660
+
+[]
+</description><author></author><pubDate>Mon, 26 Sep 2022 13:21:35 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3256352111308660</guid></item><item><title>Cryptovoxels元宇宙基礎技術學習
+在台北松菸園區(近國父紀念館)
+歡迎</title><link>https://facebook.com/1686432621633958/posts/3256351994642005</link><description>習
+在台北松菸園區(近國父紀念館)
+歡迎推薦給想要進入3D元宇宙建置的朋友參加!
+指導｜經濟部 主辦｜經濟部工業局 執行｜台灣設計研究院
+https://www.accupass.com/event/2209070628471958494673?fbclid=IwAR1kmlDMMvtgSnybE3AW5eFUop43rqkTAR9DK96jIJ41c7K5
+
+https://facebook.com/1686432621633958/posts/3256351994642005
+
+[]
+</description><author></author><pubDate>Mon, 26 Sep 2022 13:21:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3256351994642005</guid></item><item><title>Cryptovoxels元宇宙基礎技術學習
+在台北松菸園區(近國父紀念館)
+歡迎</title><link>https://facebook.com/1686432621633958/posts/3256350067975531</link><description>習
+在台北松菸園區(近國父紀念館)
+歡迎推薦給想要進入3D元宇宙建置的朋友參加!
+指導｜經濟部 主辦｜經濟部工業局 執行｜台灣設計研究院
+https://www.accupass.com/event/2209070628471958494673?fbclid=IwAR1kmlDMMvtgSnybE3AW5eFUop43rqkTAR9DK96jIJ41c7K5
+
+https://facebook.com/1686432621633958/posts/3256350067975531
+
+[]
+</description><author></author><pubDate>Mon, 26 Sep 2022 13:18:39 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3256350067975531</guid></item><item><title>大家好~
+我想尋找協助經營YT的TEAM
+從零開始經營的那種!歡迎報價!!謝謝
+</title><link>https://facebook.com/1686432621633958/posts/3255493401394531</link><description>
+從零開始經營的那種!歡迎報價!!謝謝
+另外本人公司經營13年行銷廣告客源很多
+歡迎有關行銷同行合作~我這邊可以幫忙推銷!!
+謝謝大家
+
+https://facebook.com/1686432621633958/posts/3255493401394531
+
+[]
+</description><author></author><pubDate>Sun, 25 Sep 2022 13:00:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3255493401394531</guid></item><item><title>ROSOFT.COM
 ASP.NET | Open-source web fra</title><link>https://facebook.com/1686432621633958/posts/3254805178130020</link><description> Open-source web framework for .NET
 
 https://facebook.com/1686432621633958/posts/3254805178130020
 
 []
-</description><author></author><pubDate>Sat, 24 Sep 2022 18:54:01 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3254805178130020</guid></item><item><title>e group would like this
-
-TODAYCLUBS.COM
-</title><link>https://facebook.com/1686432621633958/posts/3254594258151112</link><description>his
-
-TODAYCLUBS.COM
-新聞挖挖哇】艾成的最大遺憾？王瞳、馬俊麟不倫成婚姻傷痛，管好妳老公！來賓：黃宥嘉、呂文婉、狄志偉、許常德、郭德田律師 - todayclubs.com
-
-Buntha1098 在香港警察。止暴制亂💪🏻💪🏻 中分享了 1 條連結。
-6 小時 ·
-
-新聞挖挖哇】艾成的最大遺憾？王瞳、馬俊麟不倫成婚姻傷痛，管好妳老公！來賓：
-
-https://facebook.com/1686432621633958/posts/3254594258151112
-
-[]
-</description><author></author><pubDate>Sat, 24 Sep 2022 13:39:44 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3254594258151112</guid></item><item><title>個開放原始碼專案有興趣：
+</description><author></author><pubDate>Sat, 24 Sep 2022 18:54:01 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3254805178130020</guid></item><item><title>個開放原始碼專案有興趣：
 
 Remult 是一個框架，能透過 TypeScrip</title><link>https://facebook.com/1686432621633958/posts/3251847538425784</link><description> 是一個框架，能透過 TypeScript 的 Model Class 自動產生相關的資料庫結構與安全且強型態的 REST API，亦能用於任何前端框架（如：React、Angular、Vue、Svelte…等）
 
@@ -774,7 +929,7 @@ Remult 是一個框架，能透過 TypeScrip</title><link>https://facebook.com/1
 
 https://facebook.com/1686432621633958/posts/3251847538425784
 
-['https://m.facebook.com/photo/view_full_size/?fbid=10160863048954066&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553142228672935329%3Amf_story_key.3251847538425784%3Atop_level_post_id.3251847538425784%3Atl_objid.3251847538425784%3Acontent_owner_id_new.749679065%3Acommerce_rank_obj.%7B%22viewer_id%22%3A0%2C%22target_id%22%3A5886212951418308%2C%22target_type%22%3A0%2C%22primary_position%22%3A2%2C%22secondary_position%22%3A-1%2C%22search_query%22%3A%22%22%2C%22search_sid%22%3A%22%22%2C%22session_id%22%3A3332086253016317952%2C%22typeahead_sid%22%3A%22%22%2C%22ranking_signature%22%3A3332086253016317952%2C%22original_ranking_signature%22%3Anull%2C%22commerce_channel%22%3A103%2C%22commerce_type%22%3A2%2C%22ectr%22%3A0%2C%22value%22%3A0%2C%22modularization_id%22%3Anull%2C%22original_position%22%3A-1%2C%22boosted_position%22%3A-1%2C%22original_value%22%3A0%2C%22model_scores%22%3A%5B%5D%2C%22upsell_candidate_ids%22%3A%5B%5D%2C%22upsell_type%22%3Anull%2C%22metadata%22%3A%5B%5D%2C%22ad_imp_delivery_data_binary%22%3Anull%2C%22ad_imp_delivery_data_array%22%3Anull%2C%22ad_opt_format%22%3Anull%2C%22qp_renderer_type%22%3Anull%2C%22top_unit_ranking_score%22%3Anull%2C%22is_budget_upsell%22%3Afalse%2C%22is_contextual_ads_skipped%22%3Afalse%2C%22is_pacer_applied%22%3Afalse%2C%22is_billboard_promotion_upsell%22%3Afalse%2C%22is_dynamic_module%22%3Afalse%2C%22category_id%22%3Anull%2C%22shop_id%22%3A-1%2C%22candidate_category_id_map%22%3Anull%2C%22candidate_score_map%22%3Anull%2C%22candidate_retrieval_source_map%22%3Anull%2C%22candidate_original_signature_map%22%3Anull%2C%22candidate_seller_id_map%22%3Anull%2C%22candidate_shop_id_map%22%3Anull%2C%22candidate_creation_time_map%22%3Anull%2C%22candidate_dense_features_map%22%3Anull%2C%22candidate_sparse_features_map%22%3Anull%2C%22candidate_vertical_metadata_map%22%3Anull%2C%22candidate_buyer_product_rt_imp_v2_map%22%3Anull%2C%22vertical%22%3Anull%2C%22vertical_metadata%22%3Anull%2C%22dense_features%22%3Anull%2C%22sparse_features%22%3Anull%2C%22collection_id%22%3Anull%2C%22theme_id%22%3Anull%2C%22buyer_product_rt_imp_v2%22%3A0%2C%22candidate_model_score_map%22%3Anull%2C%22client_time%22%3A0%2C%22last_rank_index%22%3A0%2C%22last_rank_time%22%3A0%2C%22level1title%22%3A%22%22%2C%22creation_time%22%3A0%2C%22seller_id%22%3A0%2C%22seller_rid%22%3A0%2C%22other_user_id%22%3A-1%2C%22time_since_li%22%3A-1%2C%22response_time%22%3A-1%2C%22message_count%22%3A0%2C%22buyer_session_count%22%3A0%2C%22seller_session_count%22%3A0%2C%22hour_of_day%22%3A-1%2C%22ad_finder_request_id%22%3Anull%2C%22fpt_id%22%3Anull%2C%22fpt_category_ids%22%3Anull%2C%22retrieval_source_name%22%3Anull%2C%22collections_to_products_map%22%3Anull%2C%22grouping_info%22%3Anull%2C%22should_use_excess_items%22%3Afalse%2C%22seen_item_ids%22%3Anull%2C%22lifestyle_image_id%22%3Anull%2C%22lifestyle_image_id_map%22%3Anull%2C%22leaf_fetching_params%22%3Anull%2C%22candidate_to_grouping_ids_map%22%3Anull%2C%22grouping_ids%22%3Anull%7D%3Apage_id.1686432621633958%3Asrc.22%3Aphoto_id.10160863048954066%3Astory_location.6%3Astory_attachment_style.group_sell_product_item%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8pqj4rFd-jz1Vl%3Asty.805%3Aent_attachement_type.ForSaleItemAttachment%3Apage_insights.%7B%221686432621633958%22%3A%7B%22page_id%22%3A1686432621633958%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A749679065%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1663748788%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3251847538425784%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.749679065%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=10160863048954066&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8OcaJAVsV5SLA213ogO0uwk7IUJ-8jTeOUgnCzxwH8teTpJguch8fPxfkXR-3ZHG8PK6swUSoMpskR_MiY43hGXo06kaWsIGTn1dD4oNw5U3EJE5_ktiwQVt7C_AXzIH1H2g6AewJ9b-4dIHYSCIssZ4aS6lAYA12yr1tJcRgGwDcd0Dcp9z0dTz5CdnIjdoofYvUSN4S1w0uJtjgfEHz8HFq4ehf2ynkYO7iFcO1fWr7WxFcNIpCHJeweMVsUJ5zSPPsPwQ6abXGECMfpX4NTiicA37JYJCtRkjPS47iD92CtPE5_AL7UPkndemOPX575re0IQPgKlSSh8LFZpHO5FSNetKPkQbzH833RJb2_Uwigi4tWHKSkKzbD0H99VhIEpWs_lPXSFwFPbQeaNxR9dCtk-s_F0Zk_nhYXfRProvEv9zJjC-VEwtbU4ZcD7Ok2Ce2SDV5hSVaDWtCy8CzhLixNSXQhy1T1s4SeEvuMvriX9izXJi4iuK1raVyHdKa-H61Lk3FRtNKaMdEKavzJarVar0w-KgR8pgbDQTvaVzEzaCmDyrMMbLhkx-u8AbZLAWHq7aSPfV_vOZwYV3azMqMNEoKOcht9sj9gGg8XwG1aJCRawEjgDnrSB9_UX2nT7AgQmrto7z70w7O7bbRek5LQkvXahETPu4lAGaPqeaD0HdG9b3xHuFDfPTLxFLgNwznFUbv5X6-wtsdx9b9hC7zRJ9MSxA9vUU9esfzdqAvi6xUvAWrUvz_lqiZAwn9K09rUD5DecJuQcZwXyJ_PC59yRkt6rN3bgy9Ndbv14GpVJ1zPlgZwCCvhbAr67wgzSPN4nJ78nyzSVcaBhsmOSlTNkelAwf1nnjUW0t4QrEfgkrMXyAra-We9XUee8aWL4DKdOoum9vGKwdbniaemkZREghfxHlq7N7ODiooc17cj1yWI5SS8QVE5zO1OO8O8zwWGeqN1IRFFmYfXzcJECyigyQeWYx_EwT9Cctp_9fiSp5ARTZsUxYy96-x8JOdSeGW84brFZV9oTJH_nL5OfZ-9hbK6mwgOQN3UpYasvSY_BbRpzfC4hq3tJTALaqwxk4aKy4v1g2HZI2CwJW_e-Rao9YPuOQ7ioQnCSfPJiwB9Jq0FYa28Uz-ZF7SABXRYDuJCxQEsKaTF0_O-ub4CqXXDonJetovrGCO8-gFEaq1cVm45ggROwU0Y6Ni9Vn0QpsrCmx1ESAef-SkTRvr-9q8SgTB-5lbuQNvXaNatcc8OuDozw8B7J_E6TSa2rbncN7vmScwah0xIKPKXTtTf81FA2cZZl7WVrwPnwf_2GP46xzDeIg15-8xgS12BhIsP_CRTubit3e8RqHG6YWrnAPP1wwBuKWL4w7CRWPBBdSes6qJigJJBRCwQ9Am48bCdKdTE0Lo5HatJKb1NndMYsW808u1CycuMIKfYplzrue6JeAtPh0ZPEL2B8OlQhjsgPy2Xd8yOfs_lWzlFBGKuILbe2tQC9udNA8r1P-8AA_W9X66Ksr2N8EkwjSp-shWzONZwD92koj9o4ibDwB_fJpb5EJ1XvwoeVSOtz7vYX9ssyRuJyHKrpmZtNR1CHIk6mwT7Cx4PqKJ6fpv1S2q5QHfs-D98CoogXMGERT2TG7dFMnljhPh_RPF70vqiis2P-sprmgyXpi5d18zEvmWnnPztUQ64DeqchM7KSIWci9yPgXEDsL94NkkxWmSQjW7t-ZX_BzCQEQX7j-noXqluHgzWtfH_3fDwFmAHgUHVNfySjeSyuvAJNLojCULi7YuurdZOLuFmSs6ukGwdnHiLFjmLaElY2F_vcXsStON6BZ_gPNsw4TZKlwlmBjXnw7_LlRApzNKzFhbBqzn5EBVVH0sCyH_erfDU7uqnz8OB0TJb9Fb4Ff4Mu0REwgJtOM6kQ3vrJ0VYcIo9v7KfWMHaA3NMjFzrDFY-cPz1CZXvijKwdNlpuSE9T7oje2adDNJqsuPwta6xOfDMcPHSDH-gsYtzN5PuYOFyhuu9_adFA7OM4VWLan2jLDoQPj0n3wPconZeGPwI9Yg2uelLDGVhbKCfwIWM_nq7tREuVGa4AS80u9xjDPRKwKZLyLjMMm80PrA7zr6a5_ortrPCMHIhCeBm9IuE_AuJcmvl2D5Xg_WujzqwL_7VUp-IbrGxSXECwodfM9qOne9EqDuNq14q1gKFVfD-XMClI3lD0pVAIJgkSVnWelDGF4CWEK9wmW9la1EVhizx-kHD712rvW2-Q_dYMdbBf7CfUXs600sUsEo2Ljo-0lKqiM-1GyI4NYWkIrBwBp5DIap9xEu_tdZqWiI9FKKQG3RcCjWUv3iW6dupsThlzH7lGhe6KigKJlBCuNbQlpsX3o2IxmHaOlbYX4Jh0YovH_NbUADWfnv9m2fMke5enNCwko8uRZFbBtsWCcQ7hg1YXkLWffB7rVTaYANZFW-iWTF8nPWmoDfxD9kK_stMSFATMBKcBxTfgKZUgl54-R0-16W3BISo1APBSZvr8ZIDjgPMSRwlPZDtHbMK8iT8cnPf0DQLTnC2kpOgUBQ_jqQOuvODo8opzoMYaUPMST2x_vpFyfvMQl9AHzOWspFcBb3GYh8Uetp2Trn5S0Yqera6sPLb-AwSL3Ddgj8V0PsKfTcvh8guqSmKXmD6HgyVXxG9Q9ztJxl-FvSGgwb2rLw4FldYTKOyXRXreZoYze0Els4Ug-uy6OgaXY6lvU0f-1r_e5xzvS5c3O-obOjgiN7RlL3Jd0jOydIWMl7njArvKWC4EWWOpktADrrB9M5akbsi_D0oQBIGfYgGAOBtbutdqot7I-iO9Qm1QtS8Tg_Q9sZBJtO_J3PLvPJl1ROluUxULGxYjgyFBbVuIOjnVDkds8PmYs9B_G8fEi4LZhaseZ5QR1Rdjj4iB7kZUHCtaiSKRARQdZY0-RhYHofg2MY7ykbK_doYZmGjAma_H3I8kLYFeY5kAZR4Gj1uUqJPpynDTUAb3OggVVQS15FsIY0Reju5WALH1imOvWbN150MA_W5tk3jehkdcwZi7Xq0YgA6Nxl8hJwdRw5uzjrQ7F0XsomMygQluZPqQYlwQLT6BlhE2MHgCVdI-1X5pkJNRNz1wQ10o259p7iWWTOl9hzM2TRACOmzVew1Hm-ooBhOTxTqsWEP0G_d7FBFlMX_ROlRRtjgYM84fJPWE0gtFzqV37Rr-wntHok6oQ9KUpQDzrtiqjZ9RUdMHPogo4WxylSZvx0K4KtYCvoqWfPiXZww7tt87ZtcFAShte8nbwj5-Bd8U6fwfQ6C4pB8_MMI_hNt0-ufYtgTQW260SULoh4N49PArzbwrxa7d5T7Ytz45e9smu15F3R6IGTjXBxi5fY-58VVUpG0IXC3Rtn_RDgAtevix3NmbTa_GQdbYbeize79nYEoKej10K6UeToqwsSSK9x5t231TrrNiAKzV9lyeWaRT9r4ECszZbPr8cMZ7nHFf-lZU7qu6cNW9mNQyFpdCrwQzxPl_TjeZV352t0_L8DIjE2luKvvt1TSH9jp6PM_QKoMtQHgAigjFrVaYLn3_uA9tCaxX11SqI1uK_HYEq9arVxZlwnt9f5YzJqtapLs8LWvdYpv57yUF5S4txBlJOjqxvXujHjSIlsX3gNRzQWQv6omdF_4LNZh96FxTWc9k8fbp9FpA9rGHkloDXOUep0ZsYZiI085uIFC8KKWCHIwC2GJjvaGFTju8rCN65boL0ccXGss7XG3ES02WR6iT27Dfw1lM_GHZCQrh9zqzYBcF997H5uUdjKLReJeaXVu_JWdYetQKDVzoGs745dJyl5Dv_sXIz2uCkSQn8tjQoGMbnszqA98cNoALoDzHlEnNtWSAy8edNI2wjFxzjLlLOpbVdYydwQUbl7wYvdl4lj0F92waqTgXMJ8yxl9GuLsQbZ10aXcyrHIQuxcxelxEp-3Ps_4ri4cLgxCVt3SMrZhq0ohHqEauUV8qn2NBaIctrBQUmaB0oiCMiGLo5MQb24Vmmp2oHUpbr3p1ZEDkHKm-ah6Jzk&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Wed, 21 Sep 2022 16:26:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3251847538425784</guid></item><item><title>園 Website Zoo
 🔲一頁式網站設計
 🔲企業形象網站設計
@@ -811,197 +966,28 @@ https://facebook.com/1686432621633958/posts/3250354558575082
 https://facebook.com/1686432621633958/posts/3247246378885900
 
 []
-</description><author></author><pubDate>Thu, 15 Sep 2022 23:20:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3247246378885900</guid></item><item><title>ustrator #Photoshop #Adobe #CorelDRAW #P</title><link>https://facebook.com/1686432621633958/posts/3248493285427876</link><description>#Adobe #CorelDRAW #PDF ＃印刷 ＃印刷軟體 ＃編輯器
-大家好，我們是敏捷的團隊PDF23，善於快速反應，期待與大家合作。
-我們的專長如下，有興趣的可私訊再了解，價格透明合理，我們非常歡迎一起討論問題。
-Illustrator自動化工具(可無人化)
-Photoshop自動化工具(可無人化)
-Adobe系列自動化工具(可無人化)
-Corel
-
-https://facebook.com/1686432621633958/posts/3248493285427876
-
-['https://m.facebook.com/photo/view_full_size/?fbid=5653104548074369&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553142228621082545%3Amf_story_key.3248493285427876%3Atop_level_post_id.3248493285427876%3Atl_objid.3248493285427876%3Acontent_owner_id_new.100001246389325%3Acommerce_rank_obj.%7B%22viewer_id%22%3A0%2C%22target_id%22%3A5795496047140802%2C%22target_type%22%3A0%2C%22primary_position%22%3A6%2C%22secondary_position%22%3A-1%2C%22search_query%22%3A%22%22%2C%22search_sid%22%3A%22%22%2C%22session_id%22%3A3332086253016317952%2C%22typeahead_sid%22%3A%22%22%2C%22ranking_signature%22%3A3332086253016317952%2C%22original_ranking_signature%22%3Anull%2C%22commerce_channel%22%3A103%2C%22commerce_type%22%3A2%2C%22ectr%22%3A0%2C%22value%22%3A0%2C%22modularization_id%22%3Anull%2C%22original_position%22%3A-1%2C%22boosted_position%22%3A-1%2C%22original_value%22%3A0%2C%22model_scores%22%3A%5B%5D%2C%22upsell_candidate_ids%22%3A%5B%5D%2C%22upsell_type%22%3Anull%2C%22metadata%22%3A%5B%5D%2C%22ad_imp_delivery_data_binary%22%3Anull%2C%22ad_imp_delivery_data_array%22%3Anull%2C%22ad_opt_format%22%3Anull%2C%22qp_renderer_type%22%3Anull%2C%22top_unit_ranking_score%22%3Anull%2C%22is_budget_upsell%22%3Afalse%2C%22is_contextual_ads_skipped%22%3Afalse%2C%22is_pacer_applied%22%3Afalse%2C%22is_billboard_promotion_upsell%22%3Afalse%2C%22is_dynamic_module%22%3Afalse%2C%22category_id%22%3Anull%2C%22shop_id%22%3A-1%2C%22candidate_category_id_map%22%3Anull%2C%22candidate_score_map%22%3Anull%2C%22candidate_retrieval_source_map%22%3Anull%2C%22candidate_original_signature_map%22%3Anull%2C%22candidate_seller_id_map%22%3Anull%2C%22candidate_shop_id_map%22%3Anull%2C%22candidate_creation_time_map%22%3Anull%2C%22candidate_dense_features_map%22%3Anull%2C%22candidate_sparse_features_map%22%3Anull%2C%22candidate_vertical_metadata_map%22%3Anull%2C%22candidate_buyer_product_rt_imp_v2_map%22%3Anull%2C%22vertical%22%3Anull%2C%22vertical_metadata%22%3Anull%2C%22dense_features%22%3Anull%2C%22sparse_features%22%3Anull%2C%22collection_id%22%3Anull%2C%22theme_id%22%3Anull%2C%22buyer_product_rt_imp_v2%22%3A0%2C%22candidate_model_score_map%22%3Anull%2C%22client_time%22%3A0%2C%22last_rank_index%22%3A0%2C%22last_rank_time%22%3A0%2C%22level1title%22%3A%22%22%2C%22creation_time%22%3A0%2C%22seller_id%22%3A0%2C%22seller_rid%22%3A0%2C%22other_user_id%22%3A-1%2C%22time_since_li%22%3A-1%2C%22response_time%22%3A-1%2C%22message_count%22%3A0%2C%22buyer_session_count%22%3A0%2C%22seller_session_count%22%3A0%2C%22hour_of_day%22%3A-1%2C%22ad_finder_request_id%22%3Anull%2C%22fpt_id%22%3Anull%2C%22fpt_category_ids%22%3Anull%2C%22retrieval_source_name%22%3Anull%2C%22collections_to_products_map%22%3Anull%2C%22grouping_info%22%3Anull%2C%22should_use_excess_items%22%3Afalse%2C%22seen_item_ids%22%3Anull%2C%22lifestyle_image_id%22%3Anull%2C%22lifestyle_image_id_map%22%3Anull%2C%22leaf_fetching_params%22%3Anull%2C%22candidate_to_grouping_ids_map%22%3Anull%2C%22grouping_ids%22%3Anull%7D%3Apage_id.1686432621633958%3Asrc.22%3Aphoto_id.5653104548074369%3Astory_location.6%3Astory_attachment_style.group_sell_product_item%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX_0S2zKmIctpVt1%3Asty.805%3Aent_attachement_type.ForSaleItemAttachment%3Apage_insights.%7B%221686432621633958%22%3A%7B%22page_id%22%3A1686432621633958%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100001246389325%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1663394647%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3248493285427876%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100001246389325%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 17 Sep 2022 14:04:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3248493285427876</guid></item><item><title>長期配合外包夥伴 數位,男女不拘,對於系統開發、數據分析部份,需要有點經驗或概念</title><link>https://facebook.com/1686432621633958/posts/3248419185435286</link><description>統開發、數據分析部份,需要有點經驗或概念。
-
-基本技能需求:
-web form(必備)
-ASP.net core 3.0 MVC架構(必備)
-前端angular(必備)React、Bootstrap、JavaScript、CSS、HTML5
-後端C#
-git
-
-Database:
-MS SQL(必備)
-
-*主要以線上協同作業為主,特別要求品質穩定、準時交件及
-
-https://facebook.com/1686432621633958/posts/3248419185435286
-
-['https://m.facebook.com/photo/view_full_size/?fbid=3123145091329292&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553142228641521011%3Amf_story_key.3248419185435286%3Atop_level_post_id.3248419185435286%3Atl_objid.3248419185435286%3Acontent_owner_id_new.100009014967996%3Acommerce_rank_obj.%7B%22viewer_id%22%3A0%2C%22target_id%22%3A8026417930733851%2C%22target_type%22%3A0%2C%22primary_position%22%3A7%2C%22secondary_position%22%3A-1%2C%22search_query%22%3A%22%22%2C%22search_sid%22%3A%22%22%2C%22session_id%22%3A3332086253016317952%2C%22typeahead_sid%22%3A%22%22%2C%22ranking_signature%22%3A3332086253016317952%2C%22original_ranking_signature%22%3Anull%2C%22commerce_channel%22%3A103%2C%22commerce_type%22%3A2%2C%22ectr%22%3A0%2C%22value%22%3A0%2C%22modularization_id%22%3Anull%2C%22original_position%22%3A-1%2C%22boosted_position%22%3A-1%2C%22original_value%22%3A0%2C%22model_scores%22%3A%5B%5D%2C%22upsell_candidate_ids%22%3A%5B%5D%2C%22upsell_type%22%3Anull%2C%22metadata%22%3A%5B%5D%2C%22ad_imp_delivery_data_binary%22%3Anull%2C%22ad_imp_delivery_data_array%22%3Anull%2C%22ad_opt_format%22%3Anull%2C%22qp_renderer_type%22%3Anull%2C%22top_unit_ranking_score%22%3Anull%2C%22is_budget_upsell%22%3Afalse%2C%22is_contextual_ads_skipped%22%3Afalse%2C%22is_pacer_applied%22%3Afalse%2C%22is_billboard_promotion_upsell%22%3Afalse%2C%22is_dynamic_module%22%3Afalse%2C%22category_id%22%3Anull%2C%22shop_id%22%3A-1%2C%22candidate_category_id_map%22%3Anull%2C%22candidate_score_map%22%3Anull%2C%22candidate_retrieval_source_map%22%3Anull%2C%22candidate_original_signature_map%22%3Anull%2C%22candidate_seller_id_map%22%3Anull%2C%22candidate_shop_id_map%22%3Anull%2C%22candidate_creation_time_map%22%3Anull%2C%22candidate_dense_features_map%22%3Anull%2C%22candidate_sparse_features_map%22%3Anull%2C%22candidate_vertical_metadata_map%22%3Anull%2C%22candidate_buyer_product_rt_imp_v2_map%22%3Anull%2C%22vertical%22%3Anull%2C%22vertical_metadata%22%3Anull%2C%22dense_features%22%3Anull%2C%22sparse_features%22%3Anull%2C%22collection_id%22%3Anull%2C%22theme_id%22%3Anull%2C%22buyer_product_rt_imp_v2%22%3A0%2C%22candidate_model_score_map%22%3Anull%2C%22client_time%22%3A0%2C%22last_rank_index%22%3A0%2C%22last_rank_time%22%3A0%2C%22level1title%22%3A%22%22%2C%22creation_time%22%3A0%2C%22seller_id%22%3A0%2C%22seller_rid%22%3A0%2C%22other_user_id%22%3A-1%2C%22time_since_li%22%3A-1%2C%22response_time%22%3A-1%2C%22message_count%22%3A0%2C%22buyer_session_count%22%3A0%2C%22seller_session_count%22%3A0%2C%22hour_of_day%22%3A-1%2C%22ad_finder_request_id%22%3Anull%2C%22fpt_id%22%3Anull%2C%22fpt_category_ids%22%3Anull%2C%22retrieval_source_name%22%3Anull%2C%22collections_to_products_map%22%3Anull%2C%22grouping_info%22%3Anull%2C%22should_use_excess_items%22%3Afalse%2C%22seen_item_ids%22%3Anull%2C%22lifestyle_image_id%22%3Anull%2C%22lifestyle_image_id_map%22%3Anull%2C%22leaf_fetching_params%22%3Anull%2C%22candidate_to_grouping_ids_map%22%3Anull%2C%22grouping_ids%22%3Anull%7D%3Apage_id.1686432621633958%3Asrc.22%3Aphoto_id.3123145091329292%3Astory_location.6%3Astory_attachment_style.group_sell_product_item%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX9g_KPzLhzx4DQ5%3Asty.805%3Aent_attachement_type.ForSaleItemAttachment%3Apage_insights.%7B%221686432621633958%22%3A%7B%22page_id%22%3A1686432621633958%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100009014967996%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1663387088%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3248419185435286%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100009014967996%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sat, 17 Sep 2022 11:58:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3248419185435286</guid></item><item><title>e~
-
-我們是專營國內新聞稿聯播網服務，歡迎來到新聞稿聯播網，這裡是專為企業、店</title><link>https://facebook.com/1686432621633958/posts/3244507389159799</link><description>歡迎來到新聞稿聯播網，這裡是專為企業、店家、公眾人物、個人提供新聞廣告行銷的服務。不用投入大筆行銷廣告費，也能享有高流量廣告素材。
-
-❤️全網最低價15網聯播最殺限量優惠只要19XXX(歡迎私訊有更多優惠折扣喔)
-
-❤️全網最低價15網聯播最殺限量優惠只要19XXX(歡迎私訊有更多優惠折扣喔)
-
-❤️全網最低價15網聯播最殺限量優惠只要19XXX(歡迎私訊有
-
-https://facebook.com/1686432621633958/posts/3244507389159799
-
-['https://m.facebook.com/photo/view_full_size/?fbid=6047651761930452&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553142228792768785%3Amf_story_key.3244507389159799%3Atop_level_post_id.3244507389159799%3Atl_objid.3244507389159799%3Acontent_owner_id_new.100000570632565%3Apage_id.1686432621633958%3Asrc.22%3Aphoto_id.6047651761930452%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8wHeQ3S_t1dkBz%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221686432621633958%22%3A%7B%22page_id%22%3A1686432621633958%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100000570632565%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1662950470%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3244507389159799%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100000570632565%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Mon, 12 Sep 2022 10:41:10 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3244507389159799</guid></item><item><title>程師」
-
-⭐【工作內容】
-1.平日早上8至12點駐點於公司，網站有臨時異常時可排</title><link>https://facebook.com/1686432621633958/posts/3244281199182418</link><description>至12點駐點於公司，網站有臨時異常時可排除並修復（目前網站運作已兩年，基本上沒有出問題過）
-2.於每天09、12、18、21點（含國定假日），連線進網站進行資料更新，每次更新約耗時20~40分鐘。
-
-⭐【技能需求】Node.js、PHP
-⭐【駐點地點】新北市三重區自強路一段與正義北路路口
-⭐【需求人數】1名
-⭐【月薪】：30,000元整
-
-意者請私訊您的履歷
-
-https://facebook.com/1686432621633958/posts/3244281199182418
-
-[]
-</description><author></author><pubDate>Mon, 12 Sep 2022 02:12:05 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3244281199182418</guid></item><item><title>
-找長期合作的外包
-
-需求：
-程式語言JavaScript,PHP,HTML
-網</title><link>https://facebook.com/1686432621633958/posts/3208704192740119</link><description>avaScript,PHP,HTML
-網頁前後端工程師（網頁是自建的）
-
-條件：
-個人SOHO，可全職可兼職。
-
-聯絡方式：
-私訊請自備簡歷及作品唷！
-
-https://facebook.com/1686432621633958/posts/3208704192740119
-
-[]
-</description><author></author><pubDate>Tue, 26 Jul 2022 09:49:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3208704192740119</guid></item><item><title>視已被入侵，沒有資安就沒有財富！
-
-重建聖城聖殿企業社服務特色如下:
-
-本企業社</title><link>https://facebook.com/1686432621633958/posts/3240669466210258</link><description>聖城聖殿企業社服務特色如下:
-
-本企業社架設網站特色: 含伺服器(Blogspot), 網站部落格, 資安、穩定性、速度與Google同級。 另含: 網頁設計, SEO, Google Analytics, Google Search Console, 只要月付新台幣2600元起！或95美金! 或591人民幣! 可加掛表單, 購物車, 串金流(信用卡線上付費
-
-https://facebook.com/1686432621633958/posts/3240669466210258
-
-['https://m.facebook.com/photo/view_full_size/?fbid=1230334264412349&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553142228556020615%3Amf_story_key.3240669466210258%3Atop_level_post_id.3240669466210258%3Atl_objid.3240669466210258%3Acontent_owner_id_new.100023073615431%3Apage_id.1686432621633958%3Asrc.22%3Aphoto_id.1230334264412349%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX-rhd-kwBanKizH%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221686432621633958%22%3A%7B%22page_id%22%3A1686432621633958%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100023073615431%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1662514049%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3240669466210258%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100023073615431%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Wed, 07 Sep 2022 09:27:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3240669466210258</guid></item><item><title>：
-網站架設（全端+DB）
-各種桌面軟體開發（ERP/爬蟲/各種工具）
-遊戲開發</title><link>https://facebook.com/1686432621633958/posts/3240097746267430</link><description>開發（ERP/爬蟲/各種工具）
-遊戲開發（僅使用Unity3D）
-Wordpress快速架站（形象網站/電商/活動）
-行銷策劃
--
-關於我：
-一年全職軟體工程師經驗
-台積電實習代表部門出席比賽
-接案經驗
-本科碩士生
--
-選擇我的原因：
-更低的價格，一樣的品質
-溝通力滿分
-對專案進度負責、守時
-如果有需求歡迎私訊，作品的部分因爲以往工作都是寫公司内部使用的網站
-
-https://facebook.com/1686432621633958/posts/3240097746267430
-
-[]
-</description><author></author><pubDate>Tue, 06 Sep 2022 16:20:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3240097746267430</guid></item><item><title>產品服務
-客製化數位地圖 (Google Map API)
-資料紀錄、資料視覺化</title><link>https://facebook.com/1686432621633958/posts/3238143186462886</link><description> Map API)
-資料紀錄、資料視覺化與資料分析整合網頁系統
-進銷存網頁系統
-個人/企業品牌形象網站搭配後臺管理系統
-線上課程教學平台
-網頁爬蟲與網頁自動化
----------------------------
-👬 團隊介紹
-Digital Café Studio 網頁系統工作室團隊有超過六年之網頁系統開發經驗，已累積數種成熟之網頁系統產品。我們彈性議價
-
-https://facebook.com/1686432621633958/posts/3238143186462886
-
-[]
-</description><author></author><pubDate>Sat, 03 Sep 2022 23:42:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3238143186462886</guid></item><item><title>ava後端工程師，進行公司DB及Api維護，薪資按工時計算，每小時450元
-
-有</title><link>https://facebook.com/1686432621633958/posts/3236886113255260</link><description>護，薪資按工時計算，每小時450元
-
-有意者可直接私訊
-
-限定Java SE 8
-ap server 應支援 Java EE 3.0 以上
-dabtabse: Oracle 19c
-
-https://facebook.com/1686432621633958/posts/3236886113255260
-
-[]
-</description><author></author><pubDate>Fri, 02 Sep 2022 10:55:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3236886113255260</guid></item><item><title>過ＯＣＲ文字辨識嗎</title><link>https://facebook.com/1686432621633958/posts/3231371543806717</link><description>
-
-https://facebook.com/1686432621633958/posts/3231371543806717
-
-[]
-</description><author></author><pubDate>Fri, 26 Aug 2022 15:18:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3231371543806717</guid></item><item><title>oogle Ad Manager DFP廣告系統平台 的個人或團隊
-
-請報價跟時</title><link>https://facebook.com/1686432621633958/posts/3237066476570557</link><description>廣告系統平台 的個人或團隊
-
-請報價跟時程,也可以約時間討論後報價
-
-https://facebook.com/1686432621633958/posts/3237066476570557
-
-[]
-</description><author></author><pubDate>Fri, 02 Sep 2022 16:19:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3237066476570557</guid></item><item><title>設優質的資安網站
-
-大資訊時代也是大駭客時代，所以在此時代的我們需要具備資安觀念</title><link>https://facebook.com/1686432621633958/posts/3235538120056726</link><description>時代，所以在此時代的我們需要具備資安觀念，如果您是老闆或資安人員，必須在被駭客入侵前該有足夠防備~
-如何用每個月2600台幣，打造一個與Google同級的資安網站！
-請看: https://makesafeweb.blogspot.com/
-全套: 含伺服器(Blogspot), 資料庫, 網頁設計, SEO, Google Analytics, Googl
-
-https://facebook.com/1686432621633958/posts/3235538120056726
-
-['https://m.facebook.com/photo/view_full_size/?fbid=155089703837102&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553142228581959312%3Amf_story_key.3235538120056726%3Atop_level_post_id.3235538120056726%3Atl_objid.3235538120056726%3Acontent_owner_id_new.100080082188501%3Acommerce_rank_obj.%7B%22viewer_id%22%3A0%2C%22target_id%22%3A5516438515081944%2C%22target_type%22%3A0%2C%22primary_position%22%3A17%2C%22secondary_position%22%3A-1%2C%22search_query%22%3A%22%22%2C%22search_sid%22%3A%22%22%2C%22session_id%22%3A3332086253016317952%2C%22typeahead_sid%22%3A%22%22%2C%22ranking_signature%22%3A3332086253016317952%2C%22original_ranking_signature%22%3Anull%2C%22commerce_channel%22%3A103%2C%22commerce_type%22%3A2%2C%22ectr%22%3A0%2C%22value%22%3A0%2C%22modularization_id%22%3Anull%2C%22original_position%22%3A-1%2C%22boosted_position%22%3A-1%2C%22original_value%22%3A0%2C%22model_scores%22%3A%5B%5D%2C%22upsell_candidate_ids%22%3A%5B%5D%2C%22upsell_type%22%3Anull%2C%22metadata%22%3A%5B%5D%2C%22ad_imp_delivery_data_binary%22%3Anull%2C%22ad_imp_delivery_data_array%22%3Anull%2C%22ad_opt_format%22%3Anull%2C%22qp_renderer_type%22%3Anull%2C%22top_unit_ranking_score%22%3Anull%2C%22is_budget_upsell%22%3Afalse%2C%22is_contextual_ads_skipped%22%3Afalse%2C%22is_pacer_applied%22%3Afalse%2C%22is_billboard_promotion_upsell%22%3Afalse%2C%22is_dynamic_module%22%3Afalse%2C%22category_id%22%3Anull%2C%22shop_id%22%3A-1%2C%22candidate_category_id_map%22%3Anull%2C%22candidate_score_map%22%3Anull%2C%22candidate_retrieval_source_map%22%3Anull%2C%22candidate_original_signature_map%22%3Anull%2C%22candidate_seller_id_map%22%3Anull%2C%22candidate_shop_id_map%22%3Anull%2C%22candidate_creation_time_map%22%3Anull%2C%22candidate_dense_features_map%22%3Anull%2C%22candidate_sparse_features_map%22%3Anull%2C%22candidate_vertical_metadata_map%22%3Anull%2C%22candidate_buyer_product_rt_imp_v2_map%22%3Anull%2C%22vertical%22%3Anull%2C%22vertical_metadata%22%3Anull%2C%22dense_features%22%3Anull%2C%22sparse_features%22%3Anull%2C%22collection_id%22%3Anull%2C%22theme_id%22%3Anull%2C%22buyer_product_rt_imp_v2%22%3A0%2C%22candidate_model_score_map%22%3Anull%2C%22client_time%22%3A0%2C%22last_rank_index%22%3A0%2C%22last_rank_time%22%3A0%2C%22level1title%22%3A%22%22%2C%22creation_time%22%3A0%2C%22seller_id%22%3A0%2C%22seller_rid%22%3A0%2C%22other_user_id%22%3A-1%2C%22time_since_li%22%3A-1%2C%22response_time%22%3A-1%2C%22message_count%22%3A0%2C%22buyer_session_count%22%3A0%2C%22seller_session_count%22%3A0%2C%22hour_of_day%22%3A-1%2C%22ad_finder_request_id%22%3Anull%2C%22fpt_id%22%3Anull%2C%22fpt_category_ids%22%3Anull%2C%22retrieval_source_name%22%3Anull%2C%22collections_to_products_map%22%3Anull%2C%22grouping_info%22%3Anull%2C%22should_use_excess_items%22%3Afalse%2C%22seen_item_ids%22%3Anull%2C%22lifestyle_image_id%22%3Anull%2C%22lifestyle_image_id_map%22%3Anull%2C%22leaf_fetching_params%22%3Anull%2C%22candidate_to_grouping_ids_map%22%3Anull%2C%22grouping_ids%22%3Anull%7D%3Apage_id.1686432621633958%3Asrc.22%3Aphoto_id.155089703837102%3Astory_location.6%3Astory_attachment_style.group_sell_product_item%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX-mmMj7R1ahnvwO%3Asty.805%3Aent_attachement_type.ForSaleItemAttachment%3Apage_insights.%7B%221686432621633958%22%3A%7B%22page_id%22%3A1686432621633958%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100080082188501%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1661943534%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B3235538120056726%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100080082188501%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Wed, 31 Aug 2022 18:58:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3235538120056726</guid></item><item><title>案件:
-1.身份需全職soho或工作室/公司 (兼職不可)
-2.有5年.net實</title><link>https://facebook.com/1686432621633958/posts/3230474963896375</link><description>公司 (兼職不可)
-2.有5年.net實際開發經驗
-3.有.net系統開發作品後台能demo
-4.能每周開線上進度會議
-有意願及符合資格請將
-1.聯繫方式(電話+line)及
-2..net實際開發作品網址
-email至 mkt@italy.com.tw
-感謝~
-
-https://facebook.com/1686432621633958/posts/3230474963896375
-
-[]
-</description><author></author><pubDate>Thu, 25 Aug 2022 08:50:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3230474963896375</guid></item><item><title></title><link>https://facebook.com/1686432621633958/posts/3233009026976302</link><description>
-
-https://facebook.com/1686432621633958/posts/3233009026976302
-
-[]
-</description><author></author><pubDate>Sun, 28 Aug 2022 14:34:32 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3233009026976302</guid></item><item><title>員提到無法發表文章的問題，所以這邊直接把自動管理社團的設定貼出來給大家參考，也可</title><link>https://facebook.com/1182255762153380/posts/1505270633185223</link><description>自動管理社團的設定貼出來給大家參考，也可以留言討論哪些合理那些不合理。
+</description><author></author><pubDate>Thu, 15 Sep 2022 23:20:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3247246378885900</guid></item><item><title>員提到無法發表文章的問題，所以這邊直接把自動管理社團的設定貼出來給大家參考，也可</title><link>https://facebook.com/1182255762153380/posts/1505270633185223</link><description>自動管理社團的設定貼出來給大家參考，也可以留言討論哪些合理那些不合理。
 
 https://facebook.com/1182255762153380/posts/1505270633185223
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1172639766601726&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=top_level_post_id.1505270633185223%3Acontent_owner_id_new.100015671404819%3Apage_id.1182255762153380%3Aphoto_id.1172639766601726%3Astory_location.6%3Astory_attachment_style.photo%3Aott.AX8XYTzx0MqyZkID%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221182255762153380%22%3A%7B%22page_id%22%3A1182255762153380%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100015671404819%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1635866466%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B1505270633185223%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100015671404819%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Tue, 02 Nov 2021 23:21:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1505270633185223</guid></item><item><title>code無法匯入標頭檔
+['https://m.facebook.com/photo/view_full_size/?fbid=1172639766601726&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY98283ZFfIL6jnf2njrKEbtTGdJ8taGnAS0WTE5lvRmDnykNygv7m7xslkkCNhwxNqmOA7-C48o1adCSBY4cmgypbLABnAFwcxtuoRpWD4iOxDyQn0KcCtSVsMGHL7BCbVxPRucjh9lEhmjh2p3WqDvqwr_zgCUy3f-EF9rl-aQg_RtacAZ2RIz7El-\\-\\QkV2dGX7suV54vDLQuOyOBse-SArfvUTkHci-7iIk6AKSydOvBM6oVjb_SQBYgGkeEuF8pP0Z0Bt22OY0rhjURiS3LCYJs1p9Mn9GF6o5L8WUXVAReG3AG9Et7FAfkGwYjq9FNl_ERR1h_ZcKKqY_mfcH4u8oSpfO1OAxVbUgBJ1lIgiVvh6qk_u53MHv5yVMPOn3gJUdcihsYjpG7GSynZswVY2vMp0xwGui3rCA7u_Ll5bCvkiSpiuX_N6nBG5I0shBAi3I9MX0KjbBlVdmrEuF7uA0fuEdhm3Lr6iz_hKyNSl4zC8YLSi43a7iRzxzHU7cJb2WUhwQlLhQis_Gb1DwTpzIdEAZAaeGFfuuk5ghjwLfxTqbMTOMVQ5ZvIui_Jg-6_cJL28syQmLrSBcrxHzXv9E9Tm0GC4-sBh2bDUe3fCCwHm9HhY6CJGqJt4LjA9ELdq0UPPMz-e2RNoXmPEdaLRHdTD235l9pk05wlFF-o4VgKX_IdZxVhk5avkKuXl6erka27gu4Pg_GZCBRWDfTYGpQ-ovPX7M_L2R99FdF8uCeCOtd7o69AKY3FqRB1TmXgny3Fs7PxSwIL-Kx-NoW2L605Gi6IZDaWrNVEpZEyCnhosy-bxesHjka5I9Y71xEhGat20jR0sdolZ6Uk6gfCtgTYSh1WzDPcamtwq6ZHPjWoO1T0vusD_QDq9BR3wwR9i2qO3tHnMHpAr9H2jViGzl_QS4gHN9Hvsw&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Tue, 02 Nov 2021 23:21:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1505270633185223</guid></item><item><title>Cryptovoxels元宇宙基礎技術學習
+在台北松菸園區(近國父紀念館)
+歡迎</title><link>https://facebook.com/1182255762153380/posts/1731454597233491</link><description>習
+在台北松菸園區(近國父紀念館)
+歡迎推薦給想要進入3D元宇宙建置的朋友參加!
+指導｜經濟部 主辦｜經濟部工業局 執行｜台灣設計研究院
+https://www.accupass.com/event/2209070628471958494673?fbclid=IwAR1kmlDMMvtgSnybE3AW5eFUop43rqkTAR9DK96jIJ41c7K5
+
+https://facebook.com/1182255762153380/posts/1731454597233491
+
+[]
+</description><author></author><pubDate>Mon, 26 Sep 2022 13:21:16 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1731454597233491</guid></item><item><title>code無法匯入標頭檔
 這個問題該怎麼解決呢？</title><link>https://facebook.com/1182255762153380/posts/1725903441121940</link><description>決呢？
 
 https://facebook.com/1182255762153380/posts/1725903441121940
 
-['https://m.facebook.com/photo/view_full_size/?fbid=3285225561748373&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553140716923290722%3Amf_story_key.1725903441121940%3Atop_level_post_id.1725903441121940%3Atl_objid.1725903441121940%3Acontent_owner_id_new.100007828841755%3Apage_id.1182255762153380%3Asrc.22%3Aphoto_id.3285225561748373%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX-c44B8yecBHNuk%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221182255762153380%22%3A%7B%22page_id%22%3A1182255762153380%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100007828841755%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1663582110%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B1725903441121940%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100007828841755%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=3285225561748373&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8bICcSPYwOU2O8TD83lyNGubIaZBPH1H4avVeLWiDFH7Y9LSW3IHxg6XshB7qUBJeHyGq5VcUq-xoOLVIFnGap8rGzT4nAJwYEufEE4mup1LqwtBBBp5uNQLfAZQHzEXKZf7Ee3mlScJmVn2YLsehAlNnQul5xE_L0KGKOG5yR7-dtRZU7hjn88ukeeXOnCL10Lb5vZ8_eokPlVYa9nNbkRmd2IpjgQre1t1ma2UsJdW9YGaBssTSoXa3YOlgG1WmqMVvs9S4wbNJbs3RUUxVa_waKGQvSpQvurYwuYoK4MYmgkxBNybFlScCzU5i4uGH4xtGB1At8AmEaDPFLMMNHMxwZq69gw8SWQl0BXGSWHBPDIHhGaH0dWqyiLiu8ebj7B2VYSTPnvyP86lyrRtZ7Lw2BzoKJCZE5-3uF1WTpm4VsprT-MYb9-CVP8QI-IucOwEdS-flyRZiOveYXirRqQcP9XXAZQfMkSisbQmmAnAQhkvOBQbV_4wN4u0tupSveXEZj_VOSXVxugBkK6gX1YC-9zo5MZ3vFTgW0EFMJXp_12Jo0Z3GOE3fdKZW7uhofhXBB7UYtpm51oFxKE2NSF-C-LLyxVlCC1ac_zvM3ELu0aZA2boxMldvGJmxByopi1fmrtPCsvPILHbJMWO0DGEjNeAJP39rMiSTpo0cnUKWeyk5cWdzCsYdGSVw3OOoCkfZBE9XEVRzhMHWUloFE_zbtBDjWZ7yzMK5tnz36WZnCsDrgAmZ9EN9Jia0Hoc7ctgnjb1KLakw2BpgT8rtB9hQaiYE7X6Hu5AW4LSBLpptoimFJKz7atoBahOUeol9V4kO3G8dpvsNvFg1_nV9Y7Z95ZGE9V0cS05KM11W8MRnXUA-fJdsl7BB5m-2UzeDdYu4P-dJ2vVrhfRSuLKMolmUTniWDzIec5D8U5LOo6tqytLaRg310WFOPKp50TLGyTFD5jwyCMEfSM4YGi6ZD-YSN566oe-5smf_4x-\\-\\mfwFoJX8TFSoXomGc4qbEbujl8aF2ABj-gEXoTAzwk5A2NrWWc5d2ozqPaAq3YatSPLuzzl2ZF-JLhcObfQ9102Au67idYKMz4R0nbZUpqwQCvR7Dqn584RvoR3c-mPI&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 19 Sep 2022 18:08:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1725903441121940</guid></item><item><title>AI行為樹入門開發【UE4C++編程】
 Link:https://global.</title><link>https://facebook.com/1182255762153380/posts/1725809021131382</link><description>Link:https://global.yiihuu.com/a_11330.html?TG=4742600_11330
 使用AI行為樹和黑板來製作將製作2個遊戲AI開發案列，並且為大家提供基礎的AI實現思路，列如移動，攻擊，側走，躲避和大招。
@@ -1009,7 +995,7 @@ Link:https://global.</title><link>https://facebook.com/1182255762153380/posts/17
 
 https://facebook.com/1182255762153380/posts/1725809021131382
 
-['https://scontent.ftpe3-1.fna.fbcdn.net/v/t15.5256-10/307629208_190830160063431_8719948184328780738_n.jpg?stp=cp0_dst-jpg_e15_p720x720_q65&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=ad6a45&amp;_nc_ohc=xLC_X6iKap4AX9eXTmE&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT_wIPrcMt1hGJOIquozFsQHpLqPxfPIe-HVUhWbnRpP-w&amp;oe=63342EB0', 'https://m.facebook.com/photo/view_full_size/?fbid=397529989221783&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=397530082555107&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+['https://scontent.ftpe3-1.fna.fbcdn.net/v/t15.5256-10/307629208_190830160063431_8719948184328780738_n.jpg?stp=cp0_dst-jpg_e15_p720x720_q65&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=ad6a45&amp;_nc_ohc=tyMfKzJhD_IAX8j7S-_&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT_LgjDMewutK6Z5pRR9Y3_wTYvM7iCOjH2lgUVf6MIqQg&amp;oe=633A1D70', 'https://m.facebook.com/photo/view_full_size/?fbid=397529989221783&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=397530082555107&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 19 Sep 2022 15:04:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1725809021131382</guid></item><item><title>Back to Top Button
 請教一下黃框裡面為啥沒有顯示箭頭?
 ---</title><link>https://facebook.com/1182255762153380/posts/1721585431553741</link><description>教一下黃框裡面為啥沒有顯示箭頭?
@@ -1021,7 +1007,7 @@ https://www.youtube.com/watch?v=96c_JvdCHuY
 
 https://facebook.com/1182255762153380/posts/1721585431553741
 
-['https://m.facebook.com/photo/view_full_size/?fbid=645145000362404&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553140716865419927%3Amf_story_key.1721585431553741%3Atop_level_post_id.1721585431553741%3Atl_objid.1721585431553741%3Acontent_owner_id_new.100046007288690%3Apage_id.1182255762153380%3Asrc.22%3Aphoto_id.645145000362404%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX-TZP9UFYfKaXWv%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221182255762153380%22%3A%7B%22page_id%22%3A1182255762153380%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100046007288690%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1663082546%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B1721585431553741%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100046007288690%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=645145000362404&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-52u-dOYHz9r9GhY3PNINFvBgu85T2_Br5mWUHQJjvLMqgNqYa2tzX3VDt0dBj5H5EJfUW8L33WA6AHOmmUjFJGtIJYHRkL5yQW07lOWp-gPfKvz4r3sDyhcycOkXHC-SQVigp3nqHfyW5N1HNnqymw7F27cRZicUsw2aA0okMg97iXqeoIwkeuAJHwnjguO_Vn_gq-ZHjz8j7CIJ2NszfJRqiQ5O-ujDRZJOXEUtw-wdSVgHT56_iOvvpaojUmJiYuNhDPIjOzb59_xXd7fQGvB6Rkh-wZOOVX6ATM4e4Z-Usii-emQg9_3ceMl4EJGtpVhRwqfi2tmdgfwcszZXacAVTNq6Xqt4vrLfz7aAvBnkyC4vVUgwRyjdVb2nJ1vS6eMhlyguAc9D2wO3znaPv2_Yuc1pv_vcwKJaLj0uSujBJ-pF6o7Z0EpOdphiPofSIHyMTFjBYfTMIdLHYIwr_dYvMdel6pI8lE0SAhWP6G2MKl4XuaC_kQsqTwt6G5SG_AJuBL8IooBk-4DAI3UK_2oWyLMtaeDR6OWVR8xzwlK4EbSoAP6RxXHgOyGtxevumUyRL9YQHwuAbQhWmlUFxpQAlqPnwWRUpnYmDfAPv_BoV3Y2YqZ1E3nRiKY8otyUsKMqSs0Ol-VQrrLZt2mj0CqcORZVdEpbVZVyB-DQBVVdG6MKneEuOf-az0_-heT729vQlJhmyhq2ROTNOp_KSOUy1Ej-lB72tPSqzFjObyO1iU_VA05k0Etkz-J3goa_HNUNbU1yDwdwDiURPy0xqpC-rUcwIVvh74x41azFGKo0OLNGmwPlLqiO2S6eN0lNLdRBmbYu1ul5rYzb9uHigl9ocIOVRdBvS9SuDCjLYgpzz6qoDsaGJtYBYfbUE4lxn4xIjc1nt_8K0wCU6ROYq3TzrgqR1riNUqfccELOfmijTHlDPnAwMAnoZGN559qCSZNs3YUiJLjFChLE0um0Dw0LpYh4WQnHh30kKemLuD456lyGc20FsGFrLxYVvNbWHdAbNFbO0TF3Ngem4GOPCu50uynNsc2wUMTmFUtYsRzgnymq70vroX0yn8YVkp99i-w8caNpNhPBz-rJbhVf0MItubvXq9x6LZ6cE4w&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Tue, 13 Sep 2022 23:22:26 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1721585431553741</guid></item><item><title>助課程, 有勞保者學費只需1,512, 符合特定條件者學費全免.
 C#程式與VR</title><link>https://facebook.com/1182255762153380/posts/1722053408173610</link><description>符合特定條件者學費全免.
 C#程式與VR元宇宙虛擬實境應用班
@@ -1042,7 +1028,7 @@ https://facebook.com/1182255762153380/posts/1722053408173610
 
 https://facebook.com/1182255762153380/posts/1722021961510088
 
-['https://m.facebook.com/photo/view_full_size/?fbid=2503076939834098&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553140716909444128%3Amf_story_key.1722021961510088%3Atop_level_post_id.1722021961510088%3Atl_objid.1722021961510088%3Acontent_owner_id_new.100003954506762%3Apage_id.1182255762153380%3Asrc.22%3Aphoto_id.2503076939834098%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX9CZQdpBUvnG2ik%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221182255762153380%22%3A%7B%22page_id%22%3A1182255762153380%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100003954506762%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1663141195%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B1722021961510088%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100003954506762%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=2503076939834098&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9GNDH7Kb24fzu6493O3ppIvFnINatJ6WfBdOeWW6E18AsSZ29cUcNSA2J0_TrbHNkHv8ZOQ3Nsu2bCKpxxSk_H7S3lTbfZ0tyechJPILbMkAik5P-yjjMEWPRdY9d9o-GmtQWQtyBWXMc1hKEAvqa0WPl8pQ3P_iAZvZLDrZSc100BXsI62M_jnq4GIzvvdxjEq-fkAn3Xp2yyQg-1JyjPHeVBzscjkVceRqsvT5tljqsSTrj7r5kV8K_tf8ooOUc_b3mfhWj8yHyFxRYm1QFZAX8eKH2PU18a1UVkLkaEsYuG1zszDwdIi1_iSIazrpKQRYACCLWwqkFnG8Qy3CQaE6MasPQA9OofVCSFfuk5q3ykzMHT_0z06GeLJfPiiySp4fPSBkFRcTO9srJl3n1THw7zIHB6mECy6DVrJtgeS9WnUgQ1mpWz8CuD_9tFnXSDuDn0pG3UBWg9AYRr6ccPn_v2HNAgFQ9aI2hG3IGAK0LwXvsLbCK9y7JDj7tk1OUm9_09RKwaavjskT24wdc7TPoldhXrVKq8XxWhQFo1lf0DUlQzynO31BEVnXPydsJ78kEPoq-8C5XhJBbiRST3vQsv_d5odEtjf8ebDZNfqvd6zhuXr1H_wKnLsnOnEv4WXV4XAbzgI8rnYwZwtcFBRGgRB9wABBhDogh6SXEs7HD2qAjTba7S6cITm-QDnqWoLSiHv6uIEkShZVwXhYQRnt7rL7peDulc2AfQcI5pE9Np7qqNrvGQ-6MFMeFtBJmtnANw9KAUIJfmgqmtrcXQaYi9CdFTHMC5JYBbkE6hathkYaTG6aFA_eKJefoXH_Bsd7SZC3M2QyzTv5PH4xhTtixFuvA8c3CyPceuXHf_NDVrxygEvkL7eXVYihK32jahN8FpDyJz_EssFOOf5PbvSrDJHHBQkrzsjBkpkg_LMK5PxsNKI12fGyrqnJaULwrXUei9p1V8yDaNber17hJcJHdiVCbVaNN6SAHOqg3B-8UtuVd0Kya4o5lla64YLyhgtjPGxL4xHXXLAmyV2gvWXcT9Vuers4j-zRwj-F4C0RsWSJNNoUVWztam5nJqfXW0XCFQsfKuPjWWHnT2PN_6jJyR5xV6dcQr2eNTRY8&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Wed, 14 Sep 2022 15:39:55 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1722021961510088</guid></item><item><title>code最近都會這樣
 不管是在py/c/c++的環境下都會出現
 輸入完後按下en</title><link>https://facebook.com/1182255762153380/posts/1718593498519601</link><description>c++的環境下都會出現
@@ -1061,7 +1047,7 @@ https://girlwebdeveloper2.blogspot.com/2021/12/how-to-add-contents-to-blogger.ht
 
 https://facebook.com/1182255762153380/posts/1713472869031664
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1449305788877502&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553140716792111497%3Amf_story_key.1713472869031664%3Atop_level_post_id.1713472869031664%3Atl_objid.1713472869031664%3Acontent_owner_id_new.100013942840750%3Apage_id.1182255762153380%3Asrc.22%3Aphoto_id.1449305788877502%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX_HLrt61t0FzWld%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221182255762153380%22%3A%7B%22page_id%22%3A1182255762153380%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100013942840750%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1662106756%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B1713472869031664%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100013942840750%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=1449305788877502&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-8DY5HwWEVWwhWVMlG0NRK1E0ji-8UDqtA8IgkbahOYTCbS9KfnO2w3p3QwXAoLeeX_T7OguRv96EFAKByaID4A9vA0A_9cWiTxpJt7x3rKl-uOFpTpZMlS7RvUZYepVtbY5LeeFTAG6jjgj0ISkWbZNApagRrN0nVOkoMAbuS8EftltCX_GLTvf9sxtBz-4Hvace4Evg7OIuVPydTK_wjk4rm97fcoRYE54i1NkbNcjHehUO89wTFEackPCjDsKpPY0wLa0V9GcRM155MzjH8gOYkBRAulk6xokmKf84Q83Lrk5-2bw8SS5spU4FFFr6w0bt7Uch0cmgM6ZrUNLP3z3sNB9YF67wVYHlhHYKdAKeNSp0I8SvfmDYcsAXAw7kxUEdY3W_FHnwvRGBsF2yXOqhpJ33-fJ0ryZ-oYptra_zDVhYM3Wzd9Tdfs2ZyMCsJAhxKP0nmHaBwjWK_rK_7zo9lch2EDJF6eMH0rzoD5FX_Ps1R8QMo4liK7yHKR9pLHBKbepPFZJ7ojC_2uwQBWxN9CxbjwATQrwc3yRitfnlnfT1LxDTFhZjAulMzxJyqR-\\-\\5cOt_3NR_Eob7VDZrpCA7uHNhJ37cr5MIeqTtsn7Zc7ib1JocEfYvJQ9yJL93cC5khhYIxZDYgU6x7tlCVwm6tXfqlsUTGsK8WrgJRhhdR84bH1Ho3n7BOkUKy4LQdZUg1htEmxpYdUh4EbQtF6mp4D0ihKLVyE1C6rjIcLuszc83NQD7oOR11JHLkF6xLBWb3vC3wHSeQ3EPA8hicIY29tlLhjwUPwDlxSdDcDfkbe0fRq4LQWceCqsR7fOWKYlYs-Vxjkb_OdxEZaALSeOyx6bFRY5YbQ3mqZ8RwlMkWdVdqvT2jZCdPtETv6BAftHmWuwJ5ySsZJmUFLI01N-NLl_fYjNhV7YIqAG6w9hGdJg9WGambISSv7ZVbXKXYvVD5Rss0f7ddxUo4U-LcBWJCWD_VYyup3Qq3Mkk4DgjJT4KPin8VpaCSJH4H5b2v9lN_ORb_DuVNYI5lfoZKb4AtR-4YxtiP9D5RJraouOzXo3xsEnFw__5iiIe-wV_Kmz_pq816rEELhvBs8wHNevvMRJOpYD3YZl6RkU&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Fri, 02 Sep 2022 16:19:16 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1713472869031664</guid></item><item><title>
 CodingBar
 8月29日上午3:58 ·
@@ -1109,7 +1095,7 @@ https://facebook.com/1182255762153380/posts/1705521903160094
 
 https://facebook.com/1182255762153380/posts/1704244156621202
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1049819922343443&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553140716769185054%3Amf_story_key.1704244156621202%3Atop_level_post_id.1704244156621202%3Atl_objid.1704244156621202%3Acontent_owner_id_new.100019463356953%3Apage_id.1182255762153380%3Asrc.22%3Aphoto_id.1049819922343443%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX8Sp3lHDix2am1p%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221182255762153380%22%3A%7B%22page_id%22%3A1182255762153380%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100019463356953%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1660998285%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B1704244156621202%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100019463356953%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=1049819922343443&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9OHu0n8XHiDOhJ1NU6G9EeD37YjHv3SPI5243kEvHoYfF6NSQNDtDIIsv4PNaYNV9dmakbOB05dEpWbjGIzYzPg4zzJtU2tFSbbccp2tcYTb9g6Q-x_q_ZUlCXJnGsP9U7pYz6K3ZVGfmYiG7R_z4yJqO4Ia8eELERKxhGYNg4yBAdjh7Vt6gtkkfkAybOb8k_guvrqMT0Y7ZrSji_pYRlnS3Kc9Cu3TJI6mzK-uMQfabEHnIl_zYtO48d8bbbvN56UuJ8mYNB6BhcYUjwk5-2NkBTN8bi2fRQkocU_jcGbbwNj4A0rbf6knF9aDp1-VSaM5AcVs_EZPNISlMFEDnosjywAlNQf6UShWyhGzxkRBfXwI_MZTTXz7YfavMC_M_Y8aQsHX8bKpsHzEbAb9q3Vt8xZUfdUYc-pIf0_a48taTd-hiWcxVyhPaeRp-oc1GOHL5YMt_r_x-AOzrrddUiZp90jOJxLdHeUaP4tsPzIgkaCG0VofPrV16ynbB_tmVnEwR3SksOo6aOtaButXJpMLV7QQfSuv7gi5XL03ajgc-cYPW-9YlvTtq9EqM3SKlI03-7ka4PvQTJHzMIze_p3nK2Q0RTm22mr65CKaCouyOLhSbE8iR2JvvOZqxYvEA7RsYX-ratqwnTc4lvuaOGqGSY_SDHFTQGd6702HXDyAAoStBnQX1is-HCeZ4TZVs58wOmPZ0U5VjX0qhhAGGob-iAfm_VK8JZLmoVg9fJrQpYYpiFu-oJ2rQlUhLD2pKTL9L7pW0x_yK9DUOrGF_lexL3OJK7qF4PwXFBoNEX4KFy61oKnDkxGVu0YYAH2LvCm-nYtiqoRdTSbpNdvRcKTVZRFu2lp1xzadDI23O4u58NNCjFZf_Cc_z_DBhOLrG1KPsvGTPLZJQT_XP6naz-hUpWF7aJDpBZ9eSioUk1ro1FKWR3srEfCeknsAN0NIZiEzXll2yQNHaSI7Urzfr_erxLPFmpgIa3MEKzLe-wtRWBh-11QYDjL2tJBte3SfGgN4CS1hJ9G6aLgdSD5Yuqm2l0dKD3JLsqkX-ny64ex3kUwQ_5E9oom39lg3bggtL5lzccuLGUC_OY0np6VlYD45DKnGoqb-O5kSts4-o&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Sat, 20 Aug 2022 20:24:45 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1704244156621202</guid></item><item><title> CodingBar
 致力於推廣程式 / 科技教育💻
 我們製作了一支影片，想告訴</title><link>https://facebook.com/1182255762153380/posts/1702015546844063</link><description> 科技教育💻
@@ -1146,7 +1132,7 @@ https://facebook.com/1182255762153380/posts/1700826076963010
 
 https://facebook.com/1182255762153380/posts/1700641510314800
 
-['https://m.facebook.com/photo/view_full_size/?fbid=4896841293749291&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553140716850478495%3Amf_story_key.1700641510314800%3Atop_level_post_id.1700641510314800%3Atl_objid.1700641510314800%3Acontent_owner_id_new.100002704069788%3Apage_id.1182255762153380%3Asrc.22%3Aphoto_id.4896841293749291%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX83kRvrusDtJ0nf%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221182255762153380%22%3A%7B%22page_id%22%3A1182255762153380%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100002704069788%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1660545176%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B1700641510314800%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100002704069788%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=4896841293749291&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9BfmkGFSd9KDnMFXCnR_bTE8Pzye9fX8ZBNfU6PzoPXIJeZCUc53TWR2S9fZ_7yy2ONMRt9TZamVfCpV9UsV_0jcw_7W1sTmbEV_BDSd1P8zxUKq9TX9aWORWYxIyulYhq72s3NlxeBZ9d1Y6Ua8r0moIpI5VfOjj4zBJ93F42tO-Dd82m9mSDEThuiIRclC7NxvM46vwrJxfMBGnSgfGwx95MehXwU-VdQjz_4f_z7zBhfLvl46b3c6RM3DiyVlOW4ZF5AUwdCeH1hhr-Z6PyV_wkQBCLY5oiiHJubVfXMhdgLYamdZXcgn7hEmDFUAC6B8zEfGiWno79t2IWRn5bbCe8bli2px-QEM5uO8qh8tm8sIbqGNF-S2PlrqjrX69zWMUCj42-nK8Hmwm4JvHbo6xdq7JMLWpunFlOuW3yWzADYNtAMaUnJxB5RhA4OlfHWVFLEoqBpepVUBpAjbNEqVJPbEOxk8ieR6Kqv466yGFrqE3omkkPHzwglSSxgM7nr7a0QTzpB5_Jg68De8UpSPKgGZvqK2XOfYCs0tp9t2NRrDc4Xx23g2yDZ8CFRv-QsxfWu_NilNa6yzmHecOKKkYZF5ntqkUrZnsrVtzgMBGTrvODgUiNLuKrD_qIAITFHOETeZfAVBfQNsab63XAESVN7KmL5bMlUARmlkcFuDBr69Cqa7NUbYRQQ-Evz-Mv_0Lem9XPrZkvzGTVxmpdR8NZqjgjK4vagi5jnabKQ0CqfGvfHAb2TUd7mlUy6BGksUJEu-5w2IS04JX-_xUcq7ZeBldLx9AtmYX1dZJUSXCimFva3KQHV2ihF0gh1sS-ySPVzqGg0ajlOOKzFZWCwPRSbARYrY49UbXulX0NGR7Ls1pbEyuQCNBlgS-9yZObSkIS3vYecHc-\\-\\8Ip6H54T_5nqj6Bs9Trp3FH7J6UbrxQbkEeKQ7lw3t7F7Lfpx9OHOV0pv8-D5WFkKJtzHpEznqdIWspBbeau8uMV3O-Ds_rvy1rrTS1qbkVALq20wDLZSq347BYLjaisF1aPTzgVHTd5zwz6eJU4watGcIkwUWUML3POa2QMVaqXvHvQ4JXjk3wwHWnMjdPDnLYS_pZ8xiUcfeKr8w0zitc8yQ&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 15 Aug 2022 14:32:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1700641510314800</guid></item><item><title>可能員會混淆這些名詞
 這邊做了一隻大概介紹差別的影片大綱
 如有不足的地方歡迎大家</title><link>https://facebook.com/1182255762153380/posts/1697734397272178</link><description>紹差別的影片大綱
@@ -1186,11 +1172,4 @@ https://facebook.com/1182255762153380/posts/1695299910848960
 https://facebook.com/1182255762153380/posts/1695501337495484
 
 []
-</description><author></author><pubDate>Mon, 08 Aug 2022 09:30:44 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1695501337495484</guid></item><item><title>位轉型補助☁️
-常常看到雲端運算、AI人工智慧、機器學習等新穎的數位技術，但不知</title><link>https://facebook.com/1182255762153380/posts/1692618284450456</link><description>工智慧、機器學習等新穎的數位技術，但不知道該如何運用?數位轉型是現在政府、各大企業正積極推動的目標，許多公司的當務之急便是數位轉型，您，跟上了嗎❓
-當數位轉型目的是想要營收成長，那麼要做的事情便不只是資料 e 化、網路協作而已，最重要的一步就是「上雲☁️更多」，使用雲端工具能夠大大提升團隊生產力，累積龐大的資料後透過管理平台與分析工具，數據化和雲端化能夠讓各
-
-https://facebook.com/1182255762153380/posts/1692618284450456
-
-['https://m.facebook.com/photo/view_full_size/?fbid=1040748146583954&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=qid.-5553140716723670494%3Amf_story_key.1692618284450456%3Atop_level_post_id.1692618284450456%3Atl_objid.1692618284450456%3Acontent_owner_id_new.100019463356953%3Apage_id.1182255762153380%3Asrc.22%3Aphoto_id.1040748146583954%3Astory_location.6%3Astory_attachment_style.photo%3Afilter.GroupStoriesByActivityEntQuery%3Aott.AX-ykETjozKzp8Nq%3Asty.308%3Aent_attachement_type.MediaAttachment%3Apage_insights.%7B%221182255762153380%22%3A%7B%22page_id%22%3A1182255762153380%2C%22page_id_type%22%3A%22group%22%2C%22actor_id%22%3A100019463356953%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntGroupMallPostCreationStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A657%2C%22publish_time%22%3A1659565138%2C%22story_name%22%3A%22EntGroupMallPostCreationStory%22%2C%22story_fbid%22%3A%5B1692618284450456%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A6%7D%7D%3Aactrs.100019463356953%3Atds_flgs.3%3Aftmd_400706.111111l&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 04 Aug 2022 06:18:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1692618284450456</guid></item></channel></rss>
+</description><author></author><pubDate>Mon, 08 Aug 2022 09:30:44 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1695501337495484</guid></item></channel></rss>
