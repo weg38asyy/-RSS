@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Fri, 21 Oct 2022 01:59:27 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>個版每天數十個廣告機器人試圖進版發垃圾文
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>facebook</title><link>facebook.com</link><description>facebook feed for my following list</description><language>ar-SA</language><lastBuildDate>Sat, 22 Oct 2022 09:20:59 GMT</lastBuildDate><generator>rfeed v1.0.0</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>個版每天數十個廣告機器人試圖進版發垃圾文
 
 所以如果你是正常人類，千萬不要在進版</title><link>https://facebook.com/616369245163622/posts/2638844239582769</link><description>
 
@@ -13,7 +13,56 @@
 https://facebook.com/616369245163622/posts/2638844239582769
 
 []
-</description><author></author><pubDate>Thu, 07 Apr 2022 17:43:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2638844239582769</guid></item><item><title>老闆／客戶想用那個就學那個
+</description><author></author><pubDate>Thu, 07 Apr 2022 17:43:56 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2638844239582769</guid></item><item><title>表最終還是要工程師寫，用戶自己用tools drags and drop沒太大幫</title><link>https://facebook.com/616369245163622/posts/2814182515382273</link><description>s drags and drop沒太大幫助
+
+我給一個舉例好了：
+
+現在有一家學校，想找出潛在問題家庭：
+
+1 他有&gt;2個小孩在學校讀書
+2 他所有小孩在同年級的排名都是bottom 25%的
+
+有94.87%的用戶：
+A) 找工程師下tickets
+B) 把全校成績一個一個年級先print出來，然後excel排名，然後filter bottom 25%學生
+
+https://facebook.com/616369245163622/posts/2814182515382273
+
+[]
+</description><author></author><pubDate>Fri, 21 Oct 2022 21:38:49 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2814182515382273</guid></item><item><title>Python、Django、基礎前端的工程師
+
+最近主管請我DEMO後端寫一次，</title><link>https://facebook.com/616369245163622/posts/2814073345393190</link><description>程師
+
+最近主管請我DEMO後端寫一次，就能讓使用者在網頁前端做查詢DB的解決方案，讓不會SQL的前端使用者能自己做查詢資料庫，後端也不用為了查詢寫客製化API
+
+請問Python有什麼套件是比較適合處理這種情境?
+我想到的關鍵字可能是BI、不熟的GraphQL、圖表
+感謝大家
+
+https://facebook.com/616369245163622/posts/2814073345393190
+
+[]
+</description><author></author><pubDate>Fri, 21 Oct 2022 19:07:45 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2814073345393190</guid></item><item><title>前正在學習MyBatis
+當中有註解跟XML兩種寫法各有推崇者
+想請教各位大大都</title><link>https://facebook.com/616369245163622/posts/2813046128829245</link><description>ML兩種寫法各有推崇者
+想請教各位大大都是使用那種寫法
+小弟目前是兩種都有學習
+
+https://facebook.com/616369245163622/posts/2813046128829245
+
+[]
+</description><author></author><pubDate>Thu, 20 Oct 2022 15:51:15 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2813046128829245</guid></item><item><title>EXPLORE. DREAM. DISCOVER</title><link>https://facebook.com/616369245163622/posts/2813129578820900</link><description>OVER
+
+https://facebook.com/616369245163622/posts/2813129578820900
+
+[]
+</description><author></author><pubDate>Thu, 20 Oct 2022 18:06:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2813129578820900</guid></item><item><title>EWS.COM
+Microsoft Confirms Server Miscon</title><link>https://facebook.com/616369245163622/posts/2814210658712792</link><description>nfirms Server Misconfiguration Led to 65,000+ Companies' Data Leak
+
+https://facebook.com/616369245163622/posts/2814210658712792
+
+[]
+</description><author></author><pubDate>Fri, 21 Oct 2022 22:16:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2814210658712792</guid></item><item><title>老闆／客戶想用那個就學那個
 
 如果是求長期知識：
 一定是postgresql！！</title><link>https://facebook.com/616369245163622/posts/2807624779371380</link><description>期知識：
@@ -29,22 +78,13 @@ Window functions和CTE就拖了１０年，要到8.0才支援
 
 https://facebook.com/616369245163622/posts/2807624779371380
 
-['https://m.facebook.com/photo/view_full_size/?fbid=10159827584983955&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_kZYMdzj3KBoeWdZzMXfesM7XPO3cVgc3pHftoBH85idzhqpBkjh_pDcMb4gX7tlSPwfmcHngsCEDL4IAuOHSI6nE0neQVC7bAqvfVTXcRy1o0h5G7vabkhcwnA-gXAyyOyHPANi7bUKRDuufzhPKy1wdrr9DQ82LQwWoJ-gftIANP90zt2icxyZLmfPerzHzmNFBPxTbN1FBWFE3zHvDbvrmRS15SYzfUNL-ayfEYC-FCWtQVCGDwCN9HeSZ8HGN4VncGByRZ316yDJPCDq7VFC2qXfFstZ2nPsZ3yeMaUBH6GKG5_8IqAT3Dwf_c_6Fu5NXcerMGShN98Me_DA7r2kfmfQJ4XaiZjU8dN4IRziPOwiszUnTFxMP-BTpTCEPZCkWxCrD33P6QkR-fQ7_YO1VesGMDHAgqturBIcBL2c6PenigKB6XinWtitv244HYyL9kQq_JwZgaAtLqaJPullaYt8v6kU5APdxEQ9i5aV3RyfrKf1Sbz-39tJ0J9nOfHMp5cwDisylwlsyomneq_g77rnOz9Bz9zi1L6BnWCJYiDw9kkJBL0YGu9NXpvOh15gc7n4HewWNuzB4BhZT0daTBKnLxIYKaRyCowcx6iTDXjzKqniG8cRnGl0elJRt4JENq1ns0AzW5qwQ1cA9gsRYpWWMRchDErZSGwd6xHjvPaN_r2f0qJsL7b41NXk2Njsw1ViNLM_GOH8OmJ8aUl4EoxgeyBBfflT8biYcVsCyM6RbR9x6JoP3xRjNYeQxh6-SIIfywj5QQ-XbaoppWTc4cf7TMvCcQDcAtmzfh_x66Kjte-4cTOWKdXyJpOBLR-Nk9LV9TDGZIfzpjXHxMuXzUNQC5koH2myVd0AeFxd2TEokWRprV3UV4yOMtCqwiYliL_-NKglhpuTgrc2xNExWakQBKpTydUK9CQvgEHh66Jz-gN3DqztDU1fEEzKLQyVdnmwBzNJJUxVR5iKgbXJyaTfxuHszeL2hlzzqbdowt1mKFqNXLNSLJA2aEsp2p4srcsVcyaynWDrRns9KpLnOyI9AAuopoOHG5gdjJcDXtUckNW6ukKMgreHGihlmADz7DJksCFojbaRxF&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Fri, 14 Oct 2022 23:55:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2807624779371380</guid></item><item><title>EXPLORE. DREAM. DISCOVER</title><link>https://facebook.com/616369245163622/posts/2813129578820900</link><description>OVER
+['https://m.facebook.com/photo/view_full_size/?fbid=10159827584983955&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9P8tXI5S5ZfsE_Z6TF52LrzaO3dfFycZ1efZv8Hupq9PjmfYlQlvYI20_uI4MLRmCcZ4qsNkjZhq5x3V-C7ZZ5sk6nRQjL6mVTrqvX8_l1oDSTdAKaAu8fxdLiG-IgD3skRqtV-jpmXRUdxQXya5BFWGdwxd-O0AKSeA8R0FDusS45ztHgUTTro355EqRdbjus2bEgWSi4M6viAD7Yt9GPLiwd4aS_6I_gbH_H-zMtDaxP1VMrFqM_8qDI1uzxkxcNvMcLCwmTo1aQVvfz8_QIQDBzUZ92Ha6QAGtkxt6Nk1IWinAH0PXTBPTsCHJeTtpbU55XLNjw7GH4gTvsnjjxDBXhemHjv8WDJalNOPWvr6S0GBdOfhsdLxNmL5_-U5ERTKljJ4mfMPEw5pWiOhUK6YXoRXw3HrQDr6-3K_3lkJPRrElmMCSZOvfYU2AZ0885y3ZT1SMPPsnxxmLvdRXV_0BgY_H5ZjjEFUeyoY8ZeS-eGC-nj_pR_TbNfUzOnscf7QhLd6MR8n6afNHMaulfW16yycMuP12HpiOe5HPv0QCx4J518OmrEK_nXDjW7uzV-KzXaNUsxIjBGd43qOOUr0-QM8QQEyYNmMhVlQJH70LYOvDnIeTXuuCp0N0u6QtA_OH9EUuSBQe6kbUZwBkmjLoLx1Q4Bt1KIRLnPbg0tnKoOaCqUcbRgu-VaHIFABczzQH7ro83Al_Gxb9Onxf4OkwmF33cc86wY8ayAcUFoKV73WOGyyj1ykcQ8Y08zUn-GiHG6ekdO6gunosaGHP-o7UBahqueoPw45fzsTEdnwScNTcwgdHMHXX_jvyEYS-7QYeGJvLgmADQ0xCw-PRqvvzQYRZTvJKurKgQN4CiYKg431Mzltk-tYgXI3oIwaey0BDY3i0SmfZ42mwf5R8huzWbM6e9fgpBB4gB9g6obKxBwne6N-pXODp35Sc2kMwQEJqZVYDWS6tkQMuKhbEe_aA39lKj_RMlhGnxzi2Bg5gmw7biwIqgqirnu2-xL5huMx8DeEC4BZOhmnnv0ZKw5hTdMl1ez4lxuUpNKcLOa9yEToNprQAPFRhXvXmBrMTdjeoszsr5_Usl1XLK&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 14 Oct 2022 23:55:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2807624779371380</guid></item><item><title>有個擋案 Byte[] 如下，假如硬盤不小心更新錯位子，或是損壞一個區域，應該會</title><link>https://facebook.com/616369245163622/posts/2813879428745915</link><description>小心更新錯位子，或是損壞一個區域，應該會常發生擋案損壞情況才對
 
-https://facebook.com/616369245163622/posts/2813129578820900
+https://facebook.com/616369245163622/posts/2813879428745915
 
-[]
-</description><author></author><pubDate>Thu, 20 Oct 2022 18:06:31 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2813129578820900</guid></item><item><title>前正在學習MyBatis
-當中有註解跟XML兩種寫法各有推崇者
-想請教各位大大都</title><link>https://facebook.com/616369245163622/posts/2813046128829245</link><description>ML兩種寫法各有推崇者
-想請教各位大大都是使用那種寫法
-小弟目前是兩種都有學習
-
-https://facebook.com/616369245163622/posts/2813046128829245
-
-[]
-</description><author></author><pubDate>Thu, 20 Oct 2022 15:51:15 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2813046128829245</guid></item><item><title>戰microsoft……
+['https://m.facebook.com/photo/view_full_size/?fbid=633087555199691&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-gvGzWMTbiJ7otY6rBPWwpazqmxc0Gf7GiYMtT83YMiqcJsif45BRpkFo9jtZLu2rVyr8F1BUoCVUM1EL7icSKqzWgZcL-9M_7UGHM9hEkU8ApebbeoN75hLfLYlb8xMBiND35AwOek-3ssBoMYrhLiDJEjC8Te5duffN-0_G8ToiBgOM5VgO0TK2b3TrJn5vLLcvYhgp-mRQas6Nj8s4quvXF2ruMm2ROWqnQNlD6wQh47dYXjWZPmyDf7OMcwpqvNY9f9WGuMXUbBAQWcmBu6kw0Evwge4moDrIwbFWzcNMSCpciZIbJfrKC81XQjNzur9yX1C4LhSx9b9mBbt08PnC3lzoFPiQ2Of68S8FNcmCE9FbzkvW35cwNk1Y2ae_BmqSi_UR8Q4-17SsSmxj0ovLV7ZHl3G-QomBs6JfOpGc304jVQxXgiF5R_ZU4V4xDZs-7Np1rI_W3ogPoaj6yKxHT9WzurnH3dYWiqqvMSkv6EHPydtuRa40xmqhqeSnniEHGOIGcuT6huEU_B2LOtdpjDB4WjMsTf1Zt35LeoXl6UCQITR3vUR2EVsBt3dfT5F4io1Wr_M9P4NP3ilvoEdwwaPSGOziJCV41HLLz1hi-b39W2fTjm_2qx4w4XhOE4PQWWA0ZGKeTZxYdVg4kzo3Hxy902nuadOMmlnaemwpKZE_D2zWbDUVBZfqVx6dSzJmmealJ1WXhZLjWNOes5oXYnOpsi9u1DPp3kPdRSYBEWNoIr6aknBpCnJjzocC9Nzni5DkzDqhzN6WAnl24qKUutROimlc5y0QwxsDXLwTXnNk6XoFcbN0__KfrrAc9TUSeJ2InVb8KXfZhSZbvIp_yolDoxmNnQbE9k7EgOoLJekLI8VhtFbuW4P-h3-ifeW1fPCRdClPmILy0ahSCtvOSAz33UG8FTTf2o3krEpoPLZ0yzHxgZziEMvSRqY6S1qZXAY4mhu-OjEbwnvjieIywxaGX3lU557KowqwmSNoRToIBI78NEbA5szyJflBdnN0bhFzkaaPQJX6j0ZWcJkdpLYlhgCZGt5427k53k0XBCPEY7ocUw0iLs6vEkW7ECpnOUyADDiJ5t3nmVRZtOKtC7PnnR8AvBj78Hw&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 21 Oct 2022 13:37:36 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2813879428745915</guid></item><item><title>戰microsoft……
 啊不對，是micro-service
 
 好吧，看有人付</title><link>https://facebook.com/616369245163622/posts/2803374509796407</link><description>cro-service
@@ -72,10 +112,11 @@ https://facebook.com/616369245163622/posts/2812787442188447
 
 []
 </description><author></author><pubDate>Thu, 20 Oct 2022 09:19:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2812787442188447</guid></item><item><title>cca Tsai
-昨天上午8:39 ·
+10月19日上午8:39 ·
 
 聊到 go 的執行速度問題
-確實 go</title><link>https://facebook.com/616369245163622/posts/2812221625578362</link><description>
+確</title><link>https://facebook.com/616369245163622/posts/2812221625578362</link><description>9 ·
+
 聊到 go 的執行速度問題
 確實 go 的執行速度超級快沒錯
 以 print hello world 這樣的例子
@@ -85,7 +126,7 @@ https://facebook.com/616369245163622/posts/2812787442188447
 只要 IO 問題沒處理好， PHP 最終的輸出的速度可能和 go 差不多
 
 每種程式語言都有他的特性和專長存在
-但要讓總體執行速度變快並不能只專注在程式
+但要讓總體執行速度變快並不能只專
 
 https://facebook.com/616369245163622/posts/2812221625578362
 
@@ -148,7 +189,7 @@ https://facebook.com/616369245163622/posts/2811997218934136
 
 https://facebook.com/616369245163622/posts/2811183515682173
 
-['https://m.facebook.com/photo/view_full_size/?fbid=5718296764889330&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY856ma25T3bE6TJOGRYjcA4nfIl5sMJ4QSOl0Q6El-YKt-OI5stbeZylR7LP61EFrXRwHL1i3A0Qcfi41S4t03WeqAfiAaijbExcnpv0GtvVWrLyjgvXg3CNzJZ6Yeec1oR_PdJNpolzOYwfjAWSvevnQS3YJfR-pp8K4avJz8y-Y9hMgFWkhneNkc-B51n-Nk-lTZBs-M35GGsd8q4qiwOT-83YrOmftjuNXVrzpAry-76KBBj3U2YsHHHceL8lRs3Rez76jgohcrgUIQ1w4IeujMR_HrMbxBs9z7AjcK5HKaAPI4pf8SaaUImxnOaME-AgDX8sK7xycIJxoUAug2zttqGRNpVUMYh5HO40XwO0XIw4qbHPasDf9DPoE4cbnfVgFroA3UsM6QOILs-MV8bQlyjQ7Q3mkasEJnzVpQB78jScfr3QnOJg6OF3zUpPZn13AXl9BgmdwvbFpX9Zd33Q8wtP29aY1-JUOCmijMAonwSMzgSYD9-_u6vw2gf28yC9TgpA76ciQJfNnIC11fs1wpEdgTzF73a3ojH-MdSsP4e2_haHIME7hDm5YQbG1E-6b5i2xErmu1bJ-cLKg1WtuiCgkYYCwAfWACE_aJhkEpZmpKvUNv3kKQS7e2eRiTK5FjuWKVd6gBO6xNlVJCt77z8Bp_aXkv0Jj6TgAQalDqfVpmMF0WF8Q3oQ4Kt7IlwY7As5AMEP998w9MSUA-IuDzwj32I1IPaSqUhzGPmy8OaDeRHW1djwo_fpAjCDXhuSeaV11EuyuAylLWAqEl_wbrJF6uDLhwWaIHoN7SPeEg9olD5GiS5NhZsWfEX41F9UTBsy1I1zvjT0qIsPCyRDapJKUGQ_Mhy1IeGA1Nm_asPDmqIymv9a0YfijaYtMGlbwhuWNpH9Jielj8Q8E3q66XjcBaS1cIsGhEIYpX-9bsvRLE_U5AGn6ymdkhIvbktFRHL9K0Xjc13nqZw0mYCUohbI_LQ07ZeoJNhaCZZBtOlB14c9lTuLUeMZPBYvB0EN801wou0vn-Km_wG6pF5mbdhRXpKqExjg9GWWcHRs9tWcEC-sPDJMV3BDXRplPlWWRw1fUEecY3Ik6JJRExHOf02cTNPBCwScc3gy8U&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=5718296764889330&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8YSopqXDfJ7UClag3ri_2t7VMf_fS0kXi1YHhcSjSKQVyLkkBJDT-37_tyDEDuO_9LvwfG1ZHcZH5SobEkpPoj1hpvF6Kc3eMz-hA9cKYAp9XiVubQz5NaO0SJBRkRFI71why-YyQmHF8JzAnhMp_9ivbhA1-YXWF1emXwidSrnJyfBEgCtd-_V4xJ5QrVsFNWs0hakt6_R6v2YeziC2Rz_VyNdKTiADbZz1ktL9_NbuBPTMaKJrNBPHy6UhCrgnhKaTO1b7Ivw2TJuNqt-jm5hD6QW7G-Sf0FK8JNPxtkg-BT0M5AMn4jobq_oGQVjpWU3DggTfw2LFE9h4sL9oEdKrqarC0R7dzxc7fL-iq_nLDOHDvX7aFtctJh2JKwtQB870WSIEj17H9-pi6luTfEI08OvYcbQghwR-UDGm8TyGqMS9zMoeOYgje3kxZMjDmI9caMrsvX9R6jSJ0ZQdG1wJPSRvJpf4WzhsmLBD-sYa_mPmczTERkFyI90oqxqSABQDcDvQvhbiJ0o4PH4xeg7QWX6yZOtf8QWqXJgnQY5RsXc16QOgjumrrqvbMzuX545Icxn1CBBLJkRQCbaw9iUcuc2zkbk0ESTYaX0bAvQLs9navCx1L_hvrW41S_fDqPVq_plpqlMNWLuj_63GJMqaB3FR0sb1O9SjX6VINvxhWzSX__dfWZLN1VgXl6jR-B-0GxBZKFuPjWD_q_PEHZ2t8L-AcGHUvB1op7D-uCW99elTwAzFY864c4754XefiAoHeg5RJxHklmDXwK3PK4uinSdd-CiJ6bWOQJEPMUgl485LsadKsWQxvMIsdgeqq2EuQGwN2TTFYwyeZ9OzAFsKZngfGgCpF41tcn2NvuvFOGjNguAza4wlqydJR41kQbF8X0bROyTHCxw7swDaME7zshpIrQCzuP_kXjy9dhrAq-WHuWE9-zyPIo5wef2NmRllg_w7Wt6h17TEf2gsyBE9X43ethoUCfnW58V_vP_Uwi0hEpNrize_Idhs4cv6_8s9yyFnQOgtk6T4SdOTNIgd14B-_fCjkb0kYemkIoK-VykmJTsaS2tW0UZKBabcdn9d19FjTISujgOP2qohOb9eV-4JrfHDI_V1hpgHw&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Tue, 18 Oct 2022 14:54:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2811183515682173</guid></item><item><title>一套系統，趣事分享
 1、驗收中發現 API 404 Not Found，請對方修</title><link>https://facebook.com/616369245163622/posts/2790347664432425</link><description>I 404 Not Found，請對方修正
 中國廠商：你們再二次開發自己補上就好了啊
@@ -209,70 +250,11 @@ https://facebook.com/616369245163622/posts/2810191545781370
 https://facebook.com/616369245163622/posts/2808109579322900
 
 []
-</description><author></author><pubDate>Sat, 15 Oct 2022 12:16:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2808109579322900</guid></item><item><title>，
-
-拙作〈你就是不寫測試才會沒時間〉：Kuma 的單元測試實戰 - Java </title><link>https://facebook.com/616369245163622/posts/2809218342545357</link><description>Kuma 的單元測試實戰 - Java 篇
-開始預購啦！
-
-內容從單元測試開始，分析單元測試的 Why -&gt; What -&gt; How，再延伸討論壞味道與重構，接著再聊系統架構與流程管理等進階議題。當然，惠我良多的 TDD 也不能放過！
-
-測試小白的你，可以從中獲得單元測試的基本理論與應用。
-用過一陣子單元測試的你，可看看如何在測試保護下重構成更好的設計。
-已
-
-https://facebook.com/616369245163622/posts/2809218342545357
-
-[]
-</description><author></author><pubDate>Sun, 16 Oct 2022 16:01:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2809218342545357</guid></item><item><title>ft 有沒有那種像 C# 的 StringBuilder 那樣高效能的字串構建型</title><link>https://facebook.com/616369245163622/posts/2807630342704157</link><description>gBuilder 那樣高效能的字串構建型別可用呢？副廠的實作方案也行。不是簡單地用 Swift String 相加。
-
-(要不是 C# 官方不支援 macOS 的 InputMethodKit 的話，威注音 mac 版早就換 C# 了。)
-
-
-
-LEARN.MICROSOFT.COM
-Improve string concatenation performa
-
-https://facebook.com/616369245163622/posts/2807630342704157
-
-[]
-</description><author></author><pubDate>Sat, 15 Oct 2022 00:04:05 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2807630342704157</guid></item><item><title>lock iframe insecure content問題.
-
-[環境]
-no</title><link>https://facebook.com/616369245163622/posts/2806078946192630</link><description> content問題.
-
-[環境]
-nodejs server listen port 80 behind HAProxy (443 =&gt; 80)
-nodejs res.setHeader('Content-Security-Policy', 'upgrade-insecure-requests') 強迫若遇到http 網址也改用https
-
-[症狀]
-已用
-
-https://facebook.com/616369245163622/posts/2806078946192630
-
-[]
-</description><author></author><pubDate>Thu, 13 Oct 2022 12:26:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2806078946192630</guid></item><item><title> obfuscation != encryption(加密)
-
-另外，除非是連M</title><link>https://facebook.com/616369245163622/posts/2803339069799951</link><description>yption(加密)
-
-另外，除非是連Main Memory, Data bus和CPU內部都全面加密
-否則你沒法阻止別人直接改你的Memory去避開檢查
-
-不過嘛~~~
-有能力改動memory的cracker不會收費便宜
-正常人去花大錢去破解你的程式，還不如乖乖談授權費
-
-小吐嘈：
-如果你找到真的完全破解不了的方案
-Microsoft / 萬惡的EA應該很
-
-https://facebook.com/616369245163622/posts/2803339069799951
-
-[]
-</description><author></author><pubDate>Tue, 11 Oct 2022 04:08:05 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2803339069799951</guid></item><item><title>a Social Network for Developers to discu</title><link>https://facebook.com/297656798404654/posts/541949100642088</link><description> Developers to discuss topics about bugs and issues, write and share knowledge and connect with millions of developers worldwide. You can learn/ post your videos/ articles/ hiring/
+</description><author></author><pubDate>Sat, 15 Oct 2022 12:16:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/616369245163622/posts/2808109579322900</guid></item><item><title>a Social Network for Developers to discu</title><link>https://facebook.com/297656798404654/posts/541949100642088</link><description> Developers to discuss topics about bugs and issues, write and share knowledge and connect with millions of developers worldwide. You can learn/ post your videos/ articles/ hiring/
 
 https://facebook.com/297656798404654/posts/541949100642088
 
-['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/283526534_2532737880195128_4978775550655351536_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=5bac3a&amp;_nc_ohc=1hC7qKOTLVkAX_zlYMo&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT9a6Ek3cK2iodTPzwTmJ757RdQ1qlKBOnuu67JGQDmJcA&amp;oe=635608C9']
+['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/283526534_2532737880195128_4978775550655351536_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=5bac3a&amp;_nc_ohc=1hC7qKOTLVkAX_zlYMo&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT_XMgErsBOy4SrtJrfJMR39VemgW0e3dasHneyrsmYAhg&amp;oe=63580309']
 </description><author></author><pubDate>Mon, 23 May 2022 16:05:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/541949100642088</guid></item><item><title>ntory Management System Available at 10%</title><link>https://facebook.com/297656798404654/posts/525831798920485</link><description>tem Available at 10% Discount.
 It uses for small to medium scale business
 Very fast, modern, and very unique design with modern cloud-based technology.
@@ -329,7 +311,7 @@ https://facebook.com/297656798404654/posts/610043180499346
 
 https://facebook.com/297656798404654/posts/481772603326405
 
-['https://m.facebook.com/photo/view_full_size/?fbid=2219333281550099&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9JqpfBqv00Uti3p4Kb5zSrGcrwwHw17p8RoDZKmihqmB_UyowjHTFRG5nwyQA0MgWJ8b_vkLVOaSkruWE9dzsDoOErTzJuav3NsTkKP-QmlQ18UCgu_3ffhteDVCOuWCSPY9DemLqBnYg0PAG_91otjmQKlEibrVD_iJ2qR5c2xvdP5t-\\-\\tmAa_Zw7_ag5zXiJKqwwLyWTh7ijX8bpLdcgbRGZ-G6vfhAxh1kBGnDBITk5_uNewFy24DwQlHj6FlH6EFV2ES69uWveeNyKJl8Sf4C84pzVN1DPQCX6EmqfTz23fmNyH2K5VrRxkys5crbLrWLrOpIX2Wxc_BhvlCeNKBwkPRRdr97_-SfLWWApm8sclHnnX2qDkt7T_oT7N6c5mvXSnrXTwiMcRl_C28hpR4qBj3SgEYuR7Rk87oXVjkrpo38jf8hx02sl9y7nDQ6Z18uMVnnX6Q4cRE2CUpfKFEdq5fFIJ59_muwHZkrGz917fEe1r8N5QFjIylINfpuVrdXM1mQr7i2VMOkdlfxguUg4Djg5cpT0b-3UyiDDRObDaeA58QYIOTn3C8xyUASpl_Td9QV68YizNnUh0J9xgoX1j2KxR023uXuKrhgp_vTgFK3fiZ3fCpQwMWDJ9BvyulcLHFhr0WQUfbMnwZRrBXbklyJ1OUAzwFd3FifRdAeUo3boU2TGlCHmOm5wvdfWmuRYwVTDFGQUPD8T4dpqzB2-B-WeLdP0nDn9laZeQS7e5RvffXKuivIADSXgKjqezoJ2l7j5m0wtWzXFP9m1VMhQWhtZb59Jnm8CwGB-hmsjwgp5BpeOKHnBR-IzJFn2BrYPtcK0iWi6NZ8nVbTwimYVVREGR5RP_K_sIf-Tuv2ScW35H3rgaU87WCVIIrwPsI1R5Lo-Vypl_HZrTjZuZNjlWI8N21Uih7N0jPHFplr8tILXuZ2dYTlLck-RlBKGP4uGiVMVz75xcJ_kY7x_O7MAlTrWLZlZQZY98_zLTXrxkomtUWlXnWXSeFZj-PlcOP54YAnM5fQgJqafXtN0XHnZ5DD09JjlT23Op6NJihSorSObCXPP5OZY5_4c9qH71PLRBkshcv5N2z6ltL-yIsIMxwg6RXI5Mw&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=2219333281550099&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9iZ8tWSDtFa5OWgpRbQdHGYpyGQ5U6aHAPFqHtClRimQle8gPy9gkjfi2jXKyh1ZIrq4pIMG4Trb5BMclN-y5411VhkJyYQOA2Bra0KgOVOkUx-PUCo0dmtqWd8N1U0ky1IMbF4SAi1YJby20VJPABzVToudc82wo9trBVCLRlJt52Dnna3ZSnQHaL3ileGRbQ57BnD-qSDMlYDe2f10iH_Z7J78YKTEmrCroPcHsVTPFiFGrNbgSVfIH_CJ0vKicoc2sS9RDSDlawqhPICgDFT56M54ES0BB0wtRkJaYfxQojPOxKAK7m_f_bB2mWL3hdE8GW0KrGFAIH5QW56psQyEXaD1Xo3dz5W4QkXN3lkq-UQ3f3Jc6ULC_r_fyMexSZwlyWkkPzD4AonF-ixtT_bJ1KKwsEZdoL-AeCoW4aB4_2ozQiVlWIbo-27i5SfQCYs90LILrIPOmH5LGV4Uppjfn3G3H3GbfJxfEexQt5e7kQDlLMjo1XKtNh3sA8U6pndbnbthhgB3MEgAwadSljMjwzCc7Zb0x9qPsWkcDvirqoHxMw7jQVBz9B8Y4u1pF6AxGFqXfspe-MjLzqd40pRJmTqnrzgI4akQ2rKDCNA7hTQ7YLZJaVHlHGko2fTpPfxNYFIuKbprh3FQq2CndBjAIe_vlEE9mJI3Dto4oECJW1_-KyHypY60FZ5avkMoZZawz6l-YuWVcUJKa8eB7ncoxmVKuU7VbotZXCMOLfedDoHN_lmfsQ0urEm3AichjT_69k0X85WIUFniatwYy-hcykUMhUjr0lp_tO8hQY1-VLaXkALSI3t2Hzps99kq6fOxxCguNgwnS3ww9eUoKDxLObnewoxjB4f-K-7ZBg-jL39PQpCl2RgL93US8uO363ATTuIH79O1gqMKkPjN0rZgKati4SdVgyRl7CueWFpzLPd9Chk20TXuk7TdsMHAdlL4gZrOmdjVE17gQw2-P3K-qXbuoLKTKC5buFc2u1s07Xmo7p-BfJlQjsmaobJvLGO8ue1GqkkxLIIY355dzbcfye7oG7SBETBAhA9j0HYbsKIyLqWKIjM7ctT2F1b5McH6Apgcw1K2X3Qm2y94dx9mPr1crGty5usA&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Thu, 17 Feb 2022 21:00:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/297656798404654/posts/481772603326405</guid></item><item><title>operation in Laravel 8
 
 #laravel #progra</title><link>https://facebook.com/297656798404654/posts/602285011275163</link><description> 8
@@ -501,7 +483,7 @@ For our software phpVMS we are looking for更
 
 https://facebook.com/1636760336639685/posts/3188042344844802
 
-['https://m.facebook.com/photo/view_full_size/?fbid=5393208357401128&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8HIhiGSOuAJW6pBDT6NPBIJyXaG8OW5IB529vZdL7zlE8Mkcd-4YDY6y7g2CVXVVwriAlHyTZjcWg1qhQx-IAmAQTy1Yuzn-ZZEIvgZO2EOg7NMBvXzM3L6KwrVIK1SjmvcXa484eouK5ei4Iuzg6WS9sU6p3ANvULHsJnrOxdJ4WUjKIf-aKcP827ER4K5VZc1oa7JdIo3uw_ipragiyC-VaXVxKvUqW7FckeUIReowQwf50fJAqnoe6NG_oiB_H3cT_Xrdo4VonDrvSg8mjjvc_FbD3_g8iaYGQCD05ZR_y8Fb0wXELMc0lzUEs49soEzDiXDvGvJuqWD-iLdFRruUYGLV6YorsuPE6_f-9Fbz1w-0akCI9IAMXDNTWY1YFRkL6EMuXtIdoHrabgvPCeVyw7iPlXyIIYwngA9ExkwCFwCcNazQw8b1I7XdNoOjCUz6JbnCvsVXWBljhFUH_mCoSz1GOAMqs703FKvotcueW_JwMZ6iRsjeHtYFcJJZNMtTxGUSAzahOGMjdkCQYU2AMnCk_s3o3H3BSrNXnvVCz_KUw7tk723Uk2Z9olDuIb2K89IXpwP_SvMRM3_S8y3mISlh0SegSHICIg7ICIDiPI1r9d8Zpel7bo9f-1TLznRSZc1ohCqn8Btnm078Z-czGP7YsYT3e0_7iOod9tLcZEMJOdJfgZapILSaV4UHOB6Ej6onrNSDHATq2U4RYrtHo-AlOMZRNE1azYEBgvHY76x9u1C9QaGH4Poppx4AJFlCcXYbvUPrFYt97UHdUvwM7c3DSqD10iDqUnpPcoGbjz3TZ__kh0U6rMP1u_ai82skvmmZKmBpCLQsdiMQACzjHw8_jN3N2Opp07ejjmNepC4ouHhdu4N15PIxHXMpcHFrTXehHvOSZmmTuHi3VFhLyaEUMWgpaGMbKppEocF-FWZcyhGPnP4X3Gfe5Nb3YMaUAMtQrs9UVD4OFWPQUBncr56fYMSGTqTnEbURkP0N550_-3_Vx6Q1g4QRTXaZsXoLl2AfSl78qi1ocgcZ5th_VsG3CcYOj2Hw2YFbX8CeXGVIATxUxWvW2zCqwyifhX2nndfNCdbhZXnVHsx71t-iNziarfjAweHeYs1C0_T8A&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=5393208357401128&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8_OEaNiIzh2nYik1fQKLOmu86jllYBssnNWYQLBXMlx1prjrr9Om_hSOZD9TO9qjWqWvXx6ZmRrgNrMs2P9EhkAByfVUmQKgbJ297GZL0epdqqDa8-jXtS76gSxgzPJYXAPRlzUWym4DD59qjwxjb4H2sWpSCY5hjId6OghpOwrLS49mB92V8k3D32-ubNP3JG6a9D0bgeRqyIGVqyrRQRIcbp51i78qvDF4obIVZLplGn0IU15_86ZQhkBdueHjLpIt2a7eEpREPNvwjqPwDyjsNsnjk3UMM65H_dOYWnZ2gqVX3rfRU0e62f9D_FIOwsSa_hA-eu-\\-\\T8LrIARzsIe0CiDUqKWzMcYzDuu8MPVmfMFTuS1bgdxHKsuSj75n3KKOSVp2P6ag5KdL9NucA5lauEapG3pFSLp_5-wQn5_zA9ezUp_9HNCaPoXzy-P89Ut4k6lZlvtcv5vkW3d31KwXDjC6HFc0c61iOvANuUwRwbAnowXfShBcsBLa1o6icj1bCW2iDzC_-glvi2s0GYXrEexV5bhxonlHroLZJi60r3g3DlbgBmaR0g81swVYgHlFCSTU4RiwgNjLgy7xjHSAQ8-BvmYVD-6mrH1OPDrk08JmBJ3gcHTprRHqm9-Q6aeGzb-hIPYs-yW-AduutocYbWRmy29T4B3cQRCq7eQOmATik3DzqjY9VUBICga0sMULRrCuTYNSpXZnpqJfLxsyzTp1njkooOgfIPQpmY60W_PcLGdg-2Tfh6QRxyfGf_NfRdCbA1b3F3c3sLkgCP2zzLQV91Z7hfUMugiYvdxKcpDMY1F9adrxTDdhnbkB3pXTb2oW-vIGMTx4M1GwfQF4-xY4BNMasFKRWyBZ22aMohrV9J3DffFPuCScYGTK8o8LU40-jLLLG9_VkGqSZ_lxCwV7kBxxz8LoO3qMz70aie9QoS53T2EeWZ2ApkhfBgskOvfcqwhHkjNKj1JI5PnX_ckpR3eSdTlJ2WXHgW1i8V15ZlnR4kjgV3i3V-t4tTQWj5sJRspI901ecb8C5B0TGG3t4vYWFwCv56MQrxgEwN9ndlL67MTx_3cWYm5L1hPoFI0wmD-6j-fnvCYH7Oo7uDzgqEMPujySPU-LaDJ0o&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 03 Oct 2022 20:15:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3188042344844802</guid></item><item><title>can anyone help me. I'm having problems </title><link>https://facebook.com/1636760336639685/posts/3187078731607830</link><description>I'm having problems with my middleware/route groups. they're not allowing me to do any of the major functions, when I press a button I'm redirected to the homepage.
 
 https://facebook.com/1636760336639685/posts/3187078731607830
@@ -511,14 +493,14 @@ https://facebook.com/1636760336639685/posts/3187078731607830
 
 https://facebook.com/1636760336639685/posts/3172168539765516
 
-['https://m.facebook.com/photo/view_full_size/?fbid=453761053454052&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9H0vBT30Sj2M4PCzhPlRCdz5XV29JMtYok2cZXQAQoMl0j8qu-2GXZDGReLhZU-_q2sshdGml-EiiEeI5MoiQUoxjjwdLRLAg4dG2f17XLLfnDw1hKZSJ_AUHVtMT_QZBKRihjO0ixjb63Q4nh_qVOz3P5GfBpSZjh2CkC7LSlfpC14fCpFTXpB8JGB7D-AdOvoYKDertrsvbPLlvmp1RjIh5GdYYag628T3vt3yPj1kcl-l3Mchd-PHe6n5w5K1UV4BCa7i7Rjqx7J7IjK_aYLsd7E0UMU2XhAh8oxNjOdzWx-01UbJNPVRBk0z9wCSJPN2zRP2znYmFflPPTsMFsgTAlHE5fDF3RGOYaT5-Y2vd3GVbRZo4ODJtG7oeQjRkrHw6k8p0vDjFfAR_YRaQfgVhg2z_ajnSvFn2pcufeXYcXSw84O33enBc8ps3xpzZ92JuO3rSaJvU3AeO03a6yqOtcW7XMiJbJKsZ2LJCVYZRq_Lb5W_GpcNQgGQ_Qy8tnKRhU1vOewBGcnkUOlUzO4cM2_UuXfWBRW5J0_4B5rFaW_dnYbagPjNjCD3tsgBvcN2j2I1ehW0EE28LR0BoLGyRWZCtpJarG_lyHZuqmkvvikGSQmMEWO6GJQrXZPeh10j8v-gH6EXWHxK3eW_kE-FQsNAve8pM_MmzyPekzIoDraPh4CbwXAFmx-eUS-FsZPNH4vjDcjaZR1fks2uJYLakeDyCUe1RwIEBMyi9qc9ziX7ANZByzcnG980tEP-YB0KCmSx9fODy7z9_XOysO0XzzKFmc2KsGr95zwfUUAgGI3um5YxDF-STBvG0YvUWKiGVH6LeiBMLDP0wYBXCM0sgQ4rqkhxbuI2mhX7TVbN2xffiKaCoOGDPkjha4uQkf9WFeBkiKwPCFzpL_S7ovE_7pp_QnEZYLe_xet9n0_wIiHsubO-u8kmAO_7X-jE_SBNdPElB9SrCJJ50KX63w_rPVz4ZuH6S8PkcqBhBndUx2vP9mMkPA_-FujvYq08TMFaPaC8M27Al3Zbc2ob1qLhni5WULYjtGK4PfUqn3ICZCNg6gSTW8Z0YBDyWbmjPd9tLlQ0lgcFiCK5DiLJ200FgXQBlKbHSudMrd21czqw&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=453761053454052&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_Hlq2z73wAodaGCDNBLTiiGK5G_w9o-O9iPq62OgUH_BiFBriv2qYA2n2_o2zQ2ihn6h93gp2c2iOU4cGG-\\-\\dF8ZFz1AtlTrDyrfzizzsEXeEiEaiiFgoq8x0TcrdrbncA37SmtqspsASnlMoY_aqLdjaPxUjwCng0WaQStSibEMS4e6zJgh5paO5zlTzoi970I75jFcGdEh0a-tha9Uc8ekxi7tOPoSQumr-66EjjQ-jjINQMpnRQUgixc07bPw9f9UJNfuhAqbJAxkCyL4NBKR6mY7AtAgOXwZoj_hzI-yyjrzMQucmUeKc7qWEXfEIq3cGOK4w6sqBHmiYgxYHgbe44m_yJM8UZy2FMpskuxqVHS3jIogK3pikLjAXqYuj8cU22LE-r5EePxtcP9ksBhgd5qAWU86MW_qTxeDmHtweq0PgdOEYxAA-kqxtof1LXGDXZ8we8XeGn1TSJxEt2MsF6EhwfaJOH2F9omH1xf6ODRhzeIXSD7IqamJ7dJ5asHRKWEYy-xOHjwEntWwDd5AlTPhpqKzg8zoFLLkskJhqkbRtzLZHxuvpuVwMkK_qjb_R9xmNHTwpu6hy2HdSdqyS5Qu9UjAMDlO08WGXUm7xhHd2_E-jgiW_QRzaQKlRuC7EsOedjpYaEwTBlHobNcMswFLT3EellJBU5Ujpdjslr0N7lcUY9ge0kOVQevng6qCU1RtlhbRvyxPJ_A1q3_Ks6iyKaBFCbAxyfq7j_cqEYLtZF-jc2YnRC7cWCwsxbqtpuVQAFIWjHoicHyGEqp6Gb2Nst52XqD2p9cJBbDpEf0qaCOfQGiX4XLmDxoY1VeL7o1yUYJ2J_fMnAUacLEnNy1CeNm6dx8qdb3iaYeP8m1oN88KTmtsWi_qhexJyb_YXbEZENhXdR273-65wyYCrXKKAjMJChYnaPYRxFBaD13qnm3mqZygrBswnGeR0td6v8O52mM6oW_oDosr2G15bZn5a2Zfwm9dgab8t9UKODo4okAVeTQfzkilNT7v8OLlqXWoIEF8HXVVs9mYbo90rDDu8bq_zW9v-XfDfBQ6M3WdixZEghAnw_AAQXDs0EJWn27TneYNdgHTcwDuV9ZZIMLoG8njlJ84H2LRsEfw&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Thu, 15 Sep 2022 18:02:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3172168539765516</guid></item><item><title> it int1 not found window 11
 xampp versi</title><link>https://facebook.com/1636760336639685/posts/3170983579884012</link><description>indow 11
 xampp version PHP Version 8.1.6
 
 https://facebook.com/1636760336639685/posts/3170983579884012
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1437470790054795&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_dHSO76ncuKvhjfSNGZkTgWkKc520KgHb_7RZxpoLnDcr-XIYpoyup6dP6Mu6xD6ehzifMIaemE3_gkyPYKBLR6M7Dgxxle9Bbe2wxNpQ3vUrm6psMyn3mSbFK__ql2G5MsK64tTrjeDP5nS4dd7rKs3NVNl8aPJuk5Ly_ufX6bo4Zmwaxr0xIjgG6i3Kf6WbYIjfVuftUeL6YwjsHHs8n4_3QdGAEloDxWLs3i6I9patpZOCpHQdl6TNWrWi5TPzW2A7O5kGAClHU9fgTLoLzMyVRnbn3KzKZ6qnvm-d-mC5G_vZjQynT9wGNra8Z7RRAbdFDYAjln7ca3s0ZQrlmoDviy7_hrk16dYFHSUzRty9r1QQ69eNBTlyR5TyDRYJfJrDZdCQVYdStsmoiv43x4KHMlGtJokVwjAc2ERI4xktuac5dsDl86bIBAxJbX-Md7ASj-kEpS0GLNoe66vK4GWtEK-KKG9krMKBg_fvLsYMaAYwBHZqo0JPx41sRHS1YFCw8jf_V2sYIj4kPcpJ5rnrJKwNpuoX4SKbvrE6qF2eqe1Z4Jydorj_pW4z5G4gMdSkG0UswjyzBCcskLZ0cNUfBdu3Ohe9MLV8jzzGMihhVNjhlIscupa2aFxVqpZL-OB55p8XYMO28bcNGwN6XywR7SuQwamhUwzMIc5XD1FhIvpSfUS80QL6Cz1ZQAQuRz0j0i6yKLaJE8N3zYPBAq3_uBPMuzYLWwtulNsSxXhKiesXxnR_ZQ8PSBTuQ5JBCWjVCoSwSuMRlJqGloo1ZoXPweSpUeAM3jByFQD-od0qVEf1rCuQdU_jb92pjxq9cYN8xf7ewIfGj8IDsyvp7AsAayxQV9MztNp_erZDtBaRNkB1o9opl0ZuxfwmBc84ZGb-hVSUDoa5gfnCzDyZdl2m8xX_EyqkAC5beN6q6JuzQ7v-KSYjtrWG1vDZGk7mXIPjy1X-FLnqXD7eKPJ16Li3Bf-BX0Z78txdHsrWW5QBfPcZtY61_xPi9A7gV_-AIye7VmzJnFQK0bJA5-AUm5n-JY4CnHHWmRfsOIr35z1kwPwNTdP-w36SokA09o5F0R90qViS1h7GHV6AuOVqWJ37ruz7N0uoiM5qdijp7oIU&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=1437470790054795&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_oybKgQ5PrE0BNAEMgUhEb4kj2oCOyVz7hI-XYTAG80C-mV3R39qo3fukrPxP_iKtphw9jTJdiKETX-xD1bDN3g99rp-UAeNexH274RrVlHGPMURhPjE0xP-Imo10Rif6hpt3FfxzhBCP3qetOsYqXa_J7Jcv47w_ujP8vrUAhSb0ONH2JYsNASYUsQckR48bNSR8lz_IixgN8YDZWrSnE3wPriujNdJyhhgoSYZX9NedJZ5ll3lG60v6QMjYPF_Cb9rlPZzzLZ9G07lH_EYFta_iDtm9bUto-Xd15hVOS47sC1P3EpYByIesyn-ETGrQv5VhLDnG9UetwogPD0B0eZ4uyNVegfqppoNcfHnkgEuqg6P3TAcAmMWJwygu37K5yeE-osf28TPt3QyIHxDksqqQFxM7NpNayl21PGvzwdZOPJVBk3jV0DYDjN5Q4nbkXPUQClvPEp3S4xjykwus25iVO9gvHIYmFJP8Irz3e1lxVurRpGqacZESkVuVE6ElXYeju7AuJAbhyzvnzMCF0s6END0KM0ZlzsGIyUJepPe8VFVGW2aUd1iYq-5l4aLYDGs434IfQkMycPwys1prEGYLDyPiarHZsY13giUWUro23hk4hsVRqnQPK27iUOltCHR-f84e4023wp10TXS_xuEwKkDy9oJrpjQqh7pi_dGsLgOjALJOjMIagpmSdqvPGv-R0dseGMSpewV8PKUMHJoUkEPOD78OTzWs4K8OBYJzDj6gwa5j0mOqZ118rAB4pom3yR67uxUJN8aoNcSMkLwHBKqPpdWTs7_8xIWk52p1kSJeerC25Jf13bRx0XePfSzsszvrI6TYH9-W2tcwIy3qhcBDjYbypNzTNiuf4YQeVMxBGKKzbPAg8N7a8f7C_jzVJjF1T0nzRhXvrlugSdczX-URwmhThu7iapUdZFpwdK7_nxM5LiMIK5DCOl4qV8_2z3AqK-OYAHrmz6uR3MxA7TFpZQrn0doK09kAmXM0csKKe6RExuTGPP3dCVPSWcuyaGanlQ_D0RRZDkH_h88Xnx5x-MhcTytZpS5-mIILaD_KgVcRCiilCQjxbw7tu2LBd_jmD_KbKJu7ARnJs0Y4XiWiUc909dYrjGw2YdZM&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Wed, 14 Sep 2022 03:28:55 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3170983579884012</guid></item><item><title>edit form containing the dependent dropd</title><link>https://facebook.com/1636760336639685/posts/3170873483228355</link><description> the dependent dropdown. When Any validation error occurs the dependent dropdown values are dropped. what can I do to stay with the old value when a validation error occurs .I shar
 
 https://facebook.com/1636760336639685/posts/3170873483228355
@@ -572,7 +554,7 @@ What is different between these two method?
 
 https://facebook.com/1636760336639685/posts/3137256523256718
 
-['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/295691452_103961142414519_3462455944484236697_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8024bb&amp;_nc_ohc=r6HfP06ZJScAX_HoklD&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT-Aq85VBvzdg3MZQXp1K7K97ZAeWi7wVqAMqMasTYOLxQ&amp;oe=63569404']
+['https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/295691452_103961142414519_3462455944484236697_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8024bb&amp;_nc_ohc=b_WjCdTyqlsAX_kRbQ9&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT-w819pxi2DHVA1P6moc2mSGtQwK0Kf_zhfoaEj3tVBUg&amp;oe=63588E44']
 </description><author></author><pubDate>Sat, 30 Jul 2022 00:18:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3137256523256718</guid></item><item><title> guide me how to show a progress bar whe</title><link>https://facebook.com/1636760336639685/posts/3142635649385472</link><description>w a progress bar when importing excel to database?
 
 https://facebook.com/1636760336639685/posts/3142635649385472
@@ -583,7 +565,7 @@ Phpmailer used.everything is ok bu</title><link>https://facebook.com/16367603366
 
 https://facebook.com/1636760336639685/posts/3149799622002408
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1264794637600991&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8JQr7O1qJ2rDPAB9Dvi4eiUk74vlCI-GxLxNTyFpr30uWqgXrfTQbfLY-SSMG_jWfN0NtQ_3sfnCPRBH-7YrTDPQrUYjEwkiW6YQw0WMaAmqtZYD3iOIjRTCDg7I9eiVUm16_2d_x5OYfMMphIXj_QwySsnmP18M19BbUfHmn-af4_0qFoCXJseJ2QH2TBDFrdVY5vxGYt2rW-VZdjt46O1hE2lN1r6htxVMf-hFRd1OWt_tZujUWr9uZOYYaXb_QJLXmu3GHAm1HutyvfjjD9PAQs0HFIKC-ZiwiBZtL6sqFkOGFbGetBhVLAXEut80KgJQ4YDJH0PSyOKY-46WCYuF4sPdQO4lUmuOqqr5RfVKPRFvUcw76BrOWRchMFI5KevQNf2Sh6k5N5yTP8RNMRKKFo63nqwFe6-_SO-WWazwvfqXMziRwqDLHQI-ZyCTBWYOmRWZ_QuKLMKEbjIMBMNyNCx18u_Ukf8rlsWA9re1o4Ry9pl4yYV2Q5b2FKt8ow-PZvIjJT40OxiJTKf7QYOFtrwpY1vJzcrIq1aByTjd2DamTD4vNIxNcOJuwcoVWD-Y0hDbi0GeJgMS9nCpAysbnHJJRq3f0U2i-76cnxHr_2n2Nst4E_eebgHNDprhVW3RuOfshSZ1fRIMJs5d7CJp1ytLfOTP0EF51WjVGbCoU6L4FWtTFh8OuV5S2XFtOq-cnZvqYUoBalKd2ch8pPpj_myTPUWKsz6ugi3RoWoFCjx8ZrYYCTTc29GqplrVYHhUoYRUelBX9m85vIyVOju0tPF1YKQLIr8uQ1zx4bzL25Jggr44nEvCbW73jdirWhS_TKzWZO1HA2c3l0L3E-3Uf_A27JMnapxtir1UGFlW2I2AlGJK5yO7Ep1QGzVxbZD_fN6guBSc5b1EQwsDRGkJ3Ta38dEaUMiSTd2NwB4cDIQs2JSnQW4r_d9h02vnDgfhj6BwhUWAqguxLOR5h2UXOqDoXUCtlHSJ-AWxZ2l3YwwwKyJ7fQSH6bFq4iRA9IaojG0VcdzZlpMSZfcFNFxyp4dShMrIJjQ0bSC3YVrkW479LXUTUtJiHn_LvkH_gsa6HUtC3XkXGBwwjdqkRXAZhromDpwI_uaivuzH90DUw&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=1264794637600991&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8B8pGjQ5YSyppaE4W4b99GdCOFtytQvNNKsrhHzuDlZABy4LiotxPUIGClMEL_Mkq6o2y2G47ZE6LFGfdfALvtikPKJcXWG7cYF5BagYiGuBvhu-LdKvDALUMN094tUY5abr32zA74wLEY_PkcpDbPBaxKWs4z12Tk1i-D5hmRtsZDaNnzS9QSEMru12SdSl4R0S5_IkeaNup4LWznP9vMsBxtohupBDZaC2yNsFvsZwRJ6X3L0HaVr5B7zOVIq3S-tv5NtL9wWWGRc4T83-9gH2fkxshWefWueN2IUF-Bzi-_ReKATV02zIzLHFVK21KKpdLKalxZoF8VV8QQIqFjKwsqlcWSFXZe4Ehi1aZfJQR4XmdhXw-2ppqkOkK8zp1lEEJLI8jwrodDaBm-cA81Dd8AXmXt8QEg9RLipVaG4rkESJB3ySDXdxy86dUqRcLPSR80nqq40GQC088_ZZDhivl5VxVQgRip5rq-bP-Y_xvy44Vci4YQi58uHQwvK6HRhGWCIjunPuFCoaVGrAf5IPQT4kS5IKBbdWOVog9MP0R0bQBS0OnHJgCR4jQtQ4Smwfo-rWOh8CEkSLA2ZjYHESNCQj8jQNXw_iXxmBXcNHpdtdtCoOYC674nhgyjBAExMHJG0HnjyTO8_-6MHNCYHHXwgUjrVWQhpXEyWk8rr6iHqXLfKzd00vq-BqEHg4WaIjjqprFb9DyuklvYBkuAUtLkRQSiHMbb1wlvgXDtWg3G587SC98VTp4g11WqDD4tpOAvNw0rygX-NqlK1GrindsXo4sSM4YLDqu29aPcScECwdElaRsLTwmbJFhigUlciq39FPM3i8T_CJlWo1QPHpp0F-8TTHsae05HmZzyVQ5EqHG_CARrAmsq1Lv0OPZYKlQhkrMKhACRMQ2tBZhwYhh8IHYfIjx8QXCokdSiJJDKN4ikfPg7phvCh_FiSmDQ64jVJSEcYHZrTZAgHhJkqJC68mWNVwIu6Xg2wAkWRojMsAsFYJGqaJLP-XgzqUejQCXECIXTghNeg6LRMPYc8ihhweWXE-VQ49qSUTHDaXzbvc-FqxaDC6yrf2IhH8kDtlZc_DUnY9sSYgszr4UIv_WPY5YR2pYNtZkMiiNwjQM&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Tue, 16 Aug 2022 12:54:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1636760336639685/posts/3149799622002408</guid></item><item><title>w to laravel. using "include" can we ins</title><link>https://facebook.com/1636760336639685/posts/3150522145263489</link><description>"include" can we insert any bootsrap template to laravel ?
 
 https://facebook.com/1636760336639685/posts/3150522145263489
@@ -616,7 +598,143 @@ http://www.j
 https://facebook.com/1403852566495675/posts/1416740855206846
 
 []
-</description><author></author><pubDate>Mon, 16 Sep 2013 11:17:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/1416740855206846</guid></item><item><title>習機器學習與深度學習以及Pytorch,基本上是個小白,有看過一些機器學習的基本</title><link>https://facebook.com/1403852566495675/posts/3296690293878550</link><description>基本上是個小白,有看過一些機器學習的基本知識(台大機器學習的3~4個影片左右)
+</description><author></author><pubDate>Mon, 16 Sep 2013 11:17:21 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/1416740855206846</guid></item><item><title>個tele
+gram bot但只能在PC連線時才能夠
+使用。
+
+請問有什麼方法可</title><link>https://facebook.com/1403852566495675/posts/3291540217726891</link><description>連線時才能夠
+使用。
+
+請問有什麼方法可以做到PC關機
+時都能夠使用？謝謝
+
+https://facebook.com/1403852566495675/posts/3291540217726891
+
+[]
+</description><author></author><pubDate>Fri, 14 Oct 2022 23:40:43 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3291540217726891</guid></item><item><title> 程式導師
+長期線上學習-網頁遊戲開發
+學費$500up/hr．看經驗</title><link>https://facebook.com/1403852566495675/posts/3296158550598391</link><description>學費$500up/hr．看經驗
+
+https://facebook.com/1403852566495675/posts/3296158550598391
+
+[]
+</description><author></author><pubDate>Thu, 20 Oct 2022 09:55:48 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296158550598391</guid></item><item><title>科系到資工大學二年級. 語言是從Python轉到C++, 到學校真的聽不太懂C+</title><link>https://facebook.com/1403852566495675/posts/3297415320472714</link><description>on轉到C++, 到學校真的聽不太懂C++的物件導向(但有學C++的基礎語言. 請問有沒有人可以當家教(收費的那種或是指導我.
+
+https://facebook.com/1403852566495675/posts/3297415320472714
+
+[]
+</description><author></author><pubDate>Fri, 21 Oct 2022 21:52:08 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297415320472714</guid></item><item><title>陣列含數個錢的面額，跟一個目標金額
+
+問能湊出金額的最多的面額組合
+（不重複）l</title><link>https://facebook.com/1403852566495675/posts/3296760493871530</link><description>能湊出金額的最多的面額組合
+（不重複）leetcode有哪題類似的嗎
+
+https://facebook.com/1403852566495675/posts/3296760493871530
+
+[]
+</description><author></author><pubDate>Fri, 21 Oct 2022 02:37:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296760493871530</guid></item><item><title>老師限我們要用Switch寫如下程式：輸入0～99的數字，在不同範圍（如附圖）各</title><link>https://facebook.com/1403852566495675/posts/3296571837223729</link><description>入0～99的數字，在不同範圍（如附圖）各輸出ABCDF，請問該如何表示輸入0～99的範圍，以及正確的輸出字母（我的程式就像圖上那樣只會出現ABCDF，改很多次數字都一樣），謝謝大家🙏
+
+https://facebook.com/1403852566495675/posts/3296571837223729
+
+['https://m.facebook.com/photo/view_full_size/?fbid=1473360079845278&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=1473360086511944&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Thu, 20 Oct 2022 21:51:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296571837223729</guid></item><item><title>ipt
+問題：設計遞迴函式
+
+輸入：n 一個數字
+輸出：一個陣列[n至1］
+例外</title><link>https://facebook.com/1403852566495675/posts/3297288247152088</link><description>一個數字
+輸出：一個陣列[n至1］
+例外場景：如果n &lt; 1，回傳 [] 空陣列
+
+function countdown(n) {}
+
+我想不出在外面不設立陣列的情況要怎麼做到這題的要求。要怎麼讓相同的陣列在不斷遞迴中存續及更新？遞迴的傳入值是數字而非陣列…
+
+https://facebook.com/1403852566495675/posts/3297288247152088
+
+['https://m.facebook.com/photo/view_full_size/?fbid=5489908344378267&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-MhCcjzjPzGe8lTexFr8oz_o-N_7wq3siDeCY_9ZnMRP-eYZPsIpL0KQeAuTOWVmf-KecNj-V4DMwFY6OqFYUW01g48DJ61jJgJfqJNhRzL5sS-z4ehfg5x3LK5uL6nQhgmSxhnTyBdN681mXHzfdu3rhPJ1F5COf2wRQluLdvfIrdfJzOQnpkg2_mLJDxPs-LmGB_w9rGsRzsfvsCOJb41fDr-AUlLG64ekbe5qn92HNwBF1mf-hUd0awN_gV71D49iW0qWgR75lpDj6-M4cpiMtzVmTqVtgpYahYx58OeRJJAh30zGNytIyvRKpWFG2KbilIbLW_O0JyhpgHGePZE1EfzsJG5VEToUXEqc75Aylv-850Kxt1ikv7lZ3Ev5F3n7u-mLmH09I1R0ACdtKmse5RM_pysgv4g-oPPxbD3IOM7WXAZO7l1Sj0Wy5nZ5Vd2S2ihIf-1uyG1g7RK3gbLIf9edquot6VaROY8sfDGvUjd0usJmhm22KL57lX9LcTrc25PVtXhn0ZtbpPbBQfR_y0LllMNUDupK_yhHrtaboX6lW4uW6bi2j1nvfj5XR6NJAYMvMFAxv9QwECZIVWSMqNfrSzesSo11-4leYwMqg8M5ry9aCydPdOjrKVRv8dF7vrWSK7eZ_WOjJ0VPdFogaVWqsaKydZYKKsPFvF8XFBvaGIWPC8hGKrDMlnjcbU532mPsfV3Z_aO78LmCDd418rtAiEshd_jITAMM0dhPQN3RGc6tv6KM2XMgPCYgo24kH5PLgubGS3w5witpzWiYxZu0TuzgjaSwpsOyxKkgHn6d4QhU4OXxj87V36H5HfC8hhIt66zarklyeT8w0h7SMOGoFH8Nv-5ec5o16sm_WtBXgkFtnaI3YGCshWBDUtBofU4ZOqDsQlB8cPtxKwGwyqD9KF5jgSNmCPQkDfTZEYddqJ8qbKaqgEZ6tXBp_LrMvVy_rSl4WS7xZ67BuIE4RAX6FrGcqYAkUMaX6uPnTt_CegN_F-TCj39uXxL53YfhXXyYDNwjmHH97VeBqbmB7Nu2yXIJLAZ7PrtelAEZfqme8aAbpRK928S4XUC-blvPSjtUPSTHb5QlX-ZJeXOwd7VU0EZlnloX6Z0Lt2Yp0&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 21 Oct 2022 18:52:32 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297288247152088</guid></item><item><title>pp bot算前端還是後端的事情？
+B. 前端和後端之間是中端還是全端？
+抱歉問</title><link>https://facebook.com/1403852566495675/posts/3296603853887194</link><description> 前端和後端之間是中端還是全端？
+抱歉問笨問題，我只是學生，如果問同學這種問題，一是他也不知道，二是說個好問題就沒了，所以問線上社團。
+
+A conclusion: bot是後端，api也是，chat app才是前端
+
+B conclusion: 沒中端的說法，全端等於前端+後端
+
+https://facebook.com/1403852566495675/posts/3296603853887194
+
+[]
+</description><author></author><pubDate>Thu, 20 Oct 2022 22:35:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296603853887194</guid></item><item><title>=3, 10=1+1+8 = 1+2+7 = 1+3+6 = 1+4+5 ...</title><link>https://facebook.com/1403852566495675/posts/3297485513799028</link><description> = 1+3+6 = 1+4+5 .... 等等所有的組合
+python可以正確得到答案，但用c++卻會跑錯，想問c++程式哪裡寫錯了，謝謝！
+（註解的地方是python)
+#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+
+// k = 6
+// def a(n, m, l):
+// if
+
+https://facebook.com/1403852566495675/posts/3297485513799028
+
+[]
+</description><author></author><pubDate>Fri, 21 Oct 2022 23:32:10 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297485513799028</guid></item><item><title>一直發現奇怪的問題
+main.cpp 和testtest_cases.txt明明</title><link>https://facebook.com/1403852566495675/posts/3297501860464060</link><description>testtest_cases.txt明明放在同一個folder裡
+可是不知道為什麼我寫fstream file("test_cases.txt", ios::in);
+vscode的g++會找不到檔案，但寫成絕對路徑就找到了...
+在visual studio 2010就可以找到檔案，不管我用絕對路徑或相對路徑
+
+vscode是預設在哪個資料夾找檔案啊? 有
+
+https://facebook.com/1403852566495675/posts/3297501860464060
+
+[]
+</description><author></author><pubDate>Fri, 21 Oct 2022 23:51:43 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297501860464060</guid></item><item><title>，可以請教嗎？</title><link>https://facebook.com/1403852566495675/posts/3296516900562556</link><description>
+
+https://facebook.com/1403852566495675/posts/3296516900562556
+
+[]
+</description><author></author><pubDate>Thu, 20 Oct 2022 20:33:44 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296516900562556</guid></item><item><title></title><link>https://facebook.com/1403852566495675/posts/3296518787229034</link><description>
+
+https://facebook.com/1403852566495675/posts/3296518787229034
+
+['https://m.facebook.com/photo/view_full_size/?fbid=3287246954830925&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247008164253&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247068164247&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247144830906&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247208164233&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247281497559&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Thu, 20 Oct 2022 20:36:27 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296518787229034</guid></item><item><title>ython
+上下兩個判斷式應該是等效的，想請教為何上面那個判斷式為什麼不能成立。</title><link>https://facebook.com/1403852566495675/posts/3297445957136317</link><description>想請教為何上面那個判斷式為什麼不能成立。
+如果想將下方判斷式寫成一行的話要怎麼排解
+
+https://facebook.com/1403852566495675/posts/3297445957136317
+
+['https://m.facebook.com/photo/view_full_size/?fbid=1169700520635173&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-2fLUySkUoLqLzwP2B04tOSrEqSz1DwSWF206BhHC6PTwbMyYgr8HSY3BKz_2jjuPqLWSTZDV7-0eaRFklneAG-LwjeAvz5693_o4zOxNU-ORn79oZy-ynDPKP0r0iiDFEIRHP-I4KTaGjmNcvboyNhLCT-4qShjXeYbsttZnD1f_ra2Eakacb7s7B4LS5IDKHUciBQ80YekQCnwWL0zAkXNfxZEQly7mep0YKxpjU-KVtQoR2eVmrOfeF6fCBepx4b06uyByPYGqHoovJbPfSXjEbJjcj63iMdjFhidZ5z6u7G3AlyIzi36t1-XgcesNl_Wp_y9btICrG8VryNiezIaZwD3Z_iTSppLHwlfiGP_Iq3FktXzbYN65SvqtWYlkDgAP0iuATkocwNERHuo6YjmWvdjBxr_FTwRpDxR95nYSmnZOhG3EICqBt6CEYs5Vz2GeP0yja47zIr_Xgtl4O8hZa4pzw4fRjxl8ppjxgtv1N5WKL4UUDPFduY0P1v_Zdq7RLK7M9UZUi8XVRPjep1qKuobNF8yj5CSdQXr8O4UvtiEIVOLfmGsev7aLIpPTddwb64Os91hB8fCGuDQFSW-15KE5S3l016QHP2j_VDKPyCkxIj192a-8s7zlnAZS9s4hSKih96LBEqGS32Zc3Mu5hAmImy9l6Rb0zDKfw9e39Sd_zvHmMvUbT4SA10yilvhiEFIxE-c3emLmWaVU4D9_LABYTGdXy7h8_v-d1y6YTISCTHpgJWVRjJh7b57l0-vx7aaCFEHnYEIBtyA-EBB5D0Y8q6JlquluYb3oDaBIrma1tUq1pwipL-aO2sOeSvP2ImEjkngjzq37lOdQe8W4Wb-ER7Hs4Bi0JPg1OVLC2y9352Te5U1bylDJyuNaADkgPYXETytddYqEHS9dcCza8xFbbre0V2BG1o0LMpH42ioKcWSgIurjg32-tCR0EQIy5CzD0-Hjsn9yoptcfNZst0U7EsPszsW-zxcE8uU3COTYt7XjtbbMHWf1IIfYeLP_hyGA_qQMsP7n2tR0Kn2-c2dtdOK-ZSqUEtpHsVGMy6fnpDFJxrY0P8Y94TBjbkvJaAr92XH1eMMKDvxFJgNXBl8U-1snqyUndnK2APxM&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 21 Oct 2022 22:36:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297445957136317</guid></item><item><title>trending on GitHub!</title><link>https://facebook.com/1403852566495675/posts/3297449050469341</link><description>
+
+https://facebook.com/1403852566495675/posts/3297449050469341
+
+['https://m.facebook.com/photo/view_full_size/?fbid=10160262153914592&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8MpccrMoXvaFXVVTyRKywMLNywzXaiz18x3_e6gnXM-iAnb2FHrcI08cx7WM99T5Sh-sQ1NPFXqi_ZQvhmdFOIfril3sZPOisXizxDeHybIOki0u-f4l1-VwU3EHEQsPjM4vCy0kdoMs0mxpElG1MMcWa-0FzINB1vHa6F7Eu1mE_qLAqVwm4zlypI9C7re6Of0tRlOjd03XirJ8p445pFMmen2D_lfoqu3t7pdoe1NmQOG76ikUaAvTjh4mo-tVSPrv_S2vTqC1f6Lq1GO2GfTvh9sMH2oyJR8YWthUX60TbZxrUWKe1Eq0b8k-wbmO2Nf9UcrhYDO65DdXuTKkfH0bVRjfWNH7i9sKcJus3sbFO4xQrQIX1Mxx-6vzGa4yFTcTBR0bmBl5P_DULzMNbO6aRHWjoIZTXOXh21TKinK4JNJFvtRgrJjQ5D6b8_-jjMw10Iu5djQh472fqQNhkWZBEl3qA7LZ9OBVEL5INmB45bSPFE-Lhnd6_vAoqrkmfYovDJiYldvpuoFKg10PcE7bS_46h9qhpnsDnZCZ4W16rOP__7R2x1ZobthdanNMFnZC7HN0Jr4C8oslkjkf6H0HG29nCz1YVOckUKy2IIR-EI-QANbNUU5UKPUhmQ5_HYgPO6b00DEfvWepvBk6JdUMa8aLb8EKzSs9NuZuEJsr4OCqMigBW7qGADDaa5D7sfgPBa0RyVknOpiAkmC6saA4P6ruMP7v6-tms4C-AqFwqpTKRAFm5Y_71bcuqDVZAoJnoAl198NU3D8V04AmNB0QwgLztMXTOFWMcZGULGICOvfX0ITThQwZJbwM2qaWFPGTsIGXr6eaYngfvDJjHofTNXKAmczZ8gAJvNYrCP_hLPhdROlBtIMhTSO3GAZK3pLt9ZolOS7DYdz6Rp8QWQiLrPQXV0nVzCUxslpBU7ShW4Cb5LK12vIZuwqYcXLrVq7gZJpGz4FHoaksiTpjDoNK1gRTWUdyS1RxnRGBzctYLru55X7Ay0VxjN_jNQfm2bhv5X80pS_DdCuyQvoqTq6Iv4vFOscPqHY7yOSqn5Kp5Gp1i3IjbeYTlGLabSesvpjXKmFmsn5n6TDDNN3FTr&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 21 Oct 2022 22:41:13 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297449050469341</guid></item><item><title>先進,小弟在網路上的視頻學C#
+第一張照片是視頻的操作
+第二張是小弟的操作
+第三</title><link>https://facebook.com/1403852566495675/posts/3297345787146334</link><description>片是視頻的操作
+第二張是小弟的操作
+第三張是Class
+為什麼視頻用using沒問題,而我用using就有狀況?
+麻煩請各位先進幫我訂正,非常感謝!!
+
+https://facebook.com/1403852566495675/posts/3297345787146334
+
+['https://m.facebook.com/photo/view_full_size/?fbid=6051470778199145&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6051472504865639&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6051472858198937&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 21 Oct 2022 20:17:41 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297345787146334</guid></item><item><title></title><link>https://facebook.com/1403852566495675/posts/3294809864066593</link><description>
+
+https://facebook.com/1403852566495675/posts/3294809864066593
+
+['https://m.facebook.com/photo/view_full_size/?fbid=5012315468870418&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9TuK1dRsAhgy7YSdQN8JMyHTZVtFD-rQu00pMdz00DtnxemRjgiNbhqEAHkKjRwxUSC3_n2g7GE6GnNEWNaLNWbIRZYiVObEvbOdAtohXxZCFGIu6h_iqbZkQ1PWVAHK9fQE2jtSgPSZI4Q9PfGSW9FbJqHz1B3KvpcezZbHeKuRBUozIli9k-nNvIfTr_JoCq5JK460JZ-KNNfFxDp6_EbSsMYX2xPMN8iwUg1nqUsUuHwxsahnPXXKDkgGK5LifmaovFhVWSDgYfYCVcUNHhgfQaqnS6dPWddse7l6gN9hiPtHBAyNLQ5sfjYdn77ueSpBC8xje_7DRzXOK0KnH2XWksPtPdc2wsahctaYw_UuVGKMT2jbfVOBktPDszZkNH3gYn3A6U5R0ugaF0mFZMpfWxCt-UjUJcAO5CNF49i7gbWeTmxO9_UNxSd9D1KwTsUUmcqm4KCoWzlys2Du4r8y_K_YbSJrVfjpgiWzBkBl3V6xHfOnvi5y2Ghy6MI5bD7zR1SPs2Gax6IGhG3JVZS0AbksFP4RCA-eUjvZLKZQoB5-09ZJF6cSJVZfap8beZ1OspWTnu1CIgLR2fT5PGjYoR12OsDCHEVPmAFJDrkYU-7Q4ts9ovNjQbdG3pU9h7EuiC-DYKjG4EgpWjIhmILy4Fp1eTwO1_hjQNvrtOsdZTFnCAua_ZVaI2HeVbR71o9fVKJbnsdIgNSTMHiTLn7vyDsAycnQL4C3JNKCThT59F-tXsmfaIWJ2wtLSraQtIbC3sxD0zgFhQR4nUSyz5dTCxl-EBBz-dE-ktiLqqghTxp4y6OCrEPlZLN5O1AKQdVY7o2AKdLatK3aYge9wzN9s4XYKgv1HeJsCEiuzyupL61StmEC7cjV8r1Um_rewxzuj5rKge8hg-FO-rQ1f-uQQq-T21bPT0FEFZW2JmO76wNU0weJA0J81fiJm8YIyoArsiANNhfU9eN7jNXwrr1cMxZoo9Ofcb95RrNmSmhr0mF2lnTRCRwY8ZhCV5MsmsPRvQsIIF-WP9Y8C3MPnXcfNA-0KNeodCiSav2C5PFfanz4SYDethO8MQqY7vEBX-hrikqNjEz0-GWmExTcrnVDDm8m_VLgU71SxYb3VpqDY&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Tue, 18 Oct 2022 19:40:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3294809864066593</guid></item><item><title>個line機器人 但我想用heroku串github 但好像不行 有用herok</title><link>https://facebook.com/1403852566495675/posts/3297223687158544</link><description>github 但好像不行 有用heroku cli之後 他說引用失敗 有什麼解決的方法嗎
+
+https://facebook.com/1403852566495675/posts/3297223687158544
+
+['https://m.facebook.com/photo/view_full_size/?fbid=4995739570527525&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=4995739680527514&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 21 Oct 2022 16:50:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297223687158544</guid></item><item><title>習機器學習與深度學習以及Pytorch,基本上是個小白,有看過一些機器學習的基本</title><link>https://facebook.com/1403852566495675/posts/3296690293878550</link><description>基本上是個小白,有看過一些機器學習的基本知識(台大機器學習的3~4個影片左右)
 
 想問一些比較基礎的問題,但google了很久都找不到,想請問各位大大
 
@@ -628,148 +746,49 @@ https://facebook.com/1403852566495675/posts/1416740855206846
 https://facebook.com/1403852566495675/posts/3296690293878550
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=2092756160908052&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=2092756004241401&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=2092755864241415&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=2092755740908094&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Fri, 21 Oct 2022 00:41:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296690293878550</guid></item><item><title>pp bot算前端還是後端的事情？
-B. 前端和後端之間是中端還是全端？
-抱歉問</title><link>https://facebook.com/1403852566495675/posts/3296603853887194</link><description> 前端和後端之間是中端還是全端？
-抱歉問笨問題，我只是學生，如果問同學這種問題，一是他也不知道，二是說個好問題就沒了，所以問線上社團。
+</description><author></author><pubDate>Fri, 21 Oct 2022 00:41:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296690293878550</guid></item><item><title>目前要對下圖的ProcessingPN這個Function撰寫單元測試
+裡面有個</title><link>https://facebook.com/1403852566495675/posts/3297214350492811</link><description>個Function撰寫單元測試
+裡面有個GetInstockTime的Function
+(圖1.)
+基於只測試最小單位的原則。
+所以並不對GetInstockTime這個Function進行測試
+所以把這個Function進行Mock做假資料
+(圖2.)
+結果發現如果把ProcessingPN_Ok()裡面的更多
+partNumber這個參數如果跟_mock
 
-A conclusion: bot是後端
+https://facebook.com/1403852566495675/posts/3297214350492811
 
-B conclusion: 沒中端的說法, 全端等於前端+後端
+['https://m.facebook.com/photo/view_full_size/?fbid=3273684092854667&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3273684116187998&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3273684122854664&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3273684086188001&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3273684089521334&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 21 Oct 2022 16:30:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297214350492811</guid></item><item><title>的問題!!!這個是作業要求,註解都在code中,debug不出來一些錯誤:
+1.</title><link>https://facebook.com/1403852566495675/posts/3297090927171820</link><description>de中,debug不出來一些錯誤:
+1.我試著print出item陣列發現前兩個元素都沒存進去,陣列長度也會少兩個
+2.想要把它利用基偶數項分成兩個陣列但是一直顯示 會超出陣列範圍,怎麼改都會出現錯誤
+希望大家給予一點建議,非常感謝
 
-https://facebook.com/1403852566495675/posts/3296603853887194
+https://facebook.com/1403852566495675/posts/3297090927171820
 
-[]
-</description><author></author><pubDate>Thu, 20 Oct 2022 22:35:54 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296603853887194</guid></item><item><title>老師限我們要用Switch寫如下程式：輸入0～99的數字，在不同範圍（如附圖）各</title><link>https://facebook.com/1403852566495675/posts/3296571837223729</link><description>入0～99的數字，在不同範圍（如附圖）各輸出ABCDF，請問該如何表示輸入0～99的範圍，以及正確的輸出字母（我的程式就像圖上那樣只會出現ABCDF，改很多次數字都一樣），謝謝大家🙏
+['https://m.facebook.com/photo/view_full_size/?fbid=2709378385862541&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=2709378502529196&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Fri, 21 Oct 2022 12:23:43 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3297090927171820</guid></item><item><title>運費60喔！711或全家～
+完全沒有打開過..全新！
+💲售💲
 
-https://facebook.com/1403852566495675/posts/3296571837223729
+1.金魚都能懂的</title><link>https://facebook.com/1403852566495675/posts/3294688297412083</link><description>過..全新！
+💲售💲
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1473360079845278&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=1473360086511944&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 20 Oct 2022 21:51:37 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296571837223729</guid></item><item><title>齡預測分類的Ai，目前已經有資料庫了，但是我不太懂物件分類的model要如何使用</title><link>https://facebook.com/1403852566495675/posts/3295016677379245</link><description>是我不太懂物件分類的model要如何使用
-比如kaggle貓狗分類的程式碼是可以套用在年齡分類上嗎？貓和狗各是一個資料夾 那我可以比照10歲一個資料夾 20歲一個資料夾 用同樣的model去做學習嗎？
+1.金魚都能懂的CSS選取器: 金魚都能懂了你還怕學不會嗎-💰380元
 
-https://facebook.com/1403852566495675/posts/3295016677379245
+2.打造最強網頁UI/UX設計腦-設計師都該懂的絕佳設計．溝通法則_秋葉秀樹-💰280元
 
-[]
-</description><author></author><pubDate>Wed, 19 Oct 2022 00:57:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3295016677379245</guid></item><item><title>ual studio 2022寫 C# winform .net framewo</title><link>https://facebook.com/1403852566495675/posts/3293864124161167</link><description>winform .net framework
-透過右方加入參考加入 第三方dll時 下方圖錯誤。
-也有把CsHis.dll放在Debug目錄下了。
+3.JavaScript概念三明治：基礎觀念、語法原理一次帶走！（iT邦幫忙鐵人賽系列書）-💰380元
 
-https://facebook.com/1403852566495675/posts/3293864124161167
+4.PHP動態網站系統開發與Laravel框架運用-💰480元
 
-['https://m.facebook.com/photo/view_full_size/?fbid=5420140101426500&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9CbtJIsCzeThOO_I9rKA4Bw9Mq7ulxaceK-6_rsUcuh_dh408vOlGqjKszaXI6gtPHkSCQq0z7zGabFuufoKSUr4sE4U1Dn9VIgwOWU9jzabkHUNVvz3BHBrdimAwtTawUQRGHtYwPLIsAgacd0wdDo_3QyWLjgFcGjvsajLXK0JitQp5D5Xin78rN95sF3pSffXMEkawezPrkidPs9fb1W0kwRr4H8f45Ya1Ebqae_ulO_a8YzIEUvSE9viYjXVqqeDUHv5Y15_xYWrYmzI2RA-LcPB3BLKEvaChye1-IdEKPMPrrgPDBa68bMqusanCR9g2M8gUnOVwvKfX4QiBN59cQjA6LbuYPQDzNkgudG9MTCwX-CgFORRAV6B_UD7qvBYyzza0yQcvWis7G5KpROtOv39vfcTPA-rkqJTyTtZ18955SQwGOub_biKtHnVcS5fJJ0ASZllBMPlSWYKQSCnkDbPOIsmWrWZiVgD4M6RjzRiWcjL5K9brQcQb_MzEr4KhlbjZQSzzTQxrexB09oj9CQElnkB6dC39f7tkVWVrjayDUQzqX8-lpgkj68k0PUPYp4Mg7dGYBRjCZSgZ5SLWKPsToayLXwHv8G8CTusuwSPAvMETrhSo7r0BsB25I60-aI_6HplQj1d-x-wVQ0bUfTvv2OYpvbnv5x3bthrWc0Aaj9bblRHgFHtGliqUIW8o1PiHi4nVVWS22PGXh5eVdHaR0dRQBHU5OWhKWAP6oJbFt30J9zgMfFHHKSbFu8Rx59mKjXlb1Zb3RluF2-CPYBPhAlK9Vh2FdMFR8utHA8f9EBMG4MmHQZivv1hGLy6P1b4g06_W3w76Bgm-k1lH2SREEj0oMISFuy5EUnVv3q2anlMyOWGsa8rPcK9oEAOs8ZU6WYBImhkbJO5EywwqwW0OvpCSivZb6x0La4DdE6SVFko_lt5QlYMz4UdGQkl3aisdLyzy4E0keDCst-7bULfSMlfeyQoH9r6fO_sZHV5MV1CY83vpbyreXh6-L7lEPscQbiEWHBJkmsLqbwEQzTIPTczAue3fMFDUSXhhrjoGEZiDXHXl9hEU5GEbg9iugwFNQmQfbIwzyit9p9Rz98_mIz2vbtS2iu7f1g0s&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Mon, 17 Oct 2022 18:04:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3293864124161167</guid></item><item><title>it test嗎？
-要怎麼寫出不會綁定環境的unit test呢？
 
-我用過vi</title><link>https://facebook.com/1403852566495675/posts/3296667777214135</link><description>境的unit test呢？
+https://facebook.com/1403852566495675/posts/3294688297412083
 
-我用過visual studio code的Google test
-可是Google test會綁定vscode
-
-我如果換成codeblock, online gdb等其他環境時
-就沒辦法用一樣的code了
-
-https://facebook.com/1403852566495675/posts/3296667777214135
-
-[]
-</description><author></author><pubDate>Fri, 21 Oct 2022 00:05:41 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296667777214135</guid></item><item><title></title><link>https://facebook.com/1403852566495675/posts/3296518787229034</link><description>
-
-https://facebook.com/1403852566495675/posts/3296518787229034
-
-['https://m.facebook.com/photo/view_full_size/?fbid=3287246954830925&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247008164253&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247068164247&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247144830906&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247208164233&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=3287247281497559&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 20 Oct 2022 20:36:27 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296518787229034</guid></item><item><title>人可以教我嗎</title><link>https://facebook.com/1403852566495675/posts/3296537320560514</link><description>
-
-https://facebook.com/1403852566495675/posts/3296537320560514
-
-['https://m.facebook.com/photo/view_full_size/?fbid=1593407181094969&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9tCviQBiaKZomf7bTRO-PMjtm32rGigLreeam2iOAOhWpMUECT_wojeqKkQvg94qVknT3teYpg5PytVLVThXYflDHEfWwU6sojhQhus6p-nMTPvqY8H6gs6O2rYtGu-9wmlfZeDyYDgs4pCVBkBiQURcvQRuLWwmL0f76ZHQAUIgpkA8OwiMvCQ4tuVy3hRvra9pRXKL5GMBc5NkyLVqVk9fMCC4tefdApb_bp_xIsnovLp2jbIzzbyPdvHm7HCN27pHqWigitePyiiyoMiAg9UcE18omuqNiql2zAjubCjdCaS4Q9sllCawpqYULPtpwwc6YbD4nNKUnmQBgPfPDVfEShP22tISdu8roy9LgKjMFmODflSbN_L2ubhXhD5SgOba74se8fET4CNbDST5qcoO1S7a13p6AFRrdYGnVoRLP3AiVHbpTFPzlvlCqPSoaUFOPHvZ8mJGmA6HrjnvdGpZ3DKz9lt8FZJ8_-IEN4hOWboy4w4EbZXNQiaC3md3-v8zgEbZh_wX2DnBraQ49iKe-9TKiAwgxQP1n7C9Kj7vgZOTlLSnnFBmMMdH9iiMkxr24jIatCHXnRMJ1_12utHjjYP4RuVGie4XeF-yT97KyafuwPZSuyfv34pYks7o-a4INs9XahP3_n3JX3J_a_MPn2H8LsW7zvlPsqLt2GfhA8GAf3cHkA6a20dIWdqtfQT9CtYhqBrC2TMAB7sJNQYVR6GaxfNqZyKXDyqrjnHSFBe5PEFKZBK4rltgM9b52mgqJK9XEO1sqHHOzhTziNZkOHJHG4S2W5qgUe9IZ1lP8D1kO01qos0Owqjg7wpcTTc5bbo54bg5ERV-vMXZqOZFlOnpNyEY7yrNpRxFx68hNlfhzT6sWwCN5_9XEjucpkWDGbFui_Nio-ayuM0s1Ehov5Tl-6G3lnPpwpRj3mzsqzgy-yNffnJLciRHDuECWqhqpf6_PvRho5ebtteyUL4Y9z6f8SPdo_eByOwb9Uzl8MDRTmVW3Lw_zmFWtRFc49YKWPnPR_SlWrl_RYedQOdklMlWGN7q9ZDpAmrUMYqCYPqze20nJ1eLlpGxPDJz5WsTFSSC7NQRj48_0ANVqZ_RyPItzwbPUV4JrDlqwn4ts&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 20 Oct 2022 21:03:17 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296537320560514</guid></item><item><title>運一個系統外層是C#的網站架構，但模組是公司外購的JAVA核心流程模組（已封裝起</title><link>https://facebook.com/1403852566495675/posts/3296573367223576</link><description>公司外購的JAVA核心流程模組（已封裝起來看不到Src)，今天系統噴錯跳了這個訊息，懷疑是JAVA那層回傳的訊息，因為我翻了LOG也沒看到任何問題，不知道神通廣大的各位能不能給小弟一點方向，或是曾經有遇過這類的錯誤。
-感激萬分。
-
-https://facebook.com/1403852566495675/posts/3296573367223576
-
-['https://m.facebook.com/photo/view_full_size/?fbid=5365235656928830&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-hJwca_9RlXP8Dtlzki-szpDQQ8q4nTk2msrq4LLOyXyHOI4zu_2cDlmepPV1dOf3aVTskvh235ZjyRsLKDL3KsdAH29b5391kGIWouSx4fXE_AoWgusD9gFOpzvAJ7diFMjbmVKgflchztkzhcWic-Zd0vWZRBA-oEdjWWF3Q8mZaI4jL8z5Vyvh6drM00mBAFXlZZcmdEMgB5Cw0dJ-3s1RyieXWc3fBNWNLkY37R2_eA5mDFrPPFZU_D9QmvT13xPxxkFPd5Em4voaFypiVbvRU9bOIVbp-YzYRNcc798H2kctn7mhSpYP-SRzgi-MB7f5sWWhWsgG-6jnR91aa26FaVACMMxotxYC83lzoP0PvPAkAlr4Q4MMvEfLPA-FAdFSf85u7Yi4skjy3OyeXBVHGslf_IDJVpvF-vPrZ4BSH3BTOG8bNxx03fivdeVaF6Rv9DcFuOTzZmdEh9ocBOEYH7YGXIEAp-oGQZXBqLgn887TPhq0y5lXRss_MVwru9-XG9zn9cTZltEmul4fUAdnSzW1IATKbr6TFTKq8dDJXYt-NC1J0QqQrh1HYXt7s6yNpnaXddrJLYRc6B1Gdxcmjbep_kO9ZuO1rOELGaxm3rEPMl44XH1l5aErlyc8me1y4t1bSORCTs6mR3cVHRXzZvhZvYtPhzp-M2k-O6EaKSvVIbqbVVZLr8UD_V-KkUqFMFxi97QQrX54SNDwNgqE507ThA9E3CfYWZpxv4oRvPETY5fTEB4fd3q6JugGgKzhkEFPXD_UpBN5LqRkQpb92ADqzayQXqQfqpJVm4jpCpePxcd5R3l4Xo5riNzfqzWVhY48BzldE6EJ3rG4rrduPXkEDve65FNVvwApxKwNLW4K9Szi27AoNRC8zvjuwfOHQwrXKaxrecOY9SBhMQZz45gjnEB0beosdcsdN4GP5p3jtmrgbcJ6ODa19wblRSU3mDzZBJI8i1JEUHYz6ygEbmJ-rhQsHI4sOgRbvyVBWK_lAjJerT1HT_tr0r8vAs3ApYCKEesjWXYccS0UErHWNjudeAmZv68idJvruuUGivvJ9gYbUoOWnbdQf5__rYD_pbsQvojvN6LW5Qyo52EDGKm9l0ea_Y4hngrk18kA&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 20 Oct 2022 21:53:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296573367223576</guid></item><item><title>，可以請教嗎？</title><link>https://facebook.com/1403852566495675/posts/3296516900562556</link><description>
-
-https://facebook.com/1403852566495675/posts/3296516900562556
-
-[]
-</description><author></author><pubDate>Thu, 20 Oct 2022 20:33:44 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296516900562556</guid></item><item><title>名的轉職專班用書
-已經不需使用 有興趣的請私訊
-五本全部帶走1000 含運
-南港</title><link>https://facebook.com/1403852566495675/posts/3295440777336835</link><description>請私訊
-五本全部帶走1000 含運
-南港內湖可以面交。謝謝
-
-https://facebook.com/1403852566495675/posts/3295440777336835
-
-['https://m.facebook.com/photo/view_full_size/?fbid=5945856408781801&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5945856492115126&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5945856528781789&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5945856625448446&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5945856438781798&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=5945856582115117&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Wed, 19 Oct 2022 13:52:32 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3295440777336835</guid></item><item><title>什麼輸出的視窗都會秒關,本來不會</title><link>https://facebook.com/1403852566495675/posts/3295519343995645</link><description>
-
-https://facebook.com/1403852566495675/posts/3295519343995645
-
-[]
-</description><author></author><pubDate>Wed, 19 Oct 2022 16:22:29 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3295519343995645</guid></item><item><title>!
-heroku部署成功之後，我花了兩個禮拜研究為何python無法使herok</title><link>https://facebook.com/1403852566495675/posts/3296296720584574</link><description>禮拜研究為何python無法使heroku的網頁開鏡頭?在本機測試是可以的但heroku怎麼用都只有空白，請問有人知道要怎麼做嗎?
-
-https://facebook.com/1403852566495675/posts/3296296720584574
-
-['https://m.facebook.com/photo/view_full_size/?fbid=812765816540577&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=812766296540529&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 20 Oct 2022 14:09:02 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296296720584574</guid></item><item><title> 程式導師
-長期線上學習-網頁遊戲開發
-學費$500up/hr．看經驗</title><link>https://facebook.com/1403852566495675/posts/3296158550598391</link><description>學費$500up/hr．看經驗
-
-https://facebook.com/1403852566495675/posts/3296158550598391
-
-[]
-</description><author></author><pubDate>Thu, 20 Oct 2022 09:55:48 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296158550598391</guid></item><item><title>
-各位先進下午好，
-小弟初學程式設計，
-因爲是自學所以也沒有朋友可以詢問，
-想請</title><link>https://facebook.com/1403852566495675/posts/3292960760918170</link><description>因爲是自學所以也沒有朋友可以詢問，
-想請教圖中while 出現什麼問題？
-為何執行後系統會一直列印，
-不讓我輸入下一份資訊呢？
-感謝大家幫忙🙏🙏🙏
-
-https://facebook.com/1403852566495675/posts/3292960760918170
-
-['https://m.facebook.com/photo/view_full_size/?fbid=6243154309046457&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6243181669043721&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Sun, 16 Oct 2022 15:58:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3292960760918170</guid></item><item><title>dotnet6.0的程式部署到樹莓派上，我設定開機啟動，照著微軟官方寫了一份Se</title><link>https://facebook.com/1403852566495675/posts/3294834104064169</link><description>我設定開機啟動，照著微軟官方寫了一份Service,但是啟動的時候都會說我權限不足，請問我該往哪個方向去找資料呢？
-如果有缺資料我會在留言區回覆，謝謝🙏
-
-https://facebook.com/1403852566495675/posts/3294834104064169
-
-['https://m.facebook.com/photo/view_full_size/?fbid=2348930068592559&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_UBTPA4HKU1GtmZR8xc1wFYiulgZ9a1tu-C6f-lw5h9zzxfmzr8ejFV09ifHYlNzjjt-YWv2sa9wOaRx1WEykzF8UelJ4c7-A9KVIpmU7vOOdPmAuAc-oJm6fXaOUvrhKtcG-kUe-8k5T7PkbHh5IBvgNGkDHv53G65JMmKdMf30IrvOeJ32vCm1F340RoiWSDIq5KkfZ9b2llE5qMm9ZtEbA8iyfCEGmAYXwdm6HlxE8vT2glaIOCi1CC2EOP4bqqShqxmBm54QUWbh3n7FmxnXJgyHc1FP8bMJyGQqJesg41VTidaRSZRY7qMb0s_CyPzna9oYVKE4e4mDr27WdPRSsGPcdi28SdbQ8jYOiG1njpdJCLJ3gWOlOnwixRCxLGiJS-E6zKdag_P60NKP4MMgZXsqQ8seoxnm6NPe6-7ccLsPpU_MPDPCuu8xwZ_m5ks4yeSlx7-LcxBdejCWu6qbXcG2COxzCpgm69g1SR88SKAsxp4_91GLTlPhWeS5QixHsRRl-amo9skWFMOmEm7VFbpgO4S3dCtfq7GnW2OVpYEJR_WMHukQKbrnJFEXFlpvpq4ZLu7Eo5koWZcrSBmAajo10gixS4Q8zOOIngRsG4qV6Trt-2vN2tSdV_tbi1gB_kppgaNBhusQ1dAP7bJ0kY0zIG74U0QoQDAGdMJ89m_rqBJapOk8QdctofnPdAUWJC3ZM6Hg9gAXnfx0kNgBvFVXUBCdm8ma3WKLnTX1ocvl8jDLbbJQPopekyCjDFPt8j83rp_cZY_lc1MiuodC_mb30SSjZravy6-wFuyr8aWpGVKhviHo6razvrFhj75ZdlO52pSvYu9LcDZbLtMnr63QMqb4BrTCGMK1_Eq7OmLrqViEFRK73VLRYOWLisqwh1kZAbO6-xhqFGdpD9KYs1Kw7pQqJtTPu41Udw9ZahhEalw-CPlgymlEJRnTsUtYJ5x_PI_04DqV6nFJc1TCsuyrnLGzXYf2jdMRKyCdmDQV5HndUdyMbQ_PPbhU5rgvoLp29geVbH4xO7G_ysBbpOX9T9RbFxxHPidCCCpabGysYo1u2ITMhqvI52AL6SL-tPMkcydoQKpPlxdEEFBlBW1V-ryA9Qt-2xTjf0L1c&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Tue, 18 Oct 2022 20:18:52 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3294834104064169</guid></item><item><title>後兩張是我自己寫的，但是跑不動......(×_×)</title><link>https://facebook.com/1403852566495675/posts/3295552650658981</link><description>.(×_×)
-
-https://facebook.com/1403852566495675/posts/3295552650658981
-
-['https://m.facebook.com/photo/view_full_size/?fbid=498754758802201&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=498754878802189&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=498754952135515&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=498755012135509&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Wed, 19 Oct 2022 17:22:58 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3295552650658981</guid></item><item><title></title><link>https://facebook.com/1403852566495675/posts/3294809864066593</link><description>
-
-https://facebook.com/1403852566495675/posts/3294809864066593
-
-['https://m.facebook.com/photo/view_full_size/?fbid=5012315468870418&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8iXRMY2DP2BVlaOtOnC5-z-rQCKQnem1AoNcrvx0XI2BcIwWIXYjF8vUIuIpjtq10PPdJGhy-6NDzXcxngFQZDBYIV11omQsRs9u-OyQid8eeMTBnLvYH4EKfogxoi9rYVC56AM7oK124jO0RUYeabPNjN2yD8itFMWiCBF2RAihkdOcaztAyxgy-zyq0m-98JcMrofaAE_Y0KO7w57q6NPmDjxmVFPYbqGBrqQDVudmJwRSInVfOQiia5-axUwmt7tE5s9CohDkdYrgr0YaYghQB3PCzj4Q9cuBHkchxwNMiQOPBPljt6Ncqt0Gtc-rQzzuwHzVfsHteMQyjqARQLAj0V40HSk4bzqP5gqZsXS8Ne4321P6NFgorAFNKaYKq1dCV9f5Z6pjjop53qHnVpXGd0qx_21MoHnhUt60IBliZPTZobYCiM1ZKPcKoSw58FZQKOoKTWga05OR5aIal6lVrHJqlncZyonuZHT0IFkRF0MegQG6ELRqfhB53W9H-SLCpF8_nOxamjALwaaYoaxxFAtmVqDVpaKGOXF1WWiea4LQQ7SXCRaUKw8OYERlLg1i28LD1GtwT6cWJjxnzjk_0nwZV2zUh0Ys3o7DWzeXaEy0GGq7WgYUB4TlYXE1fmOAYzojrJNOgpVrP58eUL349JkLqnQiCCsmRoLVmQLBS9NyGAPmP4QX38QWZfNcFEnx1cOseDD8YeRe-wlMJsFTTXJMuP7FJgfynHo_qk-SGodXwwPwllrYz8sRrficW3Bzlhx7kemdHF2XVM1kD_pY0mddFcKnFUtHQu7agFd9PX1H_yqEDYBqX7WiER8uV4KV-\\-\\-gzpTLi6j9Azh3_6MhyQwBitY5NjPloL4N6-KR5huwBStPQr_n6g1gRbXV6_0yUGLCn2KpXUEXGPXuJGZlRodxRXTfJcKFTtARjVYaTj6jKYL_Y3VJwcHJkMKVMHbjd4ZTRK6UZt5sfmg1ec0WkNshh1p8sD57yr32mbA9FYMx6zuhQLheGTPTSC3JR5ahEjIAJgA77-k66n22t72xVe1iS1R9I6DdmO_gdnRufUMjurFX8FUETYH0Gfw-2os-A6pQNbvUp-DPXYGVLRCqRln4kEA7n8JslJ4M9I1Qc&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Tue, 18 Oct 2022 19:40:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3294809864066593</guid></item><item><title>體工程師和物聯網在台灣好發展嗎？
-因為我目前在台南做物聯網的韌體工程師，但想要換</title><link>https://facebook.com/1403852566495675/posts/3295714560642790</link><description>目前在台南做物聯網的韌體工程師，但想要換間有規模的公司，該往哪裡去發展？
-
-https://facebook.com/1403852566495675/posts/3295714560642790
-
-[]
-</description><author></author><pubDate>Wed, 19 Oct 2022 21:44:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3295714560642790</guid></item><item><title>
-目前考慮買這個
-目前通勤4小時 想要在公車上打程式
-教授叫我買15.6吋 因為</title><link>https://facebook.com/1403852566495675/posts/3296325133915066</link><description>公車上打程式
-教授叫我買15.6吋 因為寫程式最好買大一點 眼睛才不會痠
-但我的想法是買14吋 因為在公車上才不會礙手礙腳
-但在實驗室又早9晚5才走 8小時都在實驗室
-不知道要買14吋還是15.6吋?
-因為我回家不會再開筆電 只開桌電
-
-https://facebook.com/1403852566495675/posts/3296325133915066
-
-[]
-</description><author></author><pubDate>Thu, 20 Oct 2022 15:00:50 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3296325133915066</guid></item><item><title>以發文接案或發案，
+['https://m.facebook.com/photo/view_full_size/?fbid=6292557217427719&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6292560304094077&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6292560517427389&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6292560387427402&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6292560314094076&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6292560427427398&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6292560557427385&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=6292560487427392&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Tue, 18 Oct 2022 16:18:59 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1403852566495675/posts/3294688297412083</guid></item><item><title>以發文接案或發案，
 任何PC軟體程式設計或手機APP軟體程式設計以及網頁Web設</title><link>https://facebook.com/1686432621633958/posts/2208771952733353</link><description>或手機APP軟體程式設計以及網頁Web設計的需求，都可以在社團中發文~
 任何廣告請勿po文!!
 
@@ -805,10 +824,10 @@ https://facebook.com/1686432621633958/posts/3272657553011449
 </description><author></author><pubDate>Thu, 13 Oct 2022 17:40:14 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3272657553011449</guid></item><item><title> 😁
 
 小毛網站
-昨天上午2:39 ·
+10月19日上午2:39 ·
 
-#小毛網站 #我要接案 #網站架設
-網</title><link>https://facebook.com/1686432621633958/posts/3277689512508253</link><description>
+#小毛網站 #我要接案 #網站</title><link>https://facebook.com/1686432621633958/posts/3277689512508253</link><description>9 ·
+
 #小毛網站 #我要接案 #網站架設
 網站架設、後端套版、主機租用
 可開發票 作品參考：https://98goto.com/
@@ -820,7 +839,7 @@ https://facebook.com/1686432621633958/posts/3272657553011449
 √貼心客製：
 體貼客戶想法，調整每個獨家需求與深度溝通！
 √成效收集：
-提供市場成效工具連結，輕鬆囊括大數據！
+提供市場成效工具連結，輕鬆囊括
 
 https://facebook.com/1686432621633958/posts/3277689512508253
 
@@ -833,7 +852,7 @@ https://facebook.com/1686432621633958/posts/3277689512508253
 
 https://facebook.com/1686432621633958/posts/3277185982558606
 
-['https://m.facebook.com/photo/view_full_size/?fbid=5961766913848011&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9m7dW328dQfypIVFpXOtfvKYqWEMPM6Gy1TCJsPvDbtoDTw5Xhguhnln6Z4i3BYEH5VS-3-y8qCge7u5TaToVFgAxfPmDOm1iD2V6WvDvBUoilG-_Mzf7X4zzSTECctPNI7VQ4pzKrUMS6hTHN_R2UNwYCsY0Iit2-gHDWlaHqioBLrO96nlHwiFpHBeYC8D-JNi9RFQEX0vj9MMBi8t92l1VSm7rTKYHfeOf20nQlOaZYJr1n1yDpBYBr3CNs_LOJ29rT0mC7LlMDfhMTuwqSDbkylFaEJnJLOYqWRjDf-Jq-\\-\\kNWYAZ_2dOMB3KJgRi7datNPnxYsuI-FmYRODGA9Eu6p3BMcE4JV2BwRBCrQuyiucc2lZtQHjggJJ01dc22Mt74LWxPtO5t9x6aq0pZY-EK5kWtmpJeKxPqw4eAlu2VpMmirBHEFdJnjSX3_4lV0uCbS29Lr_Os4kECVVuiwRRgUBB3ACrXfu4kCGNtP2AjJDJ6lRBBqs0d8tB9J-EbONGWhqopQ9zcUZ3KTfOmuQB5_tZkIIJ2mhbfyF80ayGYqDkWY9kYEQfnUtnJgnmaZzbMa-0vAO04nSGoFrXXyggK0iwXfgzIdS9lm6St1D0iimIARNSmG9vrMkFQ1ZMR25OjGFz-6oNl8wEdhxvOnrHGMzx7pzQm60J-hXE2a6AlqGyk0LqBDOHhsaFEr-kOpwYG__1Zu0N3OdlW5UrpwLkYP8eGeOR3NgpXygun09kdDCJISPIdUQaOZ145cLKcH08isyRVmVxkCT8nSxMOpGaJgGvtoh1muw1PxF4_BvyZdPrNTGRpPqYEkWqFhmh7eFqKoULqt2uMbfXvkYfLe00lfDD9DQqySvbQwXZ9tc38n9Z71RXSem-EFGb7xYC0Z2DhQLp881H8YngAtzvBAuwYZhke0HY7RUtUQSTH18O5QUnbTvc1VjsRlwSGA-zTzznbsNdIU3oKwGug3ijTPFzNdmA5suEuCsluFV6Huj5by3wMS8-I2fzWyE2bWe5SGpUtle3KfGEFFYKnNSEdV8twAAWxJiNKhKyL7gHiYz5zNBu8o5JbJMPXucJOxw7Z95CJ9KJiFfHOdw2yCreZ-HqyRIawf2Us2Ek4NlSXPb4Y-6-z9JBQB7P7rFnPma3KTH0k7co2YYNF0CzC5_PL0OPw90utqKl2_RrP-_lVtw7BCX8GIpH06-R0cLWLJZwbwvElMxe_NX4l8W7CNIrPKpLMT-OeZCmPWrntbBopHaIuBnfnkDlEhvoMq_FGrTVZyu1XfLlgDautGiZ4n-RwNs6NTvvqLT75ND6oUPzrhuBvwGXwnOywjIFLiYtVgASQkP79iUVPvHS-qyhwr_llPSkvwQeH_cyyuS2PquPxlUGI0nufpj0jiPnZQuq-wOIgRtK5aoPNR8xoe0akRvn_AY3zVSTDpNgePI7q-dfkFBvQkArnx7sgdxMcKJhBxUPHwAKgsOunkhzo8kcVDzoqvKBu2IVVO8FunuA_GKMOFRnLIxLg-IPfZCo8IkFTKqJuj9mzd1skZuhgEtEwBO_DT9Rjo3BAld6nG009Ak_xgMWogeIcezZI2nWmvBHspyowyKJbqWFbyxls827mOR4SWyfsyeBakc1JfnJH8EIeeeznyKSzPE6aNmK7nVfgaquCSzShFVann7-ah-de2LqRgI7lNvw-VompszUi5jyqenY1CRmOkF3Mp0tYYJdvwgXo-zzRuIt7ZsHTUTfs7XVUoi9JBmpU8ZByClzlKScajxBImLWgq4ShdLBtR0fys1h6eXpdr9oW6EGk9mWuYttP__w7QI7zcz5Z5vgOmjEPKRhPmd3Ik6bOvf8sncgwM_nt9NjeBB6n15DaHUGTQ-uPLH0GLwoALd65kFa5314EEcq1CDka9c_PYihP162olq6Aep1QYW8tBktPHbMMkux029RuG-ro_R4BTweuQrCK_VCAXIRg7oh9-XPvo4z_nXU6jem4yiw70a_475ZvPPDoJsw4-umhj_WhiRPMTLI_u0TnLPB6QB17ZSN7lgwO9rYZtpaHyqA3a7XiFF7X1uGMHJ6rCAez0sXJZ9vDX08Tdz1D4lNWsYhW4IG4xgVGn_fQPSYt&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=5961766913848011&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-YL8cRF0QKSENZasZ7uRequY38mGPY60B7y-mfQlH3I1axvi8WwqPy94sW9MeCDK_AGdr9750lH_KPgjIxyIsOCDzvV6PECyX5OdPr_Pjb99WuxUtOAuJMXJ4Hxs9MEtXdprbJPFdPzzCCX5uRc9-Z6BlC4QjHzAbZ_geHOqEt_NLbtZ6gPuzJqM3bhPlrYaiAIAsljpYXg1irbzUcGrGL46-Pazn3gL8ocb2CVtjvL-kSWQeA08B3QbQ3jK22oETLLIiG3d9vJZFk9OSH5CsZDQR1O6SVkARTA1UrOtnJ7NVnG0fgStTZTga6OXD81l4RbhpMY0VcoH304KmEMwuzsri0aFRzykZkFEj5JIB-8Gs2UkYqxX90AZc2PdYr6HtCEF897wWzGwp3FTCv9qQyIftyjzVd-yKUJ5OiXo_A7cKonJfcFndpXCxntMTXqglgf7-uQJroLlpQAw6OD7nx6BS-dUP6iawcoUT1OahN_J9M93Yk3oNXNJm1WNFsnncG_tSRz9xRkCJ808DeL81x8l73phFZI9PDiq2MeqQKcBU97Z7PIPPsX56SrZP7bRn6Bgk24CkHZWritrpP1Cf-ArS6RAKgIPMAd8PuxjzAJIR2IgkxycA1k2owaRdvX_FTsubSz-ui2WZm1MuZTAo-16TSRPN3bBB6b7Fjl3CPfLOCLVUBCX4kfVn0GjDDBoAZnp1p3ZNCZ7NiKXYiWVaNVxyfQxKw7W-pdeCPFYjni5LzVsc86jVTyZkCYwHk8AbU-AqBZeaoOEpb1fv4o_jmmGRUSOxzRVy0ihM9DjMdikiUfBNWNJgYmFkxckkfTg2r5KafO_wLRmcoP-DVmU7OypzsX2Y1ZvIcYeh7bPuOIN9HiwozTd-QRCdMza_O7fGRfjJy149YhafQyF_7hw5JjRz6g0Zuz-j14fosDT3aihV65qjCuV2wIYrUbNjXpt-mOOjXjc4bNt9Rgshb4YX9lx6oGlv0VYVgvdZNWFdgjh07fIxeDrhN_jMjIYq77wbsB99XQ8RGvxzEPERTW6xt6dK2LHi9xasMHV7EJ-Va4elcPaY2tUcwKmrhljHDu8_qFkjEyMynh5N83IXs4hbKXyYlR1HdVZH-91G48rx0Ia3PunP1LjplBYDgH_OaOo2I2BxA9mUQUWTXxe0Mu_z1VcidJB_F3U1eGcBvSwt_EmXbDYFgloq9NFZusNNZ15b0PrUvbd-H9Dl0nHsUJunOcX2Lq0UoBX39ytUIu9XpIyS88HGMebIdle714iTnfoq4c1S9SmvrZ0yocIbzyO48Qq4G2dLqyS6k-M1ZdZJ1jrv2dmEAkvHBl8fFfAeuKZHJOvxqPTVjh1dc7mTG0qz_KgNJPAA4BkOkfdz60Rb_pAF3era1o7SElNkNW54lK9ChpjtVZqwevbDmSXR9r3JAXAcqtKeQ3kHNQ5hA_PwVQbZf2XmyabxkXrMrnFhEmWcO6VYPt7tpkh03hA7QOWnEa_qzvjQTsX5RzFRt0xj-BWPdEj_RODQCUBSVqeh0SmeaE8nkhKHG0a-YOBIx-yh3H8GckdSd5hgqXtsexFaJ8JsuW3_h-FmgDzn9NPUDaAzte3GKVNhm0skMwkMWMEkQ_dnW-Xea0-kA9bFwrbK9rhxqpKJ6zkFLrbPe_gaO-Ligau26nvA7ECwRjr36qTvhwqkWtRCymBVcKlscdGNN7NiQCbfMBbtuT6SpZrAGbyQBHrY-Z3v_eLBe3g2Z4snxncz7mycOxIh9beDV0Vk0TvhInk1oE9sWGWpYB-xyrPB5XDodsGcEo37nuHsGR_Ke-xVMvPlIiPTz7rgOf1x5UN8KwmCZl1IqKTq_06z06sTbRwkcS6NlHUpqrycVY1WLGECvRklR_lfL4YfK5ICgFcX7J9v4Tj16Bdy8YFfXjdyPnJuxQBHISIKYncWbIWtBuUV3uQBvqkmVoBKdslsupxJzmAxTxMFNz-xVGV56N3z_awj74HVGpQd9kOJgTjc-0XfRvcbteClu5r2s_6-Dz0adyhKVxrw2lMt95-xYw6-cyXnWiao7_CH5w9TcvsOm-uAOPTNpcQYJLJ3P14zkIKyheDt_u4mfI6GeA5P_BP_YE6zI&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Tue, 18 Oct 2022 21:32:43 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3277185982558606</guid></item><item><title>單一小功能開發（急徵）
 
 【需求地點】台北市
@@ -848,7 +867,7 @@ https://facebook.com/1686432621633958/posts/3277185982558606
 
 https://facebook.com/1686432621633958/posts/3276099216000616
 
-['https://m.facebook.com/photo/view_full_size/?fbid=124755363704643&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9fnruPfQMhvBnAWVicZYtp-OQSdFf8O_Pk9lEK3_GoY7c7jKkxqtmMFQPUGMX-0yswN2GYPmkqFz_thh8orzxTizO2_opDoNYMNCQ2MmwUlX8fQPoYXdhcafRr5Tm37-\\-\\cH6SFFMKiE3zyN_6T1qlYazzc1XSh1H4y7qo8XcJaAN6qxvkIa6803HDRPVsKW41Ojozf00NNV6Z65HVn6kiyNf01EpJG5UPyYP6ID5TjqgjS0PyuI3qcAqpuubTDi5XQJxowQNg96IbaAY4SgKIr2FgdOo9OW9LTVgpYlCt_o4BEgq_sVlu3K-Dq8uTAr_vKJbkCu1dwzObuYUaCmw8NU35v3FdH1BCoGJkIvEr2dkm3LyYVBSGoniqDLaR_ngGwWkhkbNT0gDxdVR-ekYIFAtntJEOWXaes6b-uO-Ob4yLSzhEZu-ix6AWnBy71cY7Vcsd4JUXa6XZWxbVQM_cdgnu0k3BM4Du0YwaeIgxdDMi_6MXZ-rtToDfRD184sudsmcKw5gcl0184A8VplsysWLwLqrB3TxZhwTYKR3F_v7O6dWDrBc-elVhHlJEFUgqvUbyc9VGh8YKuUwVXDgE_6p5NcmMKaxsUOpFGV3KXr2OEAJk7QLm0m8LThn66H7lxl-N-GoYPQ_oLQ-PSkB9ViVjqjjT_rTJAb5FECeGChFTSte73dGiv4DAF2keGlvR2sKhkKhlmB64DD_rlgKkSYKB5EZ5_IwcunYkOFR2XVTBPuYRKpLO4zVjzDYovtbx6P2Thj3EsQaW4tYavNX3aqFsVM0bduY4vSArehj0EFd8Iw6MIlBO_X7X46A_erCYpCuYxO6jxR6pPCYA8NKUHB37kCJxHAR4QDdpVoeKRH2gGRWa6QQAqY4D4rYOA32A5X4b0lXzEw9bQwzayTizI_GlMwr_j163AKjkt4lqv7XUnGPaR7FT11cnGgIxGnHtua1UVX235UyY2dVMyiNN_jaxTWRJNQKobJaCeGMJkPGSQPG1lum0aDKy0G8fcVAWWVF9_iZLDjemsn52A_trV4Rz8JW26iz31KSl1iaGHoz27qURKp1qxhIM-PdFqsFN4E4jN1qi-nUI2jpKLHF15Y1yG6Ndzk-WLk8O719HVXo8fM2sAB3wQRykTIBXRK9ROigkYWX7OCfpriEKAA-aigUIun4IsLYM55fDjYZX0zKsDQNaJKD5tATTq7VLl6SBOjJZJs7yNj8esBfpcw4KUq5watt-RCNAXEIrAyTtE7YUvwpG3wr8YumRTEWr0Mh-_Kxtf7h2s4bSp8IhRNCDq5x1eXIsFGYcmByvBK6BZzrYH5pDON1xhrgnddgbRv1FRKpeIT3I51uP1-HUfBXHakVEauo_-0n5QxlpMfaSyD56LiTCBOGdWOYk5Ruei3h-pOuU-XJISzWQyoyRMcgWDYX42kWJtR7gKlred_jhDEnADrFb_dMhJYC4atKGDKOh7nBxzedp5VThOF6wj_lqT3U3BK4UJwrrreFnL5xGoKrdv8WazSQZlsmORfZ0x5HpAf-256yOC-ROuAqoqOYN-b-AMZ0Mbh7BDATI6pgFT-m4rsSp4RvXoqmVALkbnRW8aLucAcvROceunl7GL9buoXZUwdT9W1NZ-yBibDLlgc-Ed6FiKWn30rhUJCLbYdhY8DEsRfYG9DGx55gUPwc-5fQnSyaylWRB0WdT1CTQ4Ji591FYKjR5GeHLoTeIY57-OeslP2PRDMRWvJn8SKYIWCsTmQtki6L3lA_wVElqY69SrU8bolDLKuUDBBM79s44iFiGj0IXD_tzHYa_zFmHH_cQaJCtCSlCn_-2GfjNX303lWNgR5khPilL2x8G90Tr9eNvjtpwMpcqhFs9h-3syb9r-65zoko9EtAg2JBpzibp3WBrkbRE1LQ5Mj7w-fxJP46haLkbUWQivcYSU_rVADem3vpBn6eWwvLztz79RJrqc2TbNzIwxr8pi3o0d0zC5r8AIq8LyZm1WZWwwH3KEjUwS0_xh8Y6iBoD-Oq_QXJljsD4nYWV1bfle-xW_y3dTRN9K6n8_SuZDg4mmzVcgZGyiGngV_-6j2riL3A1W5d3gr59JRIw-uopLQAR4rifLvGz6fjhb_ETl9yVV2IjA441-02aAzYHy_hkfKkiuE_fhdqdvhFWWAO9MtefOICTkkRnulm5ZAKUYZ16pV25QXMABc1OQghcrHGXRYeDzvc-lvH-FyDmZJIZvUxO_K5cJFrArAVpN0loawlfquq4CYkzrut05PWuqeioFW066fWibey4x1d5XAKPvslWVBhsWzyW1n5PLRPGL_MRueYoCPexpEey3SKI7duhWJUqCX1uBOPtDq4td8F16AYt2KxxIzYXQMptROTmQ8TjdIQ3h1XP3S0DEXOxf7DO7xn4x28o-tw3PjUmEBK9Nmgd8Xhj6T99sC4JG3874FloCeGC-vcdPPWPxyrghreWpelWw-FVXzIiYLV6hrKzb6a_z7sLlnRWspvgibvoXlmKzcBRtusW2XlhXO_DNAoqrOVgnPbi2ccRnh06fDzV7wmR80l9hDQW-QtVAQzq9xs91KIP8Lwhjj3UKF1V9uOjHfaAb20v5guyQKx2CTgcyIpB03B3x71n3PeVhyKfmDeoFAe8uXtJzUlLh91cC3me8onCeDYUd3Jppbal47pjRBCoVo_EEYfZTR9cyMJFS_nAWnpa8NMwE0gmPQsqjwbiSPbyos2wUdApOkQOVKjnjO6zgpxOgMz87AeAzgiHX9SF1aK8HIte6BnwjtiWawNmLs_P15KXlnoLUxVCTXHoAKzae5HFtGTcaEm9LhymYbp_Ex42PPebyGZfr6fpc_MYTOEEqR9SCa3vki5YpRJ1ZElGP_IBZBztVJuyGbTzb387rogm7tnEawHi9gbtpJFX_fivXUSQZAojYP9b2rsuXLu7xd9hIrQ8Rvh82Q-AM1OaINQCm9qs28jkiyruWkz1XrJZXkXXlZeMj3jENXa_H6GLptpgZwEkFXJ9ePsEfs8Si44KafvlXyBXjNfl2Cn4q372TW2Gos2YTDeUbH7VipFPTaJpXLaqrPdr0JBR6V4rvFYATBsEcfzvArqzY8v-nHULFqS03KHGOXQD8vp6YqSCHliBdeFW3Vbd8LXwfoEAvPC3DXwW7DmEfh0e8LsUjU98zG-u_ldQ6PEPbPlyNcrWtOT_h9-e_t9hRxHUlwBxbfVAGuJ3BTrQ710DK_rdHZwsNdy21hm5AbiKb6eUOmgaBvF2nxIxM4zQcITCVXvuc1Q-_KJQM2S6Pwn6gkbLwJJ8sv6diwSQ8USkHivWrOajUltpFxfoxNxxGYrEYwe7u3cYYXj9bzjxNttCZow9PYdQUGTzKM6LMDUvfRY92JgE8MBI-iIWchrZWKWuBcZ82lz2suGKMPCqjSQsEDn14DnFhDy3umW1S6JoVOhlIBgV6_hZpBtqr3gmEwgMsTObn8d9EhDrxlpYcDK3R3soc6FpN2QEpC3TeVO8TpPh7zUSaZbup3NG-M5ohpD1rml7ZxojgeUW-r1MLaegvQ8ZyIOEIjtU0GEJdiJP1bi1tvEht3Km3hl1z3Pgt-\\-\\fiqvkVGxc5PL6MrHH-uUoT0ywIUhrxsaRnrJf51aJMV_wH1C9ld0poHZYj8lHmXaWlaL8ScRseGRujIhpf70n2pzinYVeUDF2rdq4USg_r6FOIt_nt3UfcCpJQERA4-tGmxo1z-fqerruG5P1sKXRTuw5-A4HCbxMNiKy909HdpgTECu6_eJVQp6oleQXPzAvHnBK18bypjxQCytpHcWF2AIUojRBqSGsaUkBmsOb88nX5NB0FFNNW1HaxDCKaGpIjTQZLMJr60R1bTaVxJMswoYROjizIFk-RG0a21mLM-BGrfeGh_-rwdH_8XNluA9cqNppYnN5HbgcRBoKgTDtdA0gv0TWvbJbvxnbexI_d2LdD6cmhW5YCVzbUzKLa8NrZh-nC5ZbY43-p2kw_rKRr5-iGFzVIyNluMEL0AP8giyzCAIR0s71Nj6K-p4iTGbqMXeQ0yhxftWqq74Ly_kD-NIBuDmZlPIKlTA&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=124755363704643&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY80I-FGsSaltpJVlbHn1sQWv_2gjCLC0fTg2e3JdcGs_nFKgN_GfjR7-ayPSjpJQW4kHdXmQvw19v4wjyTDH1NsbBy5Z_cDsRvGeUHIgi0Bkv5VVb9ybeww3l2dtF0G9AxBYpYAR3NO8Y4NR0ACinYc-ZlOR6Ky2VggPbzmXfKX-5I5Sa0IpYNv-WzMwdghI1qIql_OnhoZhhBGRzl2S6wfYGD3lBZkDjPAYhMLd6QdPmTqf3G5B6Ua0dgoFZZYJBMmymZAdxPJPL1UasJG_X5YrzwJDsSpRoFK-gPvNn8XSvK75gqH_HuAPVAYU4Lt3xzBHZGtBdh8A6g71Mnd4CQVDQ6NHUPjX9C53ZAXC3w4qnvW6dS7AQJKlgawvfd6hbhO2oIZsf3lrfUMhmPtVU9ue7EcAGvV9cn0oVmrBspClzGZviSO-xROgYkUM3I1MQQ8MlUOoYKbJYPpSfd0j3ns33e0smYcWlyCm2KdHdG3tnOBhrf0eusl0BSAE7CboPRJ0IipbrddbHYmN6afPF9s3Iq8yiy5Uln5EXaSqs5L6VMDbfv5KD9DYlm7y59lFmD4_octMmyn7h7SdPJmpJosJOL9VDagRZ7wfMXMjh-u-lqp7wbcNDGe3N8KcQxAkKrGuYC4_cnh-xbsSzFqDFtDt2YoKOKl9hMKFKZeqetV6mI74apoCRxHchzhZDyufgMlI2Fgt_wwUcrZH_O3OoEnRT62iDoLqmk6Ax5A5Y7GJ0fHRConNx_QmvBjG2_g_5Puttc-EOgejXuCtSuUE8M25t4Rdjb_KshI0-ensiM8GVpwyuk2bw7SMxT3rYgwpaQwrYOgAW3-eNrGp0wk_yM41gjRm3n1y1SqWW8K1ThQyzlxCiPa9pnFb90ud7vD9mWbr6Plwm18L8hIlsnIFsdD6E6mWZ7PpocVMXWY0eTt6fu8goNEisNpL2F8998mSOsOEreVVNFtPxPlPu2oaDnIiVIb9g0KUi3C3am2aSj-6gvj8FR9Q4vvj4hFpxPmtmsj80duJuaqOuRnIM6R58Vyvli2HxndVi7u8QajxPoiCk46vqmQ4RjLuOHCSt68FBHqOMtCFBeEpnP8Ib1Ig7ya4HOPQyNEhoYi8ZYrAIjUFS9JhrsfA-LJKzzoxH9e4zbgD_P3Yld9Vf3Nx15Pxv9TMDNN0r1UCcPqzH2sXWruWQJSjcYOcit1NNkogDcNFD76xRDZn7fzHMPCyR1g_GQEDGaOOEXsHFcFeIsyalz7mhtGJ7chU6AhnrM-OBu9JWDCiqnNDIrojXh1YJgkGJ1zP5VWkUpgErafvZkK1VktuJD51zAkTctlqdfdIBVaA8IxNfvqnKsbdWxtlARmtPEwJNA6g5qNiIXeJ4Oxz2MeZ9KEJrWiBbnHCZPny_ZIrb2OZcqVvlxYbhZt9B_XNNrBRV28MrPh5cxuvZ6geE1bVzHPYsYTnlx_ktShyO0J-8UVPJU2DIdYQBHvFmV_MWlwDgeffT9gNTIUXlkZvv5fUtd0qko9Aw8uv1JsxWnXQL84d6AGHZQJfmgrR4PTT7MRLsE334rg4xny1J3iVsEJtDzH3IwGMu0M_NrZlDUIsFh2P6JbKH_cDbPAZ8-kRjs_KTPhhIVHf4_rETp07CsO6jS5EtZ1eCIkuBvzFX0_NTRrwLEkSfZ4SfRmqFPbgeGTOBxHA21POPQE2uUEpWh4MdB8UMTipKiZEsdE9o60A7Mk6XFhzmRm97M_oLykaEVPJMlLn2wYUIw-qijoRhD7B2RBw54l5ZAYQ0mXC0N66NNLFfKCOtEXgWzErSElF5B-wymeBfdFg6UStDav94y1vYxql87XKmqS73Ly6pX6UTZZ0yAnfj6Uq0EaDHNKJhfC_9gqPpShDxt22E57KCI516pVogbaf3f26oZK4ASQ30ULoKzIN8-6-EYNyNRcScIW1qHQ6RPGYI1OQSDB8CMxE1JB2GfPTF4MopIbSgluFU8B3KbzEl8wimjlpGMM1NLT71Na0uQ5AJ9IQC6aXBAtGyZL1erzbEa-oijR1kiuwlJgX0X0rveCGr5jYSDsdABbzF3jdMB3JIUNVPQINmC4IE8tqL42T_-VC-BhAAXwsjCfdJG7apE4M8hCJVT4xYJU9ixupVEymJRUjImwwvoxn5kc4Mo7DWmXX1bNbx5k-OKR4zeEGXwaibHOYNsfM0tPkDponpB3N5oz8D6IR7-7_MxpOdbVQ8ecfDhwianlrp2PvzuL48KUdh2zuKboC4rkWk1vr3CXR0NkDNsPk13p5t1zX_f-a68_m4vRNn9SibKRxBVNPPzO2xTNzt-x8BlX0h9PWbvz5KjqZBuz0TYlcE2R22w8DzNptTJcQTUxF9LifBsy-0smCjTBlr2vQo73sJHkvKw05cZfos-PB7QoZdD6WgShiO3W5AR18QYmmebrZuExw0tqJfc-ts4CZvke-7E72vkXxBp2btuCD1WA9O3m94FvIzDk7I1nQ7H59IHP3B-ulPICYkn-6YTQU7ZYKR4qcGcP-YvOqdQkwH2moL1lFCoRFEabrvRrQ4UQFVlP0O-Y7aY-PeSrGGRGac0guQ048lqFlnqTclh2UkyqRJMBieIY7ZpmKwhIkARcVvdkrbWI6OgTVj_qBIMPA3UbtMDoeC1Acisr7XjN9UQhFQdo_26Rn4KCCsS8lONu9Tq4yTR8pt73Bed1MttWOzEPA_jV8N2AmwuNVUy5jYeGqGF0h1oL6Hhb_5PnBAdhgPDPVO7AbjMcP3mY86rfQlf9GJeFIXZZWUEc63EVJrzab7ova0Nw4C2wyd_TvpBr6CKRh2qACgI98rV6v59_glU6rJ2ZuTHkr8UnyHufBg1LldRaDykqTcKLZHOEFxVRH_QSLycxP9H9gnf4pQ6sBe4TJE8XEVIULrVooyfenR5N-qxUDiyM1O1lXkqNgpJSbZfBLcCbQa_qOkz_c676L4K-5XyctUBCjFHi9yQrFzr2_OCR_CBAkb4nArwfmriNp6eWvutC_jZnZSgor4n7g7bRQXrKKOWUE30qP2WmKjmdAx2qQhr6Sib-8J7tCanEK6x7SiMB7KNC6Mtm8gLTYwn8zLlx4MdHr_ZS9zh8k8YEYTE4T5ZeA8LDhS7MEVo6bmOL2dDdoRQuim4xAKPxl8pmLBHqXjhQx9uVFklJjtpYeVTdywQwPfW9I_NH9tCLOIlkOuuxiucGCSaN5DPLakjjBnT3cq1KcQa4UpsFLVoDDdLX2RWC7zg2Ic-5RzHPzOUDqTO4ZXUcZOLscsEvxwRh-t9099WhvLorSvpJcUQSsNQ-Ol7qx8w104O4qtbgcAIU7YPmyEVkj9aPld08SLJ3XLjGe6OKq7BcMNKqj2A_gStdFjFEkFgj686EhujJNcpsSmnFPWXD9YMl6xxSE_890IEcT0b3-QMyYIRPeCDe8Fk-cKo560cTJMCMad2MK9IjAwugtQ-Xp_HxaiHuDo5g_mv_So3w9uZdxoHUS4efuPBw2XKo3bP1f2eUT_8h_-xoqOBFGJeKm8Mm3ekKmr18Guvx3EIHA6E_lqA0hCEvZxEicVZsdg5fEKggIAVIfQEq_Yc-Lx8TXxVtJdZJpzB4mV_k9Npy2i6pt2zMPphh639jmtfKvzNYCncLH-9_B89u_eVrDMSEj0l7lZ3kXS2Cz8cgN2T5ImM-144IHi7bxD2cRsjh5LyPYD8omFHEXo5MSQec5NAGKy5x_NWrZcarSHj3cGQYbn3ZpOss8OauymnDUQZ3NLEHO1Ux8fR0Oix8iab1BXuIwc23pWklpnqm6h072rplhfSZkq0FaKl9ezIX-DyQe8_VHTD3-AKEspQwcA0EbGJLo84xqCWs9qs8fc1kfWIJ3E6ZUs_jSF6-WfdunJrH2gWG84u87oMtujkR2S7ilDZqfKAz6YQ0mNLGxSjmASvvS8q08veImg4gy4Kr8ojZzDBd7ELa4ONOwJA-_R61Or1UHLcRJ_O-hHlZF-Nu5EZAsWAUDhbBIdVr8O4yR5vwwfhqQDjKHhD4pNkM4oaUa4iaiVJvlMHF_mgneknSQJ_QM9H80gjKge58&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 17 Oct 2022 14:41:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3276099216000616</guid></item><item><title>度
 
 已架好套版式WP的網站，但速度上希望可以被優化，目前Page Insigh</title><link>https://facebook.com/1686432621633958/posts/3274515266159011</link><description>望可以被優化，目前Page Insight 顯示 71% PC 15% 手機速度， 期待PC可以達到85% 的分數，手機也希望可以達到一樣的成效，但不確定是能達成，期待專家幫我評估，有興趣的工程師，請先參考我的網站 www.creativecollection.com.tw
@@ -897,7 +916,7 @@ https://facebook.com/1686432621633958/posts/3274242909519580
 
 https://facebook.com/1686432621633958/posts/3266931400250731
 
-['https://m.facebook.com/photo/view_full_size/?fbid=168431509172039&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9vFe5IfFK3UawaKMFVU6W4XRWkor2RW4fmx0090RgMw0JSg7po4hYfOExuczCCI3W5F3MvH_TaooR8FA7vnxCnYaNf-coNJkP5ICGISDITI_ZpCFLfwDX2N9LYCJMncXI0xa8UdlaLcPUhvaF_nf7JAj_pdRWKgW_z6X_HmCqAmmR_dwTsvzR5X1ufk1IRGnKiSPFmh1kRPWCpI7s9Bmtqt1NOc8REVzEIHuEIlV3GA_ATa6R8m2wo_kXjJlzBKJBbqc0WHpoJG8oWpikgwbEYKnPuhg9fBEHsAgy0tkjoHco69nl2dVrGAStp0RVgsrTrB_eKRaexnVjsNnGhjqQsbs3yd2vK8fg6BaHJPOGtVP1Zy-HV1IgKS50a5b-khpV93b5bmhPlaUK0zQiS_VXpBXTm0vYYwYqZjEwOUBgWB2eWPXiOtsMWEuFu0sVqZ_EACjtmyCtnUbaUiuLM4zQZsbVrEsxm5H7G3AoVsej0kCjY9qYZBrHkxvxhD0PNLbBh17CBh4sQHt60uI3-7-i7aWkY9h9xwgG9xzzoWfc8XhenZZmW0Jb0LQCCLtgQTqXsn6mQPUSjejdr2Pm2POju2mcczFbDVozeSRAgOD-WpDSR4tW7AlOvxd1zvgX2esmwqFUHhj5csQleZd36fwoEsFKJlkRytxRVi5Y5rU4pZIX0bf4x_4eb3WoQ5skSBa0C5MJXYpS80DfA4F8wvGq7MkXmAFxf5eBqTyl7qS9BQ0UgaBhmjf2GTXPISxN42LWfaMAryghpGpWw70R8q0sbvLcygnA0D4bmjqHZi75OS52jQgA4iMbq0MYbvSINMkSqvn-xWVGMrHsphjm_S6SVeqz3iy_kOJ6rabHRNB7o3XDx1-VzTaYdeLR4JKHrR4C3OpCiXOEI0pMfBAcuL5b3HNarX_83LoQKcEHOz9gigmYQbvNrUZobzf1vNzbUa6sojf-9qW_mZjC7qt4sZwkL-D78BPrjpjJFVCTPD_J7w_rzE5catfzt0xf0Ulhw7Py8oGCbAoFurIHAf0coY5t3E30NZ8irXfBjNzWQ4XZD0cFxHixfTRNYMhocEe7TcyS2f4qlla9pnxtN5VJaNFkyQB3M3rk8S04kOFyLs_c4bVzlp4K8dWjRuEc_VhCNHHl0CaYuz8lx4kD8hgcsHy0eA_xdywLDF-NoQkIw-SeLAT_-dBPcv7mB7N__0A207UAG5vwSTAh4EbkLb-uWe-tpNr_Q68VZ2ceKhW7p8jA1HqJedu6DnnbJUxzHFKUVDszVoUeZwlPlORmtcJWe8vYmxyK00SUt0NRTkiX3joNreLP9RdisjgOEgmdZTMKKWI39aqKHZr6dSawnvLmm-ml0Aoslo9GjXSZZOWggPIFz-rqZHLU3ia43wYbkZl6r3husaaxe4BDon1n9uklurpr7QjZSIJZ5SvlDD52PLrFtBsL36bvkfbZNpQPITGZrRepLiRFcx5qBCaMHLXg2kutpqy2FwgIXCSNP3vYO8sfu_3iq7D9M76WDKZS3RpUHCvmpSLXyXBtRcVj_Cpml3Kq0M4izefGb7JiCnyttGj8onS-sUDQQ5yondeDNBgz-Lsof4frfeavx1JB9GMj-tG472VxPzPYMf7KThdaECOO_1ff2GlooD2v4C9FA-8cAKo92J2B4SzRUFFRVD62ZmHk3NJDn1mtgusddQjUA6GIiNFHHB6YfAftrTgkSrRKMD-Mdtt-gl_Un7WjKU8tXTkg7wCxnjfpYZyeocPTHs3E21epycxuN6Ax-QKovirYyt0rq7Hvt1hZT0F9mYRwHThDDrUB03a69uOFQ9d_Hmlc2OhM_K0OIpRrBYJ_aTVXuTm4oeYgaOZKXvnU5lBE9GFB0rcshDNLLinqVEcaKvRPKIGVsofRipHYLePvW1V-FfSHDRIE8fXLU6QYTbbRoNCtCakzgFYZfIwO7g_4GiuINGSkFQvR0toEL0Q3NQ4vcudoorQD9z-i_kKSUHN7biEhJhb0z4PxHljfB19ToQKKDxyt-SHOaHw6lwdpmN4P24rYqqFfdSfSqxA512B0BOLwvA6duIcBD5XoVKYJdTTZcR_xHVVV1Lbn5VXUmCtGjA0_4jNe2uMVRunwJmzNu29XwZYP3FDuwpVKzTVJpXlhoC-WYkKWBsvT3tXmjmbK1aI9e6VmI0eJlN7w2REYCWPvPS1Ro-0v7sWBWfXtcg5QGPZLRE5A0bM_d4bo7MnseJGfq-xpwsBRoVzjzRsOB5FZzvNkQjxM42yUzRbKL-8-HyXSjV1R1p8UkP9SRCpU0rlh_aan925XFQKzb6xEAJPW2o_Me5KwSbvUOp8LczKCGrudNCwHmIkP2rl5b2Ae1uutBW_phrQHJ8z7DuMbwaF1XsYA4BhwypAM51Jrjfq-7AIK5NUUkj2LEDSW7vgkaf8n_KQkChwGCZLLksuejdg5MCPze6aPt3DvYiro5gCs75f-qsEdznn6_mywZhXxC5kGeIxabIGTqjK3GRZWqlywYX28Q9TGGNtczllarDDQoOFmSQXuXH9r0fk0ICLXwHM7CSDAODfF4MhU-E54UZpZaCI1qljyKtXIzSnTt5QokMS8AXSu85uJowK7xU8rjMeUsrAk7tXSElq7PANkOWds-ZhndY9yFeCpsWjW_Q2Z12VF6VWe72Fawzbuf25-oG1EBQZNYCtcRJmRN1q1jUkSj82UbgxwjX_3Lmcct1pePrxOrX8h0DRr4T_SBgTvSqtg86f3cfNbpQqXYbhSh1-TIuEM-CSvorEAFFU-6gd9HZ-lKnyOKDDwKFasvlHRyMUGAqZv-sARQGhXxAlA-v-VeXFumcrnhwIwykH_eq1Bgn-GN33KFWIUvc55tbFYVmZ3dd1hm8e3gieyNjKtJPYI0mbFWpJTkIZdn9arxgNwpfreN1thQAiV0RHEm88-zETZn0Y33j16qiqQYPu6QfmT_70scq-Gv9RScFEtHOthLn6VDcf1-kfs0du_2LS9pC0B0vn0_bMvl84Q1PbNmpQreea-krYuHMJphPXqeP46PvbcpDfSvku44xnT5Dafsi1CypgzkRFhjQ9mQnnncJeP7BsPMA5gtZKLPkEGPIjJFOGKflhTc2-\\-\\9KyEKk6o2GJ8OgquzjYVcAEFN1jlOFz2ePxo14nkYKgwredasDcgTOvsUNKYsNb5kUXvkT4JqtrpyuPJg9Cc55v_wpUZzXTMHak8J14KV7EPE3PPH7gvpBle5iMWpwtvQnc-00cV-\\-\\L44sUZahnED32-TtOyBp_6dlZPUKtYNUY2isBDvJ6M33tGF04KlXknGwW59HxS6EakQ_xHJvjrc10edCA8X7fWhrGXA2BL8n0m_9piix6oewNzebLxw4979Y2_pZ4j82AgvSA-3SUGONiVD89qzhkBu-anfkHZKlQLwvnFLt2WOLdqAtnLJZLwYMhrsPcSjt6g3ImRv1a1y8bQ5Nbxk-V50lYB37HBDX5UMWEMDXjwWWAXNZop1_rH4Ipsr2V5d6OIrYmHHgPoXu1tB8JsJhJeIteyLyVOJUj2CkmZajURA0iCUv8UmmfmIZEbMi7sKvpmB6dMwB9mdByhOJJ6jTF6D0a_68U-RHFwrn7zEC_qgz9S6oNKf5h2xHtbljyWG3yEW2QJWiFq0Hstt55R1e8rfUBrdW73dkLW813KcRPmdbJu2WhFxr4CVQK-7bt7XSGKkvQrTURieR8-58RmCc-rA1yc9QWX8G3THehHGxFh6lS6d75KQaegxaGdtgjoOb6qOBRaDtEsIXeUdiEtu6988wVVS-5WAliN0Csf8iblAku1LonrhB4QX871d30A1bh7zYk7QVTWbP97yPBXfaMQRlU3YKS6GhlEtjnXiL4BMKcBqBtkR2fKT7oQ4JgpA3o0tK8C_sfzOQEyHm4DZ-8Wp1-JGAdM-rK2lIce6HcYxwt4SDZOGDuBrjDIF9DQKNPNobf28S7k9zkt7iTSMoYjZ2LFUgkCBt3CSI2aEXxpYVSXprr2LROLr0PLLGvGTbjE_bBlz26ZixA_T5JvaabN2sbFc3GxZzaMOza2c509ctCQO-w&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=168431509172039&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY91Tqi8ARu5hydGZM6GhnQwHNNvAfzCgz9njgUh-7KT_SCv4Fr32QqSX7GF98faztV-fbSi6UAa6rc18ZZgzvCqNMrEim-lcsjyvsjF1zICQfV_RWBtNK1vNeWwde9zfhd7L2EH0ddTj1lOkiYYJsBrtu7pDV4kqBz984t663BgwMoH5ghw9g564GQqnPg48uoRmzt7WlQwWztJdW9q4ATDpJfCY8m4Sw3vhNDE5zSfRlt-uoXhLF6dma8rsuOJUCw0Ba2AUESOd-c1lrJCVEHYsneQuCi1AjG_Bi89YIXhNfaLz4LgwGRwx_nDZPEiQL_hmjyLEHtM_aPSxDHS3pdjMCfb3N4QDNRO4OfVueUvqVlyAaPjrskV79iX5p6VqLZiOx3-HkL5mZU7aFgGQgRk83DeESlyBRwrFaR_oTHCwt5iEAlbfzYUgFK88SoIXvvt2OCHH8n9kzDadHUuYBcvdSWkAKieA8L8M0UeYPilelBcRtTm-7NNh1JdmSNEHimnOJtWcsDGUWpGAJRX0rrd40nOJWpfxHoU9fsEAOyHYOcoN6DDfh8yn7IOCmhQSl8w6bOzzuubJP3A95zmszNEksiZTrw9Nzv-TxCzw0i_z_S6-8AjT7-SCw4iBz4dICWs91B0cd9RDqBx9G3LPHa0oJJ3bS50xFCRVPK80_W7C6IcB59zqdAR-eW-3DPoFHW79kUbY4cbV1ryxlyC7oBya-ls_CynxJV72_WzzJJ9kquC3NV1mGUvtVTCxezUO9El-oxpxrT1iriMDOQFJrMEYRr5QcIXXu8Bb7COvQVVRcIfT8VIJiKQG3QGi0aTEuweFdWZzhVnXJZRdLWSmOl-0VbmYLlgoYse2Ox6dnjBvH2nq6wrx1fBFnjzSLxkoA_1iHS2v6BTU_sNjd258qWSVyb9Xc-3yDPlBo8zSS98EqdbB_3PrkTKw6fXX9Z6FuaG7esme85f6OEt9Empl6U-LkKf1OnuqxWj90AlJmIcJVDi0MNwCSFqZ5ndNA4oOK41SRRyUGbcbpYlmsMt9nwm8hO5k8rTj63GJx1B_LDOzfI02XJDvkIOZjeoWDBetzw7oMJllq-lxxBteUoO0fwr9-mTLHvey6s303hqFxZPQhya65E1stJT0x3aQrzHOuNHksC3LRPPtCglr6yjTmOSA_w9N4MtlxDP-IvnIl_vxftJfBIljJ2tWbvOPhDoOfyxidWyZSvnQhIM3cbWEF4qaroAKOzAPm8EiseaLAg-NKDH_wP9UbrTEopYDIXSAZ7UFgBtChU3wR-wWpi92nRm2tDeYb9kGBV0FNVD7LIk0T7FFBQSD6n4f9k6EOmiSLkzwJYZ6YbB1u83bQWMyncUGs62zTyEFOnDVtLS6QnVivufMIgVtnewXmWmt1y2jD3NV3fl8bqbfwsz86uI6cIFzcUBIJETvLiO94YHz8pJUsNERQ5Nr-HYbQmrCa0Uwi9qewSSNwM6_VOXY2p4xmpgu4El7E3vQqhdHsKc7S6f1aKJSiMgA6-AJf_bVGsSlhixh7WU9DidnbRwyN7LW9cFVfLXTUi9F5g9DKeWLzmrtChrK_cslS4XwGTfQpZW28JSv9xWMl1IS_1ealgny0tHYl1n8W7Z7OyllJ9Gor4nuCqOg_TUjIQskULfB9X14YosWdxPaXeuVCvDt60dpLBAuzUL96wd1CUN9BMfRkg1hl8VLMZJ2AX2biCO3TMcmd8YFaEzk9MxbwTV8OENHUWfh0Cx4r_uML4bMOkpOMI4CKiBMVdQpBe7M_YSFW3MbcpxDP72g9wrmd_Dvmg1I9LJn3kACujKDMshXVvLKa8IAfpKB0Nw1vsnwQ56BLvzRbRJ82wuA-7CuH4EHi7d-FnVF372Yd6IfUGVFCz0P93ailhAnRrKJPV9pr13uy1Vtxh6fNGU3yGH_oSCdAlb1VrrU4HwvKtYspAqK-4q2fuXdIUhcIAYNdFBFV5PcknEmiet1d2oX5anVkMVSmWOIf4P2V6zuW46hysaqy4BbmvrHtG2SYVI71yT1tp5mtaH-tzQPlYmJn9bnZLN05JhJxyRA2CTDBGFY1qHN0g1ZAOqqHnqJhi2DCDe0N_QNaaEX59cs_nAArCtuqAIREf5wHexwW6JIOi_EER7kboLlFxqGoaGrUt_glJDTijk-YlHCdfR_EyjNhXI4m73rM2_qvAFvXhXJeZumPkC-8z79iegYY8jV_IvnI1l6QmeSkTzX5Ce_K9jLKhA8o_UiRrBv-Mace61xdh9DEHkhrdVHd7qifrxKv1u6r5bTrxRwrH4uxXNO3o7Gv_7jBmXrwz32ASGkn-8fC6T6eT0iO8uogfP6ZopQMni8At1CABejW0RR6FgtalDS2uTJzV0Ru7hq9xBTLuujTMHSMO2PYX7ssIIkHq8phpXp1eIbFVxQxRSVVOsL9i7ybDVWpyGhf-E3tEITp272Qy-aO99cJ6RADlRimHi1VgoJYqaswxDPCE5kFs250VvxJ74OAxQTEp5WSs4ar7S-juqYgXdCtR11JALGWj9KKCtW4Ez6Wb_GUsnKqNnHbS5wSpvs8uPOaEDTUdwaSaoAE_V_zXjUlIkbzAUKuGk1WD7GW6YavQVUAggkOvkPsP_AIB-i3MW_Q3zQ8rqlTkIMS1Cm3HxC9-V0uILgosg2c35d7nhdqKbV4jrh_WqeZXgwqV1onxe9NSsY6wTLGA4tZ7FG__muYkkuhVSqXxQjtWEUZzEb3JS2F_kdevlRCHgYMOb0JJDIAKQY6LGdFDiDFS7C4nhRMRDcetc8hPPSVXSRJ0Ftlgd_Ji5hd3K-2wG2F9-r1J6wXeIHu2X3y28B_9s5XzFnr26U5kZqy_ENRORJgVZI-\\-\\_D42URhGa14z9CZnP09e4gadw5S4T7an0LhaDNvstLkEVpK7Sa1Qy2h82AHZqQ4ZmsL_-xDVHkTWhKFviaNNGsEdcHPbmN3KRn3hYFLDkpp8Txky30vSP_Co8oRhejbb8NfIeJNg5kuyDrh24csdbESD6VQnUc0eSFN9Q9OsdWpoMf3mqJgT4PP_NN8U1alhx6y5gzyI0AeJfcastchznMTQHr8myR9cxfpnCnRIM-Ca5qRgmYzg50NR7MMyhyghjBez6U-SuQjx33Dmkrn6rv-WJ61kOBAH1-psgKBjhWKuU8T3bqT6GgR_Z2N6a7qvKgxL4qMt8w0DYCXnU1dvH5AbNkPolF2v40cDQGcCEFyjSGmvg27C51asvA3k0MNVG2_-xkgh1Ntj4h4OC5dlM7XIB08XOvm-SYXIgAm9OXW47DqZuZd5hvZpyqsjOIKMaWWnMeGWM9QxCdPdjkEvdWMEGqJ9VWxxQV9JhNTxygpYUUp66osiPiu-ggw2u75R7JiwxafLmyQXA-tAiQMrQ06OlIEc5RhnuX9t-77sbPRu4TysNk1WigbpL55SzDYMHKWtDvOYrQVbwX2jg5duWTNZCtluQqqJ14PzKzdHWR57cdP4UtZYKn3_23r5tlWC0bL7y6JaNKCPKu_oPYxkhmyCmFyMIVymxg9Vro9guRAGPP2LvtIrLLZKkjwY5zR-DG3QWtldiEoKY58SfUXZ_yPbhAKqqQFLQTjZI9dJk4WnxbOY-5xDlD1bXdRs_cLOu1Rgo3G8N5ovHgjBZPW3GP10KlqMaWDgxg23H1Ex-jbZkAoZP0ff6xVQJqzbLraGsrDuq2FN1cldo8yYb-44dmamT15kgsGnmvKocjA-F2KSs86rZFhtDxBL-rDnTSgf7xFEvyA4KdiUW1hb9k4JFZtnIXJj_1miBO_xE6X-zyRFbyXz1jx0HAY6q6I1ghoDQx6Tvvq9-a3-6L5axQsDYIVhfqvZnLxUbO7WThV0OEDZP2AMBGifkPc0lheBIPfrTBdpNY7O4lImFt2fJpHVLk3xjV9EXYbbDCdZirPHpCE8QUlpOeyXLAsgaZXfMcauvj-WlXmtT13Z50rnwhyyoBwJRN8ibeUj8rD8lCtCt-mGdHxPlBLAp-IRCJdJbXlmTs5fqXu1wpq9lZkKrgpkPkj9bFuRH-U9RZtQImlxPCs-GDBaB&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Fri, 07 Oct 2022 13:10:00 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3266931400250731</guid></item><item><title>
 徵求熟悉angular+java程式開發工程師(須駐點6個月)
 
@@ -953,19 +972,7 @@ iOS工程師(swift)，需有蘋果上架經驗
 https://facebook.com/1686432621633958/posts/3266887383588466
 
 []
-</description><author></author><pubDate>Fri, 07 Oct 2022 11:59:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3266887383588466</guid></item><item><title>
-1.負責公司VR產品app端的開發與維護，跨端技術棧為React Native</title><link>https://facebook.com/1686432621633958/posts/3266218690322002</link><description>護，跨端技術棧為React Native，原生開發主要是基於硬件(VR相機)的SDK做開發(手機App連接VR相機，預覽相機攝像頭畫面，採集VR圖片保存到手機)。
-2.Review團隊成員代碼，指導其成長。
-3.參與公司產品app端基礎架構的設計和迭代維護。
-
-任職要求:
-
-1.2年以上React Native項目經驗，至少有3個上線的ReactNative
-
-https://facebook.com/1686432621633958/posts/3266218690322002
-
-['https://m.facebook.com/photo/view_full_size/?fbid=5626110147411520&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-i5mN_3sBNkDvNA0ucDNg5Xf_ubcN-IIlXEaoZGzcG3EMdv1HiIN0EgwVEonURew_dQ9dnMTAbkDgQGPEQkkTm8U-2FMlFYKs5F7zt6DOcwoDhH5Xv9s5ZjHo7V52NI1shWokjvMCEsHb58LgcTtwpmUPNheuqu36GdiC2-NIzdCQyu07lDH6t4zUHtM8diTcunUdVwXFfrrKforX6hTjAxedz1nVlSCdRbjotqSLITSP7RF8khrWEweSMYhybXncyjVU-IKd9mNYd_2G80x9aGCaBh1MIu_y4Ut14Ssr5LCCqNoiDjDigHPt4ZkqzfvZoUAG-wYGxw2DHNfSGmFygpfhYVBPYWniMWejNCNDKayaEjJH-0j00cfJggYVMMWiUp2728Kr-wABsxMezNVWOsEZTwXMWzY6AGREhSSmcbaNddWaxmf98HSNEiPdO0cbVdEGGV-c-KB1mj8wk1EQml2x45EjkE30GhE4k7OxXbXpF3Oot7SMemIgfgbgZ3pDqhYT0cWUXU-7eG2EVPpohWh5UaK8y-6TO0YYjtKa75pF2Ltu75crAgwzql76TL4lmJwT_VDtbz1gooWIu5pTwW92kVw6I7S8Mn-VcF4vWLfFjmuMLG8phcxyPNwrJ3Ms5b5yvgQA7iYOnErkxAzCoPAKJ3OMO1pzFxm9jTsSSAK6tKbAmAn-E9zF8fVfNxtksTXCgr9EtrM05pnA3opZWCshVuqz1M5Us9QUXlIb0fHn1BXKmyogocAGHW1HXmLsoCNMno4vGio7_Fls7Hy7jKmttFP0t6SHqI6r6L9Emt-fxf3UvuH577M__KiLJDZ8x_3LTqaJx8jLPED1bie6j-rT9fiLrxYAF0ZSIYZtjvlrCiHijPkzH51FGfn_5ZQgG4oE_sJvc6RZIwZJ3pQWJn9xDKQ6YFRy04HqK2pf0I7BtxpPokyOEe001eGXW8ds7fqBPbbTSKJm0-HTYhCDgzRhOZJ_eexH7loT-Tb26UDQzYVXa0Pp4lkVJD1n9i8sr18rQ8TzcbMDwEKsk6cpdtoPRZMJHbZUV_qGjuIu2H4yL6fcD22D5edmS63Jz7QHQ3bi6ustsRRtIF_gnT5zSZ-ZBoAZyzC4FLblg86lD7OlqbDvXMIjkhxGgE0w2FsHvqjBaRDKPL347Nj58_memuvWQX4FZOnzz0M_BLXKd383f21jylSAvRg3RDn4UH1B2Oxql5PTJhnY0ENCDNxoz9Hr7oQ3aFRwtWN8jIMTE70iVLfDgGEyR6vUUQ6n06czOplw-7e31xA0Mb6IZaBURq0jKaTg_ERkNPuq65ugtIW3vr8r2HWoNyXyuWXhjWJZk5YaN2TD_AlUUeol0w3yWvqRVYdJNdV_KEvB6BNbGuSAhOf_2DvJw1A6kuk4_VZMfc_VbtgZJUINM__kXLZPKH9ixqHfrMsc2rhAZlTp0Lul1OcUx-wqBMEbrXfGiFYj9-ur5Ag4WgqqFwbDo-crubCfcvSs6mXyNshrc8RMaNYzdt_uhRb8Kr3rPyQzbAEz8xKWZChJVKjmTVoVvH61a84zRkARLPYBITKGJ-A5modV831iPMzwLO0mykP1GEe8MvMuwpxfYeOg3vkoNYGmNZMK8XzrmKX0kh4A6zkPh67Ph6WZfMcAid_6v5P36CAII6z8g4pZ0ZVayTmUshzdaOOuJ1O3oy9tKJ3GF5aNhXawDfsPgcLsASPWKGpUJY_6ylX7ZOjw6xRrUYirBR3OvPj5kL66I2nlEkK5JCkOdYihDFy5AYOe3MIStMZbWfO3s53bIVMrGiXXTXEUekDtwu-c4QbJ8Q2VnlJ7j6Yxab6XZ3oI1bdPnvQ9JKHt1Yxo61G9SzNjd5zhuMXYm1iY3f8XUDeXR3d-4RrPGkZEZoKYliQ_4T604FCWE7X7fnHbd9BwJqCQGr0Dl2MeME50LxWBvoYoABfcsFu6vvUE4vSG_O_c39Txf6ewAVdbTvZOnMWEEf_xPt8JYt8SmQErZwZ0sic3oHs8iHrSoUanXcmHvlruti4YV993_RkiRijWiEC7RXoCeZu4RF5vn1x0ID_oTO2r0r1jOx_EWPdnGNiAAhv2yBBh9GilQ10f_YvhDT6prgtX6ydLE_ZXRKuIuwqj8l77zGo5LVTz8GZAecxlA8zsDlF4CgJnHSbGljwzxZvJt3TH1b9fx2lwiHiaiWscAjiKojWtjeU1xwyN03i_ZaUDU16Gqupc_IJqp7JaluvalV2P-Vg8B5KmE2hFFmZCUMhwIHNa3-vut6Lrrgvy_WYw_k77kMmCD57xJ9X4Jfq5jyORXNgq18yxcgV1GWMJynQyBxr5IOuQGpc6v2WegCYIINS1pSavaT4CcUGtaMKByZ1MCsYQPoIQNC-RIJd5KRN9ftR8WZtNGXzKX2L0QqViJC7Exga_QLyUstmrRE1tVnuF2m13wX6QELky-Ivp41mlLZWwpc_zxd013nEWer7U1U56dpcrDx9M_hAFqiZwRlYv8cNmdeP3C6wwqKOiX1kZl-8FjInydqTFz6E6qAYRSz4lLzfiKsstvq_wI26X6LvflLFpsmtThfIhfq0uoHLvhj8TklF-NjPmQz6T7fLiH51ZFvUs3AkdlN5HEVr87lMhSvGW0VU9TR_XyhJeHnbL10EfFty3Lzt2LRlcgYmHAGkcxGdEe-_XKD-RWwELo90rigrOUBY7jjHHZym8C9Iy8BPSU0_aFwVRj-pk-FPYsI-hPz4LwTdemL62LBW3UuN4U5VP9TBi3s6ges4K1FvcUZA3Vf1BG-gm5PtFiMsPWPK6yWRpc2LGcmDysusCHSf8BW-hQm44hDaczaJlZKzn0VXwCDou4bwPdtxXMdaCrcu2eY5de0OT07Z5JTgt_Y0CJD55AA71czkyOou3RicvY13h_MksEQv9B_RnD9vt91MF9zhblEe7MEa6nQ2RI00LIAWoUzKJBcuXKCr-MEx-h7JHVelAzyMJBz-wtCmTcKedfx6O1E0pEZYwjzCZVaiSG_q0PmLQAAMKX22CBrL112bqRKiUzJ6RVgquGx6LFoiylLWtIPjLwgxI14yU7R03tLAoNQ5HtFXMCKJZBK2bFso4PY4eJpsB84oy5M3qvyAfs4Fch8gnBSlQoPMTHvPWap_O_aLA1YHPnm-l2CT0ql_U21pLeO2WAHcNUl8CCstphzohmbxPaTG8oqIyUJM8JhnYG86LUwJnhse1pMEE5tDIs8Hi-GKPFY2t6EA_6ZEGxWZ13Jq2AfZzC3HYOesFT0oV1WffUlLDpoxL6kGs40bl8fr-pheW1A1Qev-hpOQ4jVH28O5QB7H1bPWACmFYNypGdDEg-vzNJGg1J_i0mSFhixtFT5Cj-MmjErplYmKQ1sgJm7tD53e2t2ceuJdT-1KbR_vk4kUZmwB_UddqisjYyrbiLtCBAhXO_1vmCe08AS49gYMe4sT2_qY9kWx8N_1pLpdnXK4MPDNm3Gl9Enn_LDwU4iH8sp5WVqrzDAH_8vk422hH9BoMkC2HOK_catyaDt2eoY5D7AxIQQzB0XvthJBgAFftxFtgKkYQOT2lc2f9_6Y1AEJGT2NyZpr44NLMt-OjUiQ62Wj1dbmcl-lLpioDrL46yIGljWzg3HQ4DGGU8d6xZWhSpY_RLktcGQWR4q6yuz6KIlc_71LW0zkcv86bpwf0-IHWsjNnDC3x_yPROuBGzhkHLIoEIwSv9eGfdTzXMgleO4tgUwbl9J6K8l15oxQw6wrvWMSbvc59x_egd6hDAaQQj_ozxAQh6eKugzDVtAq1h2VYfWsVS5q5E_NxRnKFG_xgT4776GbV6oYJZlGO2pVDy4cMxhh0AwRL_TH2TMt-jwHPu7252ntcqE3RAyczpLFHs4FLrTpFh0rFgIjwv8ntxZH89KYUwxzfhEDjBA8m6rajlX1vMZsGsCNm8Dxr4ZAMWNhLuKBVBqN_xLk9nQkkU6Q509XCMKz51I-ifak9M_E7PVvjvdMVybparUOqlSfgfCSZh6AvfbhZBPn_7RXE20AOfqPpwwEvCicYNh8_PR5GZOxDLcKoOVSTlYEcPjyg-sGF-&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 06 Oct 2022 18:56:10 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3266218690322002</guid></item><item><title>違反版規，請直接刪除
+</description><author></author><pubDate>Fri, 07 Oct 2022 11:59:19 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3266887383588466</guid></item><item><title>違反版規，請直接刪除
 .
 #如何讓網站上google第一頁？
 .
@@ -1016,24 +1023,51 @@ https://facebook.com/1686432621633958/posts/3258391004438104
 https://facebook.com/1686432621633958/posts/3263240190619852
 
 []
-</description><author></author><pubDate>Mon, 03 Oct 2022 18:54:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3263240190619852</guid></item><item><title>員提到無法發表文章的問題，所以這邊直接把自動管理社團的設定貼出來給大家參考，也可</title><link>https://facebook.com/1182255762153380/posts/1505270633185223</link><description>自動管理社團的設定貼出來給大家參考，也可以留言討論哪些合理那些不合理。
+</description><author></author><pubDate>Mon, 03 Oct 2022 18:54:24 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3263240190619852</guid></item><item><title>案 #網站架設
+個人接案，網站架設、後端套版、主機租用，從事相關行業五年以上，使</title><link>https://facebook.com/1686432621633958/posts/3066009273676279</link><description>套版、主機租用，從事相關行業五年以上，使用PHP
+可開發票 作品參考：https://98goto.com/
+有相關需求 請聯繫我 費用依需求調整
+
+#小毛網站 #我要接案 #網站架設
+個人接案，網站架設、後端套版、主機租用，從事相關行業五年以上，使用PHP
+可開發票 作品參考：https://98goto.com/
+有相關需求 請聯繫我 費用依需求調整
+
+
+
+https://facebook.com/1686432621633958/posts/3066009273676279
+
+[]
+</description><author></author><pubDate>Mon, 17 Jan 2022 14:10:33 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1686432621633958/posts/3066009273676279</guid></item><item><title>員提到無法發表文章的問題，所以這邊直接把自動管理社團的設定貼出來給大家參考，也可</title><link>https://facebook.com/1182255762153380/posts/1505270633185223</link><description>自動管理社團的設定貼出來給大家參考，也可以留言討論哪些合理那些不合理。
 
 https://facebook.com/1182255762153380/posts/1505270633185223
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1172639766601726&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8X4iz-Wbhd22i0t8vjuywE5m_uNUG4EUW5KjJ2D2aGt4O0BIXQ9cC92igJ-LN1pSmjfVeC6JJCFHWguZ3sCbtozT8jOH4WDwsowQJP7C1l_GihM4dx_ehyjBsC9HNF7mEjdISa3TwADI2Pkh28NaWlzFS1tsPh1dGreJatV_zHpflzs9CfeEYGAXLB6aeSTddMA5ypKbGwsTM-LViGqgVauAa06qAFikhne96sOFRxEveRUT9JjNIlEQIiIkA91E3HS41iiEZQBLYGDcpw2bSLvDXeNSXuPt7vYTJRB5oivQmYJumM4oztnzV-FYYhloyqqjPjj5iE8a369daifJMIiRM4kuE8poLaLd0cKK1Fc_ExfMMGL4UDMOsWQYVrhkX9zlS8_lJaq8l8Whw9Zn2tbOIhZcLNcjENihQIpZtgU1cFBeceFmsosAMQDFZAwSImff6uC590aVIJhKuv8TmXxHqAfhF32jYGLmMs96sLlRxyobDWhOxm9T7Axm0cURLN3BuymeGFVh2mh1M2SZ9fvUeXYjtRL40mZPwwFmG9nHlipyWGc5eWoOpqWDhkAfPoYiB7RXJFS6oxHUk6oNBqqXxPZmMKNdQgDpOk8jhyo9d22MD-TFEK8UZiIabBTaVnTYT9y65WURhrHH_-Q6C9pPSEL0Ni306BG-AlnfXv-9T6L6DsUYKpH3P1nTXvUHCS2NS6zmc0bw8vBOSNmH_lH_MbBRpioSbgwEo23sSNkE6PEc3ILkXypys2TJK7wXGcsxbl9vt5VOHcpNOTpKYBelApP6_pvXKPukbdkQvolGL4j164QTCbF6P1xiOldzJ1lkINB5BrCrjniWy2OSa1QoKg4NZS6qc6DW7KsfLupLu8eA_A0Y_vMKpSBamUG1b8dXvVtq12KYrC8yGiuiHQ-gH3OaB0LfEnBGBItw&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Tue, 02 Nov 2021 23:21:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1505270633185223</guid></item><item><title>運一個系統外層是C#的網站架構，但模組是公司外購的JAVA核心流程模組（已封裝起</title><link>https://facebook.com/1182255762153380/posts/1751951048517179</link><description>公司外購的JAVA核心流程模組（已封裝起來看不到Src)，今天系統噴錯跳了這個訊息，懷疑是JAVA那層回傳的訊息，因為我翻了LOG也沒看到任何問題，不知道神通廣大的各位能不能給小弟一點方向，或是曾經有遇過這類的錯誤。
-感激萬分。
-
-https://facebook.com/1182255762153380/posts/1751951048517179
-
-['https://m.facebook.com/photo/view_full_size/?fbid=5365228956929500&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_F6BKnhDpOufNmZzrkoBIQEi74out2o_ZfALGJCYZwsRsRn9ogvUIpjHFB12rPTIlnVW-m6ry1zrIZGA6LhzKYUGHTYRaoeipwxh2-HjlX97A9dxsJl_8s3gyWw8wws6ECGlIcVqkHUXDVsxnRUNt59Wqvcbe2-E-FPy_yMBZNyXTAl8VisTdWWer8XE9GGGVsys-rht0m8aU5Jki4UYMdnEHC9YTLhaxaqee52gA17ZzESPNq_JRhhmEiuKibnQmjEg8MRpk2SUw4X5QNs6atT4IUU0AWYlfNnjFMzVaD7et2emFAp7nKSbeUuE1bo1TDhdAniIKCavr192WGOfrLgoSNcKUcWPrtJ7ifGkebexWiiCjRzxTfj-AueKtpkw5InQchlTY4QwckHdjSnIyqxms0HWXUVwdjv3I8mEOHos_S9sQgVegYjMGWRB9t98R8n66cHHjvtfgH40oXi-DlBpugIhswFMywKvG1nPV3Il7E6bgYx9oti-PPA6D7L2w2PO-S_HywuWhaHxjZcxcywtaamrsnsp0kN88B_75-4UDBy3z96mCxHeyGzWL-0hggaVdmrwv3q5mgIB6MA84dQvDT5Yh4M61TM0WvZc-rmvDovZdOfzu4ppI2VK4PgLdoJ5IDoIGSN5Uh4N9xrcqwSfghVl56TIAuNPeAi5HHMxb9odAP1uB2gXoWKqinr6FUXRr-pd9Lyfrn1Qiy6S6-JLdr4pUBt23qt7dIO87pALKm3WTlsj_EWFaFAchk_xO80Ry-xtBKmzldwR3rEujsIL8zLUw4wsXxK6bQObHffTBqg8Xn7uw0Fsx92ZWQIKc4j0uaKt_UVx3bsrs9otb5dW8cEW_nu5IgBKdEaBJx_ZXUJVzsD1vTEwjhx8Ip7Yii-CATyWShav3XMRWQ7YhJiLX-us-\\-\\eu8w1FTBNwVew4jA8KHLi6gsSyb3gZ2FWRyb6fH7SWFhTZ04BI-YYSaAi9wTx4w7rAq__WwY85KwgxoceyWMeXppfUSw_I68oozHH-Dy4_vRY0S9Ou7cC0JhOtnnOhG_9L3TE6ck9rv_dOqYP0QZiBzMYiPod11xPpmPjS0EkryK4UYwpwFpDaaBWprja0BlPenkh8Xtj3vVb1U&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 20 Oct 2022 21:51:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1751951048517179</guid></item><item><title>!
+['https://m.facebook.com/photo/view_full_size/?fbid=1172639766601726&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9UvthKpvoFLTLLzR9HbywS_jCa6J0ZO-x1aa7r0dFiPjF_IwzO4LpBNPrRId_AU9TfF9vhXaM_Lpdsj5dvyw5JFoC1xko2H0O8OOzRKaVXrGVNXrJhmVxTct3iroQkn6YxNkvUJssHA668q9pZajF64BndLJwvpWYwBcearUzv2xk7DCaYGv835WtBexNvTP5-\\-\\nC9gDJKNan1oReo6oB2jl_wv1GgAKQzq9k4zzJG0V2hMZQEGEwSsitEHY-HV_NSoV_FXgwUWqHtCiUigZFc2iD_M5bt65a5We1o-irzjX187x6YxVhk1deag2iSLaS9_63g4We4M-Gzc5A0l1pkJ-V8ffFK6eq2RrnXLZZ6bG8xBheFFvjhnFxFE-qyNao-dzbPtSvMQ10PcWb4FmCN2lKZ4nRHdQpFG7I-n3J6yflbAYYGh7piKmncl9kHaygxQROBP8b23657nTA6BjzQcj8reVhjVCC57siI2aJ0euAM_fOwFtZNP4Ls4jz5itb8RHkqSCkHvqQV6bnan99TOiWmIrB_1xqQpUS4j1C1-2hbhv12GH__UBwCjlWvtDuiypcR3PdRl9V_j-_VwoW4GKwh2IMUHAw7ov0d0XP7x1Z4bUpmqrVxKduyOrD1jk12kJyiuUvvJpVta0LymZshIPB9rcb2s-RNIQ7OIaSUtbqxiTZ3_28WN89q8FW0MyRupi8F8LDizuRnIpWNG5MRKFPulxSNEC_UDc6puDRAQGC6SEzIIjl1IAmU3gWcalq25I2hWffATT67vwGlrN9rt9a36yFn2HrkloBZ3E-2ztGHFPgMUSyAghhX5TD6agqWeJW6XWYvjaPrbhqBB8amOgU1PaO2xNgGZAPodXFKVm3JyyBLn1x8tKK2MGCDWhahGzgqB2ZanPxdYLujimxOuW0N9FsCNdkNykTQ6w&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Tue, 02 Nov 2021 23:21:06 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1505270633185223</guid></item><item><title>!
 heroku部署成功之後，我花了兩個禮拜研究為何python無法使herok</title><link>https://facebook.com/1182255762153380/posts/1751674728544811</link><description>禮拜研究為何python無法使heroku的網頁開鏡頭?在本機測試是可以的但heroku怎麼用都只有空白，請問有人知道要怎麼做嗎?
 
 https://facebook.com/1182255762153380/posts/1751674728544811
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=812767453207080&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=812767566540402&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 20 Oct 2022 14:10:14 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1751674728544811</guid></item><item><title>OM
+</description><author></author><pubDate>Thu, 20 Oct 2022 14:10:14 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1751674728544811</guid></item><item><title>。嘗試上網找過答案但找不到，請各位大大解答：
+
+我嘗試用MySQL run一個s</title><link>https://facebook.com/1182255762153380/posts/1752199311825686</link><description>答：
+
+我嘗試用MySQL run一個sql，但遇到以下問題：
+1. winerror 32 the process cannot access the file because it is being used by another process
+但我無其他程式正在用這個file
+2. sequence item 7 expected str insta
+
+https://facebook.com/1182255762153380/posts/1752199311825686
+
+[]
+</description><author></author><pubDate>Fri, 21 Oct 2022 04:24:42 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1752199311825686</guid></item><item><title>運一個系統外層是C#的網站架構，但模組是公司外購的JAVA核心流程模組（已封裝起</title><link>https://facebook.com/1182255762153380/posts/1751951048517179</link><description>公司外購的JAVA核心流程模組（已封裝起來看不到Src)，今天系統噴錯跳了這個訊息，懷疑是JAVA那層回傳的訊息，因為我翻了LOG也沒看到任何問題，不知道神通廣大的各位能不能給小弟一點方向，或是曾經有遇過這類的錯誤。
+感激萬分。
+
+https://facebook.com/1182255762153380/posts/1751951048517179
+
+['https://m.facebook.com/photo/view_full_size/?fbid=5365228956929500&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8i51xJNIhDYdpZJVYJF34DlStDYpcuF9a3fU79Eox095hk8T7lla9iLxadCa-XLlJ_1DSLKXZKo7NuVWop6ufrqGti1cH6RvfIWhT1fqbaJy_h0-GtydmpnFuHAOi8umllFX8aYKKBvv4lGJhdAXCdvaMC6sq4IEJsXS2BZowkaj2R8nbXrzWY1CxAiYhoLCOsc5SenSyOY-74-5zeuIeBGE29Nqv_Hfq1swIXYZtpJru5LaoSIVHvCFX-AMjsyXtVuIHodCE0LxNLVdDk_nxeeeRbFUh6K_jOMgbmAZjBz_0RCRI4VpHzJFCsxjHo085XR9BP0IANTULI1GJwGbphFtye4o4TH5Op2w-96X1dXDIfuzj-r3s4se7LUHTK5CIMeYJYZJbvvwQeFghlNT33W7egSkNBsoKkj9bYNhb3-Qr3Ev1LN8zwiTGYU_QLpSve1cgP0fd57uMqX19VF28LavpG8yuHmDPswwKkTvnXWtcSd4voAmobBiAU8K5TpFUEF2NHBZZqICwJ5U3e4u-RghFjMm65vbkhY6-oIn6JHopxFnC9QRrqfFjD49KC2U0z1isnQhhp1bWR_EK_LUcRTK0z65Ukw1FY8_AeBGvTyyS62PAzRxW1RI6iWCsDdLLfdG7DgwYQtgeeX6sB9QWR7UPd7-_5TpMYJGzB3TRNPv_M-\\-\\aJaWESdgrt2x4PTAuMe496cEOg92h9AvYePA58LsxuBEix5cumKUmJMMP7zrZQaqlC-ZhnzNpPmxg-z6dyLGtWztPiQgOVnBee9MZeYSm01Ipj72ONq91a6RlLX64XcSgu0Iu0bjzplkWEmlHvIm6NWvm90pI_DBfz7jcOVvSq2DY4oidN89ZDep8m8wJlfbnsKRATmB9DBcLigUbbLE59CouYfd_DLEu3RaR54ojODr6rsdIgucqN2WLCdhQtGaDjo-ezdf3LiyOKhO3nnzeyl4EHOTWqtyeClNYCqPfB8pSr361_Jy0i-XZhP4ovSRjWoMWVJS4lRe0n3j6ctz5evmn0zaL5IcUIUpDZ5uNtjUCeaR3MDAOeLFuJvm6zBlD5JuKiha9HM8SBcUfjd2dA5y9MFPlmRGIqnmd5LgiB9gY67Y2t28AAKl1qw04&amp;__tn__=%2Cg']
+</description><author></author><pubDate>Thu, 20 Oct 2022 21:51:22 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1751951048517179</guid></item><item><title>OM
 站在巨人的肩膀上看轉型！2022 新創x企業 AI 實證發表會｜Accup</title><link>https://facebook.com/1182255762153380/posts/1750987541946863</link><description>新創x企業 AI 實證發表會｜Accupass 活動通
 
 https://facebook.com/1182255762153380/posts/1750987541946863
@@ -1054,12 +1088,12 @@ https://facebook.com/1182255762153380/posts/1750259628686321
 
 https://facebook.com/1182255762153380/posts/1749518745427076
 
-['https://m.facebook.com/photo/view_full_size/?fbid=3310460082558254&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9L7_qFVGpWTN9Vyg5t3rNTyPVDju7_mFLgFVazhWbLk17HRCT0Q5nkST1qZ7pi5W9yiTOn8H6bK7-xfT3cOfx-GgI_a6w5nrXMjfQuXD3YnHh8BrAEQkbOacOxyHUggBn23pw-e9EWK-fiAD_KAcWPGKXxz3MwJ-FxpoTnJWlbZ2glfAmjR4sK7vO2eHJPKCjP34anPsuUVRFrKGuXi4XMzm5uHsug0EPqrjb7gAV-FNI4ZNwbhwSTyHupy-oVjVX7NJZ1Vs7itWFeMi41Hv_YPMyU7sx-iFldfs5QNh94k_WiREE44B2ZZHkYUWLeNxRgfue9_s2wTfq2DYqGtFD3G9c7tDSuN92HheR3gaGIu2dWIwgWIJ3Pvjm5iQZZPk76XmqelhORcvPeyX2Sk2GTwg4tswyQihzLtbu2AkyGpEIbu1z8PuB3tEiKRwgi07-jcewajcDfNwCRfTRlz6Ho6cdaYuWokRJrAxlmSlK5ufbx0ndJwnSpXg4Ix7YTCMHNirt3N0v5Q6dIFGtrGKf5vVE-DwdGKfieetw5jPsRuykX7Oydodk9ieQJ8n2FCi4L3volJu9O8iAcmcXYYK1j7qnRfzMZZmKt5IF1OOizykaLkaasbSMAIcLoyePGlDNGaz-SWDUxu4_mE7gp4l-gjsl9FzNZf0E0jHS0wusv32doXsD7BBpwV6J2K9anG1tX07HsHoHgXLSCiG0VU2s3oUonSadCv7VveRHQCQvH33S8U6AWj2FWDAlZi2Zu4S0kZSqHyG1JLUZy71uy9O6S7p3MZK2EsaI43AkQZbmBuaY2GghXA8d8H0fHdGaYfigHEP-zJQswcS-_3FeaALK9955qr7GDA45t2ZMsBrJTVKZPYA_1X9KKyKqpoFRxb_TYKcUZHN-PMm8vQ6IF9AZkwMje7jIDRIy8lxqrcty1Bl7YxpN4JkDAa08heUGwri87P16TcxR_p7nvnfC9Zt2G6_MGK3zlJG_05sJSBV3N29nxT4U-CPK8Q96rr1XXcw49r1cBUyYEArCBDsYOhjAIoNW5RFzWyyJ2Z-2dzbZPXOz_f5XUULdJdks4bl8oEyrjXA1EGtEZE5vnhJxQIsg-tbsynOzmi8eCisF_32xgAMs&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=3310460082558254&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY8Gr-s1ZKgRLtTh_zC7pU3bc2XAyz7VjddUhNSOETfGgfivJdWNtU-Fb0VbXbiKOSGrtf4jpa1RZmHhsv6VYDvKsKEtdRfWIct_x-XdJcWSBPOZ_jZL4oVM0Ri7HyKWhJZyttJvR2YRA1JDwq8whNPi5sWVFkeVNkvw6R-U08D6bsNTXZuyFEDGSt4tJmVWvXjkZ1kcx1v8wVkTOuXf8m2A3JU_gSn2j6bj3MmBc0D_ywRIYzHXg0lynp7hkBRjrosxpH8Wgk4i-mYB0iKVoYupnu5EBPcFMXZMb7zs9GDqVdQglndzMVWFccwPb3JDtNtd_f5CfJCcU46IpwjxB5NA1r2nLUbGDf79nG1whdRNNDy4c82FbjuJhQLIVEwerE1GEfAYqDJochq1OLYDy146YW0zDabnV6DDtIZu63Zuhve8J48TbV-RBdH7bjxcmLz18OlKnD-RwScu8mqDTto2-m7xvi-VIg8Ffrq4kduhoN650_yerHujef7nX9WImPTEDu94_5pAT-uho4coimvWpz6JPrxQbW33mfil4zCk_rMASpsEfDY25-Q7eaFqy-83qY1S3lIG3JwxGb07BvZvWw0PkCh0h4QHVX05pshx2GIoc6c_ae47RMwFOLHNChpNNghbbiKFktja8DKKKPyELGATvQ_hMRKyrtJVxrSwgZhZTetUYQo_YLYIqZMXFi_OqyFOaQUGOTbKl6JxN1RkNIhn6tF8umfvkxPZ2MyIuZbKUE0ah0xJOwt1YEf0z-7R11XDlY3izQi3DZg441kIMNwYKuL0GECehcmIohjk2pHggkd0qRRFaxvZwXJZZzEXRpoSZl8B_jGjxEWtp9t4IJZGSC-Ih4exiXMzaGWFxkyzjOVwrOMMO-EiYHUyJPMU5QiMgBaChpqzQjmruw8D5_bCmN5Q5ILMccFgXwKYRicdaKs7yzREx9KDPOurUpL2y8expBs2ASuHtXW2zY3afBmvZnADe0QE_lu6BJD9KMfd9Sr5_kjE_nmdWSKSg07jaaZteF-Sc-7N2cyFWRSEszk-EAY4y-X3fbY8xSlBaYjETXygdFuCpoGV1fO6FKYdpWUSfx73d2Md2Fwy3Km8Kx5VrasAZfUW79eREXS5RGk&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 17 Oct 2022 20:24:20 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1749518745427076</guid></item><item><title>我真的沒想法🥲</title><link>https://facebook.com/1182255762153380/posts/1746572979054986</link><description>
 
 https://facebook.com/1182255762153380/posts/1746572979054986
 
-['https://m.facebook.com/photo/view_full_size/?fbid=3307496179521311&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY91UznSve4iShG6DtMTb27J8_-qMftKpt2qNe-ZVW4hgMlNcY5eC2a9hTll3NwQm0dSIKWqvOl0WzoZGYN6oh46shzqND2ueFQNlOiRrDfHpe2PGP_nJQ4sx5Pi_R3-dtzLr6Sk3oHeaNDuIQ9pfiYXBLCR2bvHm1SFYaqCgMIVcthAKM-vpY26rwGMtR2wDGn3YyJN-M8P69VE43ZEIX6CMHnWBjy35h85hZ8nWeL7ShVCVqvjkkmZ3iQ35fy_k_S7E3iIDSDlVX_xH9FlOwZ7vzaAKqIsTsmEBy2rtNXWGGCxn7mWbqtQR0QbH31pWdQgPFE24Ayjvg4YosxFkHmtcuImjUZlVs1aO-ex-nx8nRUArQKI0uJaKGptcryEc_5pu4qlDsna_w6AOwwex37zE_DzlwEvGUCh59qolTxLdDp5yB_P1xXYFfLOhwL6HQkM1R-3b5RohLt3tKWSZN6fis0JNKn2JpE4qoBte5-SCzOWsXjTG8CO-AvUOTdKKZcrwRDRFVU12E2-ImXczNM5lladJhupvJe8Ir4qOh1eoyXRg1hkNqcygqFzeibTAWRoqdDMynPmiXPZiWCybR0AGjRg7OuqrXkz2200yLbMLKAXdIaJQox0G9NVv1hLlTbn_6O86D3pofDTWcLb_V0eM3-B3dFh9sv9E3kkd4ZY-cI5uo-DjWtu_ov50iXNNLs8fNyT_oGktRyglDAf9rzlsXwsIGqde8PBjj0CppGxhjLySwlQWMxGOGHeKuGKi8gNyZYRWl6J7M8AwN6BcLTqqcq70JyFKFvTX95AJvWWyLMILsCUd-ieFH1mbK2eqB9XxZ8LS-8rC6AHyRl1K0hx3p943RVg_6tn8WvHIkG88S6PRE7vEX8L9wJbExrQ-TDvqhA3yZqXpXlEeEFqkN-ejtbPZzUlNh0iX9kc4MocgV1QO7AMTABdMERJ1HMVipccdtbMqaTZi3WbNJb60bV4vqsqN7S3kzwsrl4w3U8qeVau94b1FToTP-YEqj4rfdVv3_gho_rBUw2WCeNbaNQT5byFuo3Z3gS786kw72vVD4O9zp_1VOOB3BkH_64BVgT9C5y_5Un5XKu8VbEgcq5eGWapFfOdhbMBG9h7LCTB3L8&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=3307496179521311&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY-TE2LG_fnSgiMGChIzv58S1BZTDkoJMdL7uAiBRWXy49Nxn1VzAIc1qDodrBg_TYMKNGx8HbLdcg0n2pPAM4bh018m_9Trt7veyWMv1YuhwnWw7mohJiLjIuZF9AWKPUv6DUobWmHah4kCcD-58YOUQVsT8fyFlXZmc4_LhNXMOPBXK81n1GLFd3vEAboccA1b_88zmDWttgOVVOLaR0BaI-abrtXETzEpEM2bCMPIQmyhmjdD69zD2xj6z1U_p9f1ipUPk_gEFTWqBa7siNVioPFZDGmRrsnhKi5MYpFd7rvsMpegY94e09lkJ1Dcs4gzJWX2k0cBt_nXaYq_hRCyhbttX4zeCp-E5ceKuiB2czwO7NHB6vteShcCKA6SH8-AMRlcm7JaGVW9uCP0z3gj7pKFQ4FXLiJ5QfNsOkOzjLcgYNchwayvKCxSNswwt1mQzn6VHmQx2SNYaoyJrllkNGOrPSCCqjOR7uDu40ESDsPl3ntP5mvuMb-CSepNh2kfKMA3xeRgWoVToUc3o-LdX13CmZTNZKLmU_mSxeSUEdxq6Qvu_peX9VI6Kxv_YxSN8vGLmdA5BIB1kGM_qUJM_mp-zL8VueAFllMrkaA4JYKHCES1gposszZ-htJ3CK7xbHpdz4wN-e5287jpMcdqTuqw3xsJn3vHbrn6pqRkLmqm1Ooizsxqxw3jpQjz5x0_hlVpfKWZtdHoO5W6JbSPU175GLGuJCqxQ3EcXKeW8W7PvZVgApG3VB51NNnw3U4SyZFK2_mhDfNX2Uz4Rp2K_SeG5-NNOiC-VyU1LKz3LG1pv2YnK7m7hB-g9pfNQGBZRpx2_lQrM-xgEJyykpiuXiyg78m8rYyRfDJgBz2Rr8ZSkGB-rEPkVtiWcYdhpfOxa1xTY_gQJ5T3OKTT_B2DdJRkobLiYPgBgjg1C9BQUWlLOs2-U7AbvNuDhwDaRCQWjr-s8R9fT9Ps7RiG8cq5VJkZdRe7GpsvZAhQrOmKbXqX-r3znE_iE-3cR0ZgQYWixbT_55jgcDxgxBU7t-m7UJGgAhX-xsHGE2U48qcqJ0LmlwoqJ6v6qUh3_obicyD4MyzWpmROzAYK75bC7kc5f4xLAXazFvnwqlX0UPJaN1Q&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Fri, 14 Oct 2022 07:19:32 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1746572979054986</guid></item><item><title>我寫出來多了一些不必要的頻率訊號，是取樣頻率和data points的問題嗎？</title><link>https://facebook.com/1182255762153380/posts/1741925966186354</link><description>頻率和data points的問題嗎？
 
 https://facebook.com/1182255762153380/posts/1741925966186354
@@ -1073,7 +1107,14 @@ YOUTUBE.COM
 https://facebook.com/1182255762153380/posts/1741607569551527
 
 []
-</description><author></author><pubDate>Sat, 08 Oct 2022 08:54:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1741607569551527</guid></item><item><title>ME.COM.TW
+</description><author></author><pubDate>Sat, 08 Oct 2022 08:54:38 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1741607569551527</guid></item><item><title>有人會使用腦部MRI相關的軟體SPM12和FeeeSurfer的？
+想徵求家教</title><link>https://facebook.com/1182255762153380/posts/1740738862971731</link><description>和FeeeSurfer的？
+想徵求家教
+
+https://facebook.com/1182255762153380/posts/1740738862971731
+
+[]
+</description><author></author><pubDate>Fri, 07 Oct 2022 10:54:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1740738862971731</guid></item><item><title>ME.COM.TW
 幫助開發人員撰寫安全程式碼，傳統開課難以滿足廣泛需求，叡揚引</title><link>https://facebook.com/1182255762153380/posts/1733941466984804</link><description>程式碼，傳統開課難以滿足廣泛需求，叡揚引進培訓雲端服務以補足服務缺口
 
 https://facebook.com/1182255762153380/posts/1733941466984804
@@ -1095,7 +1136,7 @@ https://facebook.com/1182255762153380/posts/1731454597233491
 
 https://facebook.com/1182255762153380/posts/1725903441121940
 
-['https://m.facebook.com/photo/view_full_size/?fbid=3285225561748373&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_jDtgjluMwcyAa2BIvT-Wc8idJcPGiEOkHEr1VuGfOfY8uSkhCkIxLjYIqpXShSUGilQuOWjuNvCuQ1sK39fwx1K6u2WdXakL2CjeoR-u6lqulFBeKTMQESDlYYcTjV9KZSIcBizY7gPzkGdrK43vSX7pudlW8HCBXp9gBFg0ULYXSr6dUtxADuoyFORl4f556sz1lNQT2vdYCYDCiYUQEyw08EuPEQzl8pg78AJl9-ZzeydeQznkhD3ltorpdMOelPFJXE_EZvqAIqTtsSjT3mlZC-f6d5P2rhlOli3k7E1wtTg2cxzo2FoxafiXMGaWCNVbhwMe_b8q5QiaIxy4i2qDoUBa3JOARb4b7d099gp75K6wurXGp78HK9rZPgnXsgYw7QN6UzBfe27Ow6Faq6pxeDgRL1rBZwyjkbCogT8rbduQsPuOZh_2HniohkcZvjvMR8fcEYpUjzvvjitI190k1sp7raP8xYH78R9TErr6PJXMVLS7kKwoGA6IM_cY5FEbJ2JZ-i1L6pxEHOZwxyzmUgYnrlYc86fnA4PEWQy0Dy_z_0g8uNihG4T57IXkqy_AcjLZ3zPHLHxYU7wBGsUMTCJLvg4KYehX8ohGHYT4ve6QWvfrjrTIsv0OG5GhdMYH5Geo22LcjGmM_jvWmM31A6iGq6MUAotLJtrmeYl5BltRgG5lfZmZJSr-ZU2xQawx3Y8QicyRj6JQonSY4EHNpas9rqolws-qvtPBhOoJB51jTpUt3FZ2LldYcfwlnYVdNIWpsY-gV_mgeQpa6iVCAXxHbVkjeUQILXgoE7Jjy15L-wSKsVzPLSgvsK9dz2tH3YM3Q_pfaw5bxsnL8UEcBtJeJVGZbpGykGBdOtwDvRFypi-HQq69nN9Lv6sGuCsfnBo8vxE84gI5FIINLCW35KWcIQng0e02-foIQdumbrno15JqNtYiIbwHhFY6TSQ76JBOc0djEnL37Yivu7KtewyLWARaXtL7icehvlvm7gVy2TeLbs7FNyqJsqTSEn-YtXbDNc-k1WxMR8dmP_yxK17PwNLPe_DxesOQ95ELoJgwy1S8R4_8tT-EgpPMMWJQNmRT3b7Wg8DFs8P039tZaDwNM1QOjMNMfrJDVUaE&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=3285225561748373&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY_NMHKtJxYYYvaLgumZeqxlLjIHSawHxGKyPg2ixX_OLTAvdM0Av2wn3TkcSqfOKBm4YT58C7gN1P22V5SKghV3QIbbVbd4MRBHI9ItVjWpUqJvIfiApkSPK_bXbjQZgAEkHoxCw8CuAncFy2LhInWPhzyoJR6HApQmH58BfcWXhsv__SU8Fwjf7lB9oO_t8anmW4DDd9Sz9NLCnSrlQc8nrE07NW9FUjBtj6jH0TD3zVJCGy88SgBVP3VwC8WM9lxb3aUwVKGJq4iWMLR0TKgpK_5IgUT7AvvrfMV_5sHr3swQfE935FYM769ofxxqMFBA-95Vx7o_bn73agR-IhlKW2-3a8uicw8cWvSQuW3v8UE-m0KK95CKWkjKzW0PSgOkqXH-16Xl9Wwc8NMrxWOpYgRw6PdpqIkKRr8T3Jzik9VUZxPInOMvAn_V2Suza3Q7mxXIgG-2SmE08D0TpnS70WRp7EeaFg8aXiyqLmwR9clnnQau_HdtfQ_RKJYsPt-JNUdmMqbq6fWVOXBdiGi0D2hAY98IGXAvrPegN-hweACA57czk9Ka5XiiCPpsAFK6OsnxMFJ6q3Z_r2trelb9Mdz1tdakV1Rna6khxc-NpWFzDn3-0bk3IXf8jZ1jkjTEeFAt0H9cWZ-6uS_bfzltBRWtNH49-m8IjoDIewALASRkaQLd2B-hZFeLj38_sQHWE2AhKcUWiVrmtxVka-u4ZTSzHNnd9G535KtNP7CV_Gs-Rb1YZWZxqQVfBv0GmG9f3ARgIwkGdvNm3Lecy9T_MrBNes4CPEyE85VIjR8nj2UbDG7gTeIIh3tj8D_-79n5EgAGFr1CWatumy8MOXIsDDmYwuQ8JtwKOXNaylWj4mLOmAmbOQW4PO6bPLiVocXHehcOA-GA8EvgG5YQipS3QnePuaMAF5O3ixNUY_srs-6YyVAnf5ro1MElNAL-WJ2ZABvelEt_Ft4lTKg98b40ePeIbOgHDNQe9n2uKBKm-DygrdCyBoaVWGk2eI_NtVrwPmf8toQaAekYyj03jam6SKXAmr9IcMqVMoxu7UUGljvsxHYU9846sWyWjx9SAzYDNg7Bi5a6epZ-qc14DiInWnGjeIUpeQBbUvzbCwKbXhQ&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 19 Sep 2022 18:08:30 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1725903441121940</guid></item><item><title>AI行為樹入門開發【UE4C++編程】
 Link:https://global.</title><link>https://facebook.com/1182255762153380/posts/1725809021131382</link><description>Link:https://global.yiihuu.com/a_11330.html?TG=4742600_11330
 使用AI行為樹和黑板來製作將製作2個遊戲AI開發案列，並且為大家提供基礎的AI實現思路，列如移動，攻擊，側走，躲避和大招。
@@ -1103,7 +1144,7 @@ Link:https://global.</title><link>https://facebook.com/1182255762153380/posts/17
 
 https://facebook.com/1182255762153380/posts/1725809021131382
 
-['https://scontent.ftpe3-1.fna.fbcdn.net/v/t15.5256-10/307629208_190830160063431_8719948184328780738_n.jpg?stp=cp0_dst-jpg_e15_p720x720_q65&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=ad6a45&amp;_nc_ohc=EZgJxOO4mMgAX_VbRvy&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT80N2XW8A0HV26M-KRK2_StmODEKnt-Duo-rxHVAItahw&amp;oe=6355CCF0', 'https://m.facebook.com/photo/view_full_size/?fbid=397529989221783&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=397530082555107&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
+['https://scontent.ftpe3-1.fna.fbcdn.net/v/t15.5256-10/307629208_190830160063431_8719948184328780738_n.jpg?stp=cp0_dst-jpg_e15_p720x720_q65&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=ad6a45&amp;_nc_ohc=XWNbdCwSCQUAX_qY37v&amp;_nc_ht=scontent.ftpe3-1.fna&amp;oh=00_AT_YRZnRPRW82SjvYAcLdQRRxg0_hS3aJG_H0IWtUbZXVA&amp;oe=6357C730', 'https://m.facebook.com/photo/view_full_size/?fbid=397529989221783&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=397530082555107&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Mon, 19 Sep 2022 15:04:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1725809021131382</guid></item><item><title>Back to Top Button
 請教一下黃框裡面為啥沒有顯示箭頭?
 ---</title><link>https://facebook.com/1182255762153380/posts/1721585431553741</link><description>教一下黃框裡面為啥沒有顯示箭頭?
@@ -1115,7 +1156,7 @@ https://www.youtube.com/watch?v=96c_JvdCHuY
 
 https://facebook.com/1182255762153380/posts/1721585431553741
 
-['https://m.facebook.com/photo/view_full_size/?fbid=645145000362404&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9KnA5GXag_5l7_awFabjXEgnG2DHLIXZIR8SMovxb5iXStLsI94mAAP_Iv_B1HOBCcJ-Ug9dDtQUuLocI85YcMq1fOtMGIt1mkm8ag9LGvj5ISNPPCiXwVfw5wQTO_KVfhoHqaG7UI-ai9azAyU-PQxStdjJ3ebBgjoHwsjtEWnUbkuUesZqnyhzH53pWEGOyP7Me1ZiQwDKENg5Tq0HVqYVR3A_BEpxk8v97whL8l_nMmXE-SlRUq04aZ0FpVb1I6PNPcaCps-9zriMLdsdjzhOc4OjX83WRZB19INzZNYx9t0hjcXfnVtXrMl2t0BKCsURV8WAifVHz9XjVqNi8fIVDLyXW8qgJQoT70w4BamWwVsiNkS0Y4HGa1L9TOHkSoy-_TGOVcA-7a9MT4F5Fgc0aHk8G24EUPxQ5_zfyXQEbWlePdzuARC1vXkP42GUWRwlINFRCZwhKsQGOvzqpAtWnqrtFIrzGYd2meeHCmAz77J4we3EJGcQ-24hoBQs_6fDYhZcFNo_LcYh9F9OsyRgD6HXDbrOSTZy1crMiAC1q_L1oKzmUNDFKneExGT1kI7gzSOlj5kzx2tdpaOeQ5ndhdRcO6Lpqyhghp6oa2ypmgqjj7PWWYip1lJhMHxJS0adZoBGtCB8fX46Q3WzYxhegFtKb6-RYBJPIx21astvYgktehPnZsZ-XEDuYa7CgTRWHB9uYf1Nf0D2TJgvF4Ba8o5-aYLZ6tJSlSG09eBz39E1vZU7PkxLX6bVUVOBIWw0mJH5L4Ph6ihUPjET3qSbvGShnVCJsmCrzuvMHFNQ_tUqESzMAwMo4pKaaZUHQ_YYZ9Onm-1VXPtzyzbux5fYDlW8N_9U9NwD3c7K4MD0KGaWauA3IhZQ7FmdNmKU-Pq7ygWSdrhABsKAyLMDGpJHfsNDjsXVQZDK9tBq46jLuQP9IbrS8pMdOyvWesmllUn-msB0FYTsQeQGy4k7esByJzFeEnLrMFAWGxLQESaVkkuWypMhDadrlOLHC7vo1NNuJxRn1kocRDPSHflkb7q0jyr3bxBw3dHgeZwaSAId0D5kCctErFARzxjXeA6HF8yh1bJTwlzfDcTtaCeEqoKcD9SNfthlUVAco8wlBp5w&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=645145000362404&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9o4ylr_wmdofEIIvt0UoVRsPX00k5pK3ezMuapgOqXx3T0M61VFmT8ew6ONuuvKVqsNi_UgdJRzOHhhmNccBM48qwb9TRtFKy3Zpp3ojG-uzoVtvicMwun2Y1eOb-N2jtdMjjbCMAfHUFKbrgxC3sFosbe4QhRVpQvRgyOOPkKNQGQdnOlvePbZ4u77dpAvn-ZNA05M_k24DimXEv8oNNTx3ePJUAvXyozlCZFPiU-B6KbUpq9pZWt6ERjwDjTvKCuGDVOa55pwq1K9u7EzQ1u4gUeYeK3V-S0Bvo6ZwjZUq8XZNg7Nazvr0PLiuNeE8ZTMZcwDcxF6JEVUW3xddilcfBf6HOx0Dm224sz0I7ZpsobNujWLVtPwg-Nh31ExXp0LtRpTvgjbRcL0EtZ1MiYNC6ebS40_RTNAMSCFULeJg2nsnXPaYjHoKq52jV-042hgtXqdVsOlxifahlHIol-AWvCbiB4IW0nU9341T_4JlX9LfF5UZjyAnEC8c2T5UgqGsZB_-fHOe9kICWClpKRlx6rrNylMK7J848EBxsIAu282mGeY-6-k-x5QxXXZVFRmspr1LiisPeUJROAsJN38Er3RnIZQ6vG34IieG5Y4b3RpXC8nEpW1fC34GOsHTm-CJZArdOpnBUblU1INCC_v_mMnwCkopfWIz6CF4a_PAuSrxBd_Im7oQUnSk5RvOaL5N7frq_GYnAJ5K-RPkIWGRiGMzjfq0F_gDUvZ45tJcig6SuMzd_-dtBPX-qHpreYHqbaUiM-l1GLdE3cBFopALwyYr9Ho05zp1GE0tK-Oi3IFRgh3_kolT9VGrDOkbEViwKib_QLXwhN22ZsR7SB86wArde33cdKO6j7NHRPZNBxTqG3eXSGrIlY5OZ0x8rsoQ_jspWsYu5BjpLJNoNZVqsza7Y3_I5DuwJdFR1dCEi-dx87M8Qsp4kSIQPS3NSyqxMg_XHI6ERgvnBYzw1q91JrI7RxizdXkBWMzZn_3dkewnS5mZCJ1swyNd7NHDBOsq-gh-CUb1ppg3BlPWIvOQzX7R7zlsoqHCLOfGdgBDtq15j4WIkqjNakZUl2yaCJ_sIfsHxFPG2UFzQu8BBUV1bVgw3JnsJIJMMwrtVI_Q&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Tue, 13 Sep 2022 23:22:26 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1721585431553741</guid></item><item><title>助課程, 有勞保者學費只需1,512, 符合特定條件者學費全免.
 C#程式與VR</title><link>https://facebook.com/1182255762153380/posts/1722053408173610</link><description>符合特定條件者學費全免.
 C#程式與VR元宇宙虛擬實境應用班
@@ -1136,7 +1177,7 @@ https://facebook.com/1182255762153380/posts/1722053408173610
 
 https://facebook.com/1182255762153380/posts/1722021961510088
 
-['https://m.facebook.com/photo/view_full_size/?fbid=2503076939834098&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9m5TVBh2kO2y6ksQYKBMO2TdOgL7s5GZX4cUo3dlvXATsHRvNM9N2BEqnSz7EAydb71tvVN9fVbWb-YR_hB-QE78FjIQOCqxL9DtRZtCegNYb7vc74apTV7HHFNLFsVwi-h9_tVJpdLjRd8okYwY4csEF4eq1iHwk_oI_spyBLMfsBaX4dFhXq-VbLcNh4xu7H2UqVpfvr8meTkzXa59Jz6y4LGqnhI1DYhH51S2V8KxAB0jNvfvUdSP3qGnkLWniXmaSAtDiN4ifh9rSHK6_M6CnHzI7yFG5RvRI0GR2UwkYXkH921b9Mzha9GVzN4KE9v2yIb63AesL3hJdr5alZ0HQwR1UOyITGy-UEEIsmxbisWcgO-TCBf2EAIkXtv-pgFhxvfJEK8rasVBKhEde7ylJ6diI75CmUC-PweilviPEKATmIzRcsQWuf2jQUAByi_zVcm4uxHTBU1zHi6Fwa7XaEEG8wAckQWT8P6T30s8PpLcNHmm9X3EkEcGy8d_3SDQU1qrZnN-H6EHe4YhLLX0MJ2YoFA8wi_5Yhdpmubx2TwSOkur4BUepZA_Dj-fJFD2xbN_-R_JgdDtyb_ZXwiRzv-fT9v7e-9MeMeOAMc2M1e8_0ZN9iAAIOhJTdzEvHXWt9idxdi6bp9kFvUNIjUoC2Zb6DIL9sYXCn7edNp19jl-BAYrt2o5_-E7-W6lrvgYAGk_2ZIhNFwo0lW-VNXh5PQ7Bk676_Sc6nCvSYEy_MlaqNhpj6Y9aja4rRlapBFv65wJASFodTv8EpsjMALGBVVjAZWJOtYAJeGk-bDK814pd-MdjeWPwYR9RUhstyI0FDE0N8YV0HaWueApAFty-nyrLkvHL68DLU3OTX_qPpeeVMQUdBnz2A__LGHBApVIwupX5uJ7_eClh4IxWETxaWmiJY-wZGqVEqDcBH43FZP7kB0a69aXmuXfWyGpChectMmSOXddHcVZ8SB6ASvLRMs9jjzA1tB3QLf8WrqHg5CX0GIllPmWsx41ClqdbbK00L_cZCckTymYDVf8bOacnJEwJhTwR-VDDwsMlnAiOsP1yjrolh_dF7luuItl90NTPDcFkKLl77WlwjJ6pNW-n4Z_YE6z3txxQQXHhgDu8&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=2503076939834098&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9DLbHxw953zstE3QOUiBGwYChWd32Tciyp_Wy9vfI-n4EQq-mq0cedB_Cz28ANpQg2IMztOGLC3NmxefGyQJlXW0EbsCM2nZkohuB0TN1n5ZUn-rjd4DZtx4jNNgE-aOZOIbmIaRwCTitrAPSYojmWoub9bs3fMqzDEFlQhse6FVeG4bWX9aRtSrD9LfsjT3-3_5T4cQKyoZKHeXOv_jLpUZaOfOarOFxI4-mAysL4v0vqHenGPzK-HXCRSUD_TnjTnhsPjEeAxMPC-SiLt6aYLuEbFcdIPamLoIEVZzZ75jyDq5zVIsrEJyUvkEAt4RN-xDI8fMkGBVagzb9kyGUUHN_zChmyQruvScQtxBlv1-wML2k0q6CCRIxymGbp-1vKu9WXbE9ZBKh8AFKtJdbzDjYRtoOkvgl0y2pAmV-W6ja1RYq8j7sUHE5628OYi_j572Hr5u6JJahgmLmqr8PYbxc5GL8YCsWEODqRTK41SgMvV4CXSnk7d0tPzHluXXDIrba9V5wZpKSuxu02IYJgjeDzYjSTwkWeHDfvnQT2v3jnI91SP31YPIumKFvBQqCtlSSWaB5SxaHMqVPthv0xfx6aHG11SWsuwvb_HA7zONXgoluHQjsXMKIa5aM2FgG1PpVJwGvCXd79o8MM5gqlkBd1JglQvJ4PjS52rn_RrfmzImgbOKgJKLjpzDE1Q9Frbbyss0CgicsYIAYD0wAb6Xbogdix_8vk6Cn8uGDpdXFQFygQjbgi82p11lxT4XVsYp3DiO7GhdPmweITneckwGyv7SENbqZcCb_dFok2_v3fhKbkimXBVMadsC0ooMc8cbRo3TKI18sMQEBACVyK2ql9YqGE5erFqxy0hgU6XhnV2pWd4GfaswJt-EtZcsUdVx3DxnmtTXlEBzZYavxxrK9JIHKcuJ7iTHrU2ao6AKnvnyaWNksfn2GCfLxkn1yZTrGkH2S7Kqv4J7BrZWl_ugRYJtpAglwRYUXEgpBd5vNtkkl7Hd7HeYU0o9qjjv5qEnxfasi9n4k5QCJm4fJys3iH6gUW89tuKlYXsbZzqDFn-Zu9T3_T2zzTsM1VJhGchtd__vx8CxeQ7BS9vDDgSOHyoOVgFDQvfA58igOu4_s&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Wed, 14 Sep 2022 15:39:55 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1722021961510088</guid></item><item><title>code最近都會這樣
 不管是在py/c/c++的環境下都會出現
 輸入完後按下en</title><link>https://facebook.com/1182255762153380/posts/1718593498519601</link><description>c++的環境下都會出現
@@ -1155,7 +1196,7 @@ https://girlwebdeveloper2.blogspot.com/2021/12/how-to-add-contents-to-blogger.ht
 
 https://facebook.com/1182255762153380/posts/1713472869031664
 
-['https://m.facebook.com/photo/view_full_size/?fbid=1449305788877502&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY87E9t815bYyxiWaxKudu5oXsjYWsqRp3FkmeT21vpciKqC_3Bk2dFxLaD7YqIx9bq5MbmO6WMAuKRL_GrG3KLPZJ02J2Ub1iHJwmsa09o0JOeL-wjegLIhF2vXpXzfsl2QtKPCe1Ya_on9L6NkN2ZhGFdiW5CCJ3yp4QJhP06cBFg1cbkVIcP3BAE9KdmZRtw18DwH3YlYB_x9DbHg7AXNTxWVET0F0qW8HvnnvjQqMdeiEjy20-euBRUhPN053ARjT2NyujAc-GqThVJF3RL3KqkkmueiTIxQDcKT3vF4COk1E3J910oqD32nwGoELU9CxsL9U51M6ADXez6t1750rBbRO0hLZgVKDvp39mIIehHntaijeQ7ER7Jztnt7DKdkIaACYq2PxX-hkyrc3wsWfJkN8S47PecRG8HKKzBrmHuHRumtwXLEgBGxFgE2_uZEUd5_dRguvam14fTRmyW543E2Vx6m9An6RM6RD7BgY9rp6Z5HlXP0KsU7oMNUTK00058amtMBF_ABxF7QOCkyp-fkf2aQQiPIKmbuLRk-rMQQe3ri2sVpYt-xbX137VMQcEJarTHb9BXcWyZIy21vQr9BISgBDjeVLkrWJ3BVqw2pPJJV3_eOIb0s-T-MA6ptI2rAnTTpAGSPUVPUiHNNwUtJBBnOmG05igcQVsp_B4RgJ0JiSQ4BhDNplaULtSYeq2esuN5CCEUFr4SBJfodD-DFNkCWANtTPSvztDVtcbVJiXGrNURoo2rpuKzCq2zLO8Eesv9XnJKRnoiNYMWmp0FIGHA-Y5CJB1Oo3r9-vqiBy6MfmsrOmO3xG-gKmQWjhJIoAs3DJ4Bh4GaRiqgfSbJweW2E_69trwBGBjGkklAJcNQXDVxd5Gr64dJWWKSOXWFJcvvhesk_yfxiUPIdZVArJRcn9urkr7D2wkWF6wHEX0a31tT63fvb9J10zKgeeNCgvPfMjmiL2Pe-Jtx6zKoFk_2W8WF2Ff4S4XNhT4-zhrbVh1eAJOZQzlwSLup1khI__BkSji9XlTFIb2sOFZTe7Bf4cS6WqQE5vfQBfQeCsEbplss7JFjoQ0x9t6-QW_FveAfcKODdirPH9jherO7gHsQmcwulNS-wD8v1u8U&amp;__tn__=%2Cg']
+['https://m.facebook.com/photo/view_full_size/?fbid=1449305788877502&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;_ft_=encrypted_tracking_data.0AY9ykAm8G3Oo478Fk_fLozRc4nqDRONwO4FAHHVPMgBceCjw6oPSExprKgC71dbRZ3cA7pbZIaVRAHg7hb_Taz8-NWQ-LeC4UM0Pqe4EZ8bN2Qf-ekrmSv5Xbh4flHGKQ7R1Jzbe3MB0s6uCEw03Fg5VlPkLoyPYW0y0obDEw-W6pngS9RsQokstG-iRd49Ksif9hVYR4AacR99PrRyylZILy9ZMW5zC9v408WFM23ATYJBRRDND6jV6J1_a7AkjdmJqikkbA82ILDNrzfgeWKeBuhi9QLPNDRHwGX-tm8tLKj0tDaEeuhmHPub4X32EGUiu5IUrG3ipYaXLzTTLR_PwW4oLi86cnlkhlhtu7g1EjpzowJPbBR5iQmHlDVgRZgdANS1U1g7U3k4uh3AtgLDZP_NdCYG5VfO18MOleXTVl2jMTU01NmMKAbyFqUZWbtpB1mGiVt3nFcygE_sbHEDGaZLZXxNtahf7XDwgD5GSYukmUaRFWP3ai_ReO4nYcqndi5_rCXqML76Zc3Zy8JBTYIG4b3GLpsMK3uwndrLg6PoLqkfbNltcoeeoqNq2-5UmLRz39dyi9aH5NwmmUTeNQXVbhXFxWw0spW0uKxQbsWfT63dBhJf8k_t3VlMY1FjMkLINYblQgmfX5pdtdQ0xoievDos5tCl1pm6Ev17m50sRhGSjOcoC-dKwgQ8juYCRrhtddzXYu127L8YXpTr86glVS-SvDUvrzs5NFLiFS-YvSXV4sAPjr_qRgqu8PysBXRbzouhmolhDkrOQqCTNg15K4wnY696mH8t2uk4wffswzRKhImJnZNYgMVSmFZRAb0XMFS0bcu1ss4pI6o46vnBQ7HrczOh1E82zFOb_SCAqQ2qerXnNNilBGswDLWHGH9wi6h5xHgnDx_PU8tELOPOGq4J4lmct7OtADLDtGpqBHpFD2Z5Kf0MCscozmWEq_s-0GYihoY4xS6a1TzB-n-g49un1v8SOYL8UeDV732gaUURkJ7geMZ2EJhUgvgv-0DYuJojK_dIVnkfXuLF9F-kiBlGeTh4B7bsS8BKSbN1dcsm-o72B2kjGSGderywz82n7gbjEFuF6s47ttbj__6rg535JqUVBa98O11QSiM4&amp;__tn__=%2Cg']
 </description><author></author><pubDate>Fri, 02 Sep 2022 16:19:16 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1713472869031664</guid></item><item><title>
 CodingBar
 8月29日上午3:58 ·
@@ -1174,23 +1215,4 @@ CodingBar
 https://facebook.com/1182255762153380/posts/1712539712458313
 
 ['https://m.facebook.com/photo/view_full_size/?fbid=451213017022904&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=451213023689570&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=451213070356232&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=451213050356234&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=451213097022896&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Thu, 01 Sep 2022 09:32:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1712539712458313</guid></item><item><title>速學包】(2022 統整版)
-
-程式語言讀書會 的大家好～分享 #Docker </title><link>https://facebook.com/1182255762153380/posts/1711216525923965</link><description>讀書會 的大家好～分享 #Docker 相關影片到現在也五個年頭了，這次整理出幾個統整數據上反響較好的主題給大家，相信能讓剛入行的人快速上這項手 #容器技術！
-
-▍Top 1 Docker 基本架構概念教學
-內容摘要：明白 Docker Engine 實現 #跨平台部署 的架構概念
-https://youtu.be/pa1Zao1Hy2c
-
-▍Top 2 #
-
-https://facebook.com/1182255762153380/posts/1711216525923965
-
-['https://m.facebook.com/photo/view_full_size/?fbid=2336135066539727&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=2336135073206393&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=2336135029873064&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=2336135106539723&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg', 'https://m.facebook.com/photo/view_full_size/?fbid=2336135153206385&amp;ref_component=mbasic_photo_permalink&amp;ref_page=%2Fwap%2Fphoto.php&amp;refid=13&amp;__tn__=%2Cg']
-</description><author></author><pubDate>Tue, 30 Aug 2022 12:36:28 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1711216525923965</guid></item><item><title>V.TW
-ojt.wda.gov.tw</title><link>https://facebook.com/1182255762153380/posts/1708351122877172</link><description>
-
-https://facebook.com/1182255762153380/posts/1708351122877172
-
-[]
-</description><author></author><pubDate>Fri, 26 Aug 2022 17:44:07 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1708351122877172</guid></item></channel></rss>
+</description><author></author><pubDate>Thu, 01 Sep 2022 09:32:23 GMT</pubDate><guid isPermaLink="true">https://facebook.com/1182255762153380/posts/1712539712458313</guid></item></channel></rss>
